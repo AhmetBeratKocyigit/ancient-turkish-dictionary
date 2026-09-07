@@ -1,0 +1,5 @@
+PyMuPDF
+Pillow
+pydantic
+google-genai
+python-dotenv
