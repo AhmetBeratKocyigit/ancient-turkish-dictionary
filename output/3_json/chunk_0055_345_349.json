@@ -1,0 +1,668 @@
+{
+  "chunk_no": 55,
+  "kaynak_sayfa_baslangic": 345,
+  "kaynak_sayfa_bitis": 349,
+  "kelimeler": [
+    {
+      "kelime": "möngdi",
+      "anlam": "At ayaklarını toparladı ve tekme attı",
+      "ornek_metin": "at möngdi: At ayaklarını toparladı ve tekme attı",
+      "cekimler": [
+        "mönger",
+        "möngmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "345",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "-mu / -mü",
+      "anlam": "Adların ve eylemlerin sonuna gelen soru eki",
+      "ornek_metin": "bu at mu: Bu at mı?; bu ıt mu: Bu köpek mi?; bardıg mu: Gittin mi?; kelding mü: Geldin mi?; ol bardı mı: O, gitti mi?; bu at senig mü: Bu at senin mi?; bu oğul senig mü: Bu çocuk senin mi?",
+      "cekimler": [],
+      "kelime_turu": "ek",
+      "dil_veya_lehce": "Oğuz",
+      "kaynak_sayfa": "345",
+      "notlar": "Bazı Oğuzlar, üçüncü kişi soru ekinde Türklerden ayrılırlar; mîm’i (m) besre'li okur ve vav’ı (û), ye (i) yaparlar. Bu ayrım yalnızca eylemlerde geçerlidir; adlara gelen ek konusunda Türklerle uzlaşırlar.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "muguzgaq",
+      "anlam": "Balansına benzeyen bir sinek",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Argu",
+      "kaynak_sayfa": "345",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "munda",
+      "anlam": "\"Burada\" anlamına gelen kalma durumu ilgeci",
+      "ornek_metin": "ol munda ol: O, burada. emgeksizin turguyöq munda yamu edgülügLik körmedip ajun çıqâr: Emek çekmeksizin burada durmak yok, bir iyilik görmeden dünya biter gider",
+      "cekimler": [],
+      "kelime_turu": "ilgeç",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "345",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "mundaru",
+      "anlam": "İpekli kumaşlarla süslenmiş düğün odası",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "345",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "mundı",
+      "anlam": "Saçmaladı",
+      "ornek_metin": "qarı er mundı: Yaşlı adam saçmaladı",
+      "cekimler": [
+        "murtâr",
+        "munmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "345",
+      "notlar": "Metinde geçen murtâr, munmâq çekim formlarındaki OCR hatası göz önüne alınarak not edilmiştir.",
+      "kontrol_gerekli": true
+    },
+    {
+      "kelime": "munduz",
+      "anlam": "Budala, şaşkın",
+      "ornek_metin": "neçe munduz erse eş edgü, neçe eğri erse yöl edgü: Ne kadar budala da olsa bir yoldaş iyidir, ne kadar eğri de olsa bir yol iyidir",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "345",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "munduz",
+      "anlam": "Ansızın bastıran sel",
+      "ornek_metin": "munduz aqın: Ansızın bastıran sel",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "345",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "munduz",
+      "anlam": "Yorga yürüyüşten başka yürüyüş bilmeyen at",
+      "ornek_metin": "munduz yonga ât: Yorga yürüyüşten başka yürüyüş bilmeyen at",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "345",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "mungân",
+      "anlam": "Boşboğaz, geveze kimse",
+      "ornek_metin": "mungân kişi: Boşboğaz, geveze kimse",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "345",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "mungâq",
+      "anlam": "Boşboğaz, geveze kimse",
+      "ornek_metin": "mungâq kişi: Boşboğaz, geveze kimse",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "345",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "munu",
+      "anlam": "\"İşte orada\" anlamına gelen bir ilgeç (qâm: Nerede? sorusunun yanıtı)",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "ilgeç",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "345",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "münu",
+      "anlam": "\"Bu\" (Özel olan bir şeyi işaret etmek için kullanılır)",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "ilgeç",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "345",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "munuq",
+      "anlam": "azuq kelimesinin bkz karşılığı",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "belirsiz",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "346",
+      "notlar": "azuq kelimesine bakılması söylenmiştir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "murig",
+      "anlam": "Yirmi yaş dişi",
+      "ornek_metin": "murig tâg: Yirmi yaş dişi; mung tâg öndi: Yirmi yaş dişi çıktı",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "346",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "murig",
+      "anlam": "Sıkıntı",
+      "ornek_metin": "erke murig te gir tâg serigiringe yel tegir: Adama sıkıntı değer, dağın zirvesine yel değer",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "346",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "murigâr",
+      "anlam": "Üçüncü kişinin gösterme adılı (yönelme durumu)",
+      "ornek_metin": "men mungâr aydım: Ben buna söyledim",
+      "cekimler": [],
+      "kelime_turu": "zamir",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "346",
+      "notlar": "Metinde murigâr (murigar) olarak geçmektedir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "muriglug",
+      "anlam": "Sıkıntılı",
+      "ornek_metin": "muriglug er: Sıkıntılı adam",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "346",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "murigqardı",
+      "anlam": "O, onu sıkıntıya soktu",
+      "ornek_metin": "ol anı mungqardı: O, onu sıkıntıya soktu",
+      "cekimler": [
+        "murigqarur",
+        "muııgqarmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "346",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "muriğuqtı",
+      "anlam": "Adam sıkıntıya düştü",
+      "ornek_metin": "er munguqtı: Adam sıkıntıya düştü",
+      "cekimler": [
+        "muriğuqâr",
+        "muriguqmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "346",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "murç",
+      "anlam": "Karabiber",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "346",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "muyan",
+      "anlam": "Sevap",
+      "ornek_metin": "muyânlıq: Gelip geçenlerin su içmeleri için yollara yapılmış hayrat",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "346",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "muyançılıq",
+      "anlam": "Arabuluculuk; yatıştırma; iki kişiyi uzlaştırma",
+      "ornek_metin": "sen muyançılıq qıh Sen bize arabuluculuk et",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "346",
+      "notlar": "Kökü sevap anlamına gelen muyân sözcüğüdür.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "mük",
+      "anlam": "Rükû eder gibi belini bükerek durdu",
+      "ornek_metin": "ol mük turdı: O, rükû eder gibi belini bükerek durdu",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "346",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "mükim",
+      "anlam": "büküm kelimesinin bkz karşılığı",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "belirsiz",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "346",
+      "notlar": "mükin olarak da verilmiştir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "mun",
+      "anlam": "Hastalık, kusur",
+      "ornek_metin": "mıînsüz kişi: Sağlam kimse. yalnguq oglt münsüz bolmas: Âdemoğlu kusursuz ya da hastalıksız olmaz",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "346",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "mün",
+      "anlam": "Çorba",
+      "ornek_metin": "mün heldûr: çorba getir",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Yağma",
+      "kaynak_sayfa": "346",
+      "notlar": "Kâşgarlı Mahmûd Yağma ülkesinde bu sözcüğün şehriyeyi tanımladığını belirtir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "mündi",
+      "anlam": "Adam ata bindi (at sürdü)",
+      "ornek_metin": "er ât mimdi: Adam ata bindi",
+      "cekimler": [
+        "müner",
+        "münmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "346-347",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "mündürdi",
+      "anlam": "O, beni ata bindirdi",
+      "ornek_metin": "ol manga at mündürdi: O, beni ata bindirdi",
+      "cekimler": [
+        "mündürür",
+        "mündürmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "347",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "münedi",
+      "anlam": "O, giysinin eğriliğini düzeltmek için uçlarından kesti",
+      "ornek_metin": "ol tönug münedi: O, giysinin eğriliğini düzeltmek için uçlarından kesti",
+      "cekimler": [
+        "müner",
+        "münemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "347",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "müneldi",
+      "anlam": "Giysinin kenarları kesildi",
+      "ornek_metin": "tön müneldi: Giysinin kenarları kesildi",
+      "cekimler": [
+        "münelür",
+        "münelmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "347",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "münledi",
+      "anlam": "Adam çorba içti",
+      "ornek_metin": "er münledi: Adam çorba içti",
+      "cekimler": [
+        "münler",
+        "münlemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "347",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "müneşdi",
+      "anlam": "O, benimle ata bindi",
+      "ornek_metin": "ol menig birle müneşdi: O, benimle ata bindi",
+      "cekimler": [
+        "müneşür",
+        "müneşmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "347",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "münüldi",
+      "anlam": "At binildi",
+      "ornek_metin": "at münüldi: At binildi",
+      "cekimler": [
+        "münülür",
+        "münülmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "347",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "müngeşdi",
+      "anlam": "O, benimle birlikte ata binişti - O, benim arkamda ata bindi",
+      "ornek_metin": "ol menig birle müngeşdi: O, benimle birlikte ata binişti",
+      "cekimler": [
+        "müngeşür",
+        "müngeşmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "347",
+      "notlar": "Metinde mürigeşdi olarak OCR hatasıyla yazılmış olabilir.",
+      "kontrol_gerekli": true
+    },
+    {
+      "kelime": "müngredi",
+      "anlam": "Öküz böğürdü",
+      "ornek_metin": "üd mürigredi: Öküz böğürdü",
+      "cekimler": [
+        "müngrer",
+        "müngremek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "347",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "müngretti",
+      "anlam": "O, öküzü böğürttü / Ateş tencerenin fokurdama sesiyle kaynamasını sağladı / O, adamı döverek onu öküz gibi böğürtüp inletti",
+      "ornek_metin": "ol üdnı müngretti: O, öküzü böğürttü; öt eşiçni müngretti: Ateş tencerenin fokurdama sesiyle kaynamasını sağladı; ol em i urup müngretti: O, adamı döverek onu öküz gibi böğürtüp, inletti",
+      "cekimler": [
+        "müngretür",
+        "müngretmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "347",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "müngüz",
+      "anlam": "Her türlü hayvan boynuzu",
+      "ornek_metin": "süsgen üdqa terigri müngûz bermes: Tos vuran öküze tanrı boynuz vermez",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "347-348",
+      "notlar": "müngüz müngüz bir çocuk oyununun da adıdır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "müngüzgek",
+      "anlam": " Çalışma nedeniyle elde oluşan pürüzlü doku; nasır",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "348",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "müngüzlendi",
+      "anlam": "Kuzunun boynuzu çıktı",
+      "ornek_metin": "qozı mürigüzlendi: Kuzunun boynuzu çıktı",
+      "cekimler": [
+        "müngüzlenür",
+        "müngüzlenmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "348",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "müş",
+      "anlam": "Dişi kedi",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Çigil",
+      "kaynak_sayfa": "348",
+      "notlar": "Oğuzlar buna çetük der.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "nâg",
+      "anlam": "Timsah",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "349",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "nâg yılân",
+      "anlam": "Ejderha",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "349",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "nâg yılı",
+      "anlam": "Türk takviminin oniki yılından biri",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "349",
+      "notlar": "Kitabın yazıldığı [Kâşgarlı Mahmud] altmışdokuz [469] yılı nâg yılı’dır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "namîja",
+      "anlam": "Zevcenin kız kardeşinin kocası; bacanak",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Çigil",
+      "kaynak_sayfa": "349",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "naru",
+      "anlam": "\"Yön\" anlatan bir ilgeç",
+      "ornek_metin": "nam bar: Bu yana git",
+      "cekimler": [],
+      "kelime_turu": "ilgeç",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "349",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ne",
+      "anlam": "\"Ne\" anlamına gelen bir ilgeç",
+      "ornek_metin": "ne ter sen: Ne dersin?",
+      "cekimler": [],
+      "kelime_turu": "ilgeç",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "349",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ne",
+      "anlam": "Arapçadaki “o şey ki, acaba öyle mi?” anlamına gelen mâ sözcüğüne karşılık gelen bir ilgeç",
+      "ornek_metin": "ne me edgü kişi ol: O, ne iyi bir adamdır; ne meyawuz neng ol bu: Bu ne kötü bir şey",
+      "cekimler": [],
+      "kelime_turu": "ilgeç",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "349",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "neçe",
+      "anlam": "\"Kaç\" anlamına gelen bir ilgeç",
+      "ornek_metin": "neçe yarm âq berding: Kaç para verdin?",
+      "cekimler": [],
+      "kelime_turu": "ilgeç",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "349",
+      "notlar": "Aynı zamanda soru eki olarak da kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "neçük",
+      "anlam": "\"Niçin\" anlamına gelen bir ilgeç",
+      "ornek_metin": "neçük bardîrig: Niçin gittin?",
+      "cekimler": [],
+      "kelime_turu": "ilgeç",
+      "dil_veya_lehce": "Yabâqu",
+      "kaynak_sayfa": "349",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "negü",
+      "anlam": "nü kelimesinin bkz karşılığı",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "belirsiz",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "349",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "nelük",
+      "anlam": "neçük'le aynı anlama gelen bir ilgeç",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "ilgeç",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "349",
+      "notlar": "Diğer Türkler bu sözcüğü kullanır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "neme",
+      "anlam": "\"Bilmem\" anlamına gelen bir ilgeç",
+      "ornek_metin": "neme ne qıidi: Ne yaptı bilmem",
+      "cekimler": [],
+      "kelime_turu": "ilgeç",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "349",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "neng",
+      "anlam": "Nesne, şey",
+      "ornek_metin": "bu neng ol: Bu nedir?",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "349",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "neng",
+      "anlam": "Mal ya da zenginlik",
+      "ornek_metin": "bulmış nenğig sev/er sen: Bulduğun zenginliği seversin",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "349",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "nerek",
+      "anlam": "\"Ne gerek\" anlamında kullanılan bir ilgeç",
+      "ornek_metin": "bu sanga nerek: Bu, senin neyine gerek?",
+      "cekimler": [],
+      "kelime_turu": "ilgeç",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "349",
+      "notlar": "Kök-biçimi ne kerek’tir; bazı yazaçlar düşmüştür.",
+      "kontrol_gerekli": false
+    }
+  ]
+}

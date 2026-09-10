@@ -1,0 +1,662 @@
+{
+  "chunk_no": 12,
+  "kaynak_sayfa_baslangic": 173,
+  "kaynak_sayfa_bitis": 177,
+  "kelimeler": [
+    {
+      "kelime": "barsgân",
+      "anlam": "Afrâsiyâb'ın oğlunun adı. Aynı zamanda bir iddia da bu adın Uygur hakanının seyisinin adı olduğudur.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "174",
+      "notlar": "Mahmûd’un babasının memleketi olan Barsgân kentinin kurucusu bu oğuldur.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bart",
+      "anlam": "Şarabın miktarını tespit için kullanılan bir ölçü kabı; herhangi bir sıvının miktarını belirlemeye yarayan herhangi bir ölçü kabı.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "174",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bart",
+      "anlam": "Su içilen çömlek.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Oğuz lehçesi",
+      "kaynak_sayfa": "174",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "barturdı",
+      "anlam": "O beni eve yolladı.",
+      "ornek_metin": "ol meni ewke barturdı: O beni eve [başka bir yere de olabilir] yolladı.",
+      "cekimler": [
+        "barturur",
+        "barturmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "174",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "banan",
+      "anlam": "Aşag (Çin). Kâşgar yakınlarındaki bir dağın tepesinde bulunan bir kalenin adı.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "174",
+      "notlar": "Bu dağın altında altın madenleri bulunur.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "basa",
+      "anlam": "Sonra.",
+      "ornek_metin": "men anda basa keldim: Ben ondan sonra keldim.",
+      "cekimler": [],
+      "kelime_turu": "zarf",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "174",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "basan",
+      "anlam": "Ölünün cesedi gömüldükten sonra onun adına verilen yemek.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "174",
+      "notlar": "Buradan hareketle yog basan denir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "basar",
+      "anlam": "Dağ sarımsağı.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "174",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "basarlıg",
+      "anlam": "Sarımsakla kaplı dağ.",
+      "ornek_metin": "basarlıg tâg: Sarmısakla kaplı dağ.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "174",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "basbal",
+      "anlam": "Burgulu bir şeyin tek bir kıvrımı.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "174",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "basdı",
+      "anlam": "Karabasan bastı / İl üzerine yürüdü, krallığı ya da kendine tabi kıldı ve düzene soktu / Gece baskını yaptı / Ton üzerine çöktü, çullandı / Köpek geyiği yere serdi.",
+      "ornek_metin": "anı bürt basdı: Onu karabasan bastı. beg el basdı: Bey ilin üstüne yürüdü - Bey krallığı ya da kendine tabi kıldı ve düzene soktu. begnı yağı basdı: Düşman [başka birileri de olabilir] Beye bir gece baskını yaptı. er qîzıg basdı: Adam ton üzerine çöktü, çullandı; ıt keyikni basdı: Köpek geyiği yere serdi.",
+      "cekimler": [
+        "basar",
+        "basmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "174",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "basıg",
+      "anlam": "Gece baskının yapılacağı yer.",
+      "ornek_metin": "ol anı basigmda tuttı: O, onu bir gece baskınında yakaladı.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "174",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "basmçaq",
+      "anlam": "Baskı altındaki, eziyet edilen adam.",
+      "ornek_metin": "basmçaq er: Baskı altındaki, eziyet edilen adam.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "174-175",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "basındı",
+      "anlam": "Adama eziyet etti, onu bunalttı.",
+      "ornek_metin": "ol erig basındı: O, adama eziyet etti, onu bunalttı.",
+      "cekimler": [
+        "basmür",
+        "basınmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "175",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "basıqtı",
+      "anlam": "Halk gece düşman saldırısına uğradı.",
+      "ornek_metin": "kişi yagıqa basıqtı: Halk gece düşman saldırısına uğradı.",
+      "cekimler": [
+        "basıqur",
+        "basıqmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "175",
+      "notlar": "Kök-biçimi, sin’in (s) teşdîd'li biçimiyle bassıqtı’dır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bassıqtı",
+      "anlam": "Adam gece düşman saldırısına uğradı.",
+      "ornek_metin": "er yagıqa bassıqtı (basıqtı): Adam gece düşman saldırısına uğradı.",
+      "cekimler": [
+        "bassıqur",
+        "bassıqmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "175",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "basışdı",
+      "anlam": "Çizme yapmaya yarayan Türkmen keçesini basmakta bana yardım etti.",
+      "ornek_metin": "ol manga uyma basışdı: O, çizme yapmaya yarayan Türkmen keçesini basmakta bana yardım etti. Bir nesnenin kabarıklığını, sertliğini, kabalığını gidermek için üzerine bastırılmasını anlatmak için bu sözcük kullanılır.",
+      "cekimler": [
+        "basışur",
+        "basışmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "175",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "basm il",
+      "anlam": "Bir Türk kavmi.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "175",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "basruq",
+      "anlam": "Herhangi bir şeyi baskı altında tutan şey.",
+      "ornek_metin": "yer basruqı tâg, bodün basruqı beg: Dünyanın baskısı dağ, insanların baskısı bey - Dünyanın dengesi, istikrarı nasıl dağlara bağlıysa, insanların istikrarı da onlara gem vuran yöneticilere bağlıdır.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "175",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "basturdı",
+      "anlam": "Bey tursan kollarından ve bacaklarından tutulup zapt edilmesini emretti. Herhangi bir şeyin yükselmesini ya da hareket etmesini engelleyecek kadar ağır olan herhangi bir şey için de bu sözcük kullanılır.",
+      "ornek_metin": "beg ogrînı basturdı: Bey tursan kollarından ve bacaklarından tutulup zapt edilmesini emretti.",
+      "cekimler": [
+        "basturur",
+        "basturmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "175",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "basu",
+      "anlam": "Demir sopa - bir değişik sesletim.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "175",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "basurdı",
+      "anlam": "Tanrı dünyayı dağlarla bastırdı. Ağır bir nesnenin altına konan herhangi bir şey için de bu sözcük kullanılır.",
+      "ornek_metin": "tengri tâg birle yerig basurdı: Tanrı dünyayı dağlarla bastırdı.",
+      "cekimler": [
+        "basurur",
+        "basurmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "175",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "basut",
+      "anlam": "Yardımcı, destekçi.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "175",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "basut",
+      "anlam": "Yardım.",
+      "ornek_metin": "ol manga basut berdi: O bana yardım etti.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "175",
+      "notlar": "Bu iki sözcük birbirleriyle ilintilidir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bâş",
+      "anlam": "Baş.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "175",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bâş",
+      "anlam": "Yara.",
+      "ornek_metin": "koni barır keyiknig közinde adın bâşı yoq: Dümdüz giden [hiçbir tehlikeye girmeyen] geyiğin gözünden başka yarası yoktur - ve elbette gözün gerçek bir yara olmadığı bizim için aşikardır.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "175-176",
+      "notlar": "Bu atasözü tehlikeli bir işte başarısız olan biri için kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "başâdı",
+      "anlam": "O ağacı çentikledi (tahtanın üzerine çentikler açtı). Herhangi bir şeyin üzerine çentikler açmayı anlatmak için de bu sözcük kullanılır. Aynı zamanda kerestelerin birbirini taşıyacak biçimde dizilmesini anlatmak için de bu sözcüğe başvurulur.",
+      "ornek_metin": "ol yıguçıg başâdı: O ağacı çentikledi.",
+      "cekimler": [
+        "başar",
+        "başâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "176",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "başaq",
+      "anlam": "Ok ya da kargının ucuna geçirilen sivri demir; temren.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "176",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "başaq",
+      "anlam": "Çarık.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Çigil lehçesi",
+      "kaynak_sayfa": "176",
+      "notlar": "Oğuzlar ve Qıfçâqlar mîm (m) ekleyerek başmaq der.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "başaqlâdı",
+      "anlam": "O kargıya temren taktı.",
+      "ornek_metin": "ol süngü başaqlâdı: O kargıya temren taktı.",
+      "cekimler": [
+        "başaqlâr",
+        "başaqlâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "176",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "başaqlandı",
+      "anlam": "Kargı (süngü) temrenlendi. Ok için de kullanılır.",
+      "ornek_metin": "süngü başaqlandı: Kargı (süngü) temrenlendi.",
+      "cekimler": [
+        "başaqlanur",
+        "başaqlanmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "176",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "başaqlig",
+      "anlam": "Temrenli kargı.",
+      "ornek_metin": "başaqhg süngü: Temrenli kargı.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "176",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "başgân",
+      "anlam": "Elli ila yüz rıtl ağırlığında olan büyük balık. Buradan yola çıkılarak halkın şefine bodun başgânı denir.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "176",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "başgâq",
+      "anlam": "bkz. sapgâq.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "belirsiz",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "176",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "başgıl",
+      "anlam": "Dört ayaklı, beyaz kafalı hayvan.",
+      "ornek_metin": "başgıl yüqı: Dört ayaklı, beyaz kafalı hayvan.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "176",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "başıl",
+      "anlam": "Başında beyaz bir leke olan koyun.",
+      "ornek_metin": "başıl qöy: Başında beyaz bir leke olan koyun.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "176",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "başladı",
+      "anlam": "Adam işi yapmaya başladı / O yol gösterdi / O birlikleri komuta etti.",
+      "ornek_metin": "er iş başladı: Adam işi başladı. ol yol başladı: O yol gösterdi. ol sü başladı: O birlikleri komuta etti.",
+      "cekimler": [
+        "başlar",
+        "başlâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "176",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "başlâg",
+      "anlam": "bkz. boşlâg.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "belirsiz",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "176",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "başlandı",
+      "anlam": "Adam işi yapma sorumluluğunu üstlendi; koyun dağa doğru sürüldü; başak tanelendi.",
+      "ornek_metin": "er işqa başlandı: Adam işi yapma sorumluluğunu üstlendi; qöy tâgqa başlandı: Koyun dağa doğru sürüldü; tang başlandı: Başak tanelendi.",
+      "cekimler": [
+        "başlanmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "176-177",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "başlattım",
+      "anlam": "Ben ona işe başlamasını emrettim.",
+      "ornek_metin": "men angar iş başlattım: Ben ona işe başlamasını emrettim.",
+      "cekimler": [
+        "başlatür",
+        "başlatmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "177",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "başmaq",
+      "anlam": "Pabuç, çarık.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Oğuz lehçesi",
+      "kaynak_sayfa": "177",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "başmaqlandı",
+      "anlam": "Adam pabuçlarını giydi.",
+      "ornek_metin": "er başmaqlandı: Adam pabuçlarını giydi.",
+      "cekimler": [
+        "başmaqlanur",
+        "başmaqlamâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "177",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "başnaq",
+      "anlam": "bkz. baştaq.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "belirsiz",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "177",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "baştar",
+      "anlam": "Tırpan.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Argu lehçesi",
+      "kaynak_sayfa": "177",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "baştaq",
+      "anlam": "Silahsız adam.",
+      "ornek_metin": "baştaq er: Silahsız adam.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "177",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bat",
+      "anlam": "Hurma ezildikten sonra geriye kalan posa. Ağır bir nesne düştüğü zaman çıkardığı ses.",
+      "ornek_metin": "“Çabuk etmeyi, bir yere aceleyle gitmeyi” anlatmak için bat kel denir; bu şap kel ifadesine benzer. “Ağır bir nesne düştüğü zaman çıkardığı ses\"e bat tüşdi denir.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "177",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "batğa",
+      "anlam": "Başlık yapmak için üzerinde keçi yünü ve keçe kesilen tahta.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "177",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "batıg",
+      "anlam": "Bir su yatağının, nehrin derin yeri.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "177",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "batlâdı",
+      "anlam": "O, kumaşı hurmanın posasıyla işledi.",
+      "ornek_metin": "ol bozni batlâdı: O, kumaşı hurmanın posasıyla işledi.",
+      "cekimler": [
+        "batlar",
+        "batlâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "177",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "batman",
+      "anlam": "Batman (büyüklüğü bölgelere ve tartılacak şeye göre değişen eski bir ağırlık ölçüsü).",
+      "ornek_metin": "bîr batman et: Söz konusu ağırlıkta olan et.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "177",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "batraq",
+      "anlam": "Ucuna bir ipek parçası takılan mızrak; savaş günü atlı süvarilerin yerini belli etmeye yarar.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "177",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "batruş",
+      "anlam": "Çamurlusu. Çok fazla hamur ve çok az sudan yapılan erişte de bu biçimde adlandırılır.",
+      "ornek_metin": "batruş suw: Çamurlusu.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "177",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "batruşdı",
+      "anlam": "Onlar birbirlerini suya batırdı.",
+      "ornek_metin": "oldı ekki bir birig suwqa batruşdı: Onlar birbirlerini suya batırdı.",
+      "cekimler": [
+        "batruşür",
+        "batruşmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "177",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "batsıg",
+      "anlam": "Batı; günbatısı.",
+      "ornek_metin": "kün batsıg: Batı; günbatısı [bkz. tugsug].",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "177",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "battı",
+      "anlam": "Güneş (gün) battı.",
+      "ornek_metin": "kün battı: Güneş (gün) battı.",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "177",
+      "notlar": "",
+      "kontrol_gerekli": false
+    }
+  ]
+}

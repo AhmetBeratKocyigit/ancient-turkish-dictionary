@@ -1,0 +1,688 @@
+{
+  "chunk_no": 54,
+  "kaynak_sayfa_baslangic": 341,
+  "kaynak_sayfa_bitis": 345,
+  "kelimeler": [
+    {
+      "kelime": "manâr",
+      "anlam": "şeye banılıp yenmesi",
+      "ornek_metin": "",
+      "cekimler": [
+        "manâr",
+        "manmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "341",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "mandırı",
+      "anlam": "Gelinle güveyin gece bir araya getirildiği ve insanların onların başlarından aşağı para attığı yer",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Çigil lehçesi",
+      "kaynak_sayfa": "341",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "mandu",
+      "anlam": "Bir tür Türk sirkesi",
+      "ornek_metin": "Bir küpe üzüm şırası konup mayalanana kadar beklenir, daha sonra üzerine sek şarap dökülür, bu karışım bir gece bekletilir ve sirke elde edilir. Bu, sirkelerin en güzelidir.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "341",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "mandurdı",
+      "anlam": "Kuşandırdı, bandırttı",
+      "ornek_metin": "ol manga qdıç mandurdı: O, bana kılıç kuşandırdı. ol manga etmekigyâgqa mandurdı: O, bana ekmeği yağa bandırttı.",
+      "cekimler": [
+        "mandurur",
+        "mandurmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "341",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "mangırdı",
+      "anlam": "Bandırayazdı, daldırayazdı",
+      "ornek_metin": "ol etmekigyâgqa mangırdı: O, ekmeği yağa bandırayazdı, daldırayazdı.",
+      "cekimler": [
+        "mangırâr",
+        "mangırmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "341",
+      "notlar": "Başka şeyler için de kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "marigıg",
+      "anlam": "Adım",
+      "ornek_metin": "anıg mangıgt kör: Onun adımına bak.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "341",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "manıldı",
+      "anlam": "Banıldı",
+      "ornek_metin": "etmek sirkeke manıldı: Ekmek sirkeye [başka bir şeye de olabilir] banıldı.",
+      "cekimler": [
+        "manılur",
+        "manılmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "341",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "mariğrâdı",
+      "anlam": "Bağırdı",
+      "ornek_metin": "er mangrâdı: Adam [başka biri de olabilir] bağırdı.",
+      "cekimler": [
+        "mangrâr",
+        "marigrâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "341",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "marigrattı",
+      "anlam": "Bağırttı",
+      "ornek_metin": "ol anı mangrattı: O, onu bağırttı.",
+      "cekimler": [
+        "mangratür",
+        "mangratmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "341",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "maraz",
+      "anlam": "Karanlık gece",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "341",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "marâz",
+      "anlam": "Ücretle çalışan kimse; ırgat",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Argu ve Yağma lehçeleri",
+      "kaynak_sayfa": "341",
+      "notlar": "xıyar m araz da denir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "masıç",
+      "anlam": "Kara üzüm",
+      "ornek_metin": "masıç üzüm: Kara üzüm",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "341",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "mat",
+      "anlam": "Öyle, onun gibi",
+      "ornek_metin": "andag mat: O, öyle.",
+      "cekimler": [],
+      "kelime_turu": "ilgeç",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "341",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "mayaq",
+      "anlam": "Dışkı; özellikle deve gübresi",
+      "ornek_metin": "tewe bedük erse mayaqı bedük ermes: Deve büyüktür, ancak pisliği büyük değildir.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "341-342",
+      "notlar": "Daha sonra qöy mayaqı: koyun gübresi olarak genişlemiştir. At gübresi yalnızca yundaq biçiminde adlandırılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "maygaq",
+      "anlam": "Paytak kimse; çatal tırnaklı olmayıp, top tırnaklı olan hayvanların tüyleri kısa olanları",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "342",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "mayii",
+      "anlam": "Şeftali ya da büyük kavun gibi çürümeye yaklaşmış ve yumuşamış meyve",
+      "ornek_metin": "mayii yemiş: Ogün şeftali ya da büyük kavun gibi çürümeye yaklaşmış ve yumuşamış meyvelerin tümüne verilen ad.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "342",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "mayıldı",
+      "anlam": "(Sulu, taze) kavun yumuşadı",
+      "ornek_metin": "qâgûn mayıldı: (Sulu, taze) kavun yumuşadı.",
+      "cekimler": [
+        "mayılür",
+        "mayılmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "342",
+      "notlar": "Bu, kavunun aşırı olgunlaşması durumudur. Başka meyveler için de kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "mayışdı",
+      "anlam": "Adam uyuşukluğu nedeniyle yere yapıştı",
+      "ornek_metin": "eryerke mayışdı: Adam uyuşukluğu nedeniyle yere yapıştı.",
+      "cekimler": [
+        "mayışür",
+        "mayışmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "342",
+      "notlar": "Bu sözcük, adama bir işi yapmasının emredildiği ve onun reddettiği durumu anlatır, yamaşdı bir değişik sesletimdir; mayışdı göçüşmeye maruz kalmıştır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "mejek",
+      "anlam": "İt pisliği",
+      "ornek_metin": "it mejeki: İt pisliği",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "342",
+      "notlar": "İki eklemleme noktası arasındaki ze'yle (j).",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "mekkeh",
+      "anlam": "Çinden getirilen bir mürekkep",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "342",
+      "notlar": "Türk kitapları bu mürekkeple yazılır, kef (k) katmerlenmiş, ha (h) özgün sözcükteki [mekke (?)] elifle (a) yer değiştirmiştir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "meldek",
+      "anlam": "Keçeleşmiş herhangi bir şey",
+      "ornek_metin": "meldek nerig: Tıpkı tüyleri dökülmüş cinsel organ gibi keçeleşmiş herhangi bir şey.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "342",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "meme",
+      "anlam": "Harman döverken ortada bulunan ve diğer öküzlerin etrafında döndükleri öküz",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "342",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "men",
+      "anlam": "Ben",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "zamir",
+      "dil_veya_lehce": "Türk lehçelerinde",
+      "kaynak_sayfa": "342",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "mende",
+      "anlam": "Bende, benim yanımda",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "edat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "342",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "merig",
+      "anlam": "Kuş yemi",
+      "ornek_metin": "quş tuzaqqa meng uçun ılmur: Kuş, yem için tuzağa düşer.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "342",
+      "notlar": "Bu atasözü, yiyecek ararken başına kötü bir şey gelen kimse için kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "merig",
+      "anlam": "Yüzdeki ben",
+      "ornek_metin": "bering manga sözkiye / meriglig qara tuzqıya / yelwin tutar közkiye / mımğum menig bilinge: Bana bir söz ver / Ey benli esmer / Çekici, gözleri büyüleyici / Bilesin ki (aşkından) acı çekerim",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "342",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "mengdedi",
+      "anlam": "Saçını yoldu",
+      "ornek_metin": "ol anıg saçın mengdedi: O, onun saçını yoldu.",
+      "cekimler": [
+        "mengder",
+        "mengdemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "343",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "mengdeşdi",
+      "anlam": "İki kadın birbirlerinin tüylerini aldılar",
+      "ornek_metin": "ekki urâgut mengdeşdi: İki kadın birbirlerinin tüylerini aldılar.",
+      "cekimler": [
+        "merigdeşur",
+        "mengdeşmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "343",
+      "notlar": "Bu, eylemin karşılıklılığını gösterir (mujâ'ale).",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "merigdetti",
+      "anlam": "Saçını yoldurttu",
+      "ornek_metin": "ol anıg saçın mengdetti: O, onu saçını yoldurttu.",
+      "cekimler": [
+        "mengdetür",
+        "mengdetmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "343",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "menggü",
+      "anlam": "Sonsuz, ölümsüz; sonsuzluk, ölümsüzlük",
+      "ornek_metin": "tugup taqı qalmadı menggü eren / ajun küni yulduzı tutçı tugâr: Doğan hiç kimse sonsuza dek yaşamadı / (Ancak) dünyanın güneşi ve yıldızı her zaman doğar",
+      "cekimler": [],
+      "kelime_turu": "belirsiz",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "343",
+      "notlar": "Bu sözcük hem ad, hem de eylemlik olarak kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "mengiledi",
+      "anlam": "Beyin yedi",
+      "ornek_metin": "am yetip süngüleri! / başın yandnı yangilâdı / eren bâyup müngüedi / anıg alpın qıra bogd: Ona yetişip süngüledi / Eski yarasını yeniden açtı / Adamlar kazandıkları nimetlerin tadını çıkarttı / Düşman yiğitlerini boğarak öldürdü",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "343",
+      "notlar": "Bu kök-anlamdır. Daha sonra konuşma dilinde bu sözcük Arapça tûbâ leke ifadesine tekabül eden bir anlam kazanmıştır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "mengiz",
+      "anlam": "Beniz, insanın rengi",
+      "ornek_metin": "qızıl merigizlig: Kızıl benizli.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "344",
+      "notlar": "Bu çoğu kez yanağın kırmızılığını anlatmak için kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "merigizlendi",
+      "anlam": "Kişinin yüzü güzelleşti",
+      "ornek_metin": "kişi merigizlendi: Kişinin yüzü güzelleşti.",
+      "cekimler": [
+        "merigizlenür",
+        "mengizlenmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "344",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "merigletti",
+      "anlam": "Yemletti, tane toplattı",
+      "ornek_metin": "ol qâzig merigletti: O, kazı [başka bir hayvanı da olabilir] yemletti - Kaza tane toplattı.",
+      "cekimler": [
+        "mengletür",
+        "merigletmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "344",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "merigzedi",
+      "anlam": "Benzedi",
+      "ornek_metin": "bîr nerig bırke merigzedi: Bir şey başka bir şeye benzedi.",
+      "cekimler": [
+        "mengzer",
+        "merigzemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "344",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "m engzetti",
+      "anlam": "Benzetti",
+      "ornek_metin": "ol bir nengni bırke merigzetti: O, bir şeyi bir şeye benzetti.",
+      "cekimler": [
+        "merigzetür",
+        "merigzetmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "344",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "merdek",
+      "anlam": "Ayı yavrusu",
+      "ornek_metin": "adıg merdeki",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "344",
+      "notlar": "Bazı Türkler, toriguz merdeki: meme emen domuz ifadesini de kullanır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "m m datu",
+      "anlam": "İpekten yapılmış gölgelik, cibinlik ya da çadır",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "344",
+      "notlar": "",
+      "kontrol_gerekli": true
+    },
+    {
+      "kelime": "mıngüy",
+      "anlam": "Kâğıt yapıştırmakta kullanılan bir tür hamur",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "344",
+      "notlar": "İyi yapışması için su konup kaynatılarak iyice koyulaştırılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "mırigâr",
+      "anlam": "Pınar",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Oğuz lehçesi",
+      "kaynak_sayfa": "344",
+      "notlar": "mıngar da denir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "mirig",
+      "anlam": "Bin sayısı",
+      "ornek_metin": "bîrin birin mirig bolür, tama tama köl bolûr: Birer birer bin olur, damlaya damlaya göl olur.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "344",
+      "notlar": "Bu atasözü, birine, az olsa bile bir şeyi kabulden çekinmemesini öğütlemek için kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "-m iz",
+      "anlam": "Biz",
+      "ornek_metin": "biz bardımız: Biz gittik. keldimiz: Biz geldik.",
+      "cekimler": [],
+      "kelime_turu": "zamir",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "344",
+      "notlar": "mim (m), be’den (b) dönüşmüştür; be (b) sözcüğün başında kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "m onçuq",
+      "anlam": "Atın boynuna takılan değerli taş, aslan pençesi, muska gibi şeyler",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "344",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "m onçuq",
+      "anlam": "Boncuk, süs için boyuna takılan değerli taşlar",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "344",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "monçuqlandı",
+      "anlam": "Kız değerli taşlar, gerdanlıklar kazandı",
+      "ornek_metin": "qız monçuqlandı: Kız değerli taşlar, gerdanlıklar kazandı.",
+      "cekimler": [
+        "monçuqlanür",
+        "monçuqlanmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "344-345",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "möngdi",
+      "anlam": "At ayaklarını toparladı ve tekme attı",
+      "ornek_metin": "at möngdi: At ayaklarını toparladı ve tekme attı.",
+      "cekimler": [
+        "mönger",
+        "möngmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "345",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "-m u/-m ü",
+      "anlam": "Soru eki",
+      "ornek_metin": "bu at mu: Bu at mı?; bardmg mu: Gittin mi?; kelding mü: Geldin mi?",
+      "cekimler": [],
+      "kelime_turu": "edat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "345",
+      "notlar": "Adların ve eylemlerin sonuna gelir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "muguzgaq",
+      "anlam": "Balansına benzeyen bir sinek",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Argu lehçesi",
+      "kaynak_sayfa": "345",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "munda",
+      "anlam": "Burada",
+      "ornek_metin": "ol munda ol: O, burada. emgeksizin turguyöq munda yamu / edgülügLik körmedip ajun çıqâr: Emek çekmeksizin burada durmak yok / Bir iyilik görmeden dünya biter gider",
+      "cekimler": [],
+      "kelime_turu": "ilgeç",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "345",
+      "notlar": "Kalma durumu",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "mundaru",
+      "anlam": "İpekli kumaşlarla süslenmiş düğün odası",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "345",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "mundı",
+      "anlam": "Saçmaladı",
+      "ornek_metin": "qarı er mundı: Yaşlı adam saçmaladı.",
+      "cekimler": [
+        "murtâr",
+        "munmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "345",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "munduz",
+      "anlam": "Budala, şaşkın",
+      "ornek_metin": "neçe munduz erse eş edgü, neçe eğri erse yöl edgü: Ne kadar budala da olsa bir yoldaş iyidir, ne kadar eğri de olsa bir yol iyidir",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "345",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "munduz",
+      "anlam": "Ansızın bastıran sel",
+      "ornek_metin": "munduz aqın: Ansızın bastıran sel.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "345",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "m ungân",
+      "anlam": "Boşboğaz, geveze kimse",
+      "ornek_metin": "mungân kişi: Boşboğaz, geveze kimse",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "345",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "mungâq",
+      "anlam": "Boşboğaz, geveze kimse",
+      "ornek_metin": "mungâq kişi: Boşboğaz, geveze kimse",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "345",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "munu",
+      "anlam": "İşte orada",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "ilgeç",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "345",
+      "notlar": "qan: Nerede? sorusunun yanıtıdır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "münu",
+      "anlam": "Bu",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "ilgeç",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "345",
+      "notlar": "Özel olan bir şeyi işaret etmek için kullanılır.",
+      "kontrol_gerekli": false
+    }
+  ]
+}

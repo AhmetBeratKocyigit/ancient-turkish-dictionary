@@ -1,0 +1,920 @@
+{
+  "chunk_no": 7,
+  "kaynak_sayfa_baslangic": 153,
+  "kaynak_sayfa_bitis": 157,
+  "kelimeler": [
+    {
+      "kelime": "arttı",
+      "anlam": "Nesne arttı.",
+      "ornek_metin": "anıgeyegüsi arttı: Onun kaburgası büyüdü - bu, kendini beğenmişliği ima eden bir deyimdir.",
+      "cekimler": [
+        "artar",
+        "artmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "153",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "artuç",
+      "anlam": "Ardıç.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "153",
+      "notlar": "Kâşgar'da bu adı taşıyan iki köy vardır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "artuçlandı",
+      "anlam": "Dağ ardıçlandı, ardıcı arttı.",
+      "ornek_metin": "tâg artuçlandı: Dag ardıçlandı, ardıcı arttı.",
+      "cekimler": [
+        "artuçlanur",
+        "artuçlanmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "153",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "artuq",
+      "anlam": "Artık, fazla (ziyâde).",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "153",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "artuqlandı",
+      "anlam": "Adam aşırıya gitti.",
+      "ornek_metin": "er artuqlandı: Adam aşırıya gitti.",
+      "cekimler": [
+        "artuqlanur",
+        "artuqlanmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "153",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "arturdı",
+      "anlam": "On paraya bir para daha ekledi, sınır aştı.",
+      "ornek_metin": "ön yarmdq'üze bir arturdı: On paraya bir para daha ekledi, er arturdı: Adam sınırı aştı. Şu dörtlükte de kullanılır, (Tutsak olmuş bir beyi anlatıyor) keldi berü arturu Bize taşkın (kalabalık bir orduyla) geldi birdi elin ertürü Üstüne ilini sundu (hanlığını kaybetti) munda qalıp oltanı Burada oturmaya kaldı bükribolupûnbüter Beli bükük oldu.",
+      "cekimler": [
+        "arturür",
+        "arturmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "153",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "arübât",
+      "anlam": "Demirhindi",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "153",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "arüdün",
+      "anlam": "Boya",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "153",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "arumdün",
+      "anlam": "bkz. arüdün.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "153",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "aruq turuq",
+      "anlam": "Kâşgar ile Fergana arasında bir dağ geçidinin adı.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "153",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "aruq",
+      "anlam": "Sıska, zayıf, cılız; yorgun adam.",
+      "ornek_metin": "aruq er: Yorgun adam.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "Oğuz ve Qıfçâq lehçeleri",
+      "kaynak_sayfa": "153",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "aruqlâdı",
+      "anlam": "Bey yorgunluktan dinlendi.",
+      "ornek_metin": "beg aruqlâdı: Bey yorgunluktan dinlendi.",
+      "cekimler": [
+        "aruqlâr",
+        "aruqlâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "Hâqanı",
+      "kaynak_sayfa": "153",
+      "notlar": "Hâqanı lehçesinde \"uyumak\" anlamında kullanılır. “Yorgunluktan dindindi\" kök-anlamına sahiptir",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "aruqluq",
+      "anlam": "Yorgunluk.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "153",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "arwâdı",
+      "anlam": "Şaman [kam] büyü yaptı.",
+      "ornek_metin": "qâm arvvrş arwâdı: Şaman [kam] büyü yaptı.",
+      "cekimler": [
+        "arwör",
+        "arwömâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "153",
+      "notlar": "",
+      "kontrol_gerekli": true
+    },
+    {
+      "kelime": "arwaldı",
+      "anlam": "Büyü yapıldı.",
+      "ornek_metin": "anvış anvaldı: Büyü yapıldı.",
+      "cekimler": [
+        "anvalur",
+        "arwalmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "153-154",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "arwaşdı",
+      "anlam": "Şamanlar büyülü sözler mırıldandı.",
+      "ornek_metin": "qdmlâr qamug arwaşdı: Şamanlar (kamlarj büyülü sözler mırıldandı. Kem gözlere karşı okunan büyülü sözler için de bu sözcük kullanılır.",
+      "cekimler": [
+        "anvaşur",
+        "arwaşmdq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "154",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "arwuz",
+      "anlam": "Erkek adı.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "154",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "âs",
+      "anlam": "Ermin hayvanı; as. ze’li (z) biçimin [âz] değişik sesletimi.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "154",
+      "notlar": "Bu, cariyelere verilen bir ad olarak da kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "âsdı",
+      "anlam": "O, (kancaya) et astı. Asılan ya da çarmıha gerilen birini anlatmak için de bu sözcük kullanılır.",
+      "ornek_metin": "ol et âsdl: O, (kancaya) et [başka bir şey de olabilir] astı.",
+      "cekimler": [
+        "asar",
+        "asmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "154",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "aslindi",
+      "anlam": "Bir şey, bir şeye takıldı.",
+      "ornek_metin": "asimdi nehg: Bir şey, bir şeye takıldı.",
+      "cekimler": [
+        "asimur",
+        "aslınmciq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "154",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "asıg",
+      "anlam": "Kazanç, fayda",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "154",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "asıglıg",
+      "anlam": "Yararlı iş.",
+      "ornek_metin": "asıglıg iş: Yararlı iş.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "154",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "asıldı",
+      "anlam": "Bir şey, bir şeye asıldı.",
+      "ornek_metin": "bîr neng bîrke asıldı: Bir şey, bir şeye asıldı.",
+      "cekimler": [
+        "asılur",
+        "astlmdq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "154",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "asırtqu",
+      "anlam": "Zeki adam",
+      "ornek_metin": "asırtqu e r Zeki adam",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "154",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "asışdı",
+      "anlam": "O, (kancaya) et asmakta bana yardım etti.",
+      "ornek_metin": "ol manga et asışdı: O, (kancaya) et asmakta bana yardım etti.",
+      "cekimler": [
+        "asışür",
+        "asışmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "154",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "asra",
+      "anlam": "Alt, aşağı.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "edat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "154",
+      "notlar": "“Alt, aşağı\" anlamına gelen bir ilgeç.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "asruşdı",
+      "anlam": "İki adam, kimin daha çok hapşıracağını görmek için hapşırdı.",
+      "ornek_metin": "ekki er asruşdı: İki adam, kimin daha çok hapşıracağını görmek için hapşırdı,",
+      "cekimler": [
+        "asruşur",
+        "asruşmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "154",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ast",
+      "anlam": "Sokaklar, yollar",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Çigil lehçesi",
+      "kaynak_sayfa": "154",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "astın",
+      "anlam": "Aşağı",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "edat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "154",
+      "notlar": "“Aşağı\" anlamına gelen bir ilgeç. Bu kaba bir sözcüktür; bozulmamış (fasih) biçimi altın’dır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "asturdı",
+      "anlam": "O, bir adamı astırdı ya da çarmıha gerdirdi; et astırdı.",
+      "ornek_metin": "ol er asturdı: O, bir adamı [başka birini de olabilir] astırdı ya da çarmıha gerdirdi. Oİ et asturdı: O, et [başka bir şey de olabilir] astırdı.",
+      "cekimler": [
+        "asturur",
+        "asturmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "154-155",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "asurdı",
+      "anlam": "Adam hapşırdı.",
+      "ornek_metin": "er asurdı: Adam hapşırdı,",
+      "cekimler": [
+        "asrur",
+        "asurmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "155",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "asurgân",
+      "anlam": "Çok hapşıran adam.",
+      "ornek_metin": "bu er ol telim asurgân: Bu, çok hapşıran bir adamdır,",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "155",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "asurtgu",
+      "anlam": "Hapşırtan ot.",
+      "ornek_metin": "asurtgu ot: Hapşırtan ot.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "155",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "âş",
+      "anlam": "Yemek, aş.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "155",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "âş",
+      "anlam": "Bir kabın onarılmış kısmı.",
+      "ornek_metin": "ayaq âşla: Kabı onar,",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "155",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "aşâdı",
+      "anlam": "Adam yemek yedi.",
+      "ornek_metin": "er aş aşâdı: Adam yemek yedi.",
+      "cekimler": [
+        "aşâr",
+        "aşâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "155",
+      "notlar": "Hâqâni Türkleri bu sözcüğü soylular için kullanır, diğer Türkler ayrım yapmaksızın herkes için bu sözcüğü sarf eder ve bu kullanım kural uyarıncadır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "aşaq",
+      "anlam": "Dağ eteği",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Oğuz lehçesi",
+      "kaynak_sayfa": "155",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "aşattı",
+      "anlam": "O, bana yemek yedirdi.",
+      "ornek_metin": "ol manga âş aşattı: O, bana yemek yedirdi.",
+      "cekimler": [
+        "aşatur",
+        "aşatmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "155",
+      "notlar": "Türklerin çoğu bu sözcüğü hakanların ve soyluların yemeği için kullanır; ancak Oğuzlar herkes için sarf eder. Oğuzlar [bu konuda] kuralı takip eder.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "aşbâr",
+      "anlam": "Saman ve kepeğin ıslatılarak karıştırılmasıyla yapılan bir at yemi",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "155",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "âşdı",
+      "anlam": "O, dağı aştı.",
+      "ornek_metin": "Oİ tâg âşdı: O, dağı [başka bir şeyi de olabilir] aştı.",
+      "cekimler": [
+        "âşâr",
+        "âşmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "155",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "aşğındı",
+      "anlam": "Taş aşındı.",
+      "ornek_metin": "tâş aşğındı: Taş aşındı.",
+      "cekimler": [
+        "aşgmur",
+        "aşgmmâıj"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "155",
+      "notlar": "Sert olan herhangi bir şeyin aşınmasını anlatmak için bu sözcük kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "aşıcân",
+      "anlam": "Çin’e giden yol üzerinde bir konaklama yeri olan kentin adı.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "155",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "aşlâdı",
+      "anlam": "O, kabı onardı.",
+      "ornek_metin": "ol ayâq aşlâdı: O, kabı [başka bir şeyi de olabilir] onardı.",
+      "cekimler": [
+        "aşlar",
+        "aşlâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "155-156",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "aşlaldı",
+      "anlam": "Kap onarıldı.",
+      "ornek_metin": "ayâq aşlaldı: Kaponanldı.",
+      "cekimler": [
+        "aşlalur",
+        "aşlalmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "156",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "aşlattı",
+      "anlam": "O, kabı onarttı.",
+      "ornek_metin": "ol aydq aşlattı: O, kabı onarttı.",
+      "cekimler": [
+        "aşlatur",
+        "aşlatmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "156",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "aşlıq",
+      "anlam": "Aşevi; mutfak. Oğuzlar buğdaya aşlıq der.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "156",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "aşnu",
+      "anlam": "Önce, evvel",
+      "ornek_metin": "men andan aşnu keldim: Ben ondan önce geldim",
+      "cekimler": [],
+      "kelime_turu": "edat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "156",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "aşruldı",
+      "anlam": "Yük geçitten aşırıldı.",
+      "ornek_metin": "yük arttın aşruldı: Yük geçitten [başka bir yerden de olabilir] aşınldı.",
+      "cekimler": [
+        "aşrulur",
+        "aşrulmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "156",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "aşsâdı",
+      "anlam": "O, dağ geçidini geçmeye niyetlendi ve bunu arzuladı.",
+      "ornek_metin": "ol art aşsâdı: O, dag geçidini geçmeye [aşmaya] niyetlendi ve bunu arzuladı. Birinin yemek arzulamasını anlatmak için de bu sözcük kullanılır.",
+      "cekimler": [
+        "aşsâr",
+        "aşsâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "156",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "aşsattı",
+      "anlam": "O, ona yemek arzulattı.",
+      "ornek_metin": "ol anı aşsattı: O, ona yemek arzulattı.",
+      "cekimler": [
+        "aşsatur",
+        "aşsatmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "156",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "aştal",
+      "anlam": "Kişinin sonuncu çocuğu.",
+      "ornek_metin": "aştal oğul: Kişinin sonuncu [yaşlılık çağlarında doğan] çocuğu,",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "156",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "aşu",
+      "anlam": "Kızıl toprak; aşıboyası yapmak için kullanılır.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "156",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "aşundı",
+      "anlam": "O, beni geçti.",
+      "ornek_metin": "ol mendin aşundı: O, beni geçti.",
+      "cekimler": [
+        "aşunur",
+        "aşunmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "156",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "aşuq",
+      "anlam": "İnsanın ayak bileğinde bulunan kemiklerden biri.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "156",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "aşuqlâdı",
+      "anlam": "O, onun aşık kemiğine vurdu.",
+      "ornek_metin": "ol anı aşuqlâdı: O, onun aşık kemiğine vurdu.",
+      "cekimler": [
+        "aşuqlâr",
+        "aşuqlâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "156",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "aşuqtı",
+      "anlam": "O, evini özledi.",
+      "ornek_metin": "ol ewke aşuqtı: O, evini özledi. Bir şeyi özleyen, bir şeye düşkün olan herhangi biri için de bu sözcük kullanılır.",
+      "cekimler": [
+        "aşuqâr",
+        "aşuqmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "156",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ât",
+      "anlam": "Ad (ism).",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "156",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ât",
+      "anlam": "Unvan (lâkab).",
+      "ornek_metin": "beg angâr ât herdi: Bey ona unvan verdi. “Halkın şefT'ne de âtlıg [“ada sahip olan”] denir.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "156-157",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "at",
+      "anlam": "At",
+      "ornek_metin": "qüş qanatın er atın: Kuş (hedefine) kanadıyla, er atıyla (ulaşır)",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "157",
+      "notlar": "Elif (a) işkalıdır [kalın ünlü - vezin gerektirdiği için sözcüğe bir yazaç ekleyerek ya da yazacı eğerek uzatmak].",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ata",
+      "anlam": "Baba.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "157",
+      "notlar": "Hoten ve Kençek halkı ata’ya hata der.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ata sâgün",
+      "anlam": "Hekim.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "157",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ataç",
+      "anlam": "Büyük bir adammış gibi davranan küçük çocuk.",
+      "ornek_metin": "ataç ogül denir",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "157",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "atadı",
+      "anlam": "O, ona unvan verdi.",
+      "ornek_metin": "on angar ât atadı: O, ona unvan verdi. Ad verilmesini anlatmak için de bu sözcük kullanılır.",
+      "cekimler": [
+        "atar",
+        "atâm âq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "157",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "atan",
+      "anlam": "İğdiş edilmiş deve.",
+      "ornek_metin": "atan yüki aş bolsa açqa az körnür: İğdiş edilmiş devenin yükü yemek olsa, aça az görünür.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "157",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "atanlandı",
+      "anlam": "Adam iğdiş edilmiş deve sahibi oldu.",
+      "ornek_metin": "er atanlandı: Adam iğdiş edilmiş deve sahibi oldu,",
+      "cekimler": [
+        "atanlanur",
+        "atanlanmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "157",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "atanlıg",
+      "anlam": "İğdiş edilmiş devesi olan kimse.",
+      "ornek_metin": "atanlıg er: İğdiş edilmiş devesi olan kimse.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "157",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "atâqı",
+      "anlam": "Babacığım",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "157",
+      "notlar": "“Babacığım” anlamına gelen ve sevgi bildiren bir sözcük.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "atgâq",
+      "anlam": "Safra.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "157",
+      "notlar": "Sarı çiçekleri olan bir bitkiye de atgâq denir. Korkudan sararan bir yüz de buna benzetilir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "atgardı",
+      "anlam": "O, bana ata binmekte yardım etti.",
+      "ornek_metin": "ol mini atgardı: O, bana ata [başka bir şeye de olabilir] binmekte yardım etti.",
+      "cekimler": [
+        "atgarur",
+        "atgarmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "157",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "atıldı",
+      "anlam": "Ok atıldı; tomurcuk açıldı.",
+      "ornek_metin": "oq atıldı: Ök atıldı. çeçek ağzı atıldı: Tomurcuk açıldı.",
+      "cekimler": [
+        "atılur",
+        "atılmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "157",
+      "notlar": "Her türlü çiçek veya tomurcuğu ya da bütünden ayrılmadan açılan herhangi bir şeyi anlatmak için bu sözcük kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "atım",
+      "anlam": "İyi aba olan adam; nişancı.",
+      "ornek_metin": "atım er: İyi aba olan adam; nişancı,",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "157",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "atınçu",
+      "anlam": "Atılan bir şey.",
+      "ornek_metin": "atınçu neng: Atılan bir şey.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "157",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "atındı",
+      "anlam": "O, ok atıyormuş gibi göründü.",
+      "ornek_metin": "ol oq atındı: O, ok abyormuş gibi göründü.",
+      "cekimler": [
+        "atmür",
+        "atmmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "157",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "atış",
+      "anlam": "Atış; karşılıklı atma.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "157",
+      "notlar": "",
+      "kontrol_gerekli": false
+    }
+  ]
+}

@@ -1,0 +1,736 @@
+{
+  "chunk_no": 118,
+  "kaynak_sayfa_baslangic": 597,
+  "kaynak_sayfa_bitis": 601,
+  "kelimeler": [
+    {
+      "kelime": "tuşlatür",
+      "anlam": "Aynı zamanda birinin, bir şeyi soruşturmasını anlatmak için kullanılan sözcük.",
+      "ornek_metin": "yerde feyakta durı aynzamanmda birinin, bir şeyi soruşturmasını anlatmak için de bu sözcük kullanılır.",
+      "cekimler": [
+        "tuşlatür",
+        "tuşlâtmdq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "597",
+      "notlar": "Metnin başındaki kısmın okunması şüphelidir.",
+      "kontrol_gerekli": true
+    },
+    {
+      "kelime": "tuşu",
+      "anlam": "Eşeği durdurmak için kullanılan bir sözcük.",
+      "ornek_metin": "tuşu tuşu. Eşeği durdurmak için kullanılan bir sözcük, t ile ş arasında yazılmayan bir r vardır [turşu]; bu belli bir konuşma biçimidir.",
+      "cekimler": [],
+      "kelime_turu": "ünlem",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "597",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tuşurdı",
+      "anlam": "Biri diğerini biriyle buluşturdu.",
+      "ornek_metin": "ol meni sanga tuşurdı: O, beni şenle buluşturdu.",
+      "cekimler": [
+        "tuşurur",
+        "tuşurmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "597",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tutâşı",
+      "anlam": "Her zaman, alışkanlık olarak.",
+      "ornek_metin": "men sanga tutâşı barîrmen: Ben sana her zaman [alışkanlık olarak] gelirim.",
+      "cekimler": [],
+      "kelime_turu": "zarf",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "597",
+      "notlar": "tutşı sözcüğünün değişik sesletimi.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tutgâq",
+      "anlam": "Düşmanın küçük, ileri kollarını ve casuslarını yakalamak için geceleri çıkartılan birlik.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "597",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tutgüç",
+      "anlam": "Kahvaltı.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "597",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tutgün",
+      "anlam": "Tutsak.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "597",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tutma",
+      "anlam": "Sandık.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "597",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tutmaç",
+      "anlam": "İyi bilinen bir Türk yemeği.",
+      "ornek_metin": "Bu Zülkarneyn'in azıklarından biridir. Şöyle ki, Zülkarneyn karanlıklar diyarından çıktığında halkın erzagı azalmıştı ve onlar aç olduklarından yakındılar, dediler ki bizni tutma dç: bizi (burada) aç tutma - izin ver varalım yurtlarımıza gidelim. Zülkarneyn, bu hususta, hikmet sahibi adam­larına danıştı ve onlar da bu yiyecekle çıkageldil.er. Bu yemek vücuda güç, yanaklara renk verir ve çabuk hazmedilmez. Tutmaç yendikten sonra, suyu da içilir. Türkler bu yemeği görünce ona Tutmaç dedi. Kökü “bizi aç tutma” anlamına gelen tutma aç’tır. Sadeleştirme amacıyla iki elif (a) atılmıştır. Buradaki anlam “kendini aç bırakma, bu yemeği al ve ye",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "597",
+      "notlar": "Zülkarneyn rivayeti ve etimolojik efsane yer almaktadır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tutsug",
+      "anlam": "İstek ya da vasiyet.",
+      "ornek_metin": "men angar tutsug tutuzdum: Ben ona vasiyetimi sundum",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "597",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tutsuqdı",
+      "anlam": "Adam tutsak alındı.",
+      "ornek_metin": "eryagıqa tutsuqdı: Adam tutsak alındı.",
+      "cekimler": [
+        "tutsuqâr",
+        "tutsucjmöıj"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "597",
+      "notlar": "",
+      "kontrol_gerekli": true
+    },
+    {
+      "kelime": "tutşı",
+      "anlam": "Yakın, yan yana olan şeyler.",
+      "ornek_metin": "anıg yeri menig yerke tutşı ol: Onun ülkesi, benim ülkeme yakındır, şm’ın cim'e yakınlığı nedeniyle tutçı’da denilebilir. Bu sözcüğün diğer değişik sesletimi de tutâşı’dır. men sanga tutâşı barîrmen: Ben sana her zaman [alışkanlık olarak] gelirim [yakınlıktan dolayı]",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "597",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tuttı",
+      "anlam": "Yara acıyla zonkladı.",
+      "ornek_metin": "bâş tuttı (tıttı): Yara acıyla zonkladı.",
+      "cekimler": [
+        "tutâr",
+        "tutmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "597-598",
+      "notlar": "Metin 597'den 598'e uzanmaktadır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tutti",
+      "anlam": "Köpek ceylanı [başka bir hayvanı da olabilir] yakaladı.",
+      "ornek_metin": "ıt keyik tuttı: Köpek ceylanı [başka bir hayvanı da olabilir] yakaladı. Bir şeyi yakalayan herhangi birini anlatmak için bu sözcük kullanılır. ol manga elig tuttı: O, benim elimi tuttu - o, bana kefil oldu. Şu atasözünde de geçer, elig tutgmça ot tut: 9 tutacağına ateş tut - Birine kefil olmaktansa, ateşi tutmak daha iyidir [çünkü kefil olmak daha sonra üzüntü getirir].",
+      "cekimler": [
+        "tutar",
+        "tutmaq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "598",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tutturdı",
+      "anlam": "Bey, hırsızın yakalanmasını emretti.",
+      "ornek_metin": "beg ogrînı tutturdı: Bey, hırsızın yakalanmasını emretti.",
+      "cekimler": [
+        "tutturur",
+        "tutturmâcj"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "598",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tutug",
+      "anlam": "Rehine; teminat.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "598",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tutug",
+      "anlam": "Cin çarpması.",
+      "ornek_metin": "anıg tutugı bâr: O çarpılmış",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "598",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tutuglug",
+      "anlam": "Önlerin uğrak yeri olmuş, üzerinden geçip gitmeye çalışanların mutlaka zarar gördüğü yer.",
+      "ornek_metin": "tutugîug yer: Önlerin uğrak yeri olmuş, üzerinden geçip gitmeye çalşanlann mutlaka zarar gördüğü yer.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "598",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tutuldı",
+      "anlam": "Vahşi hayvan [başka bir hayvan da olabilir] yakalandı.",
+      "ornek_metin": "keyik tutuldı: Vahşi hayvan [başka bir hayvan da olabilir] yakalandı.",
+      "cekimler": [
+        "tutlur",
+        "tutuîmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "598",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tutunçu",
+      "anlam": "Evlat edinilmiş çocuk.",
+      "ornek_metin": "tutunçu oğul: Evlat edinilmiş çocuk",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "598",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tutundı",
+      "anlam": "Güneş veya ay tutuldu; evlat edindi; tek başına çaba harcayarak yakaladı; ateş tutuştu; sütanne edindi; şefaatçi olarak işe aldı.",
+      "ornek_metin": "kün tutundı: Güneş tutuldu; ay tutundı: Ay tutuldu. beg mini oğul tutundı: Bey [başka biri dc olabilir], beni oğlu olarak kabul etti [evlat edindi], er keyik tutundı: Adam tek başına çaba harcayarak ceylanı yakaladı. Birinin tek başına herhangi bir şeyi yakalamasını anlatmak için bu sözcük kullanılır. öt tutundı: Ateş tutuştu. üdig od tutünup öpke yürek qagrulür / Tutkunun ateşi tutuştuğunda / Ciğer ve yürek kavrulur. ol awurta tutundı: O, sütanne edindi. ol meni ötûgçi tutundı: O, beni Hakan'ın yanında şefaatçi olarak işe aldı.",
+      "cekimler": [
+        "tutunur",
+        "tutunmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "598-599",
+      "notlar": "Madde 598'den 599'a devam etmektedir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tutuq",
+      "anlam": "İğdiş edilmiş; hadım.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "599",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tutuq",
+      "anlam": "Bir erkek adı.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "599",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tutuqlâdı",
+      "anlam": "O, oğlunu iğdiş etti ya da onun, hadım olan kimselerle ilişkide olduğunu düşündü.",
+      "ornek_metin": "ol oglm tutuqlddı: O, oğlunu iğdiş etti ya da onun, hadım olan kimselerle ilişkide olduğunu düşündü.",
+      "cekimler": [
+        "tutuqlâr",
+        "tutuqlâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "599",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tutuqlandı",
+      "anlam": "Kadın, kendini koruması için bir hadım tuttu.",
+      "ornek_metin": "urâgut tutuqlandı: Kadın, kendini koruması için bir hadım tuttu.",
+      "cekimler": [
+        "tutuqlanür",
+        "tutuqlanmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "599",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tuturqân",
+      "anlam": "Pirinç.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "599",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tutuş",
+      "anlam": "Tartışma, çekişme - özel bir ad.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "599",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tutuş",
+      "anlam": "Bir erkek adı.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "599",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tutuşdilâr",
+      "anlam": "Onlar birbirlerini tuttular.",
+      "ornek_metin": "olâr ekki tutuşdîlâr: Onlar birbirlerini tuttular. Başka bir şeye tutunan [yapışıp bırakmayan] herhangi bir şeyi anlatmak için de bu sözcük kullanılır.",
+      "cekimler": [
+        "tutuşur",
+        "tutuşmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "599",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tutuzdum",
+      "anlam": "Ben, ona bir öğüt ya da bir emir verdim ya da aklında tutması onun yararına olan bir söz söyledim.",
+      "ornek_metin": "men angctr soz tutuzdum: Ben, ona bir öğüt ya da bir emir verdim ya da aklında tutması onun yararına olan bir söz söyledim",
+      "cekimler": [
+        "tutuzur",
+        "tutuzmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "599",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tutuzgu",
+      "anlam": "Salık verilen şey.",
+      "ornek_metin": "tutuzgu neng: Salık verilen [yapılması ya da buyrulması doğru olan| şey.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "599",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tuwırdı",
+      "anlam": "At kulaklarını dikti.",
+      "ornek_metin": "at qulâqm tumrdr. At kulaklarını dikti. Bu, bir şey duyduğu için atın kulaklarını havaya kaldırdığı anlamına gelir.",
+      "cekimler": [
+        "tuwirâr",
+        "tuwırmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "599",
+      "notlar": "",
+      "kontrol_gerekli": true
+    },
+    {
+      "kelime": "tuvvrâdı",
+      "anlam": "Küçük şey büyüdü.",
+      "ornek_metin": "uşâq neng tuıvrâdı: Küçük şey -tıpkı kuzunun koyun haline gelmesi gibi- büyüdü.",
+      "cekimler": [
+        "tuvvrâr",
+        "tuwramâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "599",
+      "notlar": "Bu sözcük, tuwuz yinçü: büyük inci ifadesindeki tuwuz sözcüğünden türetilmiştir.",
+      "kontrol_gerekli": true
+    },
+    {
+      "kelime": "tuxsı",
+      "anlam": "Qayîs'ta ikamet eden bir Türk kavmi.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "599",
+      "notlar": "Tuxzr çigil de denir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tuyag",
+      "anlam": "Toynak.",
+      "ornek_metin": "at tuyagı: At toynağı.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "599",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tuyaglıg",
+      "anlam": "Toynaklı hayvan.",
+      "ornek_metin": "tuyaglıg yılqı: Toynaklı hayvan",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "600",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tuydı",
+      "anlam": "Adam meselenin gizli kalan yönünü sezdi.",
+      "ornek_metin": "er ışın tuydı: Adam meselenin gizli kalan yönünü sezdi.",
+      "cekimler": [
+        "tuyâr",
+        "uymâcj"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "600",
+      "notlar": "",
+      "kontrol_gerekli": true
+    },
+    {
+      "kelime": "tuyın",
+      "anlam": "Cimri, ele sıkı adam.",
+      "ornek_metin": "tuyın er: Cimri, ele sıkı adam.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "600",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tuysuqdı",
+      "anlam": "Adam aldatıldığını idrak etti.",
+      "ornek_metin": "er tuysuqdı: Adam aldatıldığını idrak etti.",
+      "cekimler": [
+        "tuysuqâr",
+        "tuysuqmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "600",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tuyturdı",
+      "anlam": "O, benim konuşmanın ayırdında olmamı sağladı.",
+      "ornek_metin": "ol manga söz tuyturdı: O, benim (söz konusu) konuşmanın ayırdında olmamı sağladı.",
+      "cekimler": [
+        "tuyturur",
+        "tuyturmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "600",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tuyuq",
+      "anlam": "Cimri kimse.",
+      "ornek_metin": "tuyuq kişi: Cimri kimse.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "600",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tuyuq",
+      "anlam": "Gökyüzünün bulutlarla kaplı olduğu, kapalı gün.",
+      "ornek_metin": "tuyuq kün: Gökyüzünün bulutlarla kaplı olduğu, kapalı gün.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "600",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tuyuq",
+      "anlam": "Kilitli kapı.",
+      "ornek_metin": "tuyuq qapug: Kilitli kapı.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "600",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tüz",
+      "anlam": "Tuz.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "600",
+      "notlar": "İşba' söz konusudur.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tuzâdı",
+      "anlam": "O, eti tuzladı.",
+      "ornek_metin": "ol et tuzâdı: O, eti tuzladı. Bu, tuzladı sözcüğünün yerine kullanılır.",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "600",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tuzaq",
+      "anlam": "Avlanma için kurulan tuzak, kapan.",
+      "ornek_metin": "ikledi menig adatj / Ayağım kaza eseri takıldı / körmedip ogn tuzâq / Görmedim toprağın altında saklı olan tuzağı / igledim andın uzâq / Çekiyorum uzun zamandır bunun acısını / emlegil amdı tuzâq / Sevgilim yarama merhem ol",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "600",
+      "notlar": "",
+      "kontrol_gerekli": true
+    },
+    {
+      "kelime": "tuzaq",
+      "anlam": "Sevgilinin çekiciliğini överken söylenen bir söz.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "600",
+      "notlar": "tuzaqı da denir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tuzgu",
+      "anlam": "Gelip geçerken uğrayan bir hısım ya da tanıdığa sunulan yiyecek cinsinden armağan.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "600",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tuzgulandı",
+      "anlam": "O, bana bir armağan sundu.",
+      "ornek_metin": "ol manga tuzgulandı: O, bana bir armağan (yiyecek ya da başka bir şey) sundu.",
+      "cekimler": [
+        "tuzgulanür",
+        "tuzgulanmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "600",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tuzladı",
+      "anlam": "O, eti tuzladı.",
+      "ornek_metin": "ol et tuzladı: O, (çömleğin içine tuz atarak) eti [başka bir şeyi de olabilir] tuzladı.",
+      "cekimler": [
+        "tuzlar",
+        "tuzlâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "600-601",
+      "notlar": "Madde 600'den 601'e uzanmaktadır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tuzlandı",
+      "anlam": "Et tuzlandı.",
+      "ornek_metin": "et tuzlandı: Et [başka bir şey de olabiliri tuzlandı.",
+      "cekimler": [
+        "tuzlanûr",
+        "tuzlanmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "601",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tuzlattı",
+      "anlam": "O, etin tuzlanmasını emretti.",
+      "ornek_metin": "ol et tuzlattı: O, etin [başka bir şeyin de olabiliri tuzlanmasını emretti.",
+      "cekimler": [
+        "tuzlatür",
+        "tuzlatmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "601",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tuzluq",
+      "anlam": "Tuzluk.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "601",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tü",
+      "anlam": "Tüy.",
+      "ornek_metin": "bîr tü saç: Bir tutam saç.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "601",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tü",
+      "anlam": "Renk.",
+      "ornek_metin": "tüdeş tonlar: Hepsi aynı renkte olan kumaşlar",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "601",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tü",
+      "anlam": "Atın derisinin rengi.",
+      "ornek_metin": "atııig ne tülüg: Atının rengi ne?",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "601",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tübüt",
+      "anlam": "Türk ülkesinde yerleşik olan kalabalık bir kavim.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "601",
+      "notlar": "Tübütlerin kökeni ve coğrafi sınırları hakkında ayrıntılı bilgi verilmiştir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tübütledi",
+      "anlam": "O, onu tübüt saydı, onlarla ilişkilendirdi.",
+      "ornek_metin": "ol anı tübütledi: O, onu tübüt saydı, onlarla ilişkilendirdi. Tübüt bir kavimdir.",
+      "cekimler": [
+        "tübütler",
+        "tübütlemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "601",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tübütlendi",
+      "anlam": "Adam tübüt gibi giyindi.",
+      "ornek_metin": "er tübütlendi: Adam tübüt gibi giyindi - bu, Türk ülkesine yerleşmiş bir kavimdir",
+      "cekimler": [
+        "tübûtlenür",
+        "tübütlenmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "601",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tüdeş",
+      "anlam": "Aynı türden olan bir başka şeye benzeyen herhangi bir şey.",
+      "ornek_metin": "tüdeş neng: Aynı türden olan bir başka şeye benzeyen herhangi bir şey.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "601",
+      "notlar": "Kökü tü: tüy'dür. -daş/-deş eki üzerine açıklamalar içerir.",
+      "kontrol_gerekli": false
+    }
+  ]
+}

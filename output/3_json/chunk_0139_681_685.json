@@ -1,0 +1,768 @@
+{
+  "chunk_no": 139,
+  "kaynak_sayfa_baslangic": 681,
+  "kaynak_sayfa_bitis": 685,
+  "kelimeler": [
+    {
+      "kelime": "yek",
+      "anlam": "Şeytan.",
+      "ornek_metin": "bilmiş yek bilmedük kişiden yeğ: Bildiğin şeytan bilmediğin adamdan hayırlıdır.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "681",
+      "notlar": "Bu atasözü, birine, tanıdıklarına saygı göstermesini öğütlemek için kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yel",
+      "anlam": "Esinti.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "681",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yel",
+      "anlam": "Cin.",
+      "ornek_metin": "eryelpindi: Adamı cin çarptı",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "681",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yel kögen",
+      "anlam": "bkz. kögen.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "681",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yeldi",
+      "anlam": "Atlı acele etti.",
+      "ornek_metin": "atlıg yeldi : Atlı acele etti.",
+      "cekimler": [
+        "yeler",
+        "yelmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "681",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yeldi",
+      "anlam": "Yemek (başka bir şey de olabilir) yendi.",
+      "ornek_metin": "aş yeldi: Yemek [başka bir şey de olabilir) yendi.",
+      "cekimler": [
+        "yelür",
+        "yelmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "681",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yeldi",
+      "anlam": "Yemek [başka bir şey de olabilir] yendi.",
+      "ornek_metin": "âş yeldi: Yemek [başka bir şey de olabilir] yendi.",
+      "cekimler": [
+        "yelür",
+        "yelmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "681",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yeldirdi",
+      "anlam": "Rüzgâr esti.",
+      "ornek_metin": "yel yeldirdi: Rüzgâr esti.",
+      "cekimler": [
+        "yeldirer",
+        "yeldirmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "681",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yelgin",
+      "anlam": "Acele eden, koşturan atlı.",
+      "ornek_metin": "yçlgn athg; Acele eden, koşturan atlı.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "Oğuzlar",
+      "kaynak_sayfa": "681",
+      "notlar": "Oğuzlar ye’yi (y) elif e (e) çevirerek “gezgin’e elgin der.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yelim",
+      "anlam": "Oka tüy yapıştırmakta ya da benzer yapıştırma işlerinde kullanılan zamk.",
+      "ornek_metin": "yaru yelim: Balık tutkalı",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "681",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yelimledi",
+      "anlam": "Oka tüy yapıştırdı.",
+      "ornek_metin": "ol oq yelimledi: O, oka tüy yapıştırdı.",
+      "cekimler": [
+        "yelimler",
+        "yelimlemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "681",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yelimledi",
+      "anlam": "Yolda bir düşman pususu ya da ileri kolu olup olmadığını görmek ve haber getirmek için askeri birliklerin önünden gitti.",
+      "ornek_metin": "ol yölug yelimledi: O, yolda bir düşman pususu ya da ileri kolu olup olmadığını görmek ve haber getirmek için askeri birliklerin önünden gitti.",
+      "cekimler": [
+        "yelimler",
+        "yelimlemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "681",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yelimlendi",
+      "anlam": "Oka tutkal yapıştırıldı veya başka bir şeyin oka yapıştırılması için tutkal sürüldü.",
+      "ornek_metin": "oqyelimlendi: Oka tutkal yapıştırıldı. Ya da başka bir şeyin oka yapıştırılması için tutkal sürüldü.",
+      "cekimler": [
+        "yelimlenûr",
+        "yelimlenmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "681",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yelin",
+      "anlam": "Kısrağın ya da herhangi bir toynaklı hayvanın dişisinin memesi.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "681",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yelirig",
+      "anlam": "Rüzgârın çok fazla estiği bir yer.",
+      "ornek_metin": "bu yeîing kün: Bu, rüzgârlı bir gün.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "681",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yelnedi",
+      "anlam": "Kısrağın memesi şişti.",
+      "ornek_metin": "be yelnedi: Kısrağın memesi (doğurma zamanı gelince) şişti - bu, hayvanın memesinin sütle dolduğunu gösterir.",
+      "cekimler": [
+        "yelner",
+        "yelnemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "682",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yelpik",
+      "anlam": "Cin çarpması.",
+      "ornek_metin": "erke yelpik tegdi: Adamı cin çarptı",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "682",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yelpindi",
+      "anlam": "Çocuğu cin çarptı.",
+      "ornek_metin": "oglân yelpindi: Çocuğu cin çarptı.",
+      "cekimler": [
+        "yelpinür",
+        "yelpinmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "682",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yelpindi",
+      "anlam": "Kendini yelledi, kendine esinti vuracak biçimde yelpaze salladı.",
+      "ornek_metin": "ol Özinge yel yelpindi: O, kendini yelledi - O, kendine esinti vuracak biçimde yelpaze salladı.",
+      "cekimler": [
+        "yelpinür",
+        "yelpinmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "682",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yelpirdi",
+      "anlam": "Rüzgâr esti.",
+      "ornek_metin": "yel yelpirdi: Rüzgâr esti.",
+      "cekimler": [
+        "yelpirer",
+        "yelpirmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "682",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yelpirdi",
+      "anlam": "Adam sanki cin çarpmış gibi sağa sola dönüp durdu.",
+      "ornek_metin": "er yelpirdi: Adam sanki cin çarpmış gibi sağa sola dönüp durdu.",
+      "cekimler": [
+        "yelpirer",
+        "yelpirmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "682",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yelpirdi",
+      "anlam": "Kepek nemlendi.",
+      "ornek_metin": "kepek yelpirdi: Kepek nemlendi. Toprağın üzerine zayıf bir yağmur (çisenti) düşmesini anlatmak için de bu sözcük kullanılır.",
+      "cekimler": [
+        "yelpirer",
+        "yelpirmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "682",
+      "notlar": "Toprağın üzerine zayıf bir yağmur (çisenti) düşmesini anlatmak için de bu sözcük kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yelpirdi",
+      "anlam": "Yağmur toprağın üzerini nemlendirdi.",
+      "ornek_metin": "yağmur yelpirdi: Yağmur toprağın üzerini nemlendirdi.",
+      "cekimler": [
+        "yelpirer",
+        "yelpirmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "682",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yelpişdi",
+      "anlam": "Sivrisinekleri kovma konusunda ona yardım etti.",
+      "ornek_metin": "ol angar sirigek yelpişdi: O, sivrisinekleri kovma konusunda ona yardım etti. Yelpaze sallama, yelleme işinde yardım etmeyi anlatmak için de bu sözcük kullanılır.",
+      "cekimler": [
+        "yelpişür",
+        "yelpişmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "682",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yelpişdi",
+      "anlam": "Kepeğin kırıntıları nemlenerek birbirlerine yapıştı.",
+      "ornek_metin": "kepek yelpişdi: Kepeğin kırıntıları (nemlenerek birbirlerine) yapıştı.",
+      "cekimler": [
+        "yelpişür",
+        "yelpişmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "682",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yelpitti",
+      "anlam": "Atın saman ve kepekten oluşan yemini ıslattı.",
+      "ornek_metin": "ol atqa aşbaryelpitti: O, atın (saman ve kepekten oluşan) yemini ıslattı.",
+      "cekimler": [
+        "yelpitür",
+        "yelpitmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "682",
+      "notlar": "Toprağın üzerini nemlendiren çiseleyen yağmur'u anlatmak için de yağmur yerig yelpitti denir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yelpitti",
+      "anlam": "Ona bir yelpaze yardımıyla sinekleri kovdurttu.",
+      "ornek_metin": "ol angar singek yelpitti: O, ona bir yelpaze yardımıyla sinekleri kovdurttu.",
+      "cekimler": [
+        "yelpitür",
+        "yelpitmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "682",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yelü",
+      "anlam": "Tayları bağlamak için kullanılan ip.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "682",
+      "notlar": "Kısraklar kımız için sağılacağı zaman taylar tek bir ipe bağlanır, böylece kısraklar sağılmak için onların etrafına toplanır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yelwi",
+      "anlam": "Büyü; sihir.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "682",
+      "notlar": "Büyücü'ye yelwîçi denir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yelvvirdi",
+      "anlam": "Gelin çadırı rüzgârın etkisiyle sallandı.",
+      "ornek_metin": "tolwır yelvvirdi: Gelin çadırı (rüzgânn etkisiyle) sallandı",
+      "cekimler": [
+        "yeîvvirer",
+        "yelwirmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "683",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yem",
+      "anlam": "Yiyecek.",
+      "ornek_metin": "yem keldür: Yiyecek getir",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "683",
+      "notlar": "Başına kullanılmaz.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yemdü",
+      "anlam": "Edep yerleri ve çevresi.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "683",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yemeçük",
+      "anlam": "Buğday taşınan küçük bir çuval.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "683",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yemet",
+      "anlam": "Evet anlamına gelen bir ilgeç.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "edat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "683",
+      "notlar": "emet de denir, ye (y), eliften (e) donuşmüştür.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yemiş",
+      "anlam": "Meyveler için kullanılan genel bir ad.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "683",
+      "notlar": "Genellikle ağaçların meyvelerini anlatmak için kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yemişlendi",
+      "anlam": "Ağaç meyve verdi.",
+      "ornek_metin": "yıgâç yemişlendi: Agaç meyve verdi [meyvelendi].",
+      "cekimler": [
+        "yemişlenür",
+        "yemişlenmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "683",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yemrüşdi",
+      "anlam": "Ağacı kökünden sökme işinde ona yardım etti.",
+      "ornek_metin": "ol angar yıgâç yemriışdi: O, ağacı kökünden sökme işinde ona yardım etti",
+      "cekimler": [
+        "yemrüşür",
+        "yemrüşmik"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "683",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yemsindi",
+      "anlam": "Adam yemeği yiyormuş gibi yaptı, ama gerçekte yemedi.",
+      "ornek_metin": "er aş yemsindi: Adam yemeği yiyormuş gibi yaptı, ama gerçekte yemedi.",
+      "cekimler": [
+        "yemsinür",
+        "yemsinmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "683",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yemürdi",
+      "anlam": "Adam ağacı kökünden söküp çıkarttı.",
+      "ornek_metin": "er yıgâç yemürdi: Adam ağacı Ibaşka bir şeyi de olabiliri kökünden söküp çıkarttı",
+      "cekimler": [
+        "yemürür",
+        "yemürmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "683",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yemürgen",
+      "anlam": "Ağaçları kökünden söküp atan bir sudur. Bir şeyi kökünden söken herhangi bir şeyi anlatmak için de bu sözcük kullanılır.",
+      "ornek_metin": "bu süvv ol yıgâçıg yemürgen: Bu, ağaçlan kökünden söküp atan bir sudur.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "683",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yen",
+      "anlam": "İnsan bedeni.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "684",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yençdi",
+      "anlam": "Kavunu ayağı altında ezdi.",
+      "ornek_metin": "ol! qâgünugyençdi: O, kavunu ayağı altında ezdi. Birinin ısırarak ezip, birbirine kattığı herhangi bir şeyi anlatmak için de bu sözcük kullanılır.",
+      "cekimler": [
+        "yençer",
+        "yençmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "684",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yenetti",
+      "anlam": "Yara iyileşti.",
+      "ornek_metin": "bâşyenetti: Yara iyileşti.",
+      "cekimler": [
+        "yenetür",
+        "yenetmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "684",
+      "notlar": "Kök-biçimi yenedti'dir, benzeşime maruz kalmıştır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yengeç",
+      "anlam": "Yengeç.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Oğuz lehçesi",
+      "kaynak_sayfa": "684",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yenidi",
+      "anlam": "Kadın doğurdu.",
+      "ornek_metin": "urâgut yen'idi: Kadın doğurdu.",
+      "cekimler": [
+        "yenir",
+        "yenîmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "684",
+      "notlar": "Bu sözcük yalnızca bir kadının doğurmasını anlatmak için kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yenigü",
+      "anlam": "Bu kadın doğurmak üzeredir.",
+      "ornek_metin": "bu urâgut ol yenigü: Bu kadın doğurmak üzeredir",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "684",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yenik",
+      "anlam": "Herhangi bir şeyin hafif olanı.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "684",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yenitti",
+      "anlam": "Adam kadını doğurttu.",
+      "ornek_metin": "er urâgutnı yenitti: Adam kadını doğurttu.",
+      "cekimler": [
+        "yenitür",
+        "yenitmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "684",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yerig",
+      "anlam": "Elbise kolu, yeni.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "684",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yengdi",
+      "anlam": "Adam bir işte onu yendi [alt etti].",
+      "ornek_metin": "er anryengdi: Adam (bir işte) onu yendi [alt etti]",
+      "cekimler": [
+        "yenger",
+        "yerigmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "Oğuz ve Qıfçâq lehçeleri",
+      "kaynak_sayfa": "685",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yerigge",
+      "anlam": "Yenge, büyük erkek kardeşin karısı.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "685",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yengşürdi",
+      "anlam": "Ilık hale gelene kadar sıcak suyu soğuk su ile karıştırdı.",
+      "ornek_metin": "ol isig sövvug tumlugqa yengşürdi: O, ılık bale gelene kadar sıcak suyu soğuk su ile karıştırdı.",
+      "cekimler": [
+        "yengşürür",
+        "yengşürmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "685",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yepgil",
+      "anlam": "Mor giysi.",
+      "ornek_metin": "yepgil tön: Mor giysi",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "685",
+      "notlar": "lâm (!), nun dan (n) dönüşmüştür [bkz. yepgin].",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yepgin",
+      "anlam": "Koyu yeşil ya da koyu mor renkte olan bir şey.",
+      "ornek_metin": "yepgin neng: Koyu yeşil ya da koyu mor renkte olan bir şey.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "685",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yepgin",
+      "anlam": "Mor giysi.",
+      "ornek_metin": "yepgin tpn: Mor giysi",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "685",
+      "notlar": "lâm'lı biçimin [yepgil] değişik sesletimi.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yepün",
+      "anlam": "Koyu kırmızı, kırmızı dağ lalesinin renginde olan herhangi bir şey.",
+      "ornek_metin": "qılnu bilse qm l keder, yarânu bilse yaşıl keder: Eğer (bir kadın) nasıl cilveli ve fingirdek olunacağını biliyorsa kızıl ipek giyer, nasıl alımlı ve cana yakın olunacağını biliyorsa yeşil ipek giyer.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "685",
+      "notlar": "Burada kocanın, karısına bu ipekleri armağan etmesi gerektiği vurgulanıyor.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yer",
+      "anlam": "Dünya, yer, toprak anlamlarında kullanılır.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "685",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yer",
+      "anlam": "İşlemeli ipek kumaşın ya da Çin işi kumaşın iki yüzünden biri - arışları (boyuna dokunan iplikler), diğer renklerden baskın ve ağırlıklı olan renk.",
+      "ornek_metin": "yaşıl yerlig barçın: Yeşil rengin hâkim olduğu ipekli kumaş — bu renk, kumaşın köküdür [zemin rengidir] ve diğer renkler dallarıdır [ikincil renkler].",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "685",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yerçi",
+      "anlam": "Deneyimli rehber.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "685",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yerdeş",
+      "anlam": "Hemşeri.",
+      "ornek_metin": "yerdeş kişi: Hemşeri.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Oğuz lehçesi",
+      "kaynak_sayfa": "685",
+      "notlar": "Eğer iki adam aynı kenltense, her ikisi de diğeri için yerdeş'tir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yerdi",
+      "anlam": "Dalı [başka bir şeyi de olabilir] ikiye ayırdı [yardı].",
+      "ornek_metin": "ol butıq yerdi: O, dalı [başka bir şeyi de olabilir] ikiye ayırdı [yardı]. Yaş olan herhangi bir şeyi, keskin bir aletle kesmeksizin uzunlamasına ikiye ayırmayı, yırtmayı anlatmak için de bu sözcük kullanılır.",
+      "cekimler": [
+        "yerer",
+        "yermek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "685",
+      "notlar": "Bunların ilki [bkz. yardı] daha şiddetli bir yarmayı anlatır, İkincisindeki yarma eylemi ise daha nazik, kolayca icra edilmektedir.",
+      "kontrol_gerekli": false
+    }
+  ]
+}

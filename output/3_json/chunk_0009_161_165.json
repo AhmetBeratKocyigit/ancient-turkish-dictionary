@@ -1,0 +1,771 @@
+{
+  "chunk_no": 9,
+  "kaynak_sayfa_baslangic": 161,
+  "kaynak_sayfa_bitis": 165,
+  "kelimeler": [
+    {
+      "kelime": "axsâdi",
+      "anlam": "Aksadı, topalladı.",
+      "ornek_metin": "At aksadı, topalladı.",
+      "cekimler": [
+        "axsâr",
+        "axsâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "161",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "axsaq",
+      "anlam": "Topal; aksak.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "161",
+      "notlar": "bkz. boxsaq.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "axsattı",
+      "anlam": "Aksattı.",
+      "ornek_metin": "ol anı axsattı: O, onu aksattı.",
+      "cekimler": [
+        "axsatur",
+        "axsatmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "161",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "axsurik",
+      "anlam": "",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "belirsiz",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "161",
+      "notlar": "",
+      "kontrol_gerekli": true
+    },
+    {
+      "kelime": "axsunger",
+      "anlam": "Gürültü patırdı çıkaran, kavga eden sarhoş adam.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "161",
+      "notlar": "Başka bir lehçedeki değişik sesletimi axsurn'dur.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "axşam",
+      "anlam": "Akşam; günbatımı zamanı.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "161",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "axtardı",
+      "anlam": "Taşı çevirdi, devirdi.",
+      "ornek_metin": "er daşıg axtardı: Adam taşı devirdi. tüpiyigâçıg axtardı: Tipi ağacı devirdi.",
+      "cekimler": [
+        "axtarur",
+        "axtarmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "161",
+      "notlar": "Bir şeyi ters çeviren herhangi bir şeyi anlatmak için kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "axtardı",
+      "anlam": "Toprağı sürdü.",
+      "ornek_metin": "ol yer axtardı: O toprağı sürdü.",
+      "cekimler": [
+        "axtarur",
+        "axtarmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "161",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ây",
+      "anlam": "Ay.",
+      "ornek_metin": "tölun ây: Dolunay",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "161",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ây",
+      "anlam": "Otuz günlük zaman dilimi.",
+      "ornek_metin": "qışqa anun kelse qalı qutlug yây / tün kün keçe alqmür ödleg bile ây: Kış için hazırlan, gelse de kutlu yaz / Gece gündüz geçerek tükenir zaman ile ay",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "161",
+      "notlar": "Yılın on iki bölümünden her birine ay denmesinin nedeni, bu sürenin ayın bir geçişiyle ölçülmesidir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ây kol",
+      "anlam": "Su yakınında bir yer adı.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "161",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "aya",
+      "anlam": "Avuç içi.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "161",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "aya yersgü",
+      "anlam": "Yarasa.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Çigil lehçesi",
+      "kaynak_sayfa": "161",
+      "notlar": "Bazıları yarasa der.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ayâdı",
+      "anlam": "Giysisini veya başka bir şeyi korudu.",
+      "ornek_metin": "ol tönin ayâdı: O, giysisini korudu.",
+      "cekimler": [
+        "ayâr",
+        "ayâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "161-162",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ayâdı",
+      "anlam": "Unvan verdi.",
+      "ornek_metin": "xan angar ayâg ayâdı: Han ona unvan verdi.",
+      "cekimler": [
+        "ayâr",
+        "ayâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "161-162",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ayâg",
+      "anlam": "Unvan (lâkab).",
+      "ornek_metin": "qodgıl manga aqllıq bolsun manga ayâga / ıdgıl meni toqışqa yöwgil manga ulâga: Beni bırak, seleklik benim takma adım olsun / Beni savaşa yolla, bana at yardımı yap",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "162",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ayâlâdı",
+      "anlam": "Kız ellerinin ayasını birbirine vurdu, el çırptı.",
+      "ornek_metin": "ayâlâdı: Kız ellerinin ayasını birbirine vurdu [el çırptı].",
+      "cekimler": [
+        "ayâlâr",
+        "ayâlâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "162",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ayaq",
+      "anlam": "Kap kacak.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Oğuz",
+      "kaynak_sayfa": "162",
+      "notlar": "Oğuzlar bu sözcüğü bilmez, onlar bu gibi şeylere çanaq der.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ayaq",
+      "anlam": "Ayak.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "162",
+      "notlar": "Dallı biçimin [adaq] değişik sesletimi.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ayâs",
+      "anlam": "Berrak.",
+      "ornek_metin": "ayâs kök: Berrak gök.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "162",
+      "notlar": "Kölelere, yüzlerinin parlaklığı buna benzetilerek ayâs denir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "aygır",
+      "anlam": "",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "belirsiz",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "162",
+      "notlar": "bkz. adgır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "aydı",
+      "anlam": "Söyledi.",
+      "ornek_metin": "ol manga söz aydı: O bana söz söyledi.",
+      "cekimler": [
+        "ayûr",
+        "aymâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "162",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "aydırig",
+      "anlam": "Ay ışığı.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "162",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ayıg",
+      "anlam": "Ayı.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Oğuz, Qıfçâq ve Yağma",
+      "kaynak_sayfa": "162",
+      "notlar": "Oğuz, Qıfçâq ve Yağma lehçelerinde adıg yerine kullanılan sözcük.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ayıg",
+      "anlam": "Arapçadaki övme eylemi ni'me'ye ve kötülüme eylemi bi'se'ye tekabül eden bir ilgeç.",
+      "ornek_metin": "ayıgedgü: Ne iyi şey; ayıg ya\nz neng: Ne kötü şey.",
+      "cekimler": [],
+      "kelime_turu": "edat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "162",
+      "notlar": "Bu ilgeç iyi ve kötü olan şeyler için bir pekiştirici olarak kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ayıldı",
+      "anlam": "Söylendi.",
+      "ornek_metin": "anigar söz ayıldı: Ona söz söylendi.",
+      "cekimler": [
+        "aydur",
+        "ayılmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "162",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ayıq",
+      "anlam": "Söz; vaat.",
+      "ornek_metin": "anıg manga ayıqı bâr: Onun bana sözü var.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "162",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ayıtgân",
+      "anlam": "Çok fazla soru soran kimse.",
+      "ornek_metin": "ol kişi ol telim söz ayıtgân: O çok fazla soru soran bir adamdır.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "162",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ayıttı",
+      "anlam": "Soru sordu.",
+      "ornek_metin": "ol manga söz ayıttı: O bana söz sordu.",
+      "cekimler": [
+        "aytür",
+        "ayıtmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "162-163",
+      "notlar": "Oğuzlar men angâr söz ayıttım: Ben ona söz söyledim der — bu, kurala uygun değildir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ayla",
+      "anlam": "Böylece, bu suretle.",
+      "ornek_metin": "ayla qılgıl: Böyle yap.",
+      "cekimler": [],
+      "kelime_turu": "zarf",
+      "dil_veya_lehce": "Oğuz",
+      "kaynak_sayfa": "163",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ayloq ayloq",
+      "anlam": "Böyle böyle.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "zarf",
+      "dil_veya_lehce": "Oğuz",
+      "kaynak_sayfa": "163",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ayparig",
+      "anlam": "",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "belirsiz",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "163",
+      "notlar": "",
+      "kontrol_gerekli": true
+    },
+    {
+      "kelime": "aypang er",
+      "anlam": "Kel adam.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Çigil",
+      "kaynak_sayfa": "163",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ayran",
+      "anlam": "Ayran.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "163",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ayrıq",
+      "anlam": "Ayrıkotu.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "163",
+      "notlar": "Türkler buna adrıq der. Oğuzlar d'yi y'ye dönüştürür.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ayrışdı",
+      "anlam": "Birbirinden ayrıldı.",
+      "ornek_metin": "olâr ekki ayrışdı: Onlar birbirinden ayrıldı.",
+      "cekimler": [
+        "ayrışur",
+        "ayrışmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "163",
+      "notlar": "Zel'li biçimin [adrışdı] değişik sesletimi.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ayru",
+      "anlam": "Değilse.",
+      "ornek_metin": "münı tîlemese sen ayru ne kerek: Bunu dilemiyorsan, başka ne istersin?",
+      "cekimler": [],
+      "kelime_turu": "edat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "163",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ayruq",
+      "anlam": "Başka (gayr).",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "Oğuz",
+      "kaynak_sayfa": "163",
+      "notlar": "Adruq sözcüğünün değişik sesletimi.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "aytıg",
+      "anlam": "Bir kişinin sağlığını, sıhhatini sormak.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "163",
+      "notlar": "Aytış'ın değişik sesletimi.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "aytıldı",
+      "anlam": "Söz ondan soruldu.",
+      "ornek_metin": "söz aytıldı: Söz [başka bir şey de olabilir] ondan soruldu.",
+      "cekimler": [
+        "aytılur",
+        "aytılmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "163",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ay tındı",
+      "anlam": "Söz sormayı kendi üzerine aldı.",
+      "ornek_metin": "ol söz aytındı: Söz sormayı kendi üzerine aldı.",
+      "cekimler": [
+        "aytınur",
+        "aytınmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "163",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "aytış",
+      "anlam": "İki kişinin karşılıklı olarak birbirlerinin sağlığını, sıhhatini sorması.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "163",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ay turdı",
+      "anlam": "Söz söyletti.",
+      "ornek_metin": "ol manga söz ayturdı: O bana söz söyletti.",
+      "cekimler": [
+        "ayturur",
+        "ayturmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "163",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "âz",
+      "anlam": "Miktar olarak az olan.",
+      "ornek_metin": "âz neng: Miktar olarak az olan bir şey.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "163",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "âz",
+      "anlam": "Ermin hayvanı; as.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "163",
+      "notlar": "Bozulmamış sin'li biçimin [âs] değişik sesletimi.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "azaq",
+      "anlam": "Oğuz beyleri arasındaki bir şefin adı.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Oğuz",
+      "kaynak_sayfa": "163",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "azdı",
+      "anlam": "Yolu şaşırdı.",
+      "ornek_metin": "ol yöl âzdı: O, yolu şaşırdı.",
+      "cekimler": [
+        "azâr",
+        "azmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "164",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "azgân",
+      "anlam": "",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "belirsiz",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "164",
+      "notlar": "bkz. qazgân.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "azıg",
+      "anlam": "Her türlü hayvanın azıdişi.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "164",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "azıglâdı",
+      "anlam": "Azıdişiyle ısırıp yaraladı.",
+      "ornek_metin": "tonğuz atıg azıglâdı: Domuz atı yaraladı. men tonguznı azıglâdım: Ben domuzun azıdişine vurdum.",
+      "cekimler": [
+        "azıglâr",
+        "azıglâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "164",
+      "notlar": "İki yanda azıdişi bulunan bütün yırtıcı hayvanlar için bu sözcük kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "azıglig",
+      "anlam": "Azıdişi çıkmış.",
+      "ornek_metin": "azıglıg at: Azıdişi çıkmış at.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "164",
+      "notlar": "Azıdişi çıkan bütün hayvanlar için kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "azıldı",
+      "anlam": "Yol şaşırıldı.",
+      "ornek_metin": "yöl azıldı: Yol şaşırıldı.",
+      "cekimler": [
+        "azılur",
+        "azılmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "164",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "azıtgân",
+      "anlam": "Halkı yoldan çıkaran kimse.",
+      "ornek_metin": "ol kişi ol yoldan azıtgân: O kimse, halkı hep yoldan çıkarır [yolu kaybettirir].",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "164",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "azıttı",
+      "anlam": "Yolunu şaşırtı.",
+      "ornek_metin": "ol angâr yöl azıttı: O, ona yolunu şaşırttı [yolu kaybettirdi].",
+      "cekimler": [
+        "azıtur",
+        "azıtmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "164",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "âzlandı",
+      "anlam": "Paranın az olduğunu düşündü.",
+      "ornek_metin": "ol bu yarmâqıg âzlandı: O, bu paranın az olduğunu düşündü.",
+      "cekimler": [
+        "âzlanur",
+        "âzlanmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "164",
+      "notlar": "Başka şeyler için de kullanılabilir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "azma",
+      "anlam": "Yumurtalıklarının derisi kesildiği için cinsel birleşmede bulunamayan koç.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "164",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "azu",
+      "anlam": "İki şey arasında seçim yapmayı anlatırken ya da soru sormak için kullanılan bir sözce.",
+      "ornek_metin": "üzüm yegil azu qâgün yegil: Ya üzüm ya da kavun ye. kelir mü sen azu barîr mu sen: Gelir misin, yoksa gider misin?",
+      "cekimler": [],
+      "kelime_turu": "edat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "164",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "azuq",
+      "anlam": "Nereden geldiği ve kimin attığı belli olmayan ok.",
+      "ornek_metin": "azuq öq: Nereden geldiği ve kimin attığı belli olmayan ok.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "164",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "azuq",
+      "anlam": "Kaçan, yoldan çıkan.",
+      "ornek_metin": "azuqmunuq: Kaçan, yoldan çıkan.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "164",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "azuq",
+      "anlam": "Azık, erzak.",
+      "ornek_metin": "sartnıng azuqı arıg bolsa yöl ûzeyer: Tüccarın azığı temiz olsa, yol üzerinde yer.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "164",
+      "notlar": "Bu atasözü haklı olduğunu iddia eden, ama bunu ispatlaması gerekince kaçan kimseler için söylenir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "azuqlug arm âs",
+      "anlam": "Azığı olan adam yorulmaz.",
+      "ornek_metin": "azuqlug arm âs: Azığı olan adam yorulmaz.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "164-165",
+      "notlar": "Çünkü güçlüdür ve iyi beslenir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "azuqlandı",
+      "anlam": "Azık sahibi oldu.",
+      "ornek_metin": "er azuqlandı: Adam azık sahibi oldu.",
+      "cekimler": [
+        "azuqlanur",
+        "azuqlanmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "165",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "azuqlug",
+      "anlam": "Azığı olan.",
+      "ornek_metin": "azuqlug er: Azığı olan adam.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "165",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "azuqluq",
+      "anlam": "Erzak olarak hazırlanan şey.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "165",
+      "notlar": "",
+      "kontrol_gerekli": false
+    }
+  ]
+}

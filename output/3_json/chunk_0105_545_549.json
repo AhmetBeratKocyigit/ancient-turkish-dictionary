@@ -1,0 +1,636 @@
+{
+  "chunk_no": 105,
+  "kaynak_sayfa_baslangic": 545,
+  "kaynak_sayfa_bitis": 549,
+  "kelimeler": [
+    {
+      "kelime": "tazlâdı",
+      "anlam": "Kel saydı.",
+      "ornek_metin": "ol anı tazlâdı: O, onu kel saydı.",
+      "cekimler": [
+        "tazlâr",
+        "tazlâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "545",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "taygân",
+      "anlam": "Tazı.",
+      "ornek_metin": "taygân yügrükin tîlkü sewmes: Tilki, hızlı koşan tazıyı sevmez. Bu atasözü, belli bir üst-alt çekişmesi nedeniyle biri diğerini kıskanan iki bilgin için kullanılır.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "545",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tayıg",
+      "anlam": "Kaygan yer.",
+      "ornek_metin": "tayıg yer: Kaygan yer.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "545",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tayışdı",
+      "anlam": "Kayma konusunda yarıştı.",
+      "ornek_metin": "ol amg birle tayışdı : O, kayma konusunda onunla yarıştı.",
+      "cekimler": [
+        "tayışür",
+        "tayışmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "545",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tayıttı",
+      "anlam": "Kaydırıp düşmesine neden oldu.",
+      "ornek_metin": "ol anı suwqa tayıttı: O, onun kayıp suyun içine düşmesine neden oldu.",
+      "cekimler": [
+        "tayıtür",
+        "tayıtmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "545",
+      "notlar": "Bir şeyin kaydırılmasını anlatmak için bu sözcük kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "taylang",
+      "anlam": "Zarif ve güzel, çehresi temiz, giysileri şık kimse.",
+      "ornek_metin": "taylang yiğit : Kibar ve zarif genç",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "545",
+      "notlar": "Bu sözcük genellikle gençler için kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tayturdı",
+      "anlam": "Suda kaydırdı.",
+      "ornek_metin": "ol anı suwqa tayturdı: O, onu suda kaydırdı.",
+      "cekimler": [
+        "tayturur",
+        "tayturmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "545",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tayuq",
+      "anlam": "Genç, kibar ve zarif adam.",
+      "ornek_metin": "tayuq er: Genç, kibar ve zarif adam.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "545",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tayuqlandı",
+      "anlam": "Züppe gibi giyindi.",
+      "ornek_metin": "yiğit tayuqlandı: Genç adam züppe gibi giyindi.",
+      "cekimler": [
+        "tayuqlanür",
+        "tayuqlanmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "545",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tâz",
+      "anlam": "Dazlak; kel.",
+      "ornek_metin": "tâz at tawârçı bolmâs: Alaca atla yük taşınmaz [çünkü onun nallan kötüdür]",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "545",
+      "notlar": "tdz at: Alacalı at. tâz qöy: Boynuzsuz koyun. tâz yer: Çorak toprak.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tazardı",
+      "anlam": "Çıplaklaştı, yalınlaştı.",
+      "ornek_metin": "tozardı neng: Bir şey çıplaklaştı, yalınlaştı.",
+      "cekimler": [
+        "tazarür",
+        "tazarm âq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "545",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tazgırdı",
+      "anlam": "Kelleşti.",
+      "ornek_metin": "er başı tazgırdı: Adamın başı kelleşti.",
+      "cekimler": [
+        "tazgırâr",
+        "tazgtrmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "545",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tedi",
+      "anlam": "Söyledi.",
+      "ornek_metin": "ol manga andag tedi: O, bana böyle söyledi,",
+      "cekimler": [
+        "ter",
+        "temek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "546",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tedin",
+      "anlam": "Zaman.",
+      "ornek_metin": "bu tedîn keldi: Bu zamanda geldi,",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "546",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "teg",
+      "anlam": "Benzetme [karşılaştırma] ilgeci.",
+      "ornek_metin": "ol andag teg: O, onun gibi,",
+      "cekimler": [],
+      "kelime_turu": "edat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "546",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tegdi",
+      "anlam": "Ulaştı.",
+      "ornek_metin": "Oİ ewke tegdi: O, eve (başka bir yere de olabilir) ulaştı.",
+      "cekimler": [
+        "tegir",
+        "t eğmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "546",
+      "notlar": "Şu dizelerde de kullanılır: atgalır oqnı azaq tegmedi bu sâw uşâcj (Bu fettan kadın bana kaynağı belli olmayan okunu atar - o, sersen ok atar (Ama) bu iftira bana değmez - bu söz (iftira) bana değmez)",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tegildi",
+      "anlam": "Körleşti.",
+      "ornek_metin": "anıg közi tegildi: Onun gözü körleşti,",
+      "cekimler": [
+        "teglür",
+        "tegiltnek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "546",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tegin",
+      "anlam": "Köle.",
+      "ornek_metin": "kümüş tegin: Derisi gümüş gibi açık renk olan köle; alp tegin: güçlü köle; qutlug tegm: usanmış köle.",
+      "cekimler": [
+        "teginür",
+        "teginmek"
+      ],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "546",
+      "notlar": "Daha sonra Hâqâniler bu sözcüğü erkek çocuklar için söylenen asil bir unvan olarak kullanmaya başlamıştır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tegindi",
+      "anlam": "O, gelmesini lütfetmenizi istiyor.",
+      "ornek_metin": "ol tegindi: o ulaştı",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "Çigil lehçesi",
+      "kaynak_sayfa": "547",
+      "notlar": "Çigil lehçesinde, Hakan'a ya da Bey'e birinin huzura geldiğini duyurmak için kullanılır. Oğuzlar bu ifadeyi sevmez.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "teging",
+      "anlam": "Samur.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "547",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tegirme",
+      "anlam": "Çörek, değirmen ya da para gibi yuvarlak olan herhangi bir şey.",
+      "ornek_metin": "tegirme neng: Çörek, değirmen ya da para gibi yuvarlak olan herhangi bir şey.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "547",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tegirm ek",
+      "anlam": "Devenin sırtına yüklenen tahtırevan.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Oğuzlar",
+      "kaynak_sayfa": "547",
+      "notlar": "Oğuzlar buna ûgürmek de der.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tegiş",
+      "anlam": "Herhangi bir şeyin sınırı ya da had safhası.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "547",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tegiş",
+      "anlam": "Bir erkek adı.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "547",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tegişdi",
+      "anlam": "Yargılanmak için beyin önüne çıktılar / Erişti.",
+      "ornek_metin": "olâr ekki begke tegişdi: Onlar yargılanmak için beyin önüne çıktılar. menig elgim tarusqa tegişdi: Benim elim çatıya erişti.",
+      "cekimler": [
+        "tegişûr",
+        "tegişmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "547",
+      "notlar": "Şu atasözünde de geçer: muş yaqnqa tegişmes, ayur kişi nengi yaraşm âs: Kedi asılı yağa erişemez, \"insanoğlunun yiyecekleri zaten bana yaramaz\" der.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tegit",
+      "anlam": "Köle.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "547",
+      "notlar": "tegin sözcüğünün çoğuludur. Kuraldışı bir çoğuldur.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "teglük",
+      "anlam": "Kör.",
+      "ornek_metin": "teglük közlüg: Kör adam",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "547",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tegme",
+      "anlam": "Herkes.",
+      "ornek_metin": "tegme kişi Öz bolmâs, yat yaguq tüz bolmâs: Herkes senin gibi olmaz",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "547",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tegre",
+      "anlam": "Halka; yuvarlak herhangi bir şeyin dış kenarı.",
+      "ornek_metin": "qudug tegresi: Kuyunun (başka bir şeyin de olabilir) kenarı [halkası]",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "547",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tegrek",
+      "anlam": "Yuvarlak bir şeyin dış kenarı.",
+      "ornek_metin": "qudug tegreki: Kuyunun kenarı",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "547",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tegşüt",
+      "anlam": "Bedel ödeme esasına dayanarak bir şeyi başka bir şeyle, örneğin adi parayı iyi parayla değiştirme.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "547",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tegül",
+      "anlam": "Değil.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "edat",
+      "dil_veya_lehce": "Oğuz lehçesi",
+      "kaynak_sayfa": "547",
+      "notlar": "Bu sözcük, Arguların, dâg ol ifadesinden türetilmiştir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tegürdi",
+      "anlam": "Getirdi.",
+      "ornek_metin": "ol manga begdin söz tegürdi: O, bana beyin [başka birinin de olabilir] sözünü getirdi,",
+      "cekimler": [
+        "tegürîır",
+        "tegürmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "548",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tegürgen",
+      "anlam": "İşi sonuna kadar götüren.",
+      "ornek_metin": "bu er ol işıg adâqqa tegürgen: Bu, işi sonuna kadar götüren bir adamdır,",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "548",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tek",
+      "anlam": "Belli bir amacı olmayan.",
+      "ornek_metin": "tek keldim: Amaçsız geldim",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "548",
+      "notlar": "tek tur: \"Sessiz ol!\" (Oğuz lehçesi).",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "teke",
+      "anlam": "Erkek keçi.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "548",
+      "notlar": "Buradan hareketle sakalları seyrek olan birine teke sakalı denir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "teke",
+      "anlam": "Erkek karaca.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "548",
+      "notlar": "Bunun boynuzlarından yay yapılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tekne",
+      "anlam": "Yalak; yemlik; tekne.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "548",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "teldi",
+      "anlam": "Deldi.",
+      "ornek_metin": "er tâm teldi: Adam duvarı [başka bir şeyi de olabilir] deldi,",
+      "cekimler": [
+        "teler",
+        "telmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "548",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "teldi",
+      "anlam": "Oğlağı süt veren keçinin yanına kattı.",
+      "ornek_metin": "ol oglâaıg saglıqqa teldi: O, oglagı (süt emmesi için) süt veren keçinin yanma kattı.",
+      "cekimler": [
+        "telger",
+        "telgemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "548",
+      "notlar": "Bu, anne keçinin sütünün azalması ya da ölmesi ve oğlağın ya da kuzunun bakıma muhtaç kalması durumunda yapılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "telgedi",
+      "anlam": "Canını sıktı ve onu sinirlendirdi.",
+      "ornek_metin": "ol atasın bulgâdı telgedi: O, babasının canını sıktı ve onu sinirlendirdi",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "548",
+      "notlar": "telgedi sözcüğü tek başına kullanılmaz, ancak bulgadr sözcüğüyle birlikte anlam kazanır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "telgendi",
+      "anlam": "Kızdı ve canı sıkıldı.",
+      "ornek_metin": "ol angar bulgand, telgendi: O, ona kızdı ve canı sıkıldı",
+      "cekimler": [
+        "telgenür",
+        "telgenmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "548",
+      "notlar": "telgendi sözcüğü tek başına kullanılmaz, yalnızca bulgandı sözcüğünün tamamlayıcısı olarak kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "telik",
+      "anlam": "Delik.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "548",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "telim",
+      "anlam": "Çok olan.",
+      "ornek_metin": "telim yarm aq: Çok para.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "548",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "telişdi",
+      "anlam": "Delme işinde birbirlerine meydan okudular.",
+      "ornek_metin": "olâr ekki tâm telişdi: Onlar duvan [başka bir şeyi de olabilir] delme işinde birbirlerine meydan okudular.",
+      "cekimler": [
+        "telişür",
+        "telişmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "549",
+      "notlar": "Bu işte yardımlaşmayı anlatmak için de bu sözcük kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "telmirdi",
+      "anlam": "Sanki bir şeyi ya da birini arıyormuş gibi sağa sola bakındı.",
+      "ornek_metin": "er telim telmirdi: Adam sanki bir şeyi ya da birini anyormuş gibi sağa sola bakındı.",
+      "cekimler": [
+        "telmirer",
+        "telmirmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "549",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "teltürdi",
+      "anlam": "Duvarın delinmesini emretti.",
+      "ornek_metin": "ol tâm teltürdi: O, duvarın delinmesini emretti.",
+      "cekimler": [
+        "tellürür",
+        "teltürmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "549",
+      "notlar": "Buradaki ikinci te (t), dal'dan (d) değişmiştir [teldürdi].",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "telü",
+      "anlam": "Ahmak.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "Oğuz lehçesi",
+      "kaynak_sayfa": "549",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "telwe",
+      "anlam": "Deli.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "549",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "temen",
+      "anlam": "Çuvaldız.",
+      "ornek_metin": "temenyingne: Çuvaldız",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "549",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "temin",
+      "anlam": "Kısa bir süre önce; demin.",
+      "ornek_metin": "temin keldim: Az önce geldim",
+      "cekimler": [],
+      "kelime_turu": "zarf",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "549",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "temregü",
+      "anlam": "Bir deri hastalığı.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "549",
+      "notlar": "",
+      "kontrol_gerekli": false
+    }
+  ]
+}

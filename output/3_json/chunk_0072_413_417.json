@@ -1,0 +1,749 @@
+{
+  "chunk_no": 72,
+  "kaynak_sayfa_baslangic": 413,
+  "kaynak_sayfa_bitis": 417,
+  "kelimeler": [
+    {
+      "kelime": "qatmı̧s",
+      "anlam": "Gençliğinde çaba sarf eden kimse, yaşlılığında mutlu olur.",
+      "ornek_metin": "Şu atasözünde de geçer, ki çiğde qatıglansa ulgâdu sevvrtür: Gençliğinde çaba sarf eden kimse, yaşlılığında mutlu olur.",
+      "cekimler": [],
+      "kelime_turu": "belirsiz",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "413",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qatıldı",
+      "anlam": "Herhangi bir şeyin, başka bir şey ile karıştırılması",
+      "ornek_metin": "arpa ugür birle qatıldı: Darı, arpa ile karıştırıldı. Herhangi bir şeyin, başka bir şey ile kanştınlraasmı anlatmak için bu sözcük kullanılır. er urâgutqa qatıldı: Erkek kadınla çiftleşti (cinsel ilişkiye girdi]",
+      "cekimler": [
+        "qatılür",
+        "qatılmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "413",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qatılgân",
+      "anlam": "İnsanların meselelerinde tartışmaya dahil olan adam",
+      "ornek_metin": "bu er ol kişi birle tutçı qatılgân qanlgân: Bu, insanların meselelerinde tartışmaya dahil olan bir adamdır.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "413",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qatındı",
+      "anlam": "Arpa ununa yağ karıştırıyormuş gibi görünmek",
+      "ornek_metin": "ol talqânqa yâg qatmdı: O, arpa ununa yağ karıştırıyormuş gibi göründü.",
+      "cekimler": [
+        "qatmür",
+        "qatınmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "413",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qatıq",
+      "anlam": "Tutmaç yemeğine katılan lezzet verici herhangi bir madde; örneğin sirke ya da yoğurt.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "413",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qatıq",
+      "anlam": "Herhangi bir şeyin içine katılan şey.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "413",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qatıglıg",
+      "anlam": "Melez ya da kırma adam - yemeğini lezzetlendirmek için çeşniye sahip olan kimse. Yemek için katığı bulunan kimse.",
+      "ornek_metin": "qatıgltg er: Melez ya da kırma adam - yemeğini lezzetlendirmek için çeşniye sahip olan kimse. Yemek için katığı bulunan kimseye de böyle denir.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "413",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qatır",
+      "anlam": "Katır",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "413",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qatırlıg",
+      "anlam": "Katır sahibi adam",
+      "ornek_metin": "qatırlıg e r Katır sahibi adam.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "413",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qatışdı",
+      "anlam": "Arpa ununa yağ katmakta yardım etmek ve bu konuda rekabet etmek",
+      "ornek_metin": "ol menig birle talqanqa yâg qatışdı: O, arpa ununa yağ katmakta bana yardım etti. Bu konuda rekabet etmeyi anlatmak için de bu sözcük kullanılır.",
+      "cekimler": [
+        "qatışür",
+        "qatışmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "413",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qâtlandı",
+      "anlam": "Ağaç meyvelendi",
+      "ornek_metin": "yıgâç qâtlandı: Ağaç meyvelendi",
+      "cekimler": [
+        "qâtlânür",
+        "qdtlanmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "Qıfçâq, Yemek, Ogrâk lehçeleri",
+      "kaynak_sayfa": "413",
+      "notlar": "Diğer Türkler arasında bu sözcük akasya ağacının meyvesi için kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qatlış",
+      "anlam": "Bir nehrin kollarının buluştuğu yer",
+      "ornek_metin": "süvv qatlıştı: nehrin kolları birleşti denir.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "413",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qatma",
+      "anlam": "Yağda pişirilen katlanmış ekmek (yufka)",
+      "ornek_metin": "qatmö yuvga: Yağda pişirilen katlanmış ekmek [yufka]",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "413",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qatmış",
+      "anlam": "Bir erkek adı",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "413",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qatnâdı",
+      "anlam": "Emirlere uymayı reddetmek; biri karşısında küstahça davranmak ve sözlerinin aksini iddia etmek",
+      "ornek_metin": "er angar qatnödı: Adam emirlere uymayı reddetti; birinin emirleri karşısında küstahça davrandı ve onun sözlerinin aksini iddia etti.",
+      "cekimler": [
+        "qatnâr",
+        "qatnâm âq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "414",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qatnattı",
+      "anlam": "Kendi sözünü tekrar tekrar söyletmek",
+      "ornek_metin": "ol amg sozin qatnattı: O, ona kendi sözünü tekrar tekrar söyletti.",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "414",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qatqı",
+      "anlam": "Mizacı sert olan, kimseye boyun eğmeyen kişi",
+      "ornek_metin": "qatqı kişi: Mizacı sert olan, kimseye boyun eğmeyen kişi.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "414",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qatquç",
+      "anlam": "Akrebe benzeyen, insanı sokan bir böcek",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Argu lehçesi",
+      "kaynak_sayfa": "414",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qatrundı",
+      "anlam": "Kendine gem vurmak, ölçülü davranmak; bir anda vazgeçip geri çekilmek",
+      "ornek_metin": "kül er er qatrundt: Gülen adam kendine gem vurdu, ölçülü davrandı. Bunun kök-anlamı “bir işi kısa kesmek’’tir. ol manga yarm aq berür erken qatrundı: O, bana para [başka bir şey de olabilir! verirken bir anda vazgeçti ve geri çekildi.",
+      "cekimler": [
+        "qatrunür",
+        "qatrunmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "414",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qattı",
+      "anlam": "Sirkeyi yoğurtla karıştırmak; yumuşak şeyin katılaşması",
+      "ornek_metin": "ol sirkeniyogrutqa qatlı: O, sirkeyi yoğurtla karıştırdı. Herhangi bir şeyin başka bir şey ile karıştırılmasını anlatmak için bu sözcük kullanılır. yumşâq neng qattı: Yumuşak şey katılaştı.",
+      "cekimler": [
+        "qatâr",
+        "qatmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "414",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qatturdı",
+      "anlam": "İpliği büktürmek veya arpa ununa yağ kattırmak",
+      "ornek_metin": "ol yrp qatturdı: O, (iğneden geçirmek için ya da başka bir amaçla) ipliği büktürdü. ol talqânqa yâg qatturdı: O, arpa ununa yağ kattırdı. Herhangi bir şey, başka bir şeyle karıştırıldığında bu sözcük kullanılır.",
+      "cekimler": [
+        "qattum r",
+        "qatturmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "414",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qâtün",
+      "anlam": "Afrâsiyâb’ın bütün kız torunlarına verilen isim",
+      "ornek_metin": "xân işi bolsa qâtün işı qalîr: Hakan'ın işi yaklaştıysa, Qâtün'un işi ertelenir.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "414",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qâtünlandı",
+      "anlam": "Kadın Qâtün gibi giyindi",
+      "ornek_metin": "urâgut qâtünlandı: Kadın Qâtün gibi giyindi.",
+      "cekimler": [
+        "qâtünlanûr",
+        "qâtünlanmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "414",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qâtünsîmî",
+      "anlam": "Çin ile Taıfgut ülkesi arasındaki bir kentin adı",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "414",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qaturdı",
+      "anlam": "Yumuşak bir şeyi sertleştirmek; evden uzakta yaşayarak olgunlaştırmak",
+      "ornek_metin": "ol yumşâq nengni qaturdı: O, yumuşak bir şeyi sertleştirdi - yumuşak demirden çelik yapılması gibi. taş (yer) anı qattırdı: Evden uzakta (gurbette) yaşamak onu olgunlaştırdı",
+      "cekimler": [
+        "qatrur",
+        "qaturmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "415",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qaturgân",
+      "anlam": "Çok dost canlısı, şen şakrak adam",
+      "ornek_metin": "bu er o! üfcüş qaturgân: Bu çok dost canlısı, şen şakrak bir adamdır.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "415",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qatut",
+      "anlam": "Karışım",
+      "ornek_metin": "qatutlug oq: Temrenine zehir sürülmüş ok.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "415",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qatut",
+      "anlam": "İkiye bölünmüş herhangi bir şey",
+      "ornek_metin": "armut qatutı: [İkiye bölünmüş - kurutulmuş] armudun bir parçası.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Barsgân lehçesi",
+      "kaynak_sayfa": "415",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qatut",
+      "anlam": "Çarıkçıların kullandığı bir yapıştırıcı",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "415",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qavıq",
+      "anlam": "Darı kepeği",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "415",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qavuq",
+      "anlam": "Mesane",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "415",
+      "notlar": "qawuq sözcüğünün değişik sesletimi.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qavut",
+      "anlam": "Yeni doğum yapmış kadınlara verilen, darı unu, yağ ve şekerle karıştırılan bir yemek",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "415",
+      "notlar": "qâgüt sözcüğünün değişik sesletimi.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qâw",
+      "anlam": "Kötü dikildiği için giysinin buruşması",
+      "ornek_metin": "tön qdw qöw boldı: Kötü dikildiği için giysisi buruştu, bkz. qöw.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "415",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qâw",
+      "anlam": "Kav, kibritte tutuşturucu olarak kullanılan, kolay yanan madde",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "415",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qawaq",
+      "anlam": "Kâşgar ile Özçend arasındaki bir geçidin adı",
+      "ornek_metin": "qawaq art : Kâşgar ile Özçend arasındaki bir geçidin adı.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "415",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qawçıdı",
+      "anlam": "Sokmak için saldırmak, birine kızıp üzerine yürümek",
+      "ornek_metin": "arı kişike qawçidı: An, onu sokmak için adama saldırdı. Bir adamın başka birine kızıp, onun üzerine yürümesini anlatmak için de bu sözcük kullanılır.",
+      "cekimler": [
+        "qawçîr",
+        "qawçimaq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "415",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qawçıttı",
+      "anlam": "Kızdırmak",
+      "ornek_metin": "ol anı qawçıttı: O,onu (öylesine) kızdırdı; oglân arını qawçıttı: Oğlan arıyı kızdırdı. an qawçıtsa ısrur: Anyı kızdıran kimse sokulur.",
+      "cekimler": [
+        "qawçıtür",
+        "qawçıtmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "415",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qawdındı",
+      "anlam": "Çocuğun üzerine titremek, tehlikeleri ondan uzak tutmak için bütün yolları denemek",
+      "ornek_metin": "er oglınga qawdındı: Adam çocuğunun üzerine titriyordu, tehlikeleri ondan uzak tutmak Çin bütün yolları denedi.",
+      "cekimler": [
+        "qawdmür",
+        "qawdtnmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "415",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qawıq",
+      "anlam": "Darı kepeği",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "416",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qawruldı",
+      "anlam": "Buğday veya başka bir şeyin kavrulması",
+      "ornek_metin": "buğday qawruldı: Buğday [başka bir şey de olabilir] kavruldu.",
+      "cekimler": [
+        "qawrulür",
+        "qawrulmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "416",
+      "notlar": "Sözcüğün g'li bir değişik sesletimi de vardır (qagruldı).",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qawruşdı",
+      "anlam": "Buğday veya başka bir şeyin kavrulmasında yardım etmek",
+      "ornek_metin": "ol manga tarıg qawruşdı: O, bana buğday [başka bir şey de olabiliri kavurmakta yardım etti.",
+      "cekimler": [
+        "qawruşür",
+        "qawruşmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "416",
+      "notlar": "Sözcüğün g'li bir değişik sesletimi de vardır (qagruşdı).",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qawşı",
+      "anlam": "Bitişik ve yay gibi (kaş)",
+      "ornek_metin": "qawşı qâş: Bitişik ve yay gibi kaş.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "416",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qawşut",
+      "anlam": "Ülkelerinin refahı için iki hakanın bir araya getirilip aralarının düzeltilmesi",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "416",
+      "notlar": "Bir erkek adı olarak da kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qawulgân",
+      "anlam": "Sürekli kapıda veya başka bir yerde sıkışan şey",
+      "ornek_metin": "bu neng ol qapugda qawu!gdn: Bu, sürekli kapıda [başka bir yerde de olabilir] sıkışan bir şeydir.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "416",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qawuq",
+      "anlam": "Mesane",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "416",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qawurdı",
+      "anlam": "Bileziğin cariyenin bileğini sıkarak iz bırakması, bir şeyi sıkmak",
+      "ornek_metin": "bilezük kürig elgin qawurdı: Bilezik cariyenin bileğini sıktı. Bir şeyi sıkan herhangi bir şeyi anlatmak için bu sözcük kullanılır.",
+      "cekimler": [
+        "qawrâr",
+        "qawurmdq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "416",
+      "notlar": "bkz. qagurdı",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qawurgân",
+      "anlam": "Her zaman bileği sıkan bilezik",
+      "ornek_metin": "bu bilezûk ol bilek qawurgân: Bu, her zaman bileği sıkan bir bileziktir.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "416",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qawurmâç",
+      "anlam": "",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "belirsiz",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "416",
+      "notlar": "bkz. qagurmâç.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qawuşdı",
+      "anlam": "Erkekle kadının cinsel ilişkiye girmesi, hısımlara kavuşulması veya bir şeyin başka bir şeyle birleşmesi",
+      "ornek_metin": "erkek tışiqa qawuşdı: Erkek kadınla cinsel ilişkiye girdi. Kök-anlamı “bir şeyin başka bir şeyle birleşmesidir.” qadâş qadâşqa qawuşdı: Adam hısımlarına kavuştu. tâg tdgqa qawuşmâs, kişi kişîke qawuşür: Dağ dağa kavuşmaz, adam adama kavuşur.",
+      "cekimler": [
+        "qawuşür",
+        "qawuşmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "416",
+      "notlar": "Bu sözcükte titreşimli je vav'la değiştirilebilir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qây",
+      "anlam": "Bir Türk kavmi",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "416",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qaya",
+      "anlam": "Kaya",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "416",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qayâçuq",
+      "anlam": "Güzel kokulu bir dağ otu (safran)",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "416",
+      "notlar": "Bence bu ez-zerneb’tir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qayaq",
+      "anlam": "Kaymak",
+      "ornek_metin": "sedremiş olgun qonâq sermemiş sütten qayâq: Darının olgun taneleri azalmış, Sütten kaymak süzülmüş",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "417",
+      "notlar": "bkz. qanaq",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qayaqlandı",
+      "anlam": "Sütün kaymak tutması",
+      "ornek_metin": "süt qayaqlandı: Süt kaymak tuttu.",
+      "cekimler": [
+        "qayaqlanür",
+        "qayaqlanmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "417",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qayâs",
+      "anlam": "Tuxsı ve Çigil ülkesinin adı",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Tuxsı ve Çigil",
+      "kaynak_sayfa": "417",
+      "notlar": "Bu ülke üç kaleden menkuldür: sâplıg qayâs, ürürig qayâs, qara qayâs.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qayaslıg",
+      "anlam": "Kayaslı adam",
+      "ornek_metin": "qayaslıg er: Çayâslı adam.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "417",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qayda",
+      "anlam": "Nerede anlamına gelen ilgeç",
+      "ornek_metin": "qayda sen: Neredesin?",
+      "cekimler": [],
+      "kelime_turu": "zarf",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "417",
+      "notlar": "Sözcüğün n'li söylenen biçimi qanda, qayüda ise bir başka değişik sesletimdir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qaydı",
+      "anlam": "Hışmına hürmet göstermek, aldınş etmemek/etmek, ihtimam göstermek",
+      "ornek_metin": "qadâşmga qaydı: O, hışmına hürmet gösterdi. qadaş temiş qaymâduq qadm temiş qaymış: Hısım demişler aldınş etmemiş, kayın demişler ihtimam göstermiş.",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "417",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qayguq",
+      "anlam": "Kayık",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "417",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qaygurdı",
+      "anlam": "Kaygılandı",
+      "ornek_metin": "er qaygurdı: Adam kaygılandı.",
+      "cekimler": [
+        "qaygurâr",
+        "qaygurmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "417",
+      "notlar": "Sözcüğün zei'le söylenen biçiminin (qadgur-) değişik sesletimi.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qayıg",
+      "anlam": "Oğuzların bir kolu",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Oğuz",
+      "kaynak_sayfa": "417",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qayındı (qaynadı)",
+      "anlam": "Güğüm veya başka bir şeyin kaynaması",
+      "ornek_metin": "eşiç qaymdı (qaynadı): Güğüm [başka bir şey de olabilir] kaynadı.",
+      "cekimler": [
+        "qaynâr",
+        "qaynâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "417",
+      "notlar": "",
+      "kontrol_gerekli": false
+    }
+  ]
+}

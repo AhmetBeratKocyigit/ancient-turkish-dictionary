@@ -1,0 +1,663 @@
+{
+  "chunk_no": 22,
+  "kaynak_sayfa_baslangic": 213,
+  "kaynak_sayfa_bitis": 217,
+  "kelimeler": [
+    {
+      "kelime": "bürçek",
+      "anlam": "İnsanın perçemi; atın perçem, yele ya da kuyruk tüyü",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "213",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bürçeklendi",
+      "anlam": "Atın perçemi uzadı. İnsanın perçemi uzadığında da bu sözcük kullanılır.",
+      "ornek_metin": "at bürçeklendi: Atın perçemi ıızadı. İnsanın perçemi uzadığında da bu sözcük kullanılır.",
+      "cekimler": [
+        "bürçeklenür",
+        "bürçeklenmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "213",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bürdi",
+      "anlam": "Torbanın ağzını büzdü.",
+      "ornek_metin": "olyançuq ağzı bürdi: O, torbanın ağzını büzdü. Benzer bir eylemin söz konusu olduğu herhangi bir durumda, örneğin don uçkurunu sıkılmasını ya,,da benzeri şeyleri anlatmak için de bu sözcük kullanılır.",
+      "cekimler": [
+        "bürer",
+        "bürmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "213",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "büri",
+      "anlam": "Okun ucuna geçirilen temrenin oyuğu",
+      "ornek_metin": "Buna ba$aq bürîsi de denir.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "213",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "büri",
+      "anlam": "Ark ya da kuyu gibi şeylerin ağzına takılan ve bu ağızlan destekleyerek suyun şiddetiyle yarılmalannı engelleyen yuvarlak içi boş tahta parçası",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "213",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bürge",
+      "anlam": "Pire",
+      "ornek_metin": "\"Noksan akıllı kişi”ye de bürge kişi denir.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "213",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bürgelendi",
+      "anlam": "Adam öfkesinden pire gibi zıp zıp sıçradı",
+      "ornek_metin": "er bürgelendi: Adam öfkesinden pire gibi zıp zıp sıçradı.",
+      "cekimler": [
+        "bürgelenûr",
+        "bürgelenmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "213",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bürgüç",
+      "anlam": "Fınnın içindeki ekmeyi çevirmeye yarayan, şekli kılıca benzeyen geniş bir tahta parçası",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "213",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bürkek",
+      "anlam": "Gökyüzü kara bulutlarla kaplandı",
+      "ornek_metin": "kök bürkek boldı: Gökyüzü kara bulutlarla kaplandı",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "213",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bürkürdi",
+      "anlam": "Gökyüzünden aralıksız yağmur yağdı / Çırpıcı, giysiyi (kumaşı) nemlendirmek için üzerine su tuttu / (Yaradan) kan fışkırdı",
+      "ornek_metin": "kök bürkürdi: Gökyüzünden aralıksız yağmur yağdı. yugçı tönqa süw bürkürdi: Çırpıcı, giysiyi (kumaşı) nemlendirmek için üzerine su tuttu. qdn bürkürdi: (Yaradan) kan fışkırdı",
+      "cekimler": [
+        "bürkürer",
+        "bürkürmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "213",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bürlendi",
+      "anlam": "Ağaçlar tomurcuklandı",
+      "ornek_metin": "yıgâç bürlendi: Ağaçlar tomurcuklandı.",
+      "cekimler": [
+        "bürlenür",
+        "hürlenmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "213",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bürt",
+      "anlam": "Kâbus",
+      "ornek_metin": "kât i bürt de denir.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "213",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bürük",
+      "anlam": "Heybenin ilmeği ya da donun uçkuru gibi şeylerin ucuna sarılan sicim",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "213",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bürüldi",
+      "anlam": "Kitap [başka bir şey de olabilir] katlandı, büküldü",
+      "ornek_metin": "bitig bürüldi: Kitap [başka bir şey de olabilir] katlandı, büküldü.",
+      "cekimler": [
+        "bürülür",
+        "bürülmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "213",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bürünçük",
+      "anlam": "Kadın peçesi, yaşmak",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "214",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bürürig",
+      "anlam": "Girdap",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "214",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "büründi",
+      "anlam": "Kadın süslü bir örtüyle sarındı ya da yüzünü örttü",
+      "ornek_metin": "urâgut yogurqân büründi: Kadın süslü bir örtüyle sarındı ya da yüzünü örttü",
+      "cekimler": [
+        "bürünür",
+        "bürünmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "214",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bürüşdi",
+      "anlam": "O, bana şalvarın [başka bir şeyin de olabilir] belini sıkmakta yardım etti",
+      "ornek_metin": "ol manga bürme bürüşdi: O, bana şalvarın [başka bir şeyin de olabilir] belini sıkmakta yardım etti. Bir heybenin ağzı ya da benzerleri gibi, bir şeyin etrafını saran, yuvarlak olarak daraltılan ve genişletilen herhangi bir şeyin sıkılaştırılmasmı anlatmak için de aynı sözcük kullanılır.",
+      "cekimler": [
+        "bürüşür",
+        "bürüşmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "214",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "büşinçek",
+      "anlam": "Üzüm salkımı",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Kençek",
+      "kaynak_sayfa": "214",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "büt",
+      "anlam": "Soyluların oğullarının ya da kızlarının perçemlerine takılan büyük ve değerli bir türkuvaza verilen ad",
+      "ornek_metin": "qiZ büt üridi: Kız büt takındı",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "214",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "büt",
+      "anlam": "Soylu birinin yolladığı armağanı getiren kişiye verilen bahşiş",
+      "ornek_metin": "Eğer söz konusu armağan bir atsa, armağanı alan kişi atın seyisine bir para ya da bir koyun verir ve bu koyun büt olarak adlandırılır",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "214",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "büte",
+      "anlam": "Çok",
+      "ornek_metin": "men angar büteyarmâq herdim: Ben ona çok para verdim; bu işqa büte boldı: Bu iş için çok zaman harcadık. Bu tıpkı Oğuzların “kısa bir zaman” anlamına gelen kibe sözcüğü gibidir.",
+      "cekimler": [],
+      "kelime_turu": "zarf",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "214",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bütgü",
+      "anlam": "Dışkı",
+      "ornek_metin": "bütgü bâr mu: Kakaya gitmek ister misin? Yalnızca çocuklar söz konusu olduğunda kullanılır.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "214",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bütrüşdi",
+      "anlam": "Onlar birbirlerini dava etti ve iddialannı karşılıklı olarak kanıtlamaya çalıştılar",
+      "ornek_metin": "olâr ekki bütrüşdi: Onlar birbirlerini dava etti ve iddialannı karşılıklı olarak kanıtlamaya çalıştılar.",
+      "cekimler": [
+        "bütrüşür",
+        "bütrüşmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "214",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bütsedi",
+      "anlam": "Yara neredeyse iyileşti [iyileşeyazdı]",
+      "ornek_metin": "bâş bütsedi: Yara neredeyse iyileşti [iyileşeyazdı].",
+      "cekimler": [
+        "bütser",
+        "bütsemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "214",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bütti",
+      "anlam": "(Göğsündeki bir hastalık, soğuk algınlığı ya da bir darbe nedeniyle) adamın sesi kayboldu",
+      "ornek_metin": "et üni bütti. (Göğsündeki bir hastalık, soğuk algınlığı ya da bir darbe nedeniyle) adamın kayboldu.",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "214",
+      "notlar": "Metinde 'adamın [sesi] kayboldu' anlamında eksiklik şüphesi var.",
+      "kontrol_gerekli": true
+    },
+    {
+      "kelime": "bütti",
+      "anlam": "Onun başkasından olan alacağı kesinleşti",
+      "ornek_metin": "antg almı bütti: Onun başkasından olan alacağı kesinleşti.",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "214",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bütti",
+      "anlam": "Yara iyileşti",
+      "ornek_metin": "bâş bütti: Yara iyileşti.",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "214",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bütti",
+      "anlam": "Kul (mü'min) tannnın birliğini ikrar etti",
+      "ornek_metin": "qul terigrike bütti: Kul (mü'mm)tannnın birliğini ikrar etti.",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "214",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bütti",
+      "anlam": "Ot büyüdü. Aynı zamanda meyvenin gelişimini anlatmak için de bu sözcük kullanılır",
+      "ornek_metin": "ot bütti: Ot büyüdü. Aynı zamanda meyvenin gelişimini anlatmak için de bu sözcük kullanılır.",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "215",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bütti",
+      "anlam": "Çocuk doğdu",
+      "ornek_metin": "oglân bütti: Çocuk doğdu. Qıfçâq lehçesinde “gelişen, doğan ya da yaratılan herhangi bir şey”i anlatmak için bütti sözcüğü kullanılır",
+      "cekimler": [
+        "büter",
+        "bütmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "Kıpçak",
+      "kaynak_sayfa": "215",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bütüge",
+      "anlam": "Patlıcan",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "215",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bütün",
+      "anlam": "Herhangi bir şeyin güvenilir ve sağlam olanı",
+      "ornek_metin": "bütün yarmâq: Güvenilir para. çîn bütün kişi: Kendine güvenilir, doğru kimse.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "215",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bütünledi",
+      "anlam": "O, sözlerin [başka bir şeyin de olabilir] gerçekliğini araştırdı",
+      "ornek_metin": "ol sözüg bütünledi: O, sözlerin [başka bir şeyin de olabilir] gerçekliğini araştırdı",
+      "cekimler": [
+        "bütünler",
+        "bütünlemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "215",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bütürdi",
+      "anlam": "İlaç yarayı iyileştirdi",
+      "ornek_metin": "ot başıg bütürdi: İlaç yarayı iyileştirdi.",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "215",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bütürdi",
+      "anlam": "Ondan alacağı olduğuna ilişkin [başka bir şeye ilişkin de olabiliri iddiasını kanıtladı. Borç dışındaki şeyleri anlatmak için de kullanılır.",
+      "ornek_metin": "anıg üze almın bütürdi: Ondan alacağı olduğuna ilişkin [başka bir şeye ilişkin de olabiliri iddiasını kanıtladı. Borç dışındaki şeyleri anlatmak için de kullanılır.",
+      "cekimler": [
+        "bütürür",
+        "bütûrmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "215",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bütüştiler",
+      "anlam": "Her ikisi de birbirlerine ilişkin iddialarının doğruluğunu kabul etti",
+      "ornek_metin": "ölâr ekki bütüştiler: Her ikisi de birbirlerine ilişkin iddialarının doğruluğunu kabul etti",
+      "cekimler": [
+        "bütüşurler",
+        "bütüşmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "215",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "cançu",
+      "anlam": "Şehriye hamuru açmakta kullanılan oklava",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "216",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "cetti",
+      "anlam": "bkz. yetti",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "belirsiz",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "216",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "cınaxsı",
+      "anlam": "İşlemeli bir Çin ipeği",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "216",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "cigi",
+      "anlam": "Sağlam",
+      "ornek_metin": "cigi yi: Sağlam atılmış bir dikiş",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "216",
+      "notlar": "cim (c) yigi tikti: sağlam dikti ifadesindeki ye’den (y) dönüşmüştür. Bu kitabın başında da belirttiğim gibi, Qıfçâq lehçesi ve diğer bazı lehçelerdeki cim (c) ye den (y) dönüşmüştür. Örneğin cinçü: inci’nin kök-biçimi ye’yledir [bkz. yinçü].",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "cinçü",
+      "anlam": "İnci",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Oğuz ve Kıpçak",
+      "kaynak_sayfa": "216",
+      "notlar": "cim (c)ye’den (y) dönüşmüştür [bkz. yinçü]",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "curçân",
+      "anlam": "Çin yolu üzerindeki Müslüman sınırlanndan biri",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "216",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "-ça/-çe",
+      "anlam": "Karşılaştırma ekidir. Arapçadaki karşılaştırma k â f ına benzer.",
+      "ornek_metin": "ol menigçe: O bana benziyor; bu anıgça: Bu ona benziyor.",
+      "cekimler": [],
+      "kelime_turu": "ek",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "217",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çâçır",
+      "anlam": "Çadır",
+      "ornek_metin": "Oğuzlar buna çâşır der. Ayrıca bkz. çatır.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Oğuz",
+      "kaynak_sayfa": "217",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çâdan",
+      "anlam": "Akrep",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "217",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "Çag çog",
+      "anlam": "Gürültü patırtı koptu",
+      "ornek_metin": "çâgçö&gpptı: Gürültü patırb koptu; aynı zamanda yalnızca çögı gopdı: gurultu koptu şeklinde de kullanılır.",
+      "cekimler": [],
+      "kelime_turu": "ünlem",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "217",
+      "notlar": "Metinde OCR hatası barındıran 'çâgçö&gpptı' ifadesi yer alıyor.",
+      "kontrol_gerekli": true
+    },
+    {
+      "kelime": "çagllâdı",
+      "anlam": "Su çağladı",
+      "ornek_metin": "sûwçagilâdı: Su çağladı. Aynı zamanda jağıladı, jagîlâdı biçiminde değişik sesletimler vardır.",
+      "cekimler": [
+        "şagilâr",
+        "şagilâmdq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "217",
+      "notlar": "Metinde şiirsel bir örnek geçmektedir: (Taıfgut ülkesi ile Çin arasında bir yer olan Qatünsînı nın halkı ile Tangut halkı savaş halindedir...) qatunsıni çagllâdı / Qâtünsînı halkı bağırdı / tangut begin yagîlâdî / Tangutla (oranın halkıyla) ve beyiyle savaşa durdu / qam aqıp jagılâdı / Ta ki kanlan çağıldayan su gibi akana / bayın sümn qw l sağdı / (Ve) boyunlan kızıl su (yani kan) sızdırana kadar",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çağır",
+      "anlam": "Meyve suyu (şıra) / Şarap. Bu sözcük iki karşıt anlama sahiptir.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "217",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çagırlâdı",
+      "anlam": "O, üzümü şıra yaptı",
+      "ornek_metin": "ol ûzümni çagırlâdı: O, üzümü şıra yaptı. Biri şıra içtiği zaman da bu sözcük kullanılır.",
+      "cekimler": [
+        "çagırlâr",
+        "çagırlâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "217",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çagırlandı",
+      "anlam": "Adam şarap ya da şıra sahibi oldu",
+      "ornek_metin": "er çagırlandı: Adam şarap ya da şıra sahibi oldu.",
+      "cekimler": [
+        "çagırlanür",
+        "çagırlanmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "217",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çagırlıg",
+      "anlam": "Şırası olan adam",
+      "ornek_metin": "çagırltg er: Şırası olan adam",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "217",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çağla",
+      "anlam": "Uçtaki bir yaylanın adı",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "217",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çagmur",
+      "anlam": "Şalgam",
+      "ornek_metin": "bkz. çamgur",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "217",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çagn",
+      "anlam": "Doğan",
+      "ornek_metin": "Bir erkek adı olan çağrı beg buradan gelir. Şu dizelerde de kullanılır: (Bir avı anlatıyor) çagn alıp arqun mûnüp arqar yeter / awlar keyik taygan ıdıp tilkû tutar",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "217",
+      "notlar": "",
+      "kontrol_gerekli": false
+    }
+  ]
+}

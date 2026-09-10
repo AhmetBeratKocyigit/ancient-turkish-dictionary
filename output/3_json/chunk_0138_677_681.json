@@ -1,0 +1,874 @@
+{
+  "chunk_no": 138,
+  "kaynak_sayfa_baslangic": 677,
+  "kaynak_sayfa_bitis": 681,
+  "kelimeler": [
+    {
+      "kelime": "yaya",
+      "anlam": "Kalça, kıç; özelikle insanınkini anlatmak için kullanılır.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "677",
+      "notlar": "Bu tür bir ad ne söyleyişte, ne de yazılışta eksiklidir; çünkü ikinci kök-yazaç ünlü-almıştır, yalnızca ikinci kök-yazaçları ünlü-almayanlarda eksiklilik görünür.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yaydı",
+      "anlam": "Meylettirdi",
+      "ornek_metin": "ol mening köngül yaydı: O, benim gönlümü [başka bir şeyi de olabilir] meylettirdi.",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "677",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yayıldı",
+      "anlam": "Sallandı (rüzgâr ya da başka bir şey nedeniyle)",
+      "ornek_metin": "yıgâç yayıldı: Ağaç (rüzgâr ya da başka bir şey nedeniyle) sallandı. Herhangi bir şeyin kendi kendine sallanmasını, eğilip bükülmesini anlatmak için bu sözcük kullanılır.",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "677",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yayıldı",
+      "anlam": "Asker yayıldı",
+      "ornek_metin": "yayıldı sû: Asker yayıldı. Başkası da böyledir.",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "677",
+      "notlar": "zd’le (4) yadıldı biçiminde kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yayım",
+      "anlam": "Keten tohumu",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "677",
+      "notlar": "Kırmızı renkte olması ve yağının kandillerde kullanılması dışında susam tohumuna benzer.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yayındı",
+      "anlam": "Giysisini suyun içinde çalkalama, çitileme işini kendisi üstlendi",
+      "ornek_metin": "ol suwda tönın yayındı: O, giysisini suyun içinde çalkalama, çitileme işini kendisi üstlendi.",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "677",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yayıg",
+      "anlam": "Kararsız, dönek, bir ona bir buna meyleden adam",
+      "ornek_metin": "yayıg kişi: K a ra rsız, dönek, bir ona bir buna meyleden adam",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "677",
+      "notlar": "gaynlı (g) biçimin [yayıg] değişik sesletimi. Bu değişim, “pişmiş et” anlamına gelen bışıg et ifadesindeki b.şıg sözcüğü ile bunun değişik sesletimi olan bışıq arasındaki değişime benzer.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yaydı",
+      "anlam": "Giysiyi suyun içinde çalkaladı, çitiledi",
+      "ornek_metin": "ol söıvda tönug yaydı: O, giysiyi suyun içinde çalkaladı, çitiledi.",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "677",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yaydı",
+      "anlam": "Ağacı salladı",
+      "ornek_metin": "yel yıgâçıg yaydı: Rüzgâr ağacı salladı.",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "677",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yayar",
+      "anlam": "yaymak",
+      "ornek_metin": "",
+      "cekimler": [
+        "yayar",
+        "yaymâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "677",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yayguq",
+      "anlam": "Atın meme ucu",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Qıfçâq lehçesi",
+      "kaynak_sayfa": "677",
+      "notlar": "Bazıları yazguq der.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yayıg",
+      "anlam": "Kararsız, dönek, bir ona bir buna meyleden adam",
+      "ornek_metin": "yayıg kişi: Kararsız, dönek, bir ona bir buna meyleden adam",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "677",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yayılür",
+      "anlam": "yayılmak",
+      "ornek_metin": "",
+      "cekimler": [
+        "yayılür",
+        "yayılmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "677",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yayılgân",
+      "anlam": "Kararsız, bir işte sebat etmeyen kimse",
+      "ornek_metin": "yayılgân kişi: Kararsız, bir işte sebat etmeyen kimse",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "677",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yayınür",
+      "anlam": "yayınmak",
+      "ornek_metin": "",
+      "cekimler": [
+        "yayınür",
+        "yayınmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "677",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yayıqtı",
+      "anlam": "Mevsim ilkbahar oldu",
+      "ornek_metin": "Ödyayıqtı: Mevsim ilkbahar oldu.",
+      "cekimler": [
+        "yayıqâr",
+        "yayıqmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "678",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yayladı",
+      "anlam": "Yazı dağda geçirdi",
+      "ornek_metin": "er tâgda yayladı: Adam dağda yayladı - Adam yazı dağda geçirdi.",
+      "cekimler": [
+        "yaylar",
+        "yaylâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "678",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yaylâg",
+      "anlam": "Yayla; yaz otlağı",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "678",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yaylattı",
+      "anlam": "Yazıyı geçirmesi için dağa yerleştirdi",
+      "ornek_metin": "ol anı tâgda yaylattı: O, onu dağda [başka bir yerde de olabilir] yaylattı - O, onu yazı geçirmesi için dağa [başka bir yere de olabilir] yerleştirdi.",
+      "cekimler": [
+        "yaylatûr",
+        "yaylatmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "678",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yayqaldı",
+      "anlam": "Su çalkalandı",
+      "ornek_metin": "sûw yayqaldı: Su çalkalandı [dalgalandırıldı]. Çalkalanan herhangi bir sıvı için de bu sözcük kullanılır. Bir şeye şiddetle meyleden bir adam da buna benzetilir ve er höngli yayıldı yayqaldı: onun gönlü meyletti denir.",
+      "cekimler": [
+        "yayqalür",
+        "yayqalmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "678",
+      "notlar": "yayqaldî bir değişik sesletimdir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yayturdı",
+      "anlam": "Giysisinin suda çalkalanmasını emretti",
+      "ornek_metin": "ol tömn suwda yayturdı: O, giysisinin suda çalkalanmasını emretti. Çalkalanan, karıştırılan herhangi bir şeyi anlatmak için de bu sözcük kullanılır.",
+      "cekimler": [
+        "yayturur",
+        "yayturmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "678",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yâz",
+      "anlam": "Yaz",
+      "ornek_metin": "yazın qatıglanşa qişm sewnûr: Yazın sıkı çalışan (ve kazanan), kışın sevinir.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "678",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yazâdı",
+      "anlam": "İlkbaharı kışlakta geçirdi",
+      "ornek_metin": "er qışlâgda yazâdı: Adam ilkbaharı kışlakta [başka bir yerde de olabilir] geçirdi.",
+      "cekimler": [
+        "yazâr",
+        "yazâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "678",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yazaq",
+      "anlam": "Otlak",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Yağma ve Tuxsı lehçelerinde",
+      "kaynak_sayfa": "678",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yazdı",
+      "anlam": "Düğümü çözdü",
+      "ornek_metin": "ol tügun yazdı: O, düğümü çözdü.",
+      "cekimler": [
+        "yazâr",
+        "yazmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "678",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yazdı",
+      "anlam": "Kitap yazdı",
+      "ornek_metin": "ol bitig yazdı: O, kitap yazdı.",
+      "cekimler": [
+        "yazâr",
+        "yazmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "Oğuz lehçesi",
+      "kaynak_sayfa": "678",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yazdı",
+      "anlam": "Konuşmasında bir hata yaptı",
+      "ornek_metin": "ol sozinde yazdı: O, konuşmasında bir hata yaptı.",
+      "cekimler": [
+        "yazâr",
+        "yazmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "678",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yazdı",
+      "anlam": "Neredeyse vuruyordu",
+      "ornek_metin": "ol anı uru yazdı: O, ona neredeyse vuruyordu [vurayazdı].",
+      "cekimler": [
+        "yazâr",
+        "yazmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "678",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yazdı",
+      "anlam": "Av hayvanına doğru yaptığı atışı ıskaladı",
+      "ornek_metin": "ol keyihni yazdı: O, av hayvanına doğru yaptığı atışı ıskaladı. Şu atasözünde de geçer, yazmâs atım bolmâs, yangılmâs bilge bolmâs: Hiç ıskalamayan atıcı olmaz (ve benzer bir şekilde) hiç yanılmayan bilgin yoktur.",
+      "cekimler": [
+        "yazâr",
+        "yazmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "678",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yazı",
+      "anlam": "Açık arazi; ova",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "678",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yazıgçı",
+      "anlam": "Yazıcı",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "679",
+      "notlar": "bkz. yongçı.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yazıglig",
+      "anlam": "Çözülmüş [başıboş] at",
+      "ornek_metin": "yazıglig at: Çözülmüş [başıboş] at. Başka şeyler için de kullanılır.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "679",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yazıldı",
+      "anlam": "Düğüm gevşedi",
+      "ornek_metin": "tügül yazıldı: Düğüm [başka bir şey de olabilir] gevşedi.",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "679",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yazındı",
+      "anlam": "Adam kuşağını [başka bir şeyi de olabilir] çözme işini kendi üzerine aldı",
+      "ornek_metin": "er qünn yazındı: Adam kuşağını [başka bir şeyi de olabilir] çözme işini kendi üzerine aldı.",
+      "cekimler": [
+        "yazmûr",
+        "yazmmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "679",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yazıqtı",
+      "anlam": "Mevsim ilkbahara döndü",
+      "ornek_metin": "yıl yazıqtı: Mevsim ilkbahara döndü.",
+      "cekimler": [
+        "yazıqâr",
+        "yazıqmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "679",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yazışdı",
+      "anlam": "Düğüm çözme işinde ona yardım etti",
+      "ornek_metin": "ol angar tügun yazışdı: O, düğüm çözme işinde ona yardım etti. Bu işte rekabet etmeyi anlatmak için de bu sözcük kullanılır.",
+      "cekimler": [
+        "yazışür",
+        "yazışmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "679",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yazışdı",
+      "anlam": "Yayın telini çıkarma işinde bana yardım etti",
+      "ornek_metin": "ol manga ya yazışdı: O, yayın telini [başka bir şeyi de olabilir] çıkarma işinde bana yardım etti.",
+      "cekimler": [
+        "yazışür",
+        "yazışmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "679",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yazlattı",
+      "anlam": "Koyununa yazı yay otlağında geçirttirdi",
+      "ornek_metin": "ol qoym yaylâgda yazlattı: O, koyununu yaylada yaylatb - O, koyununa yazı yaz otlağında geçirttirdi.",
+      "cekimler": [
+        "yazlatûr",
+        "yazlatmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "679",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yazlındı",
+      "anlam": "Düğüm gevşedi",
+      "ornek_metin": "tügün yazlındı: Düğüm [başka bir şey de olabilir] gevşedi.",
+      "cekimler": [
+        "yazlmür",
+        "yazlınmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "679",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yazlışdı",
+      "anlam": "Düğümler gevşedi",
+      "ornek_metin": "tügünlir yazhşdi: Düğümler [başka şeyler de olabilir] gevşedi.",
+      "cekimler": [
+        "yazlışür",
+        "yazhşmöq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "679",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yazsâdı",
+      "anlam": "Kuşağını çözmek istedi",
+      "ornek_metin": "OÎ qürın yazsâdı: O, kuşağını [başka bir şeyi de olabilir] çözmek istedi.",
+      "cekimler": [
+        "yazsâr",
+        "yazsâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "679",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yazturdı",
+      "anlam": "Düğümü çözdürdü",
+      "ornek_metin": "ol angar tügün yazturdı: O, ona düğümü [başka bir şeyi de olabilir] çözdürdü.",
+      "cekimler": [
+        "yazturur",
+        "yazturmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "679",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yazturdı",
+      "anlam": "Ok atarken hedefi ıskalattı",
+      "ornek_metin": "ol anı oqta yazturdı: O, ona, ok atarken hedefi ıskalattı. Konuşmada hata yapmayı anlatmak için de bu sözcük kullanılır.",
+      "cekimler": [
+        "yazturur",
+        "yazturmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "679",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yazuq",
+      "anlam": "Bağından çözülmüş, boşanmış at",
+      "ornek_metin": "yazucj at: Bağından çözülmüş, boşanmış at. Bağı çözülen, kösteğinden serbest bırakılan herhangi bir şeyi anlatmak için de yine bu sözcük kullanılır.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "680",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yazuq",
+      "anlam": "Sonbaharda çeşitli baharatlarla kurutulan ve yazın yenmek için saklanan et",
+      "ornek_metin": "yazuq et: Sonbaharda çeşitli baharatlarla kurutulan ve yazın yenmek için saklanan et.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "680",
+      "notlar": "Bu sözcük, yaz oqye: yalnızca yazın ye ifadesinden türetilmiştir; çünkü hayvanlar yazın zayıflar ve ancak kurutulmuş eti olan kimse iyi et yiyebilir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yazuq",
+      "anlam": "Günah",
+      "ornek_metin": "öt tütünsüz bolmâs, yiğit yâzuqsuz bolmâs: Dumansız ateş olmaz, (benzer bir şekilde) günahsız genç yoktur.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "680",
+      "notlar": "Bu atasözü, bir günah işleyen ve insanlar tarafından suçlanan bir genci mazur görmek için kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yazuqlâdı",
+      "anlam": "Bey onu bir suçla itham etti",
+      "ornek_metin": "beg anı yazuqlâdı: Bey onu bir suçla itham etti.",
+      "cekimler": [
+        "yazuqlâr",
+        "yazuqlâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "680",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yazuqlug",
+      "anlam": "Günahkâr",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "680",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yedi",
+      "anlam": "Adam yemek yedi",
+      "ornek_metin": "er aş yedi: Adam yemek [başka bir şey de olabilir] yedi.",
+      "cekimler": [
+        "yer",
+        "yemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "680",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yedi",
+      "anlam": "O, yemek yedi; yağmaladı",
+      "ornek_metin": "ol aş yedi: O, yemek [başka bir şey de olabilir] yedi. Yabâqu lehçesinde beg kişini yedi: Bey adamın malını yedi, yağmaladı biçiminde kullanılır.",
+      "cekimler": [
+        "yer",
+        "yemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "Yabâqu lehçesi",
+      "kaynak_sayfa": "680",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yedişdi",
+      "anlam": "Heybeyi ya da bohçayı ya da benzer bir şeyi dikme konusunda bana yardım etti",
+      "ornek_metin": "ol maıîga yetgek yedişdi: O, heybeyi ya da bohçayı ya da benzer bir şeyi dikme konusunda bana yardım etti.",
+      "cekimler": [
+        "yedişür",
+        "yedişmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "680",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yedildi",
+      "anlam": "Bohça dikildi ve eşyalar içinde denk yapılmış oldu",
+      "ornek_metin": "yetgek yedildi: Bohça dikildi ve eşyalar içinde denk yapılmış oldu.",
+      "cekimler": [
+        "yedlûr",
+        "yedilmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "680",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yedti",
+      "anlam": "O, heybeyi ya da keseyi dikti",
+      "ornek_metin": "ol yetgek yedti: O, heybeyi ya da keseyi dikti.",
+      "cekimler": [
+        "yeder",
+        "yedmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "680",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yedtürdüm",
+      "anlam": "yettürdüm",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "680",
+      "notlar": "bkz. yettürdüm.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yeg",
+      "anlam": "Daha iyidir (hayr)",
+      "ornek_metin": "bu at anda yeg: Bu at, şundan daha iyidir [hayırlıdır].",
+      "cekimler": [],
+      "kelime_turu": "edat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "680",
+      "notlar": "Yalnızca bir karşılaştırma söz konusuysa kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yek",
+      "anlam": "Şeytan",
+      "ornek_metin": "bilmiş yek bilmedük kişiden yeğ: Bildiğin şeytan bilmediğin adamdan hayırlıdır.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "681",
+      "notlar": "Bu atasözü, birine, tanıdıklarına saygı göstermesini öğütlemek için kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yel",
+      "anlam": "Esinti",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "681",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yel",
+      "anlam": "Cin",
+      "ornek_metin": "eryelpindi: Adamı cin çarptı",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "681",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yel kögen",
+      "anlam": "kögen",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "681",
+      "notlar": "bkz. kögen.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yeldi",
+      "anlam": "Atlı acele etti",
+      "ornek_metin": "atlıg yeldi : Atlı acele etti.",
+      "cekimler": [
+        "yeler",
+        "yelmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "681",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yeldi",
+      "anlam": "Yemek yendi",
+      "ornek_metin": "aş yeldi: Yemek [başka bir şey de olabilir] yendi.",
+      "cekimler": [
+        "yelür",
+        "yelmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "681",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yeldirdi",
+      "anlam": "Rüzgâr esti",
+      "ornek_metin": "yel yeldirdi: Rüzgâr esti.",
+      "cekimler": [
+        "yeldirer",
+        "yeldirmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "681",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yelgin",
+      "anlam": "Acele eden, koşturan atlı",
+      "ornek_metin": "yçlgn athg; Acele eden, koşturan atlı.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "Oğuzlar",
+      "kaynak_sayfa": "681",
+      "notlar": "Oğuzlar ye’yi (y) elif e (e) çevirerek “gezgin’e elgin der.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yelim",
+      "anlam": "Oka tüy yapıştırmakta ya da benzer yapıştırma işlerinde kullanılan zamk",
+      "ornek_metin": "yaru yelim: Balık tutkalı",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "681",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yelimledi",
+      "anlam": "Oka tüy yapıştırdı",
+      "ornek_metin": "ol oq yelimledi: O, oka tüy yapıştırdı.",
+      "cekimler": [
+        "yelimler",
+        "yelimlemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "681",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yelimledi",
+      "anlam": "Yolda düşman pususu olup olmadığını görmek için birliklerin önünden gitti",
+      "ornek_metin": "ol yölug yelimledi: O, yolda bir düşman pususu ya da ileri kolu olup olmadığını görmek ve haber getirmek için askeri birliklerin önünden gitti.",
+      "cekimler": [
+        "yelimler",
+        "yelimlemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "681",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yelimlendi",
+      "anlam": "Oka tutkal yapıştırıldı",
+      "ornek_metin": "oqyelimlendi: Oka tutkal yapıştırıldı. Ya da başka bir şeyin oka yapıştırılması için tutkal sürüldü.",
+      "cekimler": [
+        "yelimlenûr",
+        "yelimlenmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "681",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yelin",
+      "anlam": "Kısrağın ya da herhangi bir toynaklı hayvanın [dişisinin] memesi",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "681",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yelirig",
+      "anlam": "Rüzgârın çok fazla estiği bir yer",
+      "ornek_metin": "bu yeîing kün: Bu, rüzgârlı bir gün.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "681",
+      "notlar": "",
+      "kontrol_gerekli": false
+    }
+  ]
+}

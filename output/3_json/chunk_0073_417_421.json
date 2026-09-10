@@ -1,0 +1,584 @@
+{
+  "chunk_no": 73,
+  "kaynak_sayfa_baslangic": 417,
+  "kaynak_sayfa_bitis": 421,
+  "kelimeler": [
+    {
+      "kelime": "qaymdı",
+      "anlam": "Kaynadı",
+      "ornek_metin": "sedremiş olgun qonâq sermemiş sütten qayâq",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "417",
+      "notlar": "qaymak [bkz. qanaql. Şu dizelerde de kullanılır",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qayaqlandu",
+      "anlam": "Süt kaymak tuttu",
+      "ornek_metin": "süt qayaqlandı: Süt kaymak tuttu.",
+      "cekimler": [
+        "qayaqlanür",
+        "qayaqlanmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "417",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qayâs",
+      "anlam": "Tuxsı ve Çigil ülkesinin adı",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Tuxsı ve Çigil",
+      "kaynak_sayfa": "417",
+      "notlar": "Bu ülke üç kaleden menkuldür. Birincisi sâplıg qayâs, İkincisi ürürig qayâs, üçüncüsü qara qayâs'tır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qayaslıg",
+      "anlam": "Çayâslı adam",
+      "ornek_metin": "qayaslıg er: Çayâslı adam.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "417",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qayda",
+      "anlam": "Nerede anlamına gelen bir ilgeç",
+      "ornek_metin": "qayda sen: Neredesin?",
+      "cekimler": [],
+      "kelime_turu": "ilgeç",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "417",
+      "notlar": "Sözcüğün n'li söylenen biçimi olan qanda bir değişik sesletimdir; qayüda ise bir başka değişik sesletimdir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qaydı",
+      "anlam": "O, hışmına hürmet gösterdi",
+      "ornek_metin": "qadâşmga qaydı: O, hışmına hürmet gösterdi.",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "417",
+      "notlar": "Başkaları için de kullanılabilir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qayguq",
+      "anlam": "Kayık",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "417",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qaygurdı",
+      "anlam": "Adam kaygılandı",
+      "ornek_metin": "er qaygurdı: Adam kaygılandı.",
+      "cekimler": [
+        "qaygurâr",
+        "qaygurmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "417",
+      "notlar": "Sözcüğün zei'le (d - dh) söylenen biçiminin [qadgur-] değişik sesletimi.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qayıg",
+      "anlam": "Oğuzların bir kolu",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Oğuz",
+      "kaynak_sayfa": "417",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qayındı",
+      "anlam": "Kaynadı",
+      "ornek_metin": "eşiç qaymdı (qaynadı): Güğüm [başka bir şey de olabilir] kaynadı.",
+      "cekimler": [
+        "qaynâr",
+        "qaynâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "417-418",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qayır",
+      "anlam": "Çiğnenmiş toprak",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Türk lehçeleri",
+      "kaynak_sayfa": "418",
+      "notlar": "Oğuzlar kuma, qayır der.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qayırlıg",
+      "anlam": "Toprağı çiğnenmiş, sertleşmiş yer",
+      "ornek_metin": "qayırlıg yer: Toprağı çiğnenmiş, sertleşmiş yer.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "418",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qayışdı",
+      "anlam": "Onlar nazikçe birbirlerini kayırdılar",
+      "ornek_metin": "olâr ekki bir birke qayışdı: Onlar nazikçe birbirlerini kayırdılar.",
+      "cekimler": [
+        "qayışür",
+        "qayışmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "418",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qaynadı",
+      "anlam": "Kaynadı",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "418",
+      "notlar": "bkz. qayındı.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qaynattı",
+      "anlam": "O, gügümü kaynattı",
+      "ornek_metin": "ol eşiç qaynattı: O, gügümü kaynattı.",
+      "cekimler": [
+        "qaynatür",
+        "qaynalmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "418",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qayrışdı",
+      "anlam": "Onlar boyun bükmekte rekabet ettiler",
+      "ornek_metin": "olâr ekki boyun qayrışdı: Onlar boyun bükmekte [başka bir işte de olabilir] rekabet ettiler.",
+      "cekimler": [
+        "qayrışür",
+        "qayrışmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "418",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qaytardı",
+      "anlam": "O, atı yöneldiği yerden döndürdü",
+      "ornek_metin": "ol atıg qaytardı: O, atı yöneldiği yerden döndürdü.",
+      "cekimler": [
+        "qaytarur",
+        "qaytarmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "Oğuz lehçesi",
+      "kaynak_sayfa": "418",
+      "notlar": "Türkler qaıardı der.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qaytışdı",
+      "anlam": "Onlar birbirlerine sırt çevirdiler",
+      "ornek_metin": "olâr ekki qaytışdı (qaytashdı): Onlar birbirlerine sırt çevirdiler.",
+      "cekimler": [
+        "qaytışür",
+        "qaytışmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "418",
+      "notlar": "qaytaşdı [?]",
+      "kontrol_gerekli": true
+    },
+    {
+      "kelime": "qayturdı",
+      "anlam": "O, onu, kardeşine yardım etmeye ve ona karşı saygılı olmaya sevk etti",
+      "ornek_metin": "ol angar qayturdı: O, onu, kardeşine yardım etmeye ve ona karşı saygılı olmaya sevk etti.",
+      "cekimler": [
+        "qayturur",
+        "qayturmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "418",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qayu",
+      "anlam": "Hangi, hani",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "ilgeç",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "418",
+      "notlar": "xayu'nun değişik sesletimidir. kaf (q), hı'yla (x) değiştirilebilir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qayüda",
+      "anlam": "Nerede",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "ilgeç",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "419",
+      "notlar": "bkz. qayda.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qâz",
+      "anlam": "Kaz",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "419",
+      "notlar": "bkz. qâs. bkz. qâq qöq.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qâz",
+      "anlam": "Afrâsiyab'm kızının adı",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "419",
+      "notlar": "Qazvîn kentinin kurucusudur.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qâz süwı",
+      "anlam": "İla nehrine akan büyük bir nehir",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "419",
+      "notlar": "Bu adın verilmesinin nedeni, Afrâsiyâb'ın kızının bu nehrin kıyısındaki yüksekçe bir burnun tepesine bir kale yaptırmasıdır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qazdı",
+      "anlam": "Adam su oluğu kazdı / At yerinde duramıyor ve önayaklarıyla eşiniyordu",
+      "ornek_metin": "er anq qazdı: Adam su oluğu [başka bir şey de olabilir] kazdı. at qazdı: At yerinde duramıyor ve önayaklarıyla eşiniyordu.",
+      "cekimler": [
+        "qazür",
+        "qazmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "419",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qazgân",
+      "anlam": "Suyla aşınmış, üzerinde oyuklar ve çatlaklar olan toprak",
+      "ornek_metin": "qazgân yer: Suyla aşınmış, üzerinde oyuklar ve çatlaklar olan toprak.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "419-420",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qazganç",
+      "anlam": "Kazanç",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "420",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qazgandı",
+      "anlam": "Adam mal edindi",
+      "ornek_metin": "er tawâr qazgandı: Adam mal edindi.",
+      "cekimler": [
+        "qazganür",
+        "qazganmaq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "420",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qazı",
+      "anlam": "İnsanın göbeğindeki yağ katmanları; atın karnının semizliği",
+      "ornek_metin": "yond qazısı yâg. Atın karnının semizliği yağdandır.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "420",
+      "notlar": "Bu yağlı et Türklerin en çok sevdikleri yemektir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qazıdı",
+      "anlam": "O, yeri kazdı",
+      "ornek_metin": "ol yerig qazıdı: O, yeri kazdı.",
+      "cekimler": [
+        "qazir",
+        "qazîmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "420",
+      "notlar": "Yara kabuğunu ve benzer şeyleri kaldırmayı anlatmak için de bu sözcük kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qazıldı",
+      "anlam": "Ark kazıldı",
+      "ornek_metin": "anq qazıldı: Ark [başka bir şey de olabilir] kazıldı.",
+      "cekimler": [
+        "qazılur",
+        "qazılmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "420",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qazın",
+      "anlam": "Qadın",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "420",
+      "notlar": "bkz. qadın.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qazındı",
+      "anlam": "Kazılmış toprak",
+      "ornek_metin": "qazındı toprâq: Kazılmış toprak.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "420",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qazındı",
+      "anlam": "Kuyuyu kazma işini kendi üzerine aldı",
+      "ornek_metin": "özinge qudug qazındı: Kuyuyu kazma işini kendi üzerine aldı.",
+      "cekimler": [
+        "qazınür",
+        "qazınmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "420",
+      "notlar": "\"Kuyuyu kazıyormuş gibi görünme\"sini anlatmak için de bu sözcük kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qazırigqu",
+      "anlam": "İp bir daha çözülemeyecek kadar karışmış ve düğümlenmişti",
+      "ornek_metin": "yıp qazırigqu boldı: İp bir daha çözülemeyecek kadar karışmış ve düğümlenmişti.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "421",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qazışdı",
+      "anlam": "O, bana yeri kazmakta yardım etti",
+      "ornek_metin": "ol manga yer qazışdı: O, bana yeri [başka bir şeyi de olabilir] kazmakta yardım etti.",
+      "cekimler": [
+        "qazışür",
+        "qazışmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "421",
+      "notlar": "Bu işte rekabet etmeyi anlatmak için de bu sözcük kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qazlındı",
+      "anlam": "Zemin paramparçaydı ve çukurlarla kaplıydı",
+      "ornek_metin": "yer qazlındı: Zemin paramparçaydı ve çukurlarla kaplıydı.",
+      "cekimler": [
+        "qazhınur",
+        "qazlmmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "421",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qazriguq",
+      "anlam": "Kazık ya da çivi",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "421",
+      "notlar": "Kutupyıldızına temür qazriguq: demir kazık denir; çünkü gök bunun çevresinde dönmektedir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qazturdı",
+      "anlam": "O, ona su oluğunun kazılması görevini verdi",
+      "ornek_metin": "ol angar qazıg qazturdı: O, ona su oluğunun kazılması görevini verdi.",
+      "cekimler": [
+        "qazturur",
+        "qazturmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "421",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qazuq",
+      "anlam": "Kazılmış ark",
+      "ornek_metin": "qazuq anq: Kazılmış ark [başka bir şey de olabilir].",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "421",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qı",
+      "anlam": "Seslenme bildiren bir ilgeç",
+      "ornek_metin": "qı berü kel: Hey sen, beri gel!",
+      "cekimler": [],
+      "kelime_turu": "ilgeç",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "421",
+      "notlar": "Arapçadaki yâ ilgecine karşılık gelir. Bu sözcük kaf (q) ile ı arası uzatılarak [medd edilerek - yumaddû] söylenir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "-qı",
+      "anlam": "Akrabalık anlatan sözcükllere eklenen, sevgi ve muhabbet bildiren bir ek",
+      "ornek_metin": "atâqı: Babacığım; anâqı: Anacığım.",
+      "cekimler": [],
+      "kelime_turu": "ek",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "421",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qîçı",
+      "anlam": "Hardal",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "421",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qıçilâdı",
+      "anlam": "O, beni gıdıkladı",
+      "ornek_metin": "ol meni qıçilâdı: O, beni [vücudumun, biri dokunduğu zaman gülmeye neden olan yerlerini, örneğin koltukaltımı ya da ayak tabanımı] gıdıkladı.",
+      "cekimler": [
+        "qıçilâr",
+        "qıçilâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "421",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qıçurdı",
+      "anlam": "O, onu ayıpladı ve sonrasında onun mutsuzluğundan habis bir zevk aldı",
+      "ornek_metin": "ol angar qîçurdı: O, onu ayıpladı ve sonrasında onun mutsuzluğundan habis bir zevk aldı.",
+      "cekimler": [
+        "qiçurdi",
+        "qiçurmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "421",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qıçurgân",
+      "anlam": "Konaklayan birine her zaman görgüsüzce ve küçümseyerek davranan adam",
+      "ornek_metin": "bu er ol kişıke qıçurgân: Bu, onun mekânında konaklayan birine her zaman görgüsüzce ve küçümseyerek davranan bir adamdır.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "421",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qıdışdı",
+      "anlam": "O, bana başlığın kenarını dikmekte yardım etti",
+      "ornek_metin": "ol manga börk qıdışdı: O, bana başlığın kenarını dikmekte yardım etti.",
+      "cekimler": [
+        "qıdışur",
+        "qıdışmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "421",
+      "notlar": "Kenarı dairesel olan herhangi bir şeyi dikmede yardımlaşmayı anlatmak için bu sözcük kullanılır.",
+      "kontrol_gerekli": false
+    }
+  ]
+}

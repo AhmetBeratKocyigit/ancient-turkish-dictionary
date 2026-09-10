@@ -1,0 +1,825 @@
+{
+  "chunk_no": 84,
+  "kaynak_sayfa_baslangic": 461,
+  "kaynak_sayfa_bitis": 465,
+  "kelimeler": [
+    {
+      "kelime": "saçışdı",
+      "anlam": "O, parayı dağıtma işinde bana yardım etti.",
+      "ornek_metin": "ol manga yarmâq saçışdı: O, parayı dağıtma işinde bana yardım etti.",
+      "cekimler": [
+        "saçışür",
+        "saçışmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "461",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "saçıttı",
+      "anlam": "O, onun beynini dağıttı.",
+      "ornek_metin": "ol anıg merigisin saçıttı: O, onun beynini dağıttı [beyni dağılana kadar ona vurdu).",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "461",
+      "notlar": "Birinin dağıtılmasını emrettiği herhangi bir şeyi anlatmak için de bu sözcük kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "saçrattı",
+      "anlam": "O, istemeden bana su sıçrattı.",
+      "ornek_metin": "ol manga süw saçrattı: O, istemeden bana su sıçrattı - su, yağ ya da herhangi bir sıvı bir kaptan başka bir kaba boşaltılırken birinin giysilerine ya da başka bir yerine sıçrayabilir; odun keserken etrafa sıçrayan parçaları anlatmak için de bu sözcük kullanılır.",
+      "cekimler": [
+        "saçratm âq",
+        "saçratür"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "461-462",
+      "notlar": "Aynı zamanda saçratgu adı verilen bir tür kapan vardır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "saçıldı",
+      "anlam": "Para saçıldı.",
+      "ornek_metin": "yarmâq saçıldı: Para [başka bir şey de olabilir] saçıldı.",
+      "cekimler": [
+        "saçılür",
+        "saçılmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "461",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "saçındı",
+      "anlam": "Adam kendi üzerine su sıçrattı.",
+      "ornek_metin": "er Szinge süw saçındı: Adam kendi üzerine su sıçrattı [püskürttü].",
+      "cekimler": [
+        "saçınür",
+        "saçınmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "461",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "saçındı",
+      "anlam": "Saçılan, dağılan bir şey.",
+      "ornek_metin": "saçındı nerig: Saçılan, dağılan bir şey.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "461",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "saçıttı",
+      "anlam": "O, ona su serptirdi.",
+      "ornek_metin": "ol angar sâvv saçıttı: O, ona su [başka bir şey de olabilir] serptirdi.",
+      "cekimler": [
+        "saçıtür",
+        "saçıtmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "461",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "saçlandı",
+      "anlam": "Adamın saçı uzadı.",
+      "ornek_metin": "er saçlandı: Adamın saçı uzadı.",
+      "cekimler": [
+        "saçlanür",
+        "saçlanmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "461",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "saçlaşdı",
+      "anlam": "O ikisi birbirlerinin saçlarını yakaladılar.",
+      "ornek_metin": "d ekki bile saçlaşdı: O ikisi birbirlerinin saçlarını yakaladılar.",
+      "cekimler": [
+        "saçlaşûr",
+        "saçlaşmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "461",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "saçlıg",
+      "anlam": "(Uzun) saçlı adam.",
+      "ornek_metin": "saçlıg er: (Uzun) saçlı adam.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "461",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "saçtaşdı",
+      "anlam": "Onlar birbirlerinin saçlarını yakaladılar.",
+      "ornek_metin": "oldr ekki saçtaşdı : Onlar birbirlerinin saçlarını yakaladılar.",
+      "cekimler": [
+        "saçtaşür",
+        "saçtaşm âq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "462",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "saçtım",
+      "anlam": "Ben misk saçtım.",
+      "ornek_metin": "men yıpâr saçtım: Ben misk Ibaşka bir şey de olabilir) saçtım; ol ewge süw saçdı: O, evin içine Ibaşka bir yere de olabilir) Sü serpti.",
+      "cekimler": [
+        "saçar",
+        "saçm âq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "462",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "saçturdı",
+      "anlam": "O, benim üzerime para saçtı.",
+      "ornek_metin": "ol m angayarm öq saçturdı: O, benim üzerime para saçtı.",
+      "cekimler": [
+        "saçturur",
+        "saçturm âq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "462",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "saçu",
+      "anlam": "Giysinin ya da mendilin saçakları.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "462",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "saçülâdı",
+      "anlam": "O, mendilin ya da benzer bir şeyin kenanna saçak yaptı.",
+      "ornek_metin": "ol suwluq saçülâdı: O, mendilin ya da benzer bir şeyin kenanna saçak yaptı.",
+      "cekimler": [
+        "saçülâr",
+        "saçülâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "462",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "saçüq",
+      "anlam": "Saçılmış, dağıtılmış bir şey.",
+      "ornek_metin": "saçüq neng: Saçılmış, dağıtılmış bir şey.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "462",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sâdı",
+      "anlam": "Adam koyun saydı.",
+      "ornek_metin": "er qöyug sâdı : Adam koyun [başka bir şey de olabiliri saydı.",
+      "cekimler": [
+        "sâr",
+        "sâm âq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "462",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sâg",
+      "anlam": "Akıl; anlak.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Oğuz lehçesi",
+      "kaynak_sayfa": "462",
+      "notlar": "diğer Türkler bilmez",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sâg",
+      "anlam": "İdrak; anlayış.",
+      "ornek_metin": "sende sâgyöq: Sende anlayış yok.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Oğuz lehçesi",
+      "kaynak_sayfa": "462",
+      "notlar": "diğer Türkler bilmez",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sâg",
+      "anlam": "Sağlık, esenlik.",
+      "ornek_metin": "ypıig sâgnıu: Vücudun sağlıklı mı?",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Oğuz lehçesi",
+      "kaynak_sayfa": "462",
+      "notlar": "diğer Türkler bilmez",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sâg",
+      "anlam": "Yünü kabartmak için kullanılan çubukların adı.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "462",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sâg elig",
+      "anlam": "Sağ el.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Oğuz lehçesi",
+      "kaynak_sayfa": "462",
+      "notlar": "diğer Türkler bilmez",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sâg körigül",
+      "anlam": "Temiz, masum kalp.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "462",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sâg süw",
+      "anlam": "Temiz, lezzetli su.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Oğuz lehçesi",
+      "kaynak_sayfa": "462",
+      "notlar": "diğer Türkler bilmez",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "saglıq",
+      "anlam": "Tereyağı.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "462-463",
+      "notlar": "bkz. yâg",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sağdı",
+      "anlam": "Adam koyunu sağdı.",
+      "ornek_metin": "er qöy sağdı: Adam koyunu [başka bir şeyi de olabiliri sağdı.",
+      "cekimler": [
+        "sağar",
+        "sâgmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "463",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sağdıç",
+      "anlam": "Sağdıç, dost.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "463",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sağıldı",
+      "anlam": "Süt sağıldı.",
+      "ornek_metin": "süt sağıldı: Süt sağıldı.",
+      "cekimler": [
+        "sagılür",
+        "sagılmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "463",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sağım",
+      "anlam": "Bir sağışta sağılan süt.",
+      "ornek_metin": "bir sağım süt: Birsağışta sağılan süt.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "463",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sağındı",
+      "anlam": "Adam koyununu sağıyormuş gibi göründü.",
+      "ornek_metin": "er qöyın sağındı: Adam koyununu sağıyormuş gibi göründü.",
+      "cekimler": [
+        "sagmür",
+        "sagınmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "463",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sağındı (saqındı)",
+      "anlam": "O, kalben benim iyiliğimi istedi.",
+      "ornek_metin": "ol manga edgü sağındı (saqmdı): O, kalben benim iyiliğimi istedi.",
+      "cekimler": [
+        "sagmür",
+        "sagmmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "463",
+      "notlar": "Söz konusu kelimeyle yardımlaşmayı anlatmak için de bu sözcük kullanılır. bkz. saqmdı.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sagınlıg",
+      "anlam": "Sağmal koyunu olan adam.",
+      "ornek_metin": "sagınlıg er: Sağmal koyunu olan adam.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "463",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sağır",
+      "anlam": "Hakanın tebaasının yardımıyla gerçekleştirdiği bir av.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "463",
+      "notlar": "Halk geniş bir arazide çalılıkların arasına dağılarak saklanır; sürü geldiğinde hayvanların etrafını çevirir ve onları hakanın olduğu yere doğru koşturur; böylece Hakan, hayvanları bulup peşlerinden koşmak için kendini yormadan onları avlar.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sâgır",
+      "anlam": "Şekli dibeğe benzeyen bir şarap kadehi.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "463",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sagışdı",
+      "anlam": "Onlar süt sağma konusunda yarıştılar.",
+      "ornek_metin": "olar ekki süt sagışdı: O, ikisi süt sağma konusunda yarıştılar.",
+      "cekimler": [
+        "sagışür",
+        "sagışmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "463",
+      "notlar": "Süt sağarken birbirlerine yardım etmelerini anlatmak için de bu sözcük kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sağız",
+      "anlam": "Sakız [ağaç sakızı].",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "463",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sağız toprâq",
+      "anlam": "Saf kil.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "463",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sagızgân",
+      "anlam": "Saksağan.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "463",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sagızlıg",
+      "anlam": "Sakızı olan adam.",
+      "ornek_metin": "sagızlıg et: Sakızı olan adam.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "463",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sagızlıg yer",
+      "anlam": "Killi toprak.",
+      "ornek_metin": "sagızlıg yer: Killi toprak.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "463",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "saglıq",
+      "anlam": "Dişi koyun.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "463",
+      "notlar": "Sözcüğün kök-anlamı “sağılan hayvan”dır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "saglıqlandı",
+      "anlam": "Adam sağmal koyun sahibi oldu.",
+      "ornek_metin": "er saglıqlaııdı: Adam sağmal koyun sahibi oldu.",
+      "cekimler": [
+        "saglıqlanür",
+        "saglıqlanmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "464",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sagnagu",
+      "anlam": "Kurutulmuş sukabağı.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "464",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sagrâq",
+      "anlam": "Kadeh; içinden bir şey içilen kase.",
+      "ornek_metin": "sâwın sagrâqqa tegîr: (Güzel) sözle (beylerin içtiği) kadehe erişilir [o kadehten şarap içilir]",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "464",
+      "notlar": "Bu, o kişinin onurlandınldıgı anlamına gelir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sağrı",
+      "anlam": "Post. Herhangi bir şeyin derisi ya da yüzeyi.",
+      "ornek_metin": "yer sağrısı: yeryüzü",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "464",
+      "notlar": "kişi sağrısı yüz: İnsanın postu yüzüdür - çünkü yüz, sıcak ve soğuğa daha fazla maruz kaldığı için en sert ve kaim deridir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sağrılâdı",
+      "anlam": "O, deriyi işleyip gön yaptı.",
+      "ornek_metin": "ol konüg sagrılâdı: O, deriyi işleyip gön yaptı.",
+      "cekimler": [
+        "sağrılar",
+        "sagrîlâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "464",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sagturdı",
+      "anlam": "O, sağmal koyunları sağdı.",
+      "ornek_metin": "ol qÖy sagturdı: O, sağmal koyunlan [başka bir hayvanı da olabilir) sağdı.",
+      "cekimler": [
+        "sagturur",
+        "sagturmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "464",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sagu",
+      "anlam": "Bir tahıl ölçeği.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "464",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sagûlâdı",
+      "anlam": "Adam buğdayı tarttı.",
+      "ornek_metin": "er buğday sagûlâdı: Adam buğdayı [başka bir şeyi de olabilir) tarttı.",
+      "cekimler": [
+        "sagülâr",
+        "sagûlâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "464",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sagun",
+      "anlam": "Qarluk şeflerine verilen, saygı belirten bir unvan. Türk hekimlerine de ata sagun denir.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Karluk",
+      "kaynak_sayfa": "464",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sâl",
+      "anlam": "Sal sözcüğüyle aynı anlama gelir.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "464",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sâl",
+      "anlam": "Bir çeşit tutkal.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "464",
+      "notlar": "Çin kaplan ya da buna benzer şeyler bu maddeyle sıvanır ve sonra üzerleri boyanır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sâlçı",
+      "anlam": "Aşçı.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "464",
+      "notlar": "Kök-anlamıdır. Daha sonra anlamı genişlemiş ve “mutfakta kullanılan bıçak”a sâlçı biçek denmiştir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "saldı",
+      "anlam": "O, giysisini sallayarak bana işaret etti.",
+      "ornek_metin": "ol manga tönın saldı: O, giysisini sallayarak bana işaret etti.",
+      "cekimler": [
+        "salâr",
+        "salm âq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "464",
+      "notlar": "Uzaktan el sallayarak işaret eden bir adamı anlatmak için de bu sözcük kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "salga",
+      "anlam": "Tez canlı at.",
+      "ornek_metin": "salga ât: Tez canlı at.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "464",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "salımlaşdı",
+      "anlam": "O, onunla kavga etti ve tartıştı.",
+      "ornek_metin": "amg birle salımlaşdı: O, onunla kavga etti ve tartıştı.",
+      "cekimler": [
+        "salımlaşûr",
+        "salımlaşmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "465",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "salındı",
+      "anlam": "İnci kulaktan sarktı.",
+      "ornek_metin": "yinçü qulâqtm salındı: İnci kulaktan sarktı.",
+      "cekimler": [
+        "salmür",
+        "salınmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "465",
+      "notlar": "“Bir yerden sarkan, bir yere asılı olan herhangi bir şey\"i anlatmak için bu sözcük kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "salındı",
+      "anlam": "Selin getirerek kıyıya attığı odun.",
+      "ornek_metin": "salındı oturig: Selin getirerek kıyıya attığı odun.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "465",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "salındı",
+      "anlam": "Atılan bir şey.",
+      "ornek_metin": "salındı neng: Atılan bir şey.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "465",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "salındı",
+      "anlam": "Erkek cinsel organı.",
+      "ornek_metin": "salındı neng: bir şey aşağı sarktı",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "465",
+      "notlar": "Bu sözcük salındı neng: bir şey aşağı sarktı ifadesinden gelmektedir; çünkü erkeklik organı her zaman sarkık, bir yere asılı halde durur. Bu kaba bir sözcüktür.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "salışdı",
+      "anlam": "Onlar giysilerinin kollarını sallayarak birbirlerine işaret ettiler.",
+      "ornek_metin": "olar çkki yaîg salışdı: Onlar giysilerinin kollarını sallayarak birbirlerine işaret ettiler.",
+      "cekimler": [
+        "salışür",
+        "salışmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "465",
+      "notlar": "Aynı zamanda güreşte birinin diğerini yandan tutarak sağa sola sallamasını anlatmak için de bu sözcük kullanılır. Bu sözcüğün kök-anlamı “iki kişinin bir giysiyi ya da başka bir şeyi silkmesi”dir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "salngu",
+      "anlam": "Sapan.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "465",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "salrigülâdı",
+      "anlam": "Salkım çardaktan sarktı.",
+      "ornek_metin": "üzüm salrigülâdı: Salkım çardaktan sarktı.",
+      "cekimler": [
+        "salrigülâr",
+        "salngülâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "465",
+      "notlar": "“Aşağı doğru sarkan herhangi bir şey”i anlatmak için de bu sözcük kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "salturdı",
+      "anlam": "O, paranın bana aktarılmasını ve onun borcu olarak kabul edilmesini emretti.",
+      "ornek_metin": "ol meni angâr salturdı: O, paranın bana aktarılmasını ve onun borcu olarak kabul edilmesini emretti",
+      "cekimler": [
+        "salturur",
+        "salturmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "Oğuz lehçesi",
+      "kaynak_sayfa": "465",
+      "notlar": "Aynı zamanda bir şeyin atılmasını, defedilmesini emretmeyi anlatmak için de bu sözcük kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sam",
+      "anlam": "Saman/em sam maddesinin parçası.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "465",
+      "notlar": "bkz. em sam",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "samân",
+      "anlam": "Saman.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Çigil lehçesi",
+      "kaynak_sayfa": "465",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "samanlıg",
+      "anlam": "Samanı olan adam.",
+      "ornek_metin": "samanlıg er: Samanı olan adam.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "465",
+      "notlar": "",
+      "kontrol_gerekli": false
+    }
+  ]
+}

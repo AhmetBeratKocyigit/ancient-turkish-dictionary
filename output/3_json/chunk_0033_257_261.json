@@ -1,0 +1,776 @@
+{
+  "chunk_no": 33,
+  "kaynak_sayfa_baslangic": 257,
+  "kaynak_sayfa_bitis": 261,
+  "kelimeler": [
+    {
+      "kelime": "emitti",
+      "anlam": "Duvar neredeyse yıkılacak kadar eğildi - eğileyazdı; gönül meyletti.",
+      "ornek_metin": "tâm emitti': Duvar (başka bir şey de olabilir) neredeyse yıkılacak kadar eğildi - eğileyazdı.\nkönğlüm angar emitti: Gönlüm ona meyletti.",
+      "cekimler": [
+        "emitür",
+        "emitmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "257",
+      "notlar": "qulân tükel qomıttı / (Bahar) yaban eşeklerini ve dağ keçilerini coşturdu / arqâr suqaq yomıttı / Erkek ve dişi ceylanlar bir araya toplandı / yaylâg tapa emitti / Yaylaya doğru meylettiler / tizgin turup sekrişür / Sıra halinde gidiyor (neşeyle) zıplıyorlar",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "emledim",
+      "anlam": "İlaçla tedavi etti.",
+      "ornek_metin": "men am emledim: Ben onu ilaçla tedavi ettim.",
+      "cekimler": [
+        "emler men",
+        "emlemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "257",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "emleldi",
+      "anlam": "Hasta olan kimse tedavi edildi.",
+      "ornek_metin": "jglig emleldi: Hasta olan kimse tedavi edildi.",
+      "cekimler": [
+        "emlelür",
+        "emlelmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "257",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "emlendi",
+      "anlam": "Adam kendi kendine (ilaç alarak) tedavi uyguladı.",
+      "ornek_metin": "er emlendi': Adam kendi kendine (ilaç alarak) tedavi uyguladı.",
+      "cekimler": [
+        "emlenür",
+        "emlenmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "257",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "emleşdiler",
+      "anlam": "Yaralılar birbirini tedavi etti.",
+      "ornek_metin": "bâlıglâr emleşdiler: Yaralılar birbirini tedavi etti.",
+      "cekimler": [
+        "emleşürler",
+        "emleşmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "257",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "emlettim",
+      "anlam": "İlaçla tedavi ettirdi.",
+      "ornek_metin": "men anı emlettim: Ben onu ilaçla tedavi ettirdim.",
+      "cekimler": [
+        "emletür",
+        "emletmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "257",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "emridi",
+      "anlam": "Vücut kaşındı.",
+      "ornek_metin": "merıig yenim emridi: Vücudum kaşındı.",
+      "cekimler": [
+        "emrir",
+        "emrimek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "257",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "emrişti",
+      "anlam": "(Uyuz ya da başka bir şey nedeniyle) vücut kaşındı.",
+      "ornek_metin": "etim barça emrişti: (Uyuz ya da başka bir şey nedeniyle) vücudum kaşındı.",
+      "cekimler": [
+        "emrişür",
+        "emrişmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "257",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "emritti",
+      "anlam": "Kaşınmak bütün vücudun gıdıklanmasına, ürpermesine neden oldu.",
+      "ornek_metin": "qaşınmâq menig yenim emritti: Kaşınmak bütün vücudumun gıdıklanmasına, ürpermesine neden oldu.",
+      "cekimler": [
+        "emritür",
+        "emritmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "257-258",
+      "notlar": "Bu sözcük, bir kimsenin koltukaltının ya da boynunun kaşınması nedeniyle bütün vücudunun gıdıklanması, tüylerinin diken diken olması ve onun gülmeye başlaması durumunu anlatmak için kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "emsedi",
+      "anlam": "Çocuk annesinin memesini emmek istedi ve buna niyetlendi.",
+      "ornek_metin": "kenç anâsırı emsedi: Çocuk annesinin memesini emmek istedi ve buna niyetlendi.",
+      "cekimler": [
+        "emser",
+        "emsemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "258",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "emüzdi",
+      "anlam": "Kadın oğluna süt emzirdi.",
+      "ornek_metin": "urâgut oglınga süt emüzdi: Kadın oğluna süt emzirdi.",
+      "cekimler": [
+        "emzür",
+        "emüzmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "258",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "en",
+      "anlam": "Aşağıya doğru eğimli yer; iniş ya da yokuş.",
+      "ornek_metin": "en yer: Aşağıya doğru eğimli yer; en yoq: Bir iniş ya da yokuş.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "258",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "en",
+      "anlam": "Herhangi bir şeyin genişliği.",
+      "ornek_metin": "bu böz eni neçe: Bu bezin eni ne kadar?",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "258",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "enç",
+      "anlam": "Memnun, dingin.",
+      "ornek_metin": "eöngül ençmû: İçin rahat mı, memnun musun?",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "258",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "enç kend",
+      "anlam": "el-Mukanna'nın halkına ait bir kent; şimdi harap durumdadır.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "258",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ençikti",
+      "anlam": "(Üzerine soğuk su döküldüğü için) adam bilincini yitirdi, sarsıldı ve bir köşeye büzüştü.",
+      "ornek_metin": "er ençikti: (Üzerine soğuk su döküldüğü için) adam bilincini yitirdi, sarsıldı ve bir köşeye büzüştü.",
+      "cekimler": [
+        "ençiker",
+        "ençikmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "258",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "endek",
+      "anlam": "Çatı, dam.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Oğuz lehçesi",
+      "kaynak_sayfa": "258",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "endi",
+      "anlam": "Dağdan aşağı indi.",
+      "ornek_metin": "ol tâgdm qodı endi: O, dağdan [başka bir yerden de olabilir] aşağı indi.",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "258",
+      "notlar": "nun (n) lâm’dan (l) dönüşmüştür.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "endik",
+      "anlam": "Safdil adam, şaşkın.",
+      "ornek_metin": "endik er: Safdil adam.\nendik üme ewligni ağırlar: Şaşkın konuk ev sahibini ağırlar.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "258",
+      "notlar": "endik kişi tetibün / (öyle ki) şaşkın kişi ayılsın / el törü etilsün / Ülkeye refah yayılsın / toqlu böti yetilsün / Kurt kuzuyla birlikte güdülsün / qadgu yem e sawulsün / Kaygı bizi terk etsin",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "endürdi",
+      "anlam": "İndirdi.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "258",
+      "notlar": "bkz. ıldurdı.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "enedi",
+      "anlam": "O, koyununun kulağına işaret koydu.",
+      "ornek_metin": "ol qöym enedi: O, koyununun kulağına işaret koydu.",
+      "cekimler": [
+        "ener",
+        "enemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "259",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "enetti",
+      "anlam": "O, koyununun kulağından işaretlenmesini emretti.",
+      "ornek_metin": "ol qöym enetti: O, koyununun kulağından işaretlenmesini emretti.",
+      "cekimler": [
+        "enetür",
+        "enetmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "259",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "enişdi",
+      "anlam": "O, benimle dağdan inme konusunda yarıştı.",
+      "ornek_metin": "ol menig birle tâgdın enişdi: O, benimle dağdan inme konusunda yarıştı.",
+      "cekimler": [
+        "enişür",
+        "enişmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "259",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ensedi",
+      "anlam": "Adam çatıdan inmeyi arzuladı.",
+      "ornek_metin": "ar kütudin ensedi: Adam çatıdan [başka bir yerden de olabilir] inmeyi arzuladı.",
+      "cekimler": [
+        "enser",
+        "ensemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "259",
+      "notlar": "nn (n) lâm’dan (l) dönüşmüştür.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "enüç",
+      "anlam": "Katarakt.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "259",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "enüçledi",
+      "anlam": "Hekim kataraktlı gözü tedavi etti.",
+      "ornek_metin": "otâçı közüg enüçledi: Hekim kataraktlı gözü tedavi etti.",
+      "cekimler": [
+        "enüçler",
+        "enüçlemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "259",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "enüçlendi",
+      "anlam": "Onun gözünde katarakt oluştu.",
+      "ornek_metin": "anıg közi enüçlendi: Onun gözünde katarakt oluştu.",
+      "cekimler": [
+        "enüçlenür",
+        "enüçlenmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "259",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "enük",
+      "anlam": "Aslan yavrusu. Sırtlan, kurt ve köpek yavruları.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "259",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "enük",
+      "anlam": "Kilidin dişleri.",
+      "ornek_metin": "kiritlik enüki: Kilidin dişleri.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "259",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "enükledi",
+      "anlam": "Köpek yavruladı, aslan yavruladı.",
+      "ornek_metin": "ıt enükledi: Köpek yavruladı (enikledi); arsldn enükledi: Aslan yavruladı.",
+      "cekimler": [
+        "enüfcler",
+        "enüklemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "259",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "enüklendi",
+      "anlam": "Köpek, enik sahibi oldu.",
+      "ornek_metin": "ıt enüklendi: Köpek, enik sahibi oldu.",
+      "cekimler": [
+        "enüklenür",
+        "enûklenmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "259",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "enüklüg",
+      "anlam": "Yavruları olan aslan.",
+      "ornek_metin": "enüklüg arslân: Yavruları olan aslan.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "259",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "eng",
+      "anlam": "Yanak.",
+      "ornek_metin": "qızil eng: Kırmızı yanak.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "259",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "engdi",
+      "anlam": "Adam şaşırdı.",
+      "ornek_metin": "er engdi: Adam şaşırdı.",
+      "cekimler": [
+        "eriger",
+        "erîgmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "259-260",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "erigek",
+      "anlam": "Ağzın iki yanında bulunan çene kemikleri.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "260",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "erigek",
+      "anlam": "Kadınların peçelerini bağlamakta kullandıkları ip.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "260",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "eriges",
+      "anlam": "Sanki yabancıymış gibi sağına soluna bakınan adam.",
+      "ornek_metin": "enges kişi: Sanki yabancıymış gibi sağına soluna bakınan adam.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "260",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "eriglik",
+      "anlam": "Allık - kadınların yanaklarına sürdükleri kırmızı boya.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "260",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "erigtürdi",
+      "anlam": "O, adamın bu konu hakkında kafasını karıştırdı.",
+      "ornek_metin": "em i engtürdi: O, adamın bu konu hakkında kafasını kanşbrdı.",
+      "cekimler": [
+        "engturür",
+        "erigtürmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "260",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ep",
+      "anlam": "Bir pekiştirme ve vurgulama ilgeci.",
+      "ornek_metin": "ep edgü neng: Çok çok iyi bir şey.",
+      "cekimler": [],
+      "kelime_turu": "edat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "260",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "epe",
+      "anlam": "Anne.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Qarluq Türkmenlerince",
+      "kaynak_sayfa": "260",
+      "notlar": "bkz. ebe.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "epek",
+      "anlam": "Bebeklerin 'ekmek' demek için kullandıkları sözcük.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "260",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "epmek",
+      "anlam": "Ekmek.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Yağma ve Tuxsı lehçelerinde, ayrıca Oğuzların ve Qıfçâqların bazıları",
+      "kaynak_sayfa": "260",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "er",
+      "anlam": "Yer ya da ir.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "belirsiz",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "260",
+      "notlar": "bkz. yer ya da ir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "er",
+      "anlam": "Erkek.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "260",
+      "notlar": "Çoğulu eren’dir, ancak bu kullanım kuraldışıdır; çünkü çoğulluk göstergesi -lar'dır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "erdem",
+      "anlam": "Erdem, terbiye.",
+      "ornek_metin": "erdem başı til: Erdemin başı dil - iyi konuşmayı bilen kişi saygı görür.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "260",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "erdi",
+      "anlam": "O öyle oldu - o öyleydi.",
+      "ornek_metin": "ol andag erdi: O öyle oldu - o öyleydi.",
+      "cekimler": [
+        "erür",
+        "ermek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "260",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "erdi",
+      "anlam": "Adam yalnızdı - bir yoldaştan yoksundu.",
+      "ornek_metin": "er erdi: Adam yalnızdı - bir yoldaştan yoksundu.",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "260",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "erdi",
+      "anlam": "O, duvarda [başka bir yerde de olabilir] bir gedik açtı.",
+      "ornek_metin": "ol tam erdi: O duvarda [başka bir yerde de olabilir] bir gedik açtı.",
+      "cekimler": [
+        "erer",
+        "ermek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "260",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "erdini",
+      "anlam": "Emsalsiz bir inci.",
+      "ornek_metin": "Kadınlara yönelik olan ertini özük: bu emsalsiz inci gibi emsalsiz bir vücudu olan kadın.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "260",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "erej",
+      "anlam": "Erej (?)",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "belirsiz",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "260",
+      "notlar": "bkz. erinç.",
+      "kontrol_gerekli": true
+    },
+    {
+      "kelime": "eren",
+      "anlam": "Terazi (mîzân) Takımyıldızı; bir burç adı.",
+      "ornek_metin": "eren tüz: Terazi (mtzân) Takımyıldızı. Aynı zamanda bir burç adıdır.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "261",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "eren",
+      "anlam": "Erkekler.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "261",
+      "notlar": "Kuraldışı bir çoğul [bkz. er].",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "eretti",
+      "anlam": "Çocuk erginleşti - bir erkek olarak kabul edildi.",
+      "ornek_metin": "ogjian eretti': Çocuk erginleşti - bir erkek olarak kabul edildi.",
+      "cekimler": [
+        "eredür",
+        "eredmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "261",
+      "notlar": "Bunun kök-biçimi erekti'dir ve benzeşime maruz kalmıştır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ergürdi",
+      "anlam": "O, yağı [başka bir şeyi de olabilir] eritti.",
+      "ornek_metin": "Oİ yâg ergürdi: O, yağı [başka bir şeyi de olabiliri eritti.",
+      "cekimler": [
+        "ergürür",
+        "ergürmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "261",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ergürdi",
+      "anlam": "(ol) O, ortadan kalkmadan önce yemeğe yetişti.",
+      "ornek_metin": "(ol) aşqa ergürdi: O, ortadan kalkmadan önce yemeğe yetişti.",
+      "cekimler": [
+        "ergürür",
+        "ergürmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "261",
+      "notlar": "Herhangi bir şeye tam gittiği sırada yetişmeyi anlatmak için de bu sözcük kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ergüz",
+      "anlam": "Baharın başında buzların erimesi sonucu oluşan su.",
+      "ornek_metin": "ergüz süvv: Bahann başında buzlann erimesi sonucu oluşan su.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "261",
+      "notlar": "yay yarüban ergüzi / Bahann şafağı söktü / acjtı aqın munduzı / kar sulan ve coşkun seller aktı / tugdı yaruq yulduzı / Panldayan yıldız doğdu / tıngla sözüm küıgusüz / (Şaşırtıcı olsalar da) sözlerimi gülmeden dinle",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "erig",
+      "anlam": "Yağ ya da yağa benzeyen, eriyen herhangi bir şey - donduktan sonra eriyen herhangi bir şey.",
+      "ornek_metin": "erig neng: Yağ ya da yağa benzeyen, eriyen herhangi bir şey.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "261",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "erig",
+      "anlam": "Cevval, etkileyici hayvan.",
+      "ornek_metin": "erigyilqı: Cevval, etkileyici hayvan. eng at: görkemli at.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "Oğuzlar bilmez",
+      "kaynak_sayfa": "261",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "eriglik",
+      "anlam": "Hayvanın çevikliği, canlılığı.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "261",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "erildi",
+      "anlam": "Adam keder ve pişmanlıkla sarsıldı.",
+      "ornek_metin": "er erildi sarıldı: Adam keder ve pişmanlıkla sarsıldı.",
+      "cekimler": [
+        "erlür",
+        "erilmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "261",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "erildi",
+      "anlam": "Duvarda [başka bir yerde de olabilir] bir gedik açıldı.",
+      "ornek_metin": "tâm erildi: Duvarda [başka bir yerde de olabiliri bir gedik açıldı.",
+      "cekimler": [
+        "erilür",
+        "erilmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "261",
+      "notlar": "Buradan hareketle ay erildi: (ayın sonu yakalaştıkça) ay giderek küçülmeye başladı denir.",
+      "kontrol_gerekli": false
+    }
+  ]
+}

@@ -1,0 +1,887 @@
+{
+  "chunk_no": 45,
+  "kaynak_sayfa_baslangic": 305,
+  "kaynak_sayfa_bitis": 309,
+  "kelimeler": [
+    {
+      "kelime": "kerekledi",
+      "anlam": "Mekân genişledi.",
+      "ornek_metin": "yer kerigüdi: Mekân [başka bir şey de olabilir] genişledi.",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "305",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kerigüdi",
+      "anlam": "Mekân genişledi.",
+      "ornek_metin": "yer kerigüdi: Mekân [başka bir şey de olabilir] genişledi.",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "305",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kengür",
+      "anlam": "Genişletti.",
+      "ornek_metin": "",
+      "cekimler": [
+        "kengür",
+        "kengümek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "305",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kerigürdi",
+      "anlam": "Adam evini genişletti.",
+      "ornek_metin": "er ewin kerigürdi: Adam evini [başka bir şeyi de olabiliri genişletti.",
+      "cekimler": [
+        "kengrür",
+        "kerigürmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "305",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kengütti",
+      "anlam": "Adam evini genişletti.",
+      "ornek_metin": "er ewin kerigütti: Adam evini [başka bir şeyi de olabilir] genişletti.",
+      "cekimler": [
+        "kerigütür",
+        "kengümek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "305",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kep",
+      "anlam": "Herhangi bir şeyin kalıbı.",
+      "ornek_metin": "kerpiç kepi: Kerpiç kalıbı",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "305",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kep",
+      "anlam": "Benzer, gibi",
+      "ornek_metin": "bu er anıg kepi: Bu adam onun gibidir, ona benzer.",
+      "cekimler": [],
+      "kelime_turu": "ilgeç",
+      "dil_veya_lehce": "Oğuz lehçesi",
+      "kaynak_sayfa": "305",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kepek",
+      "anlam": "Kepek.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "305",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kepek",
+      "anlam": "Küçük inci.",
+      "ornek_metin": "kepek yinçü: Küçük inci",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "305",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kepek",
+      "anlam": "Saçtaki kepek.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "305",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kepeklik",
+      "anlam": "Kepeğin yapıldığı ya da konulduğu yer.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "305",
+      "notlar": "Kepeğin sahibini anlatmak için k, g'ye dönüşür [kepekhg].",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kepeli",
+      "anlam": "Kelebek.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "305",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kepidi",
+      "anlam": "Giysinin yüzeyi kurudu.",
+      "ornek_metin": "ton kepidi: Giysinin yüzegi kurudu.",
+      "cekimler": [
+        "kepir",
+        "kepımek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "305",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kepitti",
+      "anlam": "Rüzgâr giysiyi kısmen kuruttu.",
+      "ornek_metin": "yel tönug kepitti: Rüzgâr giysiyi kısmen kuruttu.",
+      "cekimler": [
+        "kepitür",
+        "kepitmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "305",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kerdi",
+      "anlam": "Adam ipi [başka bir şeyi de olabilir] gerdi.",
+      "ornek_metin": "er yıp kerdi: Adam ipi [başka bir şeyi de olabilir] gerdi. beg yöl kerdi: Bey, yolu kesti. Bu beyin gözcü yerlerine adamlar yerleştirdiği ve onun bilgisi olmadan kimsenin girip çıkamayacağı anlamına gelir.",
+      "cekimler": [
+        "kerer",
+        "kermek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "305",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kerdi",
+      "anlam": "Köpek havladı.",
+      "ornek_metin": "it kerdi: Köpek havladı",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "Qarluk lehçesi",
+      "kaynak_sayfa": "305",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kerek",
+      "anlam": "Gerek.",
+      "ornek_metin": "bu, kerek mü: gerekli mi sorusuna yanıt olarak kullanılır, kerek: evet, gerekli denir.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "305",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kerekledi",
+      "anlam": "O, onu özledi, varlığını yanında istedi.",
+      "ornek_metin": "ol anı kerekledi: O, onu özledi, varlığını yanında istedi.",
+      "cekimler": [
+        "herekler",
+        "hereklemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "305",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kereklig",
+      "anlam": "Bu bizim için gerekli olan bir şeydir.",
+      "ornek_metin": "bu neng ol bizke kereklig: Bu bizim için gerekli olan bir şeydir.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "306",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kerekü",
+      "anlam": "Çadır (Türkmenler arasında); kışlık ev (yerleşik halk arasında).",
+      "ornek_metin": "kek kördi kerekü yüdti: (Yaklaşan) tehlikeyi gördü ve çadırını yüklendi (oradan uzaklaştı)",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "306",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kerekülendi",
+      "anlam": "Adam çadır kurdu ve içine girdi.",
+      "ornek_metin": "er kerekülendi: Adam çadır kurdu ve içine girdi",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "306",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kerem",
+      "anlam": "Yeraltında bulunan ev; ikametgâh.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Yukarı ve aşağı Çin lehçesi",
+      "kaynak_sayfa": "306",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kerey",
+      "anlam": "bkz. yüllgü.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "belirsiz",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "306",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kergük",
+      "anlam": "Koyunun midesinde bulunan, üçüncü mideye benzeyen bir şey [kırkbayır (?)]",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "306",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kerildi",
+      "anlam": "Adam esnedi ve gerindi / İp gerildi.",
+      "ornek_metin": "er kerildi: Adam esnedi ve gerindi. uruq kerildi: İp [başka bir şey de olabilir, deri ya da post] gerildi.",
+      "cekimler": [
+        "kerilür",
+        "kerilmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "306",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kerilgen",
+      "anlam": "Her zaman gergin duran bir şey - gerilmiş deri ya da dağların zirvesi boyunca uzanan bulutlar gibi.",
+      "ornek_metin": "bu neng ol kerilgen: Bu, her zaman gergin duran bir şeydir - gerilmiş deri ya da dağların zirvesi boyunca uzanan bulutlar gibi. bu er ol [elim kerilgen: Bu her zaman gerinen ve esneyen bir adamdır.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "306",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kerim",
+      "anlam": "Desenli perde.",
+      "ornek_metin": "tâm kerimi: Duvan kaplamaya yarayan örtü",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "306",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "keriş",
+      "anlam": "Tırmanılabilecek bir dag zirvesi.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Oğuz lehçesi",
+      "kaynak_sayfa": "306",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "keriş",
+      "anlam": "Yağır; atın sırtı.",
+      "ornek_metin": "keriş yagrı ogulqa qalir: Sırttaki yara ogula da kalır - çünkü burası eklemlerin birleştiği oynak bir yerdir ve buradaki yaralar kolay kolay iyileşmez. Bu atasözü atın sırtının korunmasını öğütlemek için kullanılır.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "306",
+      "notlar": "eyerin açtığı yarayla karıştırılmamalıdır -çn",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "keriş",
+      "anlam": "Kavgada, çatışmada direnç gösterme.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "306",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "keriş",
+      "anlam": "Kavga, çatışma.",
+      "ornek_metin": "nelük kerişting: Neden kavga ettin?",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "306",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kerişdi",
+      "anlam": "O, bana ipi germede yardım etti / İpi germe konusunda yarıştı.",
+      "ornek_metin": "ol manga yıp kerişdi: O, bana ipi [başka bir şeyi de olabilir] gererken yardım etti. İpi germe konusunda yarışmayı anlatmak için de bu sözcük kullanılır.",
+      "cekimler": [
+        "kerişür",
+        "kerişmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "306",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kerişdi",
+      "anlam": "O, (bir konu üzerine) onunla kavga etti.",
+      "ornek_metin": "ol anıg birle kerişdi: O, (bir konu üzerine) onunla kavga etti.",
+      "cekimler": [
+        "kerişür",
+        "kerişmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "306",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "keritti",
+      "anlam": "O, köpeğini havlattı.",
+      "ornek_metin": "ol ıtırı keritti: O, köpeğini havlattı.",
+      "cekimler": [
+        "keritür",
+        "keritmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "Qarluk lehçesi",
+      "kaynak_sayfa": "307",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kerjü",
+      "anlam": "Misket; saçma.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "307",
+      "notlar": "iki eklemleme noktası arasındaki ze'yle (j).",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kerki",
+      "anlam": "Kerki, keser.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "307",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kerpiç",
+      "anlam": "Kerpiç.",
+      "ornek_metin": "bışıg kerpiç: Pişmiş kerpiç; tuğla.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "307",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kerşegü",
+      "anlam": "Sırtında yaralar bulunan (yağırlı) at.",
+      "ornek_metin": "kerşegii at: Sırtında yaralar bulunan (yağırlı) at.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "307",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kertgündi",
+      "anlam": "Kul, Allah’ın birliğini ikrar etti ve O'nun peygamberlerini kabul etti.",
+      "ornek_metin": "qul tengrıke kertgündi: Kul, Allah’ın birliğini ikrar etti ve O'nun peygamberlerini kabul etti. Kişinin kendi söylediği ya da yaptığı bir şeyi itiraf etmesini anlatmak için de bu sözcük kullanılır.",
+      "cekimler": [
+        "kertgünür",
+        "kertgünmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "307",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kertik",
+      "anlam": "Ekmeğin ya da benzer bir şeyin çetelesini tutmak için tahtanın üzerine açılan çentik.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "307",
+      "notlar": "bkz. kertük.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kertildi",
+      "anlam": "Tahtanın üzerine çentikler açıldı / Köle küçük düşürüldü, horlandı.",
+      "ornek_metin": "yıgâç kertildi: Tahtanın üzerine çentikler açıldı. qu! boynı kertildi: Köle küçük düşürüldü, horlandı.",
+      "cekimler": [
+        "kertilür",
+        "kertilmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "307",
+      "notlar": "Bu ifade boyna çentik açılması gibi bir anlam taşısa da, aşağılama belirtmek için kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kertişdi",
+      "anlam": "O, bana tahtanın üzerine çentikler açma işinde yardım etti.",
+      "ornek_metin": "ol manga yıgâç kertişdi: O, bana tahtanın [başka bir şeyin de olabilir] üzerine çentikler açma işinde yardım etti.",
+      "cekimler": [
+        "kertişür",
+        "kertişmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "307",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kertti",
+      "anlam": "O, tahtanın üzerine çentikler açtı / O, kölesinin boynunu kertti.",
+      "ornek_metin": "ol yıgâç kertti: O, tahtanın [başka bir şeyin de olabilir] üzerine çentikler açtı. ol qulm boynı kertti: O, kölesinin boynunu kertti - bu, kölenin horlandığı, aşağılandığı yan-anlamını içeren bir ifadedir.",
+      "cekimler": [
+        "kerter",
+        "kertmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "307",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kertü",
+      "anlam": "Yemin, ant.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "307",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kertü",
+      "anlam": "Yalnızca hakikatin olduğu yer.",
+      "ornek_metin": "Ölmüş bir adam için ol kertü yerde ol: O yalnızca hakikatin olduğu, yalana izin verilmeyen yerde denir.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "307",
+      "notlar": "ol tengrıke kertündi: O, Allah’a inandı (ve O’nun peygamberlerini kabul etti) ifadesi buradan gelir [bkz. kertgündi].",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kertük",
+      "anlam": "Tahtanın üzerindeki çentik.",
+      "ornek_metin": "kertük kemrük: Çentikler ve yarıklar.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "308",
+      "notlar": "bkz. kertik.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kertüledi",
+      "anlam": "O, onun sözlerine inandı.",
+      "ornek_metin": "ol anı kertüledi: O, onun sözlerine inandı.",
+      "cekimler": [
+        "kertüler",
+        "kertülemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "308",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kertürdi",
+      "anlam": "O, giysisinin güneşin önüne serilmesini emretti / O, ipi gerdirdi.",
+      "ornek_metin": "ol anıg tönın künke kertürdi: O, giysisinin güneşin önüne serilmesini emretti. ol yîp kertürdi: O, ipi [başka bir şeyi de olabilir] gerdirdi.",
+      "cekimler": [
+        "kertürür",
+        "kertürmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "308",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kes",
+      "anlam": "Herhangi bir şeyin bir parçası.",
+      "ornek_metin": "bir kes etmek: Bir parça ekmek",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "308",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kes",
+      "anlam": "Kıç deliğini temizlemek için kullanılan bir parça kurutulmuş kil.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "308",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kesbe",
+      "anlam": "Köyün şefinin ark ya da çeşme yapımına katılmayan kimselerden aldığı tazminat.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Çigil lehçesi",
+      "kaynak_sayfa": "308",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kesdi",
+      "anlam": "O, ağaç [başka bir şeyi de olabilir] kesti.",
+      "ornek_metin": "ol yigâç kesdi: O, ağaç [başka bir şeyi de olabiliri kesti. uygur yıgâç üzün kes temür qısga kes: Ey Uygur, ağacı uzun, demiri kısa kes - çünkü demir uzatılabilir.",
+      "cekimler": [
+        "keser",
+        "kesmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "308",
+      "notlar": "Uygurların tellalları vardır; bunlar her gün bilgece bir sözü halk arasında bağırarak dile getirir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kesek",
+      "anlam": "Herhangi bir nesnenin bir parçası.",
+      "ornek_metin": "bir kesek ötmek: Bir parça ekmek",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "308",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kesgük",
+      "anlam": "Köpeğin boynuna takılan demir tasma.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "308",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kesildi",
+      "anlam": "Nesne kesildi.",
+      "ornek_metin": "kesildi nerig: Nesne kesildi.",
+      "cekimler": [
+        "kesilür",
+        "kesilmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "308",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kesilgtn",
+      "anlam": "Bu, her zaman aniden kopan bir iptir.",
+      "ornek_metin": "bu yıp ol kesilgen: Bu, her zaman aniden kopan bir iptir",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "308",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kesindi",
+      "anlam": "O, kendisi için bir parça et [başka bir şey de olabilir] kesti.",
+      "ornek_metin": "ol Özinge et kesindi: O, kendisi için bir parça et [başka bir şey de olabilir] kesti.",
+      "cekimler": [
+        "kesinür",
+        "kesinmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "308",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kesişdi",
+      "anlam": "O, bana ağaç kesmekte yardım etti.",
+      "ornek_metin": "ol manga yıgâç kesişdi: O, bana ağaç kesmekte yardım etti. Bu konuda rekabet etmeyi anlatmak için de bu sözcük kullanılır.",
+      "cekimler": [
+        "kesişür",
+        "kesişmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "308",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kesleşür",
+      "anlam": "Nesnenin çıkıntıları kesildi; nesne parçalara ayrıldı.",
+      "ornek_metin": "mınglâq erin bıçtımız öldürdük Mırigldcfın (bir yer adı] bütün erkeklerini kesleşdi neng: Nesnenin çıkıntılan kesildi; nesne parçalara aynldı.",
+      "cekimler": [
+        "kesleşmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "309",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kestem",
+      "anlam": "Önceden sözleşmeden, aniden konuk olarak gelenler için verilen ziyafet.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "309",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "keş",
+      "anlam": "Sadak.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "309",
+      "notlar": "Oğuzlar ve onların Qıfçâq kardeşleri bu sözcüğü bilmez.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "keşm îr",
+      "anlam": "Türk ülkesindeki bir kentin adı.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "309",
+      "notlar": "Hz. Süleyman tarafından kurulmuştur.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "keten",
+      "anlam": "Zahmet, sıkıntı.",
+      "ornek_metin": "keten kördi kerekiı yüdti: (O kadar çok) sıkıntıyla karşı karşıya kaldı ki, (kişisel eşyalarının azlığı nedeniyle) çadırını (tek başına) yüklendi (taşıyabildi) denir.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "309",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "keterdi",
+      "anlam": "O, taşı yoldan kaldırdı. Herhangi bir şeyi kaldırıp yerini...",
+      "ornek_metin": "ol tâşıg yoldan keterdi: O, taşı yoldan kaldırdı.",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "309",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kesledi",
+      "anlam": "O, kil parçaları atarak köpeği kovdu.",
+      "ornek_metin": "ol ıtıg kesledi: O, kil parçalan atarak köpeği kovdu.",
+      "cekimler": [
+        "keşler",
+        "keslemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "309",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kesliñçü",
+      "anlam": "Büyük kertenkele.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "309",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "keslindi",
+      "anlam": "Nesne kesildi.",
+      "ornek_metin": "keslindi neng: Nesne kesildi.",
+      "cekimler": [
+        "keslinür",
+        "keslinmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "309",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kesme",
+      "anlam": "Demirden yapılmış, geniş bir temren.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "309",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kesme",
+      "anlam": "Perçem.",
+      "ornek_metin": "tünle bile bastımız Onlara gece saldırdık tegme yangaq bustımız Her yanda pusuya yattık kesmelerin kestimiz Atlarının perçemlerini kestik",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "309",
+      "notlar": "(Uygurlar üzerine yapılan akını anlatıyor)",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kesmelendi",
+      "anlam": "Kız zülüftendi, perçemi uzadı.",
+      "ornek_metin": "qîZ kesmelendi: Kız zülüftendi, perçemi uzadı.",
+      "cekimler": [
+        "kesmelenür",
+        "kesmelenmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "309",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kester",
+      "anlam": "Çanak çömlek.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Uç lehçesi",
+      "kaynak_sayfa": "309",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kestürdi",
+      "anlam": "O, ona ağacı kesme vazifesi verdi.",
+      "ornek_metin": "ol angaryıgâç kestürdi: O, ona ağacı (başka bir şeyi de olabilir] kesme vazifesi verdi.",
+      "cekimler": [
+        "kestürür",
+        "kestürmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "309",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kesürgü",
+      "anlam": "Deri heybe; dağarcık.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "309",
+      "notlar": "",
+      "kontrol_gerekli": false
+    }
+  ]
+}

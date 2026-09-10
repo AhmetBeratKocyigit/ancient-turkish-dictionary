@@ -1,0 +1,786 @@
+{
+  "chunk_no": 8,
+  "kaynak_sayfa_baslangic": 157,
+  "kaynak_sayfa_bitis": 161,
+  "kelimeler": [
+    {
+      "kelime": "atış",
+      "anlam": "kalın ünlü - vezin gerektirdiği için sözcüğe bir yazaç ekleyerek ya da yazacı eğerek uzatmak",
+      "ornek_metin": "qüş qanatın er atın: Kuş (hedefine) kanadıyla, er atıyla (ulaşır)",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "157",
+      "notlar": "At - elif (a) işkalıdır",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ata",
+      "anlam": "Baba",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Hoten ve Kençek",
+      "kaynak_sayfa": "157",
+      "notlar": "Hoten ve Kençek halkı ata’ya hata der.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ata sâgün",
+      "anlam": "Hekim",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "157",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ataç",
+      "anlam": "Büyük bir adammış gibi davranan küçük çocuk",
+      "ornek_metin": "ataç ogül denir",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "157",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "atadı",
+      "anlam": "Unvan vermek, ad vermek",
+      "ornek_metin": "on angar ât atadı: O, ona unvan verdi.",
+      "cekimler": [
+        "atar",
+        "atâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "157",
+      "notlar": "Kaynak metindeki atâm âq ifadesi çekimler dizisine atâmâq olarak eklenmiştir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "atan",
+      "anlam": "İğdiş edilmiş deve",
+      "ornek_metin": "atan yüki aş bolsa açqa az körnür: İğdiş edilmiş devenin yükü yemek olsa, aça az görünür.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "157",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "atanlandı",
+      "anlam": "İğdiş edilmiş deve sahibi olmak",
+      "ornek_metin": "er atanlandı: Adam iğdiş edilmiş deve sahibi oldu",
+      "cekimler": [
+        "atanlanur",
+        "atanlanmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "157",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "atanlıg",
+      "anlam": "İğdiş edilmiş devesi olan kimse",
+      "ornek_metin": "atanlıg er: İğdiş edilmiş devesi olan kimse.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "157",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "atâqı",
+      "anlam": "Babacığım anlamına gelen ve sevgi bildiren bir sözcük",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "157",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "atgâq",
+      "anlam": "Safra. Sarı çiçekleri olan bir bitki",
+      "ornek_metin": "Korkudan sararan bir yüz de buna benzetilir",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "157",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "atgardı",
+      "anlam": "Binmekte yardım etmek",
+      "ornek_metin": "ol mini atgardı: O, bana ata (başka bir şeye de olabilir] binmekte yardım etti.",
+      "cekimler": [
+        "atgarur",
+        "atgarmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "157",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "atıldı",
+      "anlam": "Atılmak, açılmak",
+      "ornek_metin": "oq atıldı: Ök atıldı. çeçek ağzı atıldı: Tomurcuk açıldı.",
+      "cekimler": [
+        "atılur",
+        "atılmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "157",
+      "notlar": "Her türlü çiçek veya tomurcuğu ya da bütünden ayrılmadan açılan herhangi bir şeyi anlatmak için bu sözcük kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "atım",
+      "anlam": "İyi aba olan adam; nişancı",
+      "ornek_metin": "atım er: İyi aba olan adam; nişancı",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "157",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "atınçu",
+      "anlam": "Atılan bir şey",
+      "ornek_metin": "atınçu neng: Atılan bir şey.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "157",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "atındı",
+      "anlam": "Atıyormuş gibi görünmek",
+      "ornek_metin": "ol oq atındı: O, ok abyormuş gibi göründü.",
+      "cekimler": [
+        "atmür",
+        "atmmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "157",
+      "notlar": "Metinde atmür, atmmâq şeklinde geçen ekler çekimler dizisine eklenmiştir.",
+      "kontrol_gerekli": true
+    },
+    {
+      "kelime": "atış",
+      "anlam": "Karşılıklı atma",
+      "ornek_metin": "Atış; karşılıklı atma.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "157-158",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "atış",
+      "anlam": "Bir erkek adı",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "158",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "atışdı",
+      "anlam": "Atma konusunda yarışmak",
+      "ornek_metin": "ol merıig birle oq atışdı: O, ok atma konusunda benimle yarıştı.",
+      "cekimler": [
+        "atışur",
+        "atışmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "158",
+      "notlar": "Herhangi bir şeyi atmayı anlatmak için de bu sözcük kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "atışgân",
+      "anlam": "Sürekli ok atarak boy ölçüşen kimse",
+      "ornek_metin": "ol merıig birle oq atışgân: O sürekli ok atarak benimle boy ölçüşür",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "158",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "atıttı",
+      "anlam": "Tayın at olarak kabul edilmesi, yetişmesi",
+      "ornek_metin": "tây atıttı: Tay, at olarak kabul edildi. tay atıtsa at tmur, ogûl eretjse ata tınur: Tay yetişirse at dinlenir, oğul yetişirse baba dinlenir.",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "158",
+      "notlar": "Arapçadaki fûttıyatû'l-câriye ey ’uddet mine’l-fetâyât ifadesine benzer.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "atız",
+      "anlam": "Suyun iki yanı arasındaki dar toprak parçası",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "158",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "atızladı",
+      "anlam": "Toprağa ark açmak, bent yapmak",
+      "ornek_metin": "er yerin atızladı: Adam (ekmek için) toprağına ark açtı, bent yaptı.",
+      "cekimler": [
+        "atızlâr",
+        "atızlâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "158",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "atızlandı",
+      "anlam": "Toprağa arklar açılmak",
+      "ornek_metin": "yer atızlandı: Toprağa (ekilmek için) arklar açıldı.",
+      "cekimler": [
+        "atızlanur",
+        "atızlanmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "158",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "atladı",
+      "anlam": "Ata binmek",
+      "ornek_metin": "ol at atladı: O, ata bindi.",
+      "cekimler": [
+        "atlâr",
+        "atlâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "158",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "atlandı",
+      "anlam": "Ata binmek, tırmanmak",
+      "ornek_metin": "er atlandı: Adam ata bindi. ol tâgqa atlandı: O dağa çıktı",
+      "cekimler": [
+        "atlanur",
+        "atlanmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "Oğuz lehçesi",
+      "kaynak_sayfa": "158-159",
+      "notlar": "Herhangi bir şeye tırmanmayı anlatmak için de bu sözcük kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "atlıg",
+      "anlam": "Atlı adam",
+      "ornek_metin": "atlıg er: Atlı adam",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "159",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "atsâdı",
+      "anlam": "Atmak istemek",
+      "ornek_metin": "ol oq atsâdı: O, Ok [başka bir şey de olabilir] atmak istedi.",
+      "cekimler": [
+        "atsâr",
+        "atsâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "159",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "attı",
+      "anlam": "Ok atmak, şafak sökmek, bir şeyi atmak",
+      "ornek_metin": "ero q attı: Adam ok attı; tang attı: Şafak söktü; ol attı nengni: O adam bir şeyi attı.",
+      "cekimler": [
+        "atâr",
+        "atmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "159",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "atturdı",
+      "anlam": "Okulun veya herhangi bir şeyin atılmasını emretmek",
+      "ornek_metin": "ol oq atturdı: O, okun atılmasını emretti.",
+      "cekimler": [
+        "utturur",
+        "attw m aq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "159",
+      "notlar": "Herhangi bir şeyin atılmasını anlatmak için de kullanılır.",
+      "kontrol_gerekli": true
+    },
+    {
+      "kelime": "âvan",
+      "anlam": "Ağaçlar",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Sayram lehçesi",
+      "kaynak_sayfa": "159",
+      "notlar": "Bu kent Sipencâb olarak bilinir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "avut",
+      "anlam": "Avuç",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "159",
+      "notlar": "Adut’un değişik sesletimidir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "âw",
+      "anlam": "Av",
+      "ornek_metin": "beg awqa çıqtı: Bey ava çıktı.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "159",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "awa",
+      "anlam": "Acı bildiren bir ilgeç",
+      "ornek_metin": "insan bir şeye çok üzülürse awa awa diye inler.",
+      "cekimler": [],
+      "kelime_turu": "ünlem",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "159",
+      "notlar": "Arapçadaki vâvaylî ifadesine tekabül eder.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "awâlâdı",
+      "anlam": "Çepeçevre toplanmak, toplumsal karışıklık",
+      "ornek_metin": "anıg tegre kişi awâlâdı: Onun yanında halk çepeçevre toplandı.",
+      "cekimler": [
+        "awd!dr",
+        "awdîdmdq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "159",
+      "notlar": "Bu sözcük özellikle toplumsal karışıklığı anlatmak için kullanılır. Diğer durumlarda awdı denir.",
+      "kontrol_gerekli": true
+    },
+    {
+      "kelime": "awdı",
+      "anlam": "Halkın bir şeyi görmek için etrafını sarması",
+      "ornek_metin": "körünçke kişi awdı: Halk onu görmek için bir şeyin etrafinı sardı",
+      "cekimler": [
+        "avvdr",
+        "avvmdq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "159",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "âwdı",
+      "anlam": "Halkın birinin yanında toplanması",
+      "ornek_metin": "arîgar kişi âwdı: Halk onun yanında toplandı",
+      "cekimler": [
+        "dvvdr",
+        "dwmdq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "159",
+      "notlar": "",
+      "kontrol_gerekli": true
+    },
+    {
+      "kelime": "awıçga",
+      "anlam": "İhtiyar adam",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "159",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "awılqu",
+      "anlam": "Kızıl meyveleri olan, nektarı tutmâç suyuna katılan, kabuğu ilaç ve kumaş boyamada kullanılan bir ağaç",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "159",
+      "notlar": "Kabuğundan yapılan ilaç göz iltihabının tedavisinde kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "awınç",
+      "anlam": "Bir şeyle yakınlık ya da teklifsizlik içinde olma",
+      "ornek_metin": "manga amndı: O, bana alıştı.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "160",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "awmç",
+      "anlam": "Bir şeyle yakınlık ya da teklifsizlik içinde olma",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "160",
+      "notlar": "Ana madde olarak bu sözcük, sözlükte iki kez yer almaktadır -çn",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "awınçu",
+      "anlam": "Kendisinden haz alınan, aşina olunan şey, cariye",
+      "ornek_metin": "awınçu neng: Kendisinden haz alınan, aşina olunan bir şey. Bu nedenle cariyelere awıııçu denir.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "160",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "awındı",
+      "anlam": "Dostça davranmak, alışmak",
+      "ornek_metin": "ol manga amndı: O, bana dostça davrandı.",
+      "cekimler": [
+        "awnur",
+        "awınmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "160",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "avvlâdı",
+      "anlam": "Av avlamak, halkın etrafında toplanması",
+      "ornek_metin": "beg aw avvlâdı: Bey av avladı; angâr kişi avladı: Halk onun etrafında toplandı",
+      "cekimler": [
+        "avvldr",
+        "awlâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "160",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "awlaldı",
+      "anlam": "Yaban hayvanı avlanmak",
+      "ornek_metin": "keyik aw laldı: Yaban hayvanı avlandı.",
+      "cekimler": [
+        "awlalur",
+        "awlalmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "160",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "âwlandı",
+      "anlam": "Kendisi için ve kendi kendine avlanmak",
+      "ornek_metin": "er özinge avlandı: Adam kendisi için ve kendi kendine avlandı",
+      "cekimler": [
+        "âıvlanur",
+        "âwlanmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "160",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "awlaşdı",
+      "anlam": "Halkın bir şey için toplanması",
+      "ornek_metin": "kişi avlaşdı: Halk bir şey için toplandı.",
+      "cekimler": [
+        "avlaşür",
+        "avlaşmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "160",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "awlattı",
+      "anlam": "Av avlatmak",
+      "ornek_metin": "ol manga ıwıq avlattı: O bana dişi karaca avlattı.",
+      "cekimler": [
+        "awlatur",
+        "awlatmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "160",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "awrüzı",
+      "anlam": "Karışık yiyecek, buğday ve arpa ununun karıştırılarak pişirilmesi",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "160",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "avvujgün",
+      "anlam": "Deri sepilemekte kullanılan akasya yaprakları",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "160",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "awurta",
+      "anlam": "tutundı kelimesine bakınız",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "belirsiz",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "160",
+      "notlar": "bkz. tutundı.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "awus",
+      "anlam": "Mum",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Bulgar lehçesi",
+      "kaynak_sayfa": "160",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "awya",
+      "anlam": "Ayva",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "160",
+      "notlar": "Değişik sesletim [kurala uygun biçim ayva olmalıdır, ama özgün metinden bir şekilde kaybolmuştur -çn].",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "axsâdı",
+      "anlam": "Aksamak, topallamak",
+      "ornek_metin": "at OXSâdi: At aksadı, topalladı.",
+      "cekimler": [
+        "axsâr",
+        "axsâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "161",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "axsaq",
+      "anlam": "boxsaq kelimesine bakınız",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "belirsiz",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "161",
+      "notlar": "bkz. boxsaq.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "axsâq",
+      "anlam": "Topal, aksak",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "161",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "axsattı",
+      "anlam": "Aksatmak",
+      "ornek_metin": "ol anı axsattı: O, onu aksattı.",
+      "cekimler": [
+        "axsatur",
+        "axsatmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "161",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "axsurik",
+      "anlam": "Gürültü patırdı çıkaran, kavga eden sarhoş adam",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "161",
+      "notlar": "Başka bir lehçedeki değişik sesletimi axsurn'dur.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "axşam",
+      "anlam": "Akşam, günbatımı zamanı",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "161",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "axtardı",
+      "anlam": "Ters çevirmek, devirmek, sürmek",
+      "ornek_metin": "er tdşıg axtardı: Adam tası çevirdi. tüpiyıgâçıg axtardı: Tipi ağacı devirdi. ol yer axtarâı: O toprağı sürdü.",
+      "cekimler": [
+        "coctarur",
+        "axtarmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "161",
+      "notlar": "hı (x) gayn'ın (g) dönüşmüştür [agtardı], tıpkı Arapçadaki hattâr ya da gaddar veya humâru'n-nâs ve gumâruhum denmesi gibi.",
+      "kontrol_gerekli": true
+    },
+    {
+      "kelime": "ây",
+      "anlam": "Ay",
+      "ornek_metin": "tölun ây: Dolunay",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "161",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ây",
+      "anlam": "Ay (otuz günlük zaman dilimi)",
+      "ornek_metin": "ây tolün bolsa elgin imlemes: Ay dolun olduğunda elle gösterilmez",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "161",
+      "notlar": "Yılın on iki bölümünden her birine ay denmesinin nedeni, bu sürenin ayın bir geçişiyle ölçülmesidir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ây kol",
+      "anlam": "Uç yakınında bir yer adı",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "161",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "aya",
+      "anlam": "Avuç içi",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "161",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "aya yersgü",
+      "anlam": "Yarasa",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Çigil lehçesi",
+      "kaynak_sayfa": "161",
+      "notlar": "Bazıları yarasa der.",
+      "kontrol_gerekli": false
+    }
+  ]
+}

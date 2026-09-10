@@ -1,0 +1,725 @@
+{
+  "chunk_no": 144,
+  "kaynak_sayfa_baslangic": 701,
+  "kaynak_sayfa_bitis": 705,
+  "kelimeler": [
+    {
+      "kelime": "yopattı",
+      "anlam": "Adam işi savsakladı ve başkalarının da savsaklamasına neden oldu.",
+      "ornek_metin": "ol îşıgyopattı: O, işi savsakladı ve başkalarının da savsaklamasına neden oldu.",
+      "cekimler": [
+        "yopatür",
+        "yopatmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "701",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yopaldı",
+      "anlam": "İşe önem verilmedi ve tamamlanmadan bırakıldı.",
+      "ornek_metin": "1? yopaldı: İşe önem verilmedi ve tamamlanmadan bırakıldı.",
+      "cekimler": [
+        "yopâlür",
+        "yopalmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "701",
+      "notlar": "",
+      "kontrol_gerekli": true
+    },
+    {
+      "kelime": "yopandı",
+      "anlam": "Adam işi ihmal etti.",
+      "ornek_metin": "er îştm yopandı: Adam işi ihmal etti.",
+      "cekimler": [
+        "yopânür",
+        "yopanmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "701",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yopâgu",
+      "anlam": "Önem verilmemesi ve tamamlanmadan bırakılması gereken iş.",
+      "ornek_metin": "yopâgu iş: Önem verilmemesi ve tamamlanmadan bırakılması gereken iş.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "701",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yopâdı",
+      "anlam": "Adam işi savsakladı ve üzerine düşmedi.",
+      "ornek_metin": "er ışıgyopâdı: Adam işi savsakladı ve üzerine düşmedi.",
+      "cekimler": [
+        "yopâr",
+        "yopâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "701",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yöp",
+      "anlam": "Mile; üçkâğıt, hile",
+      "ornek_metin": "yâpyöp: Mile; üçkâğıt, yöp sözcüğü tek başına kullanılmaz, yalnızca ikilemeye girdiğinde anlamlı olur. Ancak Oğuzlar, ol anıyöplâdı: O, onu aldattı der.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Oğuz",
+      "kaynak_sayfa": "701",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yongattı",
+      "anlam": "O, onun beye [başka birine de olabiliri gammazlanmasını sağladı.",
+      "ornek_metin": "ol anı begke yongattı: O, onun beye [başka birine de olabiliri gammazlanmasını sağladı.",
+      "cekimler": [
+        "yongâtür",
+        "yoıigâtmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "701",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yorigâg",
+      "anlam": "Beye birini gammazlamak; beyin huzurunda birine kara çalmak.",
+      "ornek_metin": "anı yorigâg yongâdı: Onu Sultana gammazladı,",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "701",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yongâdı",
+      "anlam": "O, onu beye şikâyet etti - Beye onun hakkında yalan yanlış şeyler anlattı.",
+      "ornek_metin": "ol anı begke yongâdı: O, onu beye şikâyet etti - Beye onun hakkında yalan yanlış şeyler anlattı.",
+      "cekimler": [
+        "yongâr",
+        "yorigâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "701",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yonuşdı",
+      "anlam": "Onlar birbirlerine ok yontmakta yardım ettiler.",
+      "ornek_metin": "olâçbirblrke oqyonuşdı: Onlar birbirlerine ok Ibaşka bir şey de olabilir] yontmakta yardım ettiler. Bu işte boy ölçüşmeyi anlatmak için de bu sözcük kullanılır,",
+      "cekimler": [
+        "yonuşür",
+        "yonuşmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "701",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yonuldı",
+      "anlam": "Tahta yontuldu.",
+      "ornek_metin": "yıgâç yonuldı: Tahta [başka bir şey de olabilir] yontuldu.",
+      "cekimler": [
+        "yonulür",
+        "yonulmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "701",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yonındı",
+      "anlam": "Yonga; talaş.",
+      "ornek_metin": "ol yıgâç yonındı: O tahtayı yontuyormuş gibi göründü.",
+      "cekimler": [
+        "yonmür",
+        "yonınmâq"
+      ],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "701",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yopatüri",
+      "anlam": "O, onu hileyle aldattı.",
+      "ornek_metin": "ol anı yopilâdı: O, onu (hileyle) aldattı. Şu dörtlükte de kullanılır, tangut xânı yopilâdı Tangut hanı hile yaptı (ve Qâtünsînı hakanını aldattı) ölüm birle töpüledi Başının tepesine ölüm getirecek biçimde vurdu qadaşlârı tapâlâdı Kardeşleri serzenişte bulundular ölüm köıüp yüzi ağdı Bu ölümün kaçınılmaz olduğunu görünce rengi soldu ve yüzü değişti",
+      "cekimler": [
+        "yopîlâr",
+        "yopilâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "Oğuz ve Qıfçâq",
+      "kaynak_sayfa": "701-702",
+      "notlar": "Bu sözcüğün kök-anlamı hile yapmaktır; Oğuz ve Qıfçâq lehçelerinde kullanılır.",
+      "kontrol_gerekli": true
+    },
+    {
+      "kelime": "yöq",
+      "anlam": "Değil, yok",
+      "ornek_metin": "ol m undayöq: O, burada değil.",
+      "cekimler": [],
+      "kelime_turu": "ilgeç",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "702",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yoq",
+      "anlam": "Yokuş yer.",
+      "ornek_metin": "yoq yer: Yokuş yer.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "702",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yoqlattı",
+      "anlam": "O, onu dağa tırmandırdı.",
+      "ornek_metin": "ol anı tâgqayoqlattı: O, onu dağa tırmandırdı.",
+      "cekimler": [
+        "yoqlatür",
+        "yoqlatmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "702",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yorbâş",
+      "anlam": "borbâş kelimesinin benzeri",
+      "ornek_metin": "yorbâş. bkz. borbâş.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "702",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yorıdı",
+      "anlam": "Yürümek.",
+      "ornek_metin": "eryoridı: Adam yürüdü. Yürüyen ya da yolculuk eden herhangi bir şeyi anlatmak için de bu sözcük kullanılır. tünle yonp hündüz sewnür, kiçigde ewlenip ulgâdu sewnür: Gece yolculuk eden kimse gündüz sevinir, gençken evlenen kimse yaşlılıkta sevinir",
+      "cekimler": [
+        "yorîr",
+        "yorîmâc;"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "702",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yorıgçı",
+      "anlam": "Gelin ile güveyin akrabaları arasında söz getirip götüren aracı",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Oğuz",
+      "kaynak_sayfa": "702",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yoriguyer",
+      "anlam": "Yürünecek ya da koşulacak yer.",
+      "ornek_metin": "yoriguyer: Yürünecek ya da koşulacak yer. Bu, yer belirten bir addır; zaman için de kullanılabilir",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "702",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yorîga",
+      "anlam": "Rahvan at.",
+      "ornek_metin": "yonga at: Rahvan at.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "702",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yormça",
+      "anlam": "Yonca",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Oğuz",
+      "kaynak_sayfa": "702",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yorınçga",
+      "anlam": "Yonca.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "703",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yorıq",
+      "anlam": "İyi, doğru konuşma.",
+      "ornek_metin": "yorıq tıl: İyi, doğru konuşma.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "703",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yorıq",
+      "anlam": "İnsanlara yönelik davranış; tutum.",
+      "ornek_metin": "anıgyorıqı netegkişi bile: Onunjnalka yönelik tutumu ve davranışı nasıldır?",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "703",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yonq",
+      "anlam": "Yürüyüş [yürüme tarzı]",
+      "ornek_metin": "cıt yorıqı ncteg: Atın yürüyüşü nasıl? Su ya da benzer şeylerin akış biçimini anlatmak için de bu sözcük kullanılır",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "703",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yorışdı",
+      "anlam": "O, yürüme konusunda benimle yarıştı.",
+      "ornek_metin": "ol menig birle yorışdı: O, yürüme konusunda benimle yarıştı. torqu yorışdı: İpek kumaşta izler, çizgiler oluştu. Bu, ipek kumaş yıpranmaya yüz tuttuğu zaman gerçekleşir.",
+      "cekimler": [
+        "yorışür",
+        "yorışmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "703",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yorıtgân",
+      "anlam": "Sürekli osuran kimse.",
+      "ornek_metin": "yorıtgân kişi: Sürekli osuran kimse,",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "703",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yorıttı",
+      "anlam": "O, beni çok fazla yürüttü / İlaç onun bağırsaklarını gevşetti - Onu ishal yaptı.",
+      "ornek_metin": "ol meni telim yorıttı: O, beni çok fazla yürüttü, ot anıg qarnm yorıttı: İlaç onun bagırsaklannı gevşetti - Onu ishal yaptı.",
+      "cekimler": [
+        "yorıtür",
+        "yorıtmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "703",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yortu",
+      "anlam": "Atlı rahvan gitti.",
+      "ornek_metin": "atlıg yorttı: Atlı rahvan gitti.",
+      "cekimler": [
+        "yortür/yortâr",
+        "yortm aq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "703",
+      "notlar": "iki değişik sesletim",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yortug",
+      "anlam": "Savaş gününde ya da konaklama yerinden ayrıldığında hakanın yanında bulunan eşlikçiler [korumalar].",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "703",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yortuşdı",
+      "anlam": "O, yürüme konusunda benimle yarıştı.",
+      "ornek_metin": "ol menig bile yortuşdı: O, yürüme konusunda benimle yarıştı.",
+      "cekimler": [
+        "yortuşür",
+        "yortuşmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "703",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yoş",
+      "anlam": "Kalabalık",
+      "ornek_metin": "bodünyoş böldı: Halk toplaşıp kalabalık yarattı,",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Oğuz",
+      "kaynak_sayfa": "703",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yöş",
+      "anlam": "Sebzeler, yeşillikler",
+      "ornek_metin": "yaş yöş: Sebzeler, yeşillikler - söz uzatımıyla,",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "703",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yotturdum",
+      "anlam": "Ben ona yazı sildirdim.",
+      "ornek_metin": "men angar bitig yotturdum: Ben ona yazı sildirdim. Kök-biçimi yodturdum’dur. Herhangi bir şeyi izi tamamen yok oluncaya kadar silip temizlemeyi anlatmak için de bu sözcük kullanılır.",
+      "cekimler": [
+        "yotturur men",
+        "yotturmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "703",
+      "notlar": "yodturdum şeklinde de geçer.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yovlıc",
+      "anlam": "Keçinin ince, yumuşak tüyü",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "704",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yowdı",
+      "anlam": "Eşek koşabildiği kadar hızlı koştu / O, onu hile yaparak aldattı / Adam hışmıyla bağlarını güçlendirdi, onunla zenginliğini paylaştı ve şefkatiyle onu etkisi altına aldı.",
+      "ornek_metin": "eşyek yowdı: Eşek koşabildiği kadar hızlı koştu. ol artı ârdı yowdı: O, onu hile yaparak aldattı. er qadâşın qurdı yowdı: Adam hışmıyla bağlarını güçlendirdi, onunla zenginliğini paylaştı ve şefkatiyle onu etkisi altına aldı,",
+      "cekimler": [
+        "yovvdr",
+        "yowmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "704",
+      "notlar": "yuwdı sözcüğüyle aynı geniş zaman ve eylemliğe sahip.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yovvsâdı",
+      "anlam": "O, zenginliğini [malını) benimle paylaşmak istedi.",
+      "ornek_metin": "ol manga tawâryowsâdı (yöwsedi): O, zenginliğini [malını) benimle paylaşmak istedi,",
+      "cekimler": [
+        "yovvsâr",
+        "yowsâmâq",
+        "yöwser",
+        "yöwsemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "704",
+      "notlar": "yöwsedi şeklinde de geçer.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yowuşdı",
+      "anlam": "Onlar birbirleriyle yardımlaştı ve zenginlik paylaştılar.",
+      "ornek_metin": "olar ekki yowuşdt (yöwüşdi): Onlar birbirieriyle yardımlaştı ve zenginlik paylaştılar.",
+      "cekimler": [
+        "yovmşür",
+        "yowuşmâq",
+        "yövvüşür",
+        "yöwüşmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "704",
+      "notlar": "yöwüşdi şeklinde de geçer.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yozâdı",
+      "anlam": "Dişi koyun döl vermedi.",
+      "ornek_metin": "qöyyozâdı: Dişi koyun döl vermedi. Kısrak dışında, erkeğiyle çiftleşen, ancak yavru doğuramayan herhangi bir hayvanı anlatmak için bu sözcük kullanılır, kısrağın hamile kalmamasını anlatmak için be qısır boldı: Kısrak kısır kaldı denir.",
+      "cekimler": [
+        "yozâr",
+        "yozâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "704",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yöledi",
+      "anlam": "O, duvarı destekledi.",
+      "ornek_metin": "ol tâmıgyöledi: O, duvan destekledi. Şu dörtlükte de kullanılır, ulugnı tiler men Ululuk aradım tavvdnn yöler men (Ve onu) zenginlikle destekledim tiiekni bular men Dileğime ulaştım yılqım angar üplenür (Böylece zenginliğim ve) hayvanlarım yağmalanır",
+      "cekimler": [
+        "yöler",
+        "yölemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "704",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yölegü neng",
+      "anlam": "Bir şeyi desteklemek için kullanılan başka bir şey.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "704",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yöleklik",
+      "anlam": "Bir şeyi desteklemek için kullanılan tahta.",
+      "ornek_metin": "yöleklik yıgâç: Bir şeyi desteklemek için kullanılan tahta.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "704",
+      "notlar": "yöleklig şeklinde de geçer.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yöleklig",
+      "anlam": "Bir şeyle desteklenmiş ağaç.",
+      "ornek_metin": "yöleklig yıgâç: Bir şeyle desteklenmiş ağaç,",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "704",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yöleldi",
+      "anlam": "Duvar desteklendi.",
+      "ornek_metin": "tâm yöleldi: Duvar desteklendi.",
+      "cekimler": [
+        "lür",
+        "yölelmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "704",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yördi",
+      "anlam": "Kadın çocuğunu beşikten çözdü. Bağlan çözülen, gevşetilen herhangi bir şeyi anlatmak için de bu sözcük kullanılır.",
+      "ornek_metin": "urâgut oglm beşiktin yördi: Kadın çocuğunu beşikten çözdü,",
+      "cekimler": [
+        "yörer",
+        "yörmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "704-705",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yöre",
+      "anlam": "Bir şeyin yakın çevresindeki alan; yöre",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Oğuz",
+      "kaynak_sayfa": "705",
+      "notlar": "havâlî anlamında",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yörgedi",
+      "anlam": "O ayağını sardı. Birinin sardığı herhangi bir şeyi anlatmak için de yine bu sözcük kullanılır.",
+      "ornek_metin": "ol adâqın yörgedi: O ayağını sardı.",
+      "cekimler": [
+        "yörger",
+        "yörgemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "705",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yörgemeç",
+      "anlam": "Etrafına ince bir bağırsak dolanarak yuvarlatılan işkembe",
+      "ornek_metin": "yörgemeç. Etrafına ince bir bağırsak dolanarak yuvarlatılan işkembe; bu daha sonra kızartılarak ya da haşlanarak yenir,",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "705",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yörgenç",
+      "anlam": "Yoldaki kıvrımlar veya dönemeçler",
+      "ornek_metin": "yörgenç. Yoldaki ya da başka bir şeydeki kıvrımlar veya dönemeçler anlamına gelen tezginç sözcüğüne benzer,",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "705",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yörgenç",
+      "anlam": "Ağaca dolanan ve onu kurutan bir bitki, sarmaşık.",
+      "ornek_metin": "yörgenç. Ağaca dolanan ve onu kurutan bir bitki, sarmaşık,",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "705",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yörgendi",
+      "anlam": "İp, ağaca sarıldı / Adam yorgana sarıldı.",
+      "ornek_metin": "umq yıgâçqa yörgendi: İp, ağaca sarıldı. er yogurqânga yörgendi: Adam yorgana sarıldı.",
+      "cekimler": [
+        "yörgenür",
+        "yörgenmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "705",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yörgeşdi",
+      "anlam": "İp, ağaca sarıldı. Kendini başka bir şeyin üzerine saran bir şeyi anlatmak için de bu sözcük kullanılır.",
+      "ornek_metin": "yıgâçqa yıp yörgeşdi: İp, ağaca sarıldı.",
+      "cekimler": [
+        "yörgeşür",
+        "yörgeşmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "705",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yörgetti",
+      "anlam": "O, dokuma ipliğini bir şeyin üzerine sardırdı. Ayak sargısını ya da başka sargıları sardırmayı anlatmak için de bu sözcük kullanılır.",
+      "ornek_metin": "ol yıp yörgetti: O, dokuma ipliğini bir şeyin üzerine sardırdı.",
+      "cekimler": [
+        "yörgetur",
+        "yörgetmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "705",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yörüg",
+      "anlam": "Yorum (tabir).",
+      "ornek_metin": "tüş yörügi: Düşlerin yorumu (rüya tabiri],",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "705",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yörüg",
+      "anlam": "Sözlerin anlamı ve açıklaması (fehvâ, tefsir).",
+      "ornek_metin": "söz yörüg: Kelamın tefsiri,",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "705",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yörüldi",
+      "anlam": "Bebek, beşiğinden çözüldü.",
+      "ornek_metin": "oğul beşiktin yörüldi: Bebek, beşiğinden çözüldü.",
+      "cekimler": [
+        "yörlür",
+        "yörülmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "705",
+      "notlar": "",
+      "kontrol_gerekli": false
+    }
+  ]
+}

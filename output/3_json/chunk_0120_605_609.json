@@ -1,0 +1,369 @@
+{
+  "chunk_no": 120,
+  "kaynak_sayfa_baslangic": 605,
+  "kaynak_sayfa_bitis": 609,
+  "kelimeler": [
+    {
+      "kelime": "tüp",
+      "anlam": "Ağaç kökü, duvar temeli; bir insanın kökü ya da kökeni.",
+      "ornek_metin": "yıgâç tüpi: Ağaç kökü; tdm tüpi: Duvar temeli.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "605",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tüpgerdi",
+      "anlam": "İşin aslını merak etmek ve izleri takip etmeye başlamak.",
+      "ornek_metin": "ol fşıg tüpgerdi: O, işin aslını merak etti ve izleri takip etmeye başladı.",
+      "cekimler": [
+        "tûpgerûr",
+        "tüpgermek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "605",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tüpi",
+      "anlam": "Şiddetli rüzgâr.",
+      "ornek_metin": "qalm bulutug tüpi sürer qarangqu fşıg unınç açâr: Kalın, karanlık bulutları ancak güçlü rüzgâr (gökyüzünden) sürer götürür, (benzer bir şekilde) saray mahkemesinde çözülmez gibi görülen bir davayı rüşvet çözer.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "605",
+      "notlar": "Bu atasözü, bir şeye ihtiyaç duyan kimseye rüşvet vermesini öğütlemek için kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tüpledi",
+      "anlam": "Meselenin kökenine inmek, konuyu derinlemesine araştırmak.",
+      "ornek_metin": "ol îşıg tüpledi: O, meselenin kökenine indi, konuyu derinlemesine araştırdı.",
+      "cekimler": [
+        "tüpler",
+        "tüplemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "605",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tüplendi",
+      "anlam": "Köklenmek veya zenginleşmek.",
+      "ornek_metin": "yıgâç tüplendi: Ağaçlar köklendi. er tüplendi: Adam zenginleşti.",
+      "cekimler": [
+        "tüplenûr",
+        "tüplenmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "605",
+      "notlar": "Köklenen herhangi bir şeyi anlatmak için kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tüpleşdiler",
+      "anlam": "Bir işin aslını ve kökenini araştırmak.",
+      "ornek_metin": "olâr bu îşıg tüpleşdiler: Onlar bu işin aslını [kökenini] araştırdılar.",
+      "cekimler": [
+        "tüpleşür",
+        "tüpleşmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "605",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tüpletti",
+      "anlam": "Bir meseleyi ayrıntılı bir biçimde inceletmek.",
+      "ornek_metin": "ol bu fşıg telim tüpletti: O, bu meseleyi ayrıntılı bir biçimde inceletti.",
+      "cekimler": [
+        "tüpletür",
+        "tpletmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "605",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tüpirdi",
+      "anlam": "Rüzgâr eserek toz toprak savurmak.",
+      "ornek_metin": "tüpi tüpirdi: Rüzgâr eserek toz toprak savurdu.",
+      "cekimler": [
+        "tüpirer",
+        "tüpirmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "605",
+      "notlar": "Şu atasözünde de geçer: tütüşmeginçe füzülmes tüpirmeginçe açılmâs.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "türdi",
+      "anlam": "Dürmek.",
+      "ornek_metin": "ol bitig türdi: O, kitabı [başka bir şeyi de olabilir] dürdü.",
+      "cekimler": [
+        "türer",
+        "türmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "605",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "türk",
+      "anlam": "Nuh'un oğlunun adı ve onun soyundan gelen halk/kavim.",
+      "ornek_metin": "qaçan körse anı türk ayga anıg aydaçı: Türk kavimleri onu gördüğünde [gördükleri zaman] Ve haysiyet (bu adama) yaraşır.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "606",
+      "notlar": "Allah'ın verdiği bir addır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "türgek",
+      "anlam": "Bohça.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "606",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "türgeklendi",
+      "anlam": "Giysi bohçaya sarılmak.",
+      "ornek_metin": "tön türgeklendi: Giysi, bohçaya sarıldı.",
+      "cekimler": [
+        "türgeklenür",
+        "türgeklenmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "606",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "türk",
+      "anlam": "Türk ülkesindeki bir kentin adı.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "606",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "türk men",
+      "anlam": "Ben Türk'üm.",
+      "ornek_metin": "kim sen: Sen kimsin? sorusunun yanıtı, türk men: Ben Türk'üm'dür.",
+      "cekimler": [],
+      "kelime_turu": "belirsiz",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "607",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "türk",
+      "anlam": "Meyvelerin olgunlaşma evresinin ortalarını anlatan bir zaman ilgeci.",
+      "ornek_metin": "türk üzüm ödi: Üzümün olgunlaşma evresinin ortası; türk quyâş ödi: Gün ortası; türk yiğit: Gençlik çağının baharında olan delikanlı.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "607",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "türkledi",
+      "anlam": "Birinin Türk olduğunu düşünmek, Arap olmayan birisi olarak düşünmek.",
+      "ornek_metin": "ol meni türkledi: O, benim Türk olduğumu düşündü.",
+      "cekimler": [
+        "tûrkler",
+        "türklemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "607",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "türkmen",
+      "anlam": "Oğuzlar olan kavim.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Oğuz",
+      "kaynak_sayfa": "607",
+      "notlar": "Kökenine ilişkin Zülkarneyn ve Hakan Şu rivayeti aktarılmıştır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "türlüg",
+      "anlam": "Bir şeyin farklı türlerini anlatan sözcük.",
+      "ornek_metin": "qaç türlüg neng: Bir şeyin farklı türleri; qaç türlüg söz aydım: Her türlü şeyi söyledim.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "608",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "türlündi",
+      "anlam": "Nesnenin dürülmesi ya da katlanması.",
+      "ornek_metin": "türlündi neng: Nesne dürüldü ya da katlandı.",
+      "cekimler": [
+        "tûrlûnur",
+        "türlünmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "608",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "türmek",
+      "anlam": "Dürülmüş ekmek, dürüm.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "609",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "türmeklendi",
+      "anlam": "Ekmekten dürüm yapılmak.",
+      "ornek_metin": "ötmek türmeklendi: Ekmekten dürüm yapıldı.",
+      "cekimler": [
+        "türmeklenür",
+        "türmeklenmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "609",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "türtti",
+      "anlam": "Köseleye yağ sürmek; herhangi bir sürme ya da silme [ovma] eylemi.",
+      "ornek_metin": "konke yâg türtti: Köseleye yağ sürdü.",
+      "cekimler": [
+        "türter",
+        "türkmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "609",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "türlüldi",
+      "anlam": "Deriye ya da başka bir şeye yağ sürülmek.",
+      "ornek_metin": "terîke yâg türtüldi: Deriye [başka bir şeye de olabilir] yağ sürüldü.",
+      "cekimler": [
+        "türtülûr",
+        "türtülmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "609",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "türtündi",
+      "anlam": "Kendine [kendi üstüne] yağ sürmek.",
+      "ornek_metin": "ol özınge yâg türtündi: O, kendine [kendi üstüne] yağ sürdü.",
+      "cekimler": [
+        "türtünur",
+        "türtünmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "609",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "türtüşdi",
+      "anlam": "Deriye yağ sürme konusunda yarışmak.",
+      "ornek_metin": "ol menig birle qoguşqa yâg türtüşdi: O, deriye yağ sürme konusunda benimle yarıştı.",
+      "cekimler": [
+        "tünüşiir",
+        "türtüşmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "609",
+      "notlar": "Herhangi bir şeyin üzerine bir şey sürmeyi ya da sıvamayı anlatmak için de kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "türüldi",
+      "anlam": "Kitabın veya başka bir şeyin dürülmesi.",
+      "ornek_metin": "bitig türüldi: Kitap [başka bir şey de olabilir] dürüldü.",
+      "cekimler": [
+        "türlür",
+        "türülmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "609",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "türündi",
+      "anlam": "Kendi kitabını kendisi dürümek.",
+      "ornek_metin": "er öz bitiğin türündi: Adam, kendi kitabını kendisi dürdü.",
+      "cekimler": [
+        "türnfir",
+        "türünmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "609",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "türüşdi",
+      "anlam": "Kitabı dürümekte yardım etmek, bu işte rekabet etmek.",
+      "ornek_metin": "ol martga bitig türüşdi: O, bana kitabı [başka bir şeyi de olabiliri dürmekte yardım etti.",
+      "cekimler": [
+        "türüşür",
+        "türüşmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "609",
+      "notlar": "",
+      "kontrol_gerekli": false
+    }
+  ]
+}

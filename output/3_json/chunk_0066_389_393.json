@@ -1,0 +1,694 @@
+{
+  "chunk_no": 66,
+  "kaynak_sayfa_baslangic": 389,
+  "kaynak_sayfa_bitis": 393,
+  "kelimeler": [
+    {
+      "kelime": "qadgulandı",
+      "anlam": "Kaygılandı, üzüldü.",
+      "ornek_metin": "ol bu işqa qadgulandı: O, bu mesele [başka bir şey de olabilir] nedeniyle kaygılandı. men angar qadgurdum: Onun için kaygılandım. Şu dörtlükle de kullanılır, üdun anı odgura Onu uykusundan uyandır (ve bana yaptığı şeyi bildiğini söyle) barsun naru qadgura (Böylece) kaygılı bir biçimde senden uzaklaşsın [nereye isterse gitsin] sattı menig ayımı (Çünkü benim iznim olmaksızın) benim ayımı [kölemi] sattı",
+      "cekimler": [
+        "qadgulanür",
+        "qadgulanmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "389",
+      "notlar": "qadgurâr - zel’in (d) y t (y) yapıldığı lehçelerde bunun değişik sesletimi qaygurdur, qadgurmâq. bkz. qaygurdı.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ladig",
+      "anlam": "Takviyeli, sağlamlaştırılmış dikiş.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "389",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qadıng",
+      "anlam": "Kayın ağacı.",
+      "ornek_metin": "qadıng qâsınga sögût sölinge: Kayın kabuğu, söğüt taze dallan için - kayın için sert kabuk, söğüt için tazelik uygundur.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "389",
+      "notlar": "Kayın; evlilik sonucu edinilen akrabalar. Qıfçâq lehçesinde z’yle söylenir. [qazın] olarak da geçer.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qadaş",
+      "anlam": "Akraba, hısım.",
+      "ornek_metin": "qadaş temîş qaymaduq, qadın temış qaymış: (Ona) hısım demişler (onlan) önemsemiş, (ona) kayın demişler (onları) dikkate almış. Bu atasözü, damatlara, evlilik yoluyla edindiği akrabalarına saygı göstermeyi öğütlemek için kullanılır.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "389",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qadaşlıq",
+      "anlam": "Kardeşlik, akrabalık, hısımlık.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "389",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qadgu",
+      "anlam": "Kaygı, üzüntü.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "389",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qadgurdum",
+      "anlam": "Kaygılandım.",
+      "ornek_metin": "kelse sariga yolgıra Yolunda giderken sana rastlarsa",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "389",
+      "notlar": "(Kendisini aldatan bir adamı anlatarak birine öğüt veriyor)",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qadıq",
+      "anlam": "İçi oyulmuş bir tahta parçası.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Argu lehçesi",
+      "kaynak_sayfa": "389",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qadırdı",
+      "anlam": "Büktürdü, eğdirdi; doğru olmadığını kanıtladı.",
+      "ornek_metin": "ol anıng boynın qadırdı: O, onun boynunu [başka b ir şeyi de o la b ilir] büktürdü (eğdirdi). ol anıg sâzin qadırdı: O, onun sözlerinin doğru olmadığını kanıtladı.",
+      "cekimler": [
+        "qadırar",
+        "qadırmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "389",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qadırgân",
+      "anlam": "Boyun büktüren, eğdiren.",
+      "ornek_metin": "bu er ol eren boynm qadırgân: Bu her zaman insanların boyunlarını büktüren (eğdiren) adamdır. keldi esin esneyü Rüzgâr eserek geldi qâdqa tükel ösneyü Halk (soğuktan) titreşti kirdi bodün qasnayu Kara bulutlar gürler qara bulıt kökreşür Bu (şiddeti ve yarattığı pusuyla) tipiye benziyordu",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "389",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qadırlandı",
+      "anlam": "Sert biriymiş gibi göründü.",
+      "ornek_metin": "er qadırlandı: Adam sert biriymiş gibi göründü.",
+      "cekimler": [
+        "qadırlanür",
+        "qadırlanmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "390",
+      "notlar": "Kök-biçimi qadrandı’dır ve bu daha doğru bir kullanımdır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qadırttı",
+      "anlam": "Boynunu büktürdü, eğdirdi.",
+      "ornek_metin": "ol anıng boynırı qadırttı: O, onun boynunu büktürdü (eğdirdi).",
+      "cekimler": [
+        "qadırtur",
+        "qadırtmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "390",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qadış",
+      "anlam": "Deri kayış.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "390",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qadışlâdı",
+      "anlam": "Sepilenmiş deriden kayış kesti.",
+      "ornek_metin": "ol könüg qaçjışlâdı: O, sepilenmiş deriden kayış kesti.",
+      "cekimler": [
+        "qadışlâr",
+        "qadışlâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "390",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qadıtgân",
+      "anlam": "Kimseye boyun eğmeyen, itaat etmeyen.",
+      "ornek_metin": "qadıtgân er: Kimseye boyun eğmeyen adam. “İtaat etmeyen bir hayvan”ı anlatmak için de bu sözcük kullanılır.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "390",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qadız",
+      "anlam": "Ağaç kabuğu.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "390",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qadızgâq",
+      "anlam": "Çalışma nedeniyle elin su toplaması.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "390",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qadızlandı",
+      "anlam": "Kabuklandı.",
+      "ornek_metin": "yıgâç qadızlandı: Ağaç kabuklandı.",
+      "cekimler": [
+        "qadızlanür",
+        "qadızlanmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "390",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qadnâgun",
+      "anlam": "Evlilik yoluyla edinilen akraba.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "390",
+      "notlar": "Evlilik yoluyla edinilen akrabalara söz uzatımıyla qadın qadnâgun denir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qadrandı",
+      "anlam": "Kızdı, haşin davrandı.",
+      "ornek_metin": "beg arigâr qadrandı: Bey ona kızdı ve çok haşin davrandı.",
+      "cekimler": [
+        "qadranûr",
+        "qadranmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "390",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qadrıldı",
+      "anlam": "Boynu büküldü, eğildi.",
+      "ornek_metin": "amg böym qadrıldı: Onun boynu büküldü, eğildi. Eğer başka biri onun boynunu büktürürse yine bu sözcük kullanılır - bu eylem hem geçişli hem de geçişsizdir.",
+      "cekimler": [
+        "qadrılür",
+        "qadrılmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "390",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qadrışdı",
+      "anlam": "Boyun bükmede yarıştı, aşık attı; birbirlerinin sözlerini yalanladılar.",
+      "ornek_metin": "ol metıig birle boyün qadrışdı: O, boyunları [başka bir şeyi de olabiliri bükmede (boyun eğdirmede) benimle aşık attı. ol ekki söz qadrışdı: Onlar birbirlerinin sözlerini yalanladılar. Şu dörtlükte de kullanılır, işi amg artaşıp .Onun durumu kötüye gitti ograq bile örteşip O ve Ogrâq birbirlerini yaktılar [onlar birbirlerinin kavimlerini yattılar]",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "390-391",
+      "notlar": "(Bir tutsağı anlatıyor) boynm alıp qadnşıp: Boyunlan büküldükten sonra, tutgun alıp qul satar: Tutsak alındı ve kurtulmak için sanki bir köleymiş gibi onlara para verdi",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qâdtı",
+      "anlam": "Tipide öldü.",
+      "ornek_metin": "er qâdtı: Adam tipide öldü.",
+      "cekimler": [
+        "qadar",
+        "qâdmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "391",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qadüdı",
+      "anlam": "Giysinin işlemesini ya da ek yerini dikti.",
+      "ornek_metin": "o! tönug qadüdı: O, giysinin işlemesini ya da ek yerini dikti.",
+      "cekimler": [
+        "qadür",
+        "qadümüq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "391",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qâfgar",
+      "anlam": "Behrâmen ipeği.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "391",
+      "notlar": "Behremân ya da behrem de denilen bu kumaş ince ipekten işlenmiş ve çiçeklerle renklendirilmiştir, Türkistan’da dokunur.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qaftân",
+      "anlam": "Kaftan.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "391",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qâgıl",
+      "anlam": "Üzüm asmalarının gövdelerinin bağlandığı, söğüt ağacından yapılmış çubuklar.",
+      "ornek_metin": "qarı sdwı qalmâs, qagıl bâgı yazılmâs: Yaşlı adamın sözü bırakılmaz (ihmal edilmez, dikkate alınır), tıpkı yaş söğüt çubukların (bir kez bağlandı mı) bir daha gevşemez.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "391",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qagruldı",
+      "anlam": "Kavruldu.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "391",
+      "notlar": "bkz. qawruldı.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qagruşdı",
+      "anlam": "Karşılıklı kavruldu.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "391",
+      "notlar": "bkz. qawraşdı.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qâgün",
+      "anlam": "Kavun.",
+      "ornek_metin": "qâgün qarma bolsa idisi ekki elgin tegır: Kavun yağmalansa bile sahibinin iki eli yakandadır. Bu atasözü, zengin bir adamın malına mülküne olan düşkünlüğünü göstermek için kullanılır.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "391",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qâgünlandı",
+      "anlam": "Kavun sahibi oldu.",
+      "ornek_metin": "er qâgûnlandı: Adam kavun sahibi oldu.",
+      "cekimler": [
+        "qâgünlanür",
+        "qâgünlanmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "391",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qagunlug",
+      "anlam": "Kavuna sahip olan.",
+      "ornek_metin": "qagunlug er: Kavuna sahip olan adam.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "391",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qagunluq",
+      "anlam": "Kavunluk, kavun yetiştirilen bostan.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "391",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qâgünsâdı",
+      "anlam": "Canı kavun istedi.",
+      "ornek_metin": "er qâgünsâdı: Adamın canı kavun istedi.",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "391",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qagurdı",
+      "anlam": "Kavurdu.",
+      "ornek_metin": "ol tarıg qagurdı: O, buğdayı [başka bir şeyi de olabilir] kavurdu.",
+      "cekimler": [
+        "qagurur",
+        "qagurmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "391",
+      "notlar": "Bunun değişik sesletimi qawurdı’dır. (qawurdı).",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qagurgân",
+      "anlam": "Yağla yoğrulan ve tandırda pişirilen bir ekmek çeşidi.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "391",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qagurmâç",
+      "anlam": "Kavrulmuş buğday.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "392",
+      "notlar": "qawurmâç -titreşimli fe’yle (mce fe - Arapçada fe ile be eklemleme noktaları arasından çıkartılan fe; yani w) - bir değişik sesletimdir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qâgut",
+      "anlam": "Darından yapılan bir yemeğin adı.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "392",
+      "notlar": "Darım önce kaynatılır, daha sonra kurutulur ve öğütülür, son olarak yağ ve şekerle karıştırılır. Bu, yeni doğum yapmış kadınlara verilen yemeklerden biridir, bkz. qavut.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qâl aç",
+      "anlam": "Türkmen.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "392",
+      "notlar": "bkz. türkmen.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qâlâdı",
+      "anlam": "Qâdı kelimesinin eş anlamlısı/değişkeni.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "392",
+      "notlar": "bkz. qâdı.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qalalduruq",
+      "anlam": "Bir erkek adı.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "392",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qalattı",
+      "anlam": "Sardı, sarmaladı.",
+      "ornek_metin": "ol tönug qalattl: O, giysiyi sardı. Sanp sarmalanan ya da sandığa konulan herhangi bir şeyi anlatmak için de bu sözcük kullanılır.",
+      "cekimler": [
+        "qalatür",
+        "qalatmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "392",
+      "notlar": "Kök-biçimi qalattı dır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qalbuz",
+      "anlam": "Lokma.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "392",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qalbuzlâdı",
+      "anlam": "Bir şeyden bir ısırık, lokma aldı.",
+      "ornek_metin": "ol qalbuzlâdı nengni: O bir şeyden, bir lokma aldı.",
+      "cekimler": [
+        "qalbuzlâr",
+        "qalbuzlâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "392",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qaldı",
+      "anlam": "Geri kaldı; geride kaldı, bırakıldı.",
+      "ornek_metin": "er kedin qaldı: Adam geri kaldı; ol oyunda qaldı: O, yanşte geride kaldı. Geriye kalan ya da bırakılan herhangi bir şeyi anlatmak için de bu sözcük kullanılır. el qaldı törü qalmâs: Ülke terk edilir, ama töre terk edilmez. Bu atasözü, birine töreye uygun davranmasını öğütlemek için kullanılır.",
+      "cekimler": [
+        "qalir",
+        "qalmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "392",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qaldrâdı",
+      "anlam": "Hışırdadı.",
+      "ornek_metin": "ton qaldrâdı: Giysi Ibaşka bir şey de olabilir] hışırdadı.",
+      "cekimler": [
+        "qaldrâr",
+        "qaldrâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "392",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qaldraga",
+      "anlam": "Hışırdayan.",
+      "ornek_metin": "qaldraga tön: Hışırdayan giysi.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "392",
+      "notlar": "Aynı zamanda hışırdayan her şeyi, örneğin kâğıt ve diğerlerini anlatmak için de bu sözcük kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qalî",
+      "anlam": "Nasıl, keşke, -diğinde anlamlarını veren bir ilgeç.",
+      "ornek_metin": "kelse qalı qatıglıq erter teyü seringil ödleg ışın bilip tur ança angar tirengil: Zorluklar ve sıkıntılarla baş başa kaldığında, sabırlı ol ve bunların geçeceğini söyle Zaman’ın oyunlannı bil ve her felaketin ardından üzüntüye kapılma [ - ve ona karşı kendini güçlendir] sen bu işıg qah qtldıng: Sen bu işi nasıl yaptın? sen qah barsa sen: Keşke gitseydin.",
+      "cekimler": [],
+      "kelime_turu": "edat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "392-393",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qalîdı",
+      "anlam": "Şaha kalktı ve ileri fırladı.",
+      "ornek_metin": "at qalidı: At şaha kalktı ve ileri fırladı.",
+      "cekimler": [
+        "qalîr",
+        "qalîmöq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "393",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qalima",
+      "anlam": "Yüksek çardak.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "393",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qalm",
+      "anlam": "Kalın ya da kaba olan herhangi bir şey.",
+      "ornek_metin": "qalın sû: Kalabalık ordu.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "393",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qalırig",
+      "anlam": "Başlık parası.",
+      "ornek_metin": "qalmg berse qîz alır, kerek bolsa qiz alır: (Bir adam) başlık parası verirse gelini bakire bulacaktır, eğer çok istediği bir şeyi arıyorsa onu oldukça pahalıya alacaktır. berdim sanga qalıng, amdı mum alıng, emgek menig bilirig: Sana başlık parasını verdim, Şimdi bunu alın, (Ve) bunun [bu zenginliği biriktirmenin] bana ne büyük sıkıntılara ve çabaya mal olduğunu bilin, uğrar tüngür bargalı: (Kayınbaba) Dünür gitmek üzere (der)",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "393",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qalıq",
+      "anlam": "Hava.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "393",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qalışdı",
+      "anlam": "Şaha kalkıp koşuştu; geride kalmak için çekişti.",
+      "ornek_metin": "at adgır qalışdı: Kısraklar ve atlar hep birlikte şaha kalkıp koşuştu.",
+      "cekimler": [
+        "qahşür",
+        "qalışmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "393",
+      "notlar": "Geride kalmak için çekişen iki adamı anlatmak için de bu sözcük kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qalıtgân",
+      "anlam": "Sürekli engelden atlayan.",
+      "ornek_metin": "bu er ol atm telim qalıtgân: Bu, atm sürekli engelden atatan bir adamdır.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "393",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qalnattı",
+      "anlam": "Kalınlaştı.",
+      "ornek_metin": "yuwqa neng qalnattı: İnce olan herhangi bir şey kalınlaştı.",
+      "cekimler": [
+        "qalnatûr",
+        "qalnatmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "393",
+      "notlar": "Kök-biçimi qalnâdtı’dır, zel (d), benzeşime maruz kalarak te (t) olmuştur. (qalnâdtı).",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qalnüdı",
+      "anlam": "Kalınlaştı.",
+      "ornek_metin": "yuwqa neng qalnüdı: İnce olan herhangi bir şey kalınlaşb.",
+      "cekimler": [
+        "qalnûr",
+        "qalnümâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "393",
+      "notlar": "",
+      "kontrol_gerekli": false
+    }
+  ]
+}

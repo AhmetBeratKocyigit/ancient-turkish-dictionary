@@ -1,0 +1,693 @@
+{
+  "chunk_no": 11,
+  "kaynak_sayfa_baslangic": 169,
+  "kaynak_sayfa_bitis": 173,
+  "kelimeler": [
+    {
+      "kelime": "balıq",
+      "anlam": "Balık",
+      "ornek_metin": "balıq suwda kâzi taştın: Balık suda gözü dışarıda. Bu atasözü bir şeyin farkındayken, farkında değilmiş gibi görünen insanları belirtmek için söylenir.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "169",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "balıq",
+      "anlam": "Çamur",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Argu lehçesi",
+      "kaynak_sayfa": "169",
+      "notlar": "Oğuzların ve Argıtların bir bölümü yan yana üç ünlü-almayan yazaç kullanıp bâlq der. Ancak Türkçe’de en fazla iki ünlü-almayan yazaç bir arada bulunabilir; Argular konuşmada sesleri yuvarlar (m kık).",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "balıq",
+      "anlam": "Kale, kent",
+      "ornek_metin": "beş bahq: beş kent. yangı balıq: yeni kent",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Uygur lehçesi",
+      "kaynak_sayfa": "169",
+      "notlar": "İslamiyet öncesi dinsiz [pagan] kabilelerin lehçelerinde ve Uygur lehçesinde kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "balıqçın",
+      "anlam": "Balıkçıl; balık avlayan beyaz bir kuş",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "169",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "balıqlandı",
+      "anlam": "Göl balıkla doldu",
+      "ornek_metin": "kol balıklandı: Göl balıkla doldu.",
+      "cekimler": [
+        "balıqlanür",
+        "balıqlanmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "169",
+      "notlar": "Aynı zamanda Argu lehçesinde çamurlu yerler de böyle tanımlanır; benzer bir biçimde Uygur lehçesinde yakınında bir kale olan ya da kalenin çevresine kurulan bir kent için de bu sözcük kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "balıqlıg",
+      "anlam": "Balıklı",
+      "ornek_metin": "balıqlıg ögüz: Balıklı ırmak.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "169",
+      "notlar": "Aynı zamanda Argu lehçesinde çamurlu yerler için kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "balıqsâdı",
+      "anlam": "Adam balık yemek istedi",
+      "ornek_metin": "er balıqsâdı: Adam balık yemek istedi.",
+      "cekimler": [
+        "balıqsâr",
+        "balıqsâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "169",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "balu balu",
+      "anlam": "Bebeklerini beşikte uyutmak için kadınların tekrarladığı, ninnimsi bir söz öbeği",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "ünlem",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "169",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "balu",
+      "anlam": "Arguların küçük bir kentinin adı",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Argu",
+      "kaynak_sayfa": "169",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bamuq",
+      "anlam": "Pamuk",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "169",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bandâl",
+      "anlam": "Ağaçtan kürekkemiği biçiminde çıkıntı yapan parça",
+      "ornek_metin": "Çocuklar bu parçayı söker, yakar ve gece yanan köze vurarak cirit benzeri bir oyun oynar. Bu oyundan hareketle bu parçaya öt bandâl da denir.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "169",
+      "notlar": "el-kerb [?] - şöyle açıklanmıştır.",
+      "kontrol_gerekli": true
+    },
+    {
+      "kelime": "bandı",
+      "anlam": "Bağlandı",
+      "ornek_metin": "qöy bandı: Koyun bağlandı. Bir yere bağlanan her şey için kullanılabilir.",
+      "cekimler": [
+        "bânır",
+        "banmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "169",
+      "notlar": "nun (n) lım'dan (!) dönüşmüştür.",
+      "kontrol_gerekli": true
+    },
+    {
+      "kelime": "banzı",
+      "anlam": "Bağbozumundan sonra asma çubuklarında kalan artıklar",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Kençek lehçesi",
+      "kaynak_sayfa": "169",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bang",
+      "anlam": "Bebek gibi ağlama",
+      "ornek_metin": "oglân bariğ sıgtâdı: Çocuk bir bebek gibi ağladı.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "169",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "baqa",
+      "anlam": "Kurbağa",
+      "ornek_metin": "Buradan hareketle kaplumbağaya müngüz baqa denir.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "169",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "baqâçuq",
+      "anlam": "Kol kası",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "170",
+      "notlar": "baqa sözcüğünün küçültme eki almış halidir, \"kol kası” demektir [anlam oldukça farklılaşmıştır].",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "baqan",
+      "anlam": "Pirinçten yapılmış yüzük ya da gerdanlık",
+      "ornek_metin": "altın baqan: Altın yüzük.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "170",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "baqânaq",
+      "anlam": "Çift toynaklı hayvanlarda toynakların arasındaki boşluğa ya da toynakların iki yanına verilen ad",
+      "ornek_metin": "Atların toynağının içini, ayak tabanının ortasında bulunan üçgen biçimindeki sert parçayı anlatmak için de bu sözcük kullanılır.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "170",
+      "notlar": "baqâyaq olarak da geçer.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "baqanlıg",
+      "anlam": "Halkalı",
+      "ornek_metin": "baqanlıg qadış: Halkalı kayış.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "170",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "baqdı",
+      "anlam": "Baktı",
+      "ornek_metin": "ol manga baqdı: O bana baktı.",
+      "cekimler": [
+        "baqâr",
+        "baqmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "170",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "baqıg",
+      "anlam": "Bakma, bakış",
+      "ornek_metin": "anıg baqıgt kör: Onun bakışını gör.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "170",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "baqıldı",
+      "anlam": "Gözlendi",
+      "ornek_metin": "yerke baqıldı: (Belli bir) alan [başka bir şey de olabilir) gözlendi.",
+      "cekimler": [
+        "baqılur",
+        "baqılmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "170",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "baqıngıl",
+      "anlam": "Amelinin sonucuna bak ve bunu düşün",
+      "ornek_metin": "iş kedirîge baqıngıl: Amelinin sonucuna bak ve bunu düşün.",
+      "cekimler": [
+        "baqınür",
+        "baqınmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "170",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "baqır",
+      "anlam": "Bakır",
+      "ornek_metin": "bâr baqır, yöq altün. Var olan bakır, yok alan altın - Var olan şey bakır gibi değersizdir, bulunmayan şeyse altın gibi değerlidir. Bu atasözü yakınları arasında hor görülen birinin kaybından sonra yakınlarının aşırı kederlenmesi durumunda söylenir.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "170",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "baqır",
+      "anlam": "Çin'de alışverişte kullanılan, bakırdan yapılmış para",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "170",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "baqır suqım",
+      "anlam": "Mars",
+      "ornek_metin": "Kızıllığı nedeniyle bakıra benzetilmiştir.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "170",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bâqırdı",
+      "anlam": "Deve böğürdü",
+      "ornek_metin": "deve bâqırdı: Deve böğürdü.",
+      "cekimler": [
+        "bâqırâr",
+        "bâqırmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "Oğuz lehçesi",
+      "kaynak_sayfa": "170",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "baqırlıg",
+      "anlam": "Bakırlı",
+      "ornek_metin": "baqırlıg tâg: Bakırlı dağ.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "170",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "baqırlıg",
+      "anlam": "Balâsâgün yakınlarındaki bir yerin adı",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "170",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "baqış",
+      "anlam": "Bakış",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "170",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "baqışdı",
+      "anlam": "Onlar birbirlerine baktı",
+      "ornek_metin": "olar bir birke baqışdı: Onlar birbirlerine baktı.",
+      "cekimler": [
+        "baqışür",
+        "baqışmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "170",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "baqışgan",
+      "anlam": "Her zaman insanları bakışlarıyla tartan kişi",
+      "ornek_metin": "ol kişi birle baqışgân ol: O her zaman insanları bakışlarıyla tartar.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "171",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "baqıttı",
+      "anlam": "Herhangi birinin belli bir yere bakmaya yönlendirilmesini sağlamak",
+      "ornek_metin": "ol anı ewdin baqıttı: O ona (evden doğru) bir yer gösterdi ve bakmasını emretti.",
+      "cekimler": [
+        "baqıtür",
+        "baqıtmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "171",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "baqlân",
+      "anlam": "Genç ve semiz kuzu",
+      "ornek_metin": "baqlân qozı: Genç ve semiz kuzu.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "171",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "baqu",
+      "anlam": "Tepe",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "171",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "baqurdı",
+      "anlam": "Birinin birine bakmasını sağladı",
+      "ornek_metin": "ol manga kişi baqurdı: O benim birine bakmamı sağladı.",
+      "cekimler": [
+        "baqunır",
+        "baqurmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "171",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bâr",
+      "anlam": "Var, bir şeyin bir yerde mevcudiyetini gösteren sözcük",
+      "ornek_metin": "sende yarmâq bârmu: Sende para var mı?",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "171",
+      "notlar": "Bu sözcük Arapçadaki leyse, Türkçedeki yöq sözcüklerinin zıttıdır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bar",
+      "anlam": "Törende kullanılan geniş bir ağaç",
+      "ornek_metin": "bar yigde: Törende kullanılan geniş bir ağaç.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "171",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "baraq",
+      "anlam": "Tüylü, çok hızlı koşan ve avda en güvenilir olan bir köpek türü",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "171",
+      "notlar": "Türk inançlarına göre akbaba çok çok yaşlandığında iki yumurta yumurtlar ve kuluçkaya yatar. Yumurtaların birinden baraq denilen bu köpek çıkar...",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "baraqlıg",
+      "anlam": "Baraq benzeri bir köpeği olan kimse",
+      "ornek_metin": "baraqlıg kişi: Baraq benzeri bir köpeği olan kimse.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "171",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "barça",
+      "anlam": "Tümü, hepsi",
+      "ornek_metin": "barça keldiler: Hepsi geldiler. Şu dizelerde de kullanılır: qoldaçıqa ming yagâq - barça bile ayruq taydq / Dilenciye bin ceviz (borcum var) / Hepsiyle birlikte bir de değnek (vereceğim bana güvenmesi için)",
+      "cekimler": [],
+      "kelime_turu": "zamir",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "171",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "barçân",
+      "anlam": "Bir yer adı",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "171",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "barçuq",
+      "anlam": "Afrâsiyâb'ın kurduğu bir kent",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "171",
+      "notlar": "Afrâsiyâb burada Nebukadnessar'ın oğlu Bijen’i hapsetmişti.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bardı",
+      "anlam": "Vardı, gitti",
+      "ornek_metin": "ol ewke bardı: O eve vardı (gitti).",
+      "cekimler": [
+        "barir",
+        "barmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "171",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "barıg",
+      "anlam": "Doğrudan (herhangi bir yere) gitme",
+      "ornek_metin": "ol barıg bardı: O doğrudan (herhangi bir yere) gitti.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "172",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "barıg",
+      "anlam": "Pis kokan herhangi bir şey",
+      "ornek_metin": "sasıg barıg",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "172",
+      "notlar": "İkileme olarak da kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "barıgsâdı",
+      "anlam": "Eve gitmek istedi",
+      "ornek_metin": "ol ewke barıgsâdı: O eve [başka bir yere de olabilir] gitmek istedi.",
+      "cekimler": [
+        "barıgsâr",
+        "barıgsâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "172",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "barımsındı",
+      "anlam": "Eve gidermiş gibi yaptı, ama gerçekte gitmedi",
+      "ornek_metin": "ol ewke barımsındı: O eve gidermiş gibi yaptı, ama gerçekte gitmedi.",
+      "cekimler": [
+        "barımsınür",
+        "barımsınmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "172",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "barındı",
+      "anlam": "Kadından kan çıktı - kadın âdet kanaması geçirdi",
+      "ornek_metin": "ürügütüm qân barındı: Kadından kan çıktı - kadın âdet kanaması geçirdi.",
+      "cekimler": [
+        "barınür",
+        "barınmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "172",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "barındı",
+      "anlam": "Adam eve gidiyormuş gibi göründü",
+      "ornek_metin": "er ewke barındı: Adam eve [başka bir yere de olabilir] gidiyormuş gibi göründü.",
+      "cekimler": [
+        "barınür",
+        "barınmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "172",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "barıq",
+      "anlam": "İnsanlara yönelik davranış; tutum",
+      "ornek_metin": "beg barıqı neteg: Beyin tutumu nasıl.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "172",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "barışdı",
+      "anlam": "Onlar karşılıklı olarak birbirlerine gittiler",
+      "ornek_metin": "olâr bir birke barışdı: Onlar karşılıklı olarak birbirlerine gittiler.",
+      "cekimler": [
+        "barışûr",
+        "barışmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "172",
+      "notlar": "Bu konuda yardımlaşmayı ya da rekabet etmeyi anlatmak için de aynı sözcük kullanılır. [bkz. keliş]",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bârlıg",
+      "anlam": "Varlıklı",
+      "ornek_metin": "bârlıg er: Varlıklı adam.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "172",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "barq",
+      "anlam": "Ev, konut",
+      "ornek_metin": "ew barq",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "172",
+      "notlar": "barq sözcüğü hiçbir zaman yalnız başına kullanılmaz, ancak ikilemeyle anlamlanır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "barqın",
+      "anlam": "Hiçbir şeyin kendisini yolundan alıkoyamadığı yolcu",
+      "ornek_metin": "barqın kişi: Hiçbir şeyin kendisini yolundan alıkoyamadığı yolcu.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "172",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bars",
+      "anlam": "Bit ya da pire gibi hayvanların ısırmasıyla veya çıban çıkmasıyla oluşan vücuttaki herhangi bir kabartı",
+      "ornek_metin": "anıg eti bars boldı: (Söz konusu etkenlerden biri nedeniyle) onun derisi kabardı.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "172",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bars",
+      "anlam": "Yırtıcı bir hayvan, pars",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "172",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bars",
+      "anlam": "Türk takviminin on iki yılından biri, pars yılı",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "172-173",
+      "notlar": "Türk takviminin oluşturuluş efsanesine ve takvim yıllarına (sıçgân, ûd, bars, tawışgân, nâg, yılan, yond, qöy, beçin, taqâgu, it, tonguz) yer verilmiştir.",
+      "kontrol_gerekli": false
+    }
+  ]
+}

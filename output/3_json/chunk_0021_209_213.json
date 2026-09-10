@@ -1,0 +1,805 @@
+{
+  "chunk_no": 21,
+  "kaynak_sayfa_baslangic": 209,
+  "kaynak_sayfa_bitis": 213,
+  "kelimeler": [
+    {
+      "kelime": "buruşdı",
+      "anlam": "Nesne, asık bir surat gibi, büzüldü ve süzüldü.",
+      "ornek_metin": "buruşdı nerig: Nesne, asık bir surat gibi, büzüldü ve süzüldü.",
+      "cekimler": [
+        "buruşur",
+        "buruşmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "209",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "buruttı",
+      "anlam": "Ateş güğümün buharlanmasına neden oldu; çocuk osurarak kötü koku saldı.",
+      "ornek_metin": "öt eşiçni buruttı: Ateş güğümün [başka bir şeyin de olabilir] buharlanmasına neden oldu; oglân buruttı: Çocuk osruq çıkartarak kötü bir koku saldı. Değişik sesletimi burıttı’dır.",
+      "cekimler": [
+        "bürütür",
+        "burutmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "209",
+      "notlar": "Değişik sesletimi burıttı’dır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "burxân",
+      "anlam": "Put (Budha heykeli), boyalı kukla.",
+      "ornek_metin": "Put [Budha heykeli —çn], “Boyalı birkukla”ya da bediz burxân denir",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "209",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "büs",
+      "anlam": "Pus, duman, sis.",
+      "ornek_metin": "kök bûs boldt: Gök puslandı. er közi büs boldt: Adamın gözü dumanlandı - midesindeki gazın sancısıyla gözleri karardı.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "209",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "busardı",
+      "anlam": "Gökyüzü sisle kaplandı.",
+      "ornek_metin": "kök busardı: Gökyüzü sisle kaplandı.",
+      "cekimler": [
+        "busârur",
+        "busarmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "209",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "busdı",
+      "anlam": "Pusuya yattı.",
+      "ornek_metin": "begyagıqa busdı: Bey, düşmanı beklemek için pusuya yattı.",
+      "cekimler": [
+        "busâr",
+        "busmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "209",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bustulı",
+      "anlam": "Dağ ıspanağı, yenilen bir bitki.",
+      "ornek_metin": "Dağ ıspanağı. / Yenilen bir bitki olan “dag ıspanağı”na verilen ad",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "209",
+      "notlar": "Ana madde olarak bu sözcük, sözlükte iki kez yer almaktadır",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "busug",
+      "anlam": "Pusu.",
+      "ornek_metin": "Pusu",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "209",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "busuglug",
+      "anlam": "Pusu kuran.",
+      "ornek_metin": "busuglugyagı: Pusu kuran düşman.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "209",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "busuqtı",
+      "anlam": "Bir pusuyla yakalandı.",
+      "ornek_metin": "er busuqtı: Adam bir pusuyla yakalandı.",
+      "cekimler": [
+        "busuqâr",
+        "busuqmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "209",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "busuşdı",
+      "anlam": "Beyler birbirlerine karşı pusu kurdu.",
+      "ornek_metin": "begler busuşdı: Beyler birbirlerine karşı pusu kurdu.",
+      "cekimler": [
+        "busuşür",
+        "busuşmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "209",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "buşaq",
+      "anlam": "Sıkıntılı kimse.",
+      "ornek_metin": "buşaq er: Sıkıntılı adam",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "hem Oğuz lehçesinde hem de diğer lehçelerde",
+      "kaynak_sayfa": "209",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "buşdum",
+      "anlam": "Canı sıkılmak, sıkıntı duymak.",
+      "ornek_metin": "men bu îşdin buşdum: Bu iş benim canımı sıktı. / buşmasa böz quş tutâr, ewmese üıûng quş tutar: Sıkılmayan (avcı) ak doğan yakalar, acele etmeyen (avcı) ise en iyi doğanı yakalar.",
+      "cekimler": [
+        "buşmâz men",
+        "buşmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "209",
+      "notlar": "Atasözü birine hedefine ulaşmak için soğukkanlı davranmasını öğütlemek için kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "buşug",
+      "anlam": "Can sıkıntısı.",
+      "ornek_metin": "buşug buşdı: Canı çok sıkıldı",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "209-210",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "buşulgan",
+      "anlam": "Eli işe yatkın, atik.",
+      "ornek_metin": "bu er ol elgi îşqa buşulgân (yışılgân): Bu adamın eli işe yatkındır ve atiktir.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "210",
+      "notlar": "Yışılgân biçimi de vardır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "buşurdı",
+      "anlam": "Canını sıkmak.",
+      "ornek_metin": "ol meni buşurdı: O, benim canımı sıktı",
+      "cekimler": [
+        "buşurur",
+        "buşurmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "210",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "büt",
+      "anlam": "But.",
+      "ornek_metin": "But.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "210",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bütandı",
+      "anlam": "Ağaç budandı.",
+      "ornek_metin": "yıgâç bütandı: Ağaç budandı. Bir kişinin ağacın dallarını kırıyormuş gibi görünmesini anlatmak için de bu sözcük kullanılır.",
+      "cekimler": [
+        "butanür",
+        "butanmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "210",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "butaq",
+      "anlam": "Ağaç dalı.",
+      "ornek_metin": "kim ayıp eştür qulâq / ay ewi artuç butâq",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "210",
+      "notlar": "Değişik sesletimi butıq olabilir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "butaqlandı",
+      "anlam": "Ağacın tomurcuklanması veya suyun kollara ayrılması.",
+      "ornek_metin": "yıgâç butaqlandı (butıqlandı): Ağaç tomurcuklandı. süw butaqlandı (butıqlandı): Su kollara ayrıldı.",
+      "cekimler": [
+        "butaqlanür",
+        "butaqlanmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "210",
+      "notlar": "Butıqlandı şekli de vardır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "butıq",
+      "anlam": "Herhangi bir şeyin dalı.",
+      "ornek_metin": "Herhangi bir şeyin dalı.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "210",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "butıq",
+      "anlam": "Küçük bir su tulumu.",
+      "ornek_metin": "Küçük bir su tulumu",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Kâşgar lehçesi",
+      "kaynak_sayfa": "210",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "butıq",
+      "anlam": "Atın ayak derisinden yapılan, kımız saklamaya yarayan tulum.",
+      "ornek_metin": "Atın ayak derisi çıkarılarak yapılan, kımız ya da benzeri şeyleri saklamaya yarayan tulum.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "210",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "butıqlâdı",
+      "anlam": "Ağacı budadı.",
+      "ornek_metin": "olyıgâçıgbutıqlâdı (butaqlâdı): O, ağacı budadı.",
+      "cekimler": [
+        "butıqlâr",
+        "butıqlâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "210",
+      "notlar": "Daha doğru kullanım biçimi butâdı’dır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "butlâdı",
+      "anlam": "Bacağından ısırdı.",
+      "ornek_metin": "(t erig butlâdı: Köpek adamı bacağından ısırdı.",
+      "cekimler": [
+        "butlar",
+        "butlâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "211",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "butlu",
+      "anlam": "Devenin burnuna takılan halka.",
+      "ornek_metin": "Devenin burnuna takılan halka.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "211",
+      "notlar": "Buylu şeklinde de okunabilir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "buturgâq",
+      "anlam": "Şekli fıstığa benzeyen, giysilere takılan kancalı diken.",
+      "ornek_metin": "Şekli fıstığa benzeyen bir diken. Giysilere ya da benzer şeylere takılmasına neden olan kancaları vardır.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "211",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "buxsı",
+      "anlam": "Buğday pişirilip badem ve telbîne katılarak yapılan bir yemek adı.",
+      "ornek_metin": "Bir yemek adı. Bu yemek şöyle yapılır: buğday pişirilir, içine badem taneleri atılarak bir kavanoza konur ve üzerine telbîne [...] döküldükten sonra mayalanmaya bırakılır.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "211",
+      "notlar": "Bu yemeğin hem katı kısmı yenir hem de suyu içilir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "buxsum",
+      "anlam": "Darıdan yapılan bir içki (darı birası).",
+      "ornek_metin": "Darıdan yapılan bir içki (darı birası)",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "211",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "buyylu",
+      "anlam": "Devenin burnuna takılan halka.",
+      "ornek_metin": "bkz. butlu",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "211",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "buyurdı",
+      "anlam": "Emretti.",
+      "ornek_metin": "ol angar ayla buyurdı: O, ona öyle emretti.",
+      "cekimler": [
+        "buyurur",
+        "buyurmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "Oğuz lehçesi",
+      "kaynak_sayfa": "211",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "büz",
+      "anlam": "Buz.",
+      "ornek_metin": "buzdan sûw tam âr: Buzdan (yalnızca) su damlar.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "211",
+      "notlar": "Huyu babasının huyuna benzeyen kişileri anlatmak için kullanılan bir atasözünde geçer.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "buzâgu",
+      "anlam": "Buzağı.",
+      "ornek_metin": "evvdeki buzâgu öküz bolmâs: Evdeki buzağı öküz olmaz.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "211",
+      "notlar": "Onur ve erdem bakımından yükselse bile akrabaları tarafından hâlâ çocuk sayılan adamı anlatmak için kullanılan bir atasözünde geçer.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "buzâgu til",
+      "anlam": "Sıçan gibi küçük bir hayvan.",
+      "ornek_metin": "Sıçan gibi küçük bir hayvan - kök-anlamı “buzağı dili.”",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "211",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "buzı",
+      "anlam": "Ekmeğin üzerinde oluşan yanık.",
+      "ornek_metin": "etmek buzı boldı: Ekmeğin üzeri yandı.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "211",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "buzluq",
+      "anlam": "Yazın kullanılmak üzere içerisine buz doldurulan yer, buzluk.",
+      "ornek_metin": "Yazın kullanılmak üzere içerisine buz doldurulan yer; buzluk",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "211",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bügü",
+      "anlam": "Bilge kişi.",
+      "ornek_metin": "Bilge kişi. Pekiştirmeyle bügû bilge denir. / biligni ederdim / bügüni üdürdüm",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "211",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bük",
+      "anlam": "Fundalık.",
+      "ornek_metin": "Fundalık.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "211-212",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bük",
+      "anlam": "Köşe.",
+      "ornek_metin": "Köşe",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Argu lehçesi",
+      "kaynak_sayfa": "212",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bükdi",
+      "anlam": "Saklanmaya çalıştı, yerin dibine geçti.",
+      "ornek_metin": "ol meni körüp bükdi: O beni görünce saklanmaya çalıştı (yerin dibine geçti).",
+      "cekimler": [
+        "büker",
+        "bükmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "212",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bükdi",
+      "anlam": "Kusacak kadar çok yemek yedi.",
+      "ornek_metin": "ol aşdın bükdi: O kusacak kadar çok yemek yedi.",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "212",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bükdi",
+      "anlam": "Mala mülke boğuldu.",
+      "ornek_metin": "ol tawârqa bükdi: O, mala mülke [başka bir şeye de olabilir] boğuldu.",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "212",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "büken",
+      "anlam": "Karpuz.",
+      "ornek_metin": "Karpuz.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "212",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "büklündi",
+      "anlam": "Kıvrıldı ya da büküldü.",
+      "ornek_metin": "büklündi neng: Nesne kıvırıldı ya da büküldü.",
+      "cekimler": [
+        "büklünur",
+        "büklünmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "212",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bükri",
+      "anlam": "Herhangi bir şeyin eğrilmiş, bükülmüş hali.",
+      "ornek_metin": "Herhangi bir şeyin eğrilmiş, bükülmüş hali",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "212",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "büktel",
+      "anlam": "Orta boylu adam / Sırtı yassı, oturmaya uygun at.",
+      "ornek_metin": "büktel er: Orta boylu adam. büktel at: Sırtı yassı, yani oturmaya uygun olan at.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "212",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "büküldig",
+      "anlam": "Dalın bükülmesi (hem geçişli hem geçişsiz).",
+      "ornek_metin": "butuı büküldi: Dal büküldi. Başka biri tarafından bükülmesini anlatmak için de aynı sözcük kullanılır - hem geçişli hem de geçişsiz.",
+      "cekimler": [
+        "bükülür",
+        "bükülmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "212",
+      "notlar": "Madde başı metinde büküldig olarak geçmektedir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "büküm",
+      "anlam": "Kadınların giydiği çizme.",
+      "ornek_metin": "büküm etiik: Kadınların giydiği çizme",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Oğuz lehçesi",
+      "kaynak_sayfa": "212",
+      "notlar": "Diğer Türkler mukim ya da mükin derler; yazar bu kullanımların özgün olmadığını düşünmektedir, ancak Kıpçaklar ve kırsaldakiler kullanır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "büküşdi",
+      "anlam": "Dalı bükerken yardım etti.",
+      "ornek_metin": "ol manga tâl büküşdi: O, dalı [başka bir şeyi de olabilir] bükerken bana yardım etti.",
+      "cekimler": [
+        "büküşür",
+        "büküşmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "212",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bükütti",
+      "anlam": "Aşın yağlı yemek karın ağrıtmak, hazımsızlık yapmak veya paraya boğmak.",
+      "ornek_metin": "yâglıg âş meni bükütti: Aşın yağlı yemek karnımı ağrıttı, midem dolmasa da bana tokluk hissi verdi ve hazımsızlık yaptı. ol meni tawârın bükütti: O, beni paraya boğdu.",
+      "cekimler": [
+        "bükütür",
+        "bükütmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "212",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bül",
+      "anlam": "Çok uzun yıllardır saklanan, lezzeti kaçan tahıl veya zamanın geçişiyle bozulan şey.",
+      "ornek_metin": "bül tang: Çok uzun yıllardır saklanan, bu nedenle lezzeti bile kaçan tahıl. Yağmurdan ya da rutubetten bozulan tahıl için de bu sözcük kullanılır.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "212-213",
+      "notlar": "Yazar bu sözcüğün ses ve anlam bakımından Arapçaya (beliye) yakın olduğunu belirtmiştir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bun",
+      "anlam": "Sıkıntı, dert.",
+      "ornek_metin": "bkz. nıüıı.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "213",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bürçek",
+      "anlam": "Perçem, yele, kuyruk tüyü.",
+      "ornek_metin": "İnsanın perçemi; atın perçem, yele ya da kuyruk tüyü",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "213",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bürçeklendi",
+      "anlam": "Perçemi uzadı.",
+      "ornek_metin": "at bürçeklendi: Atın perçemi uzadı. İnsanın perçemi uzadığında da bu sözcük kullanılır.",
+      "cekimler": [
+        "bürçeklenür",
+        "bürçeklenmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "213",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bürdi",
+      "anlam": "Torbanın ağzını büzmek, uçkur sıkmak.",
+      "ornek_metin": "olyançuq ağzı bürdi: O, torbanın ağzını büzdü. Benzer bir eylemin söz konusu olduğu herhangi bir durumda, örneğin don uçkurunun sıkılmasını ya da benzeri şeyleri anlatmak için de bu sözcük kullanılır.",
+      "cekimler": [
+        "bürer",
+        "bürmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "213",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "büri",
+      "anlam": "Okun ucuna geçirilen temrenin oyuğu (başaq bürîsi de denir).",
+      "ornek_metin": "Okun ucuna geçirilen temrenin oyuğu. Buna ba$aq bürîsi de denir.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "213",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "büri",
+      "anlam": "Ark veya kuyu ağızlarını destekleyen yuvarlak içi boş tahta parçası.",
+      "ornek_metin": "Ark ya da kuyu gibi şeylerin ağzına takılan ve bu ağızları destekleyerek suyun şiddetiyle yarılmalarını engelleyen yuvarlak içi boş tahta parçası",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "213",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bürge",
+      "anlam": "Pire (noksan akıllı kişiye de bürge kişi denir).",
+      "ornek_metin": "Pire. \"Noksan akıllı kişi\"ye de bürge kişi denir",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "213",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bürgelendi",
+      "anlam": "Öfkesinden pire gibi zıpladı.",
+      "ornek_metin": "er bürgelendi: Adam öfkesinden pire gibi zıp zıp sıçradı.",
+      "cekimler": [
+        "bürgelenûr",
+        "bürgelenmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "213",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bürgüç",
+      "anlam": "Fırın içinde ekmeği çevirmeye yarayan kılıca benzeyen geniş tahta parçası.",
+      "ornek_metin": "Fırının içindeki ekmeyi çevirmeye yarayan, şekli kılıca benzeyen geniş bir tahta parçası",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "213",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bürkek",
+      "anlam": "Gökyüzünün kara bulutlarla kaplanması.",
+      "ornek_metin": "kök bürkek boldı: Gökyüzü kara bulutlarla kaplandı",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "213",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bürkürdi",
+      "anlam": "Aralıksız yağmur yağması, su tutmak veya kan fışkırması.",
+      "ornek_metin": "kök bürkürdi: Gökyüzünden aralıksız yağmur yağdı. yugçı tönqa süw bürkürdi: Çırpıcı, giysiyi nemlendirmek için üzerine su tuttu. qdn bürkürdi: (Yaradan) kan fışkırdı.",
+      "cekimler": [
+        "bürkürer",
+        "bürkürmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "213",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bürlendi",
+      "anlam": "Ağaçların tomurcuklanması.",
+      "ornek_metin": "yıgâç bürlendi: Ağaçlar tomurcuklandı.",
+      "cekimler": [
+        "bürlenür",
+        "hürlenmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "213",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bürt",
+      "anlam": "Kâbus (kat i bürt de denir).",
+      "ornek_metin": "Kâbus, kât i bürt de denir.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "213",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bürük",
+      "anlam": "Heybe ilmeği veya don uçkuru gibi şeylerin ucuna sarılan sicim.",
+      "ornek_metin": "Heybenin ilmeği ya da donun uçkuru gibi şeylerin ucuna sarılan sicim",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "213",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bürüldi",
+      "anlam": "Kitap veya başka bir şeyin katlanması, bükülmesi.",
+      "ornek_metin": "bitig bürüldi: Kitap [başka bir şey de olabilir] katlandı, büküldü.",
+      "cekimler": [
+        "bürülür",
+        "bürülmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "213",
+      "notlar": "",
+      "kontrol_gerekli": false
+    }
+  ]
+}

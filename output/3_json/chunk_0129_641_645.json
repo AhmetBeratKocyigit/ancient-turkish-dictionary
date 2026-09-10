@@ -1,0 +1,706 @@
+{
+  "chunk_no": 129,
+  "kaynak_sayfa_baslangic": 641,
+  "kaynak_sayfa_bitis": 645,
+  "kelimeler": [
+    {
+      "kelime": "üşeng",
+      "anlam": "üjeng tâş: Düz, pürüzsüz taş. yüşeıfg’nin değişik sesletimi.",
+      "ornek_metin": "üjeng tâş: Düz, pürüzsüz taş.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "641",
+      "notlar": "yüşeıfg’nin değişik sesletimi.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "üşerdi",
+      "anlam": "Gözü kamaşmak; açlık nedeniyle ya da bir şeye çok yakından bakmaktan gözleri kararmak.",
+      "ornek_metin": "amghözi üşerdi: O n u n gözü kamaştı; açlık nedeniyle ya da bir şeye çok yakından baktığı için gözleri karardı,",
+      "cekimler": [
+        "üşenir",
+        "üşermek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "641",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "üşergen",
+      "anlam": "Açlık ya da benzer şeyler nedeniyle gözleri sürekli kararan kimse.",
+      "ornek_metin": "bu er d köâ üşergen: Bu (açlık ya da benzer şeyler nedeniyle) gözleri sürekli kararan bir adamdır,",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "641",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "üşetti",
+      "anlam": "Birine, onun evini aramasını emretmek.",
+      "ornek_metin": "ol anıg evin üşetti: O, birine, onun evini aramasını emretti. Herhangi bir şeyin aranmasını anlatmak için de bu sözcük kullanılır.",
+      "cekimler": [
+        "üşetür",
+        "üşetmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "641",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "üşidi",
+      "anlam": "Üşümek, soğuk adamı alt etmek.",
+      "ornek_metin": "er üşidi: Adam üşüdü - soğuk adamı alt etti.",
+      "cekimler": [
+        "üşir",
+        "üşfmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "641",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "üşik",
+      "anlam": "Meyveleri donduran ve büyümelerini engelleyen soğuk.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "641",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "üşiklidi",
+      "anlam": "Ceylanı, soğuk onu zapt etmişken yakalamak.",
+      "ornek_metin": "ol keyikni üşiklidi: O, ceylanı, soğuk onu zapt etmişken yakaladı. Başka şeyler için de kullanılır.",
+      "cekimler": [
+        "ûşikler",
+        "üşiklemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "641",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "üşitti",
+      "anlam": "Soğuğa çıkartarak üşütmek veya bir içeceği soğuması için dışarı koymak.",
+      "ornek_metin": "ol meni lumlıgqa üşitti: O, beni soğuğa [dışarı] çıkartarak üşüttü. ol süçüg üşitti: O, tatlı nektarı [bir içecek çeşidi) soğuması için dışarı koydu.",
+      "cekimler": [
+        "üşitür",
+        "üşitmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "641",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "üşkirdi",
+      "anlam": "Köpeğini av hayvanına karşı kışkirtmak veya yılanın tıslaması, akbabanın acı acı çığlık atması.",
+      "ornek_metin": "ol ıtıg keyikke üşkirdi: O, köpeğini av hayvanına karşı kışkırttı. yılan üşkirdi: Yılan tısladı. üs üşkirse ölür: Akbaba birinin yüzüne karşı çığlık atarsa bu, o kişinin öleceğine ilişkin bir işarettir.",
+      "cekimler": [
+        "üşkirür",
+        "üşkirmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "641",
+      "notlar": "Bu çığlığı kötü bir kehanet olarak yorumlarlar.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "üşkürdi",
+      "anlam": "Unuttuğu sözleri hatırlamak.",
+      "ornek_metin": "ol unitmış SÖZÜg üşkürdi: O, unuttuğu [başka bir durum da söz konusu olabiliri sözleri hatırladı.",
+      "cekimler": [
+        "üşkürür",
+        "üşkürmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "641",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "üştürdi",
+      "anlam": "Okun temrendeki yuvasının delinmesini emretmek, dar bir delik açmak.",
+      "ornek_metin": "oloq üştürdi: O, okun (temrendeki) yuvasının delinmesini emretti. Dar bir delik açmayı anlatmak için bu sözcük kullanılır.",
+      "cekimler": [
+        "üştürür",
+        "üştürmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "642",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "üt",
+      "anlam": "Duvardaki ya da bir tahta parçası üzerindeki delik.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "642",
+      "notlar": "vav (ü) ince okunur.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ütidi",
+      "anlam": "Giysinin kırışıklıklarını bir demirle ütüleyip düzgünleştirmek.",
+      "ornek_metin": "ol tonug ütidi: O, giysinin kınşıklıklannı bir demirte ütüledi ve onu düzgünleştirdi.",
+      "cekimler": [
+        "ütir",
+        "ütimek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "642",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ütleşdi",
+      "anlam": "Nesne parçalara ayrılmak.",
+      "ornek_metin": "ütleşdi neng: Nesne parçalara aynldı.",
+      "cekimler": [
+        "ütleşür",
+        "ütleşmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "642",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ütti",
+      "anlam": "Baştaki saçların uçlarını yakmak.",
+      "ornek_metin": "ol bâşıg ütti: O, baştaki saçların uçlannı [başka bir şeyi de olabilir] yaktı.",
+      "cekimler": [
+        "üter",
+        "ütmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "642",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ütüg",
+      "anlam": "Şekli malaya benzeyen, ısıtılan ve giysinin üzerindeki kırışıklıkların üzerine basılarak düzleşmesini sağlayan demir parçası, ütü.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "642",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ütüldi",
+      "anlam": "Koyunun başındaki tüylerin yakılması.",
+      "ornek_metin": "qÖy başı ütüldi: Koyunun [başka bir hayvanın da olabilir] başındaki tüyler yakıldı.",
+      "cekimler": [
+        "ütlür",
+        "ütülmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "642",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "üyükti",
+      "anlam": "Ayağın yumuşak kuma batması veya bir taş nedeniyle incinmesi.",
+      "ornek_metin": "anıg adâqı qıımda üyükti: Onun ayağı yutan kuma battı. anıg adâqı üyükti: Onun ayağı bir taş nedeniyle incindi.",
+      "cekimler": [
+        "üyker",
+        "üyükmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "642",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "üz",
+      "anlam": "Yağ.",
+      "ornek_metin": "üzlüg mün: Yağlı çorba,",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "642",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "üz",
+      "anlam": "Yağ (ünlü ince okunur).",
+      "ornek_metin": "üzlüg aş: Yağlı yemek,",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "642",
+      "notlar": "ünlü ince okunur.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "üz",
+      "anlam": "Sağır.",
+      "ornek_metin": "üz kişi: Sağır adam,",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "642",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "üzdi",
+      "anlam": "İpi veya ipliği kesmek ya da koparmak.",
+      "ornek_metin": "o! yıp üzdi: O, ipi ya da ipliği [başka bir şeyi de olabilir] kesti ya da kopardı.",
+      "cekimler": [
+        "üzer",
+        "üzmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "642",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "üzidi",
+      "anlam": "Küp sızdırmak ya da kulak sağır olayazmak.",
+      "ornek_metin": "küp üzidi: Küp sızdırdı. Sızdıran toprak kaplar için bu sözcük kullanılır. qulâq üzidi: [Gürültü nedeniyle] kulak neredeyse sağır oluyordu - kulak sağır olayazdı.",
+      "cekimler": [
+        "üzir",
+        "üzimek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "642",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "üzitti",
+      "anlam": "Sirkenin küpün sızdırmasına neden olması veya çok konuşarak birini sağır etmek.",
+      "ornek_metin": "sirke küpni üzitti: Sirke [başka bir şey de olabilir] [ekşiliği nedeniyle] küpün sızdırmasına neden oldu. ol amg qulâqın üzitti: O [çok fazla konuşarak] onu sağır etti.",
+      "cekimler": [
+        "üzitür",
+        "üzitmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "642-643",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "üzlüşdi",
+      "anlam": "Kan ile koca arasındaki evlilik bağının atılması, karı kocanın ayrılması.",
+      "ornek_metin": "begi kişi üzlüşdi: Kan ile koca arasındaki evlilik bağı atıldı - kan ile koca aynldı.",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "643",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "üzüşdi",
+      "anlam": "Üzüm toplama işinde yardım etmek veya ip koparmakta/üzüm toplamakta yarışmak.",
+      "ornek_metin": "ol manga üzüm üzüşdi: O, bana üzüm toplama işinde yardım etti. Bir ipi koparmayı ya da üzüm toplama işinde yarışmayı anlatmak için de bu sözcük kullanılır.",
+      "cekimler": [
+        "üzüşür",
+        "üzüşmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "643",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "üzlendi",
+      "anlam": "Tenceredeki yağın yukarıda toplanması.",
+      "ornek_metin": "eşiç üzlendi: Tenceredeki yağ yukanda toplandı.",
+      "cekimler": [
+        "üzlenür",
+        "üzlenmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "643",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "üzlündi",
+      "anlam": "İp veya başka bir şeyin kismesi/kopması.",
+      "ornek_metin": "urucj Üzlündi: İp [başka bir şey de olabilir] koptu,",
+      "cekimler": [
+        "üzlünür",
+        "üzlûnmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "643",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "üzlüşdi",
+      "anlam": "Bir şeyin kesilmesi, kopması veya alacaklı ile borçlu arasındaki borcun feshedilmesi.",
+      "ornek_metin": "üzlüşdi neng: Bir şey kesildi ya da koptu. alımlıg berimligdin üzlüşdi: Alacaklı ile borçlu arasındaki borç feshedildi,",
+      "cekimler": [
+        "üzlüşür",
+        "üzlüşmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "643",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "üzsedi",
+      "anlam": "İpi kesmek istemek ve buna niyetlenmek.",
+      "ornek_metin": "ol yışıg üzsedi: O, ipi kesmek istedi ve buna niyetlendi.",
+      "cekimler": [
+        "üzser",
+        "üzsemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "643",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "üztürdi",
+      "anlam": "İpi kopartmak.",
+      "ornek_metin": "olytp üztürdi: O, ipi [başka bir şeyi de olabiliri koparttı,",
+      "cekimler": [
+        "üztürür",
+        "ûztürmefe"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "643",
+      "notlar": "OCR hatası olabilecek 'ûztürmefe' şekli korunmuştur.",
+      "kontrol_gerekli": true
+    },
+    {
+      "kelime": "üzüldük",
+      "anlam": "Kesilme durumu.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "643",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "üzüldi",
+      "anlam": "Bir şeyin kesilmesi veya kopması.",
+      "ornek_metin": "üzüldi neng: Bir şey kesildi ya da koptu,",
+      "cekimler": [
+        "ûzlûr",
+        "üzülmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "643",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "üzülgen",
+      "anlam": "Daima aniden kopan ip.",
+      "ornek_metin": "bu yışıg ol üzülgen: Bu, daima aniden kopan bir iptir,",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "643",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "üzüm",
+      "anlam": "Üzüm.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "643",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "üzümlendi",
+      "anlam": "Asma çardağının üzümlerle kaplanması.",
+      "ornek_metin": "badıç üzümlendi: Asma çardağı üzümlerle kaplandı,",
+      "cekimler": [
+        "üzümlenür",
+        "üzûmlenmeb"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "643",
+      "notlar": "OCR hatası olabilecek 'üzûmlenmeb' formu yer almaktadır.",
+      "kontrol_gerekli": true
+    },
+    {
+      "kelime": "va",
+      "anlam": "Bir kimsenin ikinci bir kimseye verdiği emrin yadsınmasında ikinci kişinin kullandığı reddetme ilgeci veya acı ve elem belirten ilgeç.",
+      "ornek_metin": "va ne ter sen: Vay sen ne diyorsun? - Söylediğin şeyi reddediyorum.",
+      "cekimler": [],
+      "kelime_turu": "ünlem",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "644",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "vararig",
+      "anlam": "Bkz. orarig.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "belirsiz",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "644",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "xafsı",
+      "anlam": "Hokka.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "645",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "xalaç",
+      "anlam": "Bkz. türkmen.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "belirsiz",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "645",
+      "notlar": "Kaynakta 'qâl aç' şeklinde de geçer.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "xân",
+      "anlam": "Türklerin en büyük hakanı, Afrâsiyab'ın torunlarına verilen ad.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "645",
+      "notlar": "Afrâsiyâb, Xâqân'dır [Hâqân]. Bu adın verilişine ilişkin uzun bir hikâye vardır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "xanda",
+      "anlam": "Bkz. qanu; qanda.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "belirsiz",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "645",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "xara",
+      "anlam": "Bkz. xün.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "belirsiz",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "645",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "xasni",
+      "anlam": "Bebeklerin büyümesi için kaymağın içine katılarak yedirilen bir Hint ilacı.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "645",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "xayu",
+      "anlam": "Bkz. qayu; qanu.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "belirsiz",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "645",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "xıtây",
+      "anlam": "Orta Çin.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "645",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "xıyâr",
+      "anlam": "Bkz. maraz.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "belirsiz",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "645",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "xız",
+      "anlam": "Bkz. qız.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "belirsiz",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "645",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "xoc xoc",
+      "anlam": "Keçileri güderken kullanılan bir ifade.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "ünlem",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "645",
+      "notlar": "Bu hı yazacının, bir değişik sesletimi olmaksızın kullanıldığı yegâne örnektir ve Arapça çevriyazıda h olan bu yazaç burada x olarak geçmektedir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "xuçünek",
+      "anlam": "Bkz. çüçûnek.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "belirsiz",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "645",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "xulırig",
+      "anlam": "Çin’den getirilen, pek çok renkte olabilen bir ipek.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "645",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "xumâru",
+      "anlam": "Miras.",
+      "ornek_metin": "büm atamdan xumâru buldum: Bunu babamdan miras olarak aldım.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "645",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "xumâru",
+      "anlam": "Hatıra olan bir mal veya yolculuğa çıkan kimsenin hısımlarına bıraktığı hatıra.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "645",
+      "notlar": "Bu, Türklerin bir geleneğidir; bir ilin şefi öldüğünde zenginliğinin önemli bir kısmı Hakan için ayrılır. Bu sözcük bir erkek adı ya da bir kadın adı olarak da kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "xumâru ulandı",
+      "anlam": "Adama miras kalması.",
+      "ornek_metin": "er xumârülandı: Adama [bir dostundan ya da başka birinden] miras kaldı.",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "645",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "xün",
+      "anlam": "Kaba, nazik olmayan bir şey; hantal, beceriksizce hareket etme.",
+      "ornek_metin": "xün iş: Kaba, nazik olmayan bir şey; xün xara işleme: Hantal, beceriksizce, hareket etme.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "645",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "xutu",
+      "anlam": "Çin’den getirilen bir balık duyargası veya bıçak sapı yapılan bir ağaç kökü; yemeklerin zehirli olup olmadığını anlamaya yarar.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "645",
+      "notlar": "Kimine göre bu, bıçak sapı yapılan bir ağaç köküdür. Çorba veya başka bir yemek bir kapta bununla karıştırılır; zehir varsa kaynamaya başlar.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "xuzâr",
+      "anlam": "Türklerin ülkesinde bir yer adı.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "645",
+      "notlar": "",
+      "kontrol_gerekli": false
+    }
+  ]
+}

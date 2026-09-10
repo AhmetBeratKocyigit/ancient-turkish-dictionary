@@ -1,0 +1,614 @@
+{
+  "chunk_no": 57,
+  "kaynak_sayfa_baslangic": 353,
+  "kaynak_sayfa_bitis": 357,
+  "kelimeler": [
+    {
+      "kelime": "ıgruldı",
+      "anlam": "Kemiğin eklem yerlerinden ayrılması",
+      "ornek_metin": "sünğüfe ogruldı: Kemiğin eklem yerlerinden aynlması.",
+      "cekimler": [
+        "ogrulur",
+        "ogrulmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "353",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ogruştı",
+      "anlam": "Kemiği ayırmakta yardım etmek, çekişmek",
+      "ornek_metin": "d manga süngü)? ogruştı: O bana kemiği ayırmakta yardım etti. Bu işte çekişmeyi anlatmak için de bu sözcük kullanılır.",
+      "cekimler": [
+        "ogruşur",
+        "ogruşmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "353",
+      "notlar": "",
+      "kontrol_gerekli": true
+    },
+    {
+      "kelime": "oğul",
+      "anlam": "Oğul",
+      "ornek_metin": "bu oğul ne ter: Bu çocuk ne der?",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "353",
+      "notlar": "Bunun çoğulu ogîân’dır-ancak bu kullanım kurala aykırıdır; kurala göre çoğul hali oğullar olmalıydı, tıpkı “erkekler” anlamında eren sözcüğünün kullanılması gibi; ancak her iki kullanıma da [oglân, oğullar] rastlanmakıadır [daha sonraları oğlan ve eren sözcükleri tekil olarak da kullanılmaya başlanmıştır -çn ].",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ogulçuq",
+      "anlam": "Kadının rahmi",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "353",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ogulmuq",
+      "anlam": "Fasulyenin etrafına sarıldığı, destekleyici düz çubuk, sırık",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "353",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ogurdı",
+      "anlam": "Kemiği eklem yerinden ayırmak",
+      "ornek_metin": "er sunul? ogurdı; Adam kemiği eklem yerinden ayırdı,",
+      "cekimler": [
+        "ogrur",
+        "ogurmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "353",
+      "notlar": "",
+      "kontrol_gerekli": true
+    },
+    {
+      "kelime": "ogurlâdı",
+      "anlam": "Uğurladı",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "belirsiz",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "353",
+      "notlar": "bkz. uğurladı",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "oguş",
+      "anlam": "Boy",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "353",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "oguşlandı",
+      "anlam": "Bir topluluğun parçası olmak, akraba sahibi olmak",
+      "ornek_metin": "er oguşlandı: Adam bir topluluğun parçası oldu - adam akraba sahibi oldu,",
+      "cekimler": [
+        "oguşlanur",
+        "oguşlanmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "353",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "oguşlug",
+      "anlam": "Bir boya bağlı olan adam",
+      "ornek_metin": "oguşlug er: Bir boya bağlı olan adam,",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "353",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "oğuz",
+      "anlam": "Bir Türk kavmi; Türkmen. Her biri hayvanlarına vurdukları ayırt edici bir damgaya sahip yirmiiki koldan oluşur.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "353-354",
+      "notlar": "Her biri hayvanlarına vurdukları ayırt edici bir damgaya sahip yirmiiki koldan oluşur.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "oguzlâdı",
+      "anlam": "O, beni Oğuz olarak düşündü ve onlarla ilişkilendirdi",
+      "ornek_metin": "ol meni oguzlâdı: O, beni Oğuz olarak düşündü ve onlarla ilişkilendirdi.",
+      "cekimler": [
+        "oğuzlar",
+        "oguzlâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "355",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "oguzlandı",
+      "anlam": "Adam Oğuz giysisi giydi",
+      "ornek_metin": "er oguzlandı: Adam Oğuz giysisi giydi,",
+      "cekimler": [
+        "oguzlanur",
+        "oguzlanmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "355",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ol",
+      "anlam": "\"O\" anlamına gelen bir ilgeç",
+      "ornek_metin": "ol andag aydı: O böyle söyledi.",
+      "cekimler": [],
+      "kelime_turu": "ilgeç",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "355",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ol",
+      "anlam": "\"Şu\" anlamına gelen bir ilgeç",
+      "ornek_metin": "ol er: Şu adam,",
+      "cekimler": [],
+      "kelime_turu": "ilgeç",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "355",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ol",
+      "anlam": "Adlara ve eylemlere eklenen bir pekiştirme ilgeci",
+      "ornek_metin": "ol menig oğlum ol: O, kesinlikle benim oglumdur; ol ewke barmış ol: O, kesinlikle eve gitti.",
+      "cekimler": [],
+      "kelime_turu": "ilgeç",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "355",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "oldı",
+      "anlam": "Et pişerek lime lime oldu. Uzun süre kullanıldığı için eskiyen ve yıpranan bir giysiyi anlatmak için de bu sözcük kullanılır",
+      "ornek_metin": "et bışıp oldı: Et pişerek lime lime oldu.",
+      "cekimler": [
+        "olur",
+        "olmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "355",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "oldıdı",
+      "anlam": "At nalsız kaldı. İnsan yalınayak kaldığında da bu sözcük kullanılır.",
+      "ornek_metin": "at oldıdı: At [başka bir hayvan da olabiliri nalsız kaldı.",
+      "cekimler": [
+        "oldir",
+        "oldimâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "355",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "oldrum",
+      "anlam": "Sakatlanmış kimse",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "355",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "olduq",
+      "anlam": "Nalsız at",
+      "ornek_metin": "olduq at: Nalsız at [başka bir hayvan da olabilir 1.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "355",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "olgun",
+      "anlam": "Qayaq",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "belirsiz",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "355",
+      "notlar": "bkz. qayaq.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "olguttı",
+      "anlam": "Otatttı",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "belirsiz",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "355",
+      "notlar": "bkz. o ta ttı",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "olıç",
+      "anlam": "Çocuklara sevgi bildirmek için kullanılan bir ilgeç",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "ilgeç",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "355",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "olıçım",
+      "anlam": "Sevgili oğlum",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Qarluk lehçesi",
+      "kaynak_sayfa": "355",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "olındım",
+      "anlam": "Ben bu meseleden ve onun için çektiğim sıkıntılardan usandım",
+      "ornek_metin": "men bu îşta olındım: Ben bu meseleden ve onun için çektiğim sıkıntılardan usandım.",
+      "cekimler": [
+        "olmur men",
+        "olınmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "356",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "olma",
+      "anlam": "Kavanoz",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "356",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "olturdı",
+      "anlam": "O, tencerede eti pişirdi. Bir giysinin ya da benzer bir şeyin yıpranmasını anlatmak için de bu sözcük kullanılır.",
+      "ornek_metin": "ol eşiç ıçre et olturdı: O, tencerede eti pişirdi.",
+      "cekimler": [
+        "olturur",
+        "olturmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "356",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "olturdı",
+      "anlam": "O, adam oturdu",
+      "ornek_metin": "ol er olturdı: O, adam [başka biri de olabilir) oturdu.",
+      "cekimler": [
+        "olturur",
+        "olturmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "356",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "oluq",
+      "anlam": "Dayanıklı, azimli adam",
+      "ornek_metin": "oluq er: Dayanıklı, azimli adam.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "356",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "oluq",
+      "anlam": "Ağaç kütüğünün içi oyularak yapılmış herhangi bir şey; örneğin içinde şıra soğutulan veya hayvan sulamakta kullanılan yalak",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "356",
+      "notlar": "Metinde 'olaq [?]' şeklinde şüpheli ek bulunmaktadır.",
+      "kontrol_gerekli": true
+    },
+    {
+      "kelime": "oluq",
+      "anlam": "Eskimiş ve yıpranmış giysi",
+      "ornek_metin": "oluq ton: Eskimiş ve yıpranmış giysi. Yıpranmış herhangi bir şeyi anlatmak için oluq sözcüğü kullanılır.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "356",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "oluq",
+      "anlam": "Küçük kayık",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "356",
+      "notlar": "Bunun kök-anlamı ağaç kütüğünün içi oyularak yapılmış herhangi bir şeydir [oluq2].",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "olut",
+      "anlam": "Yetişkin; olgunluk evresini yaşayan adam",
+      "ornek_metin": "olut er: Yetişkin; olgunluk evresini yaşayan adam.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "356",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "olxuttı",
+      "anlam": "O, beni oturttu",
+      "ornek_metin": "ol meni obaıttı: O, beni oturttu.",
+      "cekimler": [
+        "olxutur",
+        "olxutmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "356",
+      "notlar": "Kök-biçimi gayn'la (g) olguttı’dır; nitekim bir eylem asla hı’yla (x) geçişli yapılmaz, gayn'la yapılır",
+      "kontrol_gerekli": true
+    },
+    {
+      "kelime": "öm",
+      "anlam": "Adamın midesi bozuldu - çok et yemekten midesi bulandı",
+      "ornek_metin": "er öm boldı: Adamın midesi bozuldu - çok et yemekten midesi bulandı,",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "356",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ön",
+      "anlam": "On sayısı",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "356",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "onu",
+      "anlam": "Onu",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "zamir",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "356",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "onunç",
+      "anlam": "Onuncu",
+      "ornek_metin": "onunç yarmâq: Onuncu para [başka bir şey de olabilir!.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "356",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ong",
+      "anlam": "Kolay iş",
+      "ornek_metin": "cvıg iş: Kolay iş. ongây sözcüğünün kısaltılmış biçimidir,",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "357",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ong",
+      "anlam": "Sağ el",
+      "ornek_metin": "ong elig: Sağ el",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Çigil lehçesi",
+      "kaynak_sayfa": "357",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ongâmuq",
+      "anlam": "Sağ elini kullanan adam",
+      "ornek_metin": "ongdmuq er: Sağ elini kullanan adam.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "357",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "orfgdı",
+      "anlam": "İşlemeli kumaşın rengi soldu",
+      "ornek_metin": "barçın bodûgı ongdı: İşlemeli kumaşın rengi soldu.",
+      "cekimler": [
+        "ongâr",
+        "onğmâcj"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "357",
+      "notlar": "onguqtı sözcüğünün değişik sesletimidir.",
+      "kontrol_gerekli": true
+    },
+    {
+      "kelime": "ongüjin",
+      "anlam": "Çölde insanlara saldıran bir gulyabani",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "357",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "onguldı",
+      "anlam": "Hasta iyileşti, iş yoluna koyuldu",
+      "ornek_metin": "sökel onguldı: Hasta iyileşti. iş onguldı: (Kanşan) iş yoluna koyuldu.",
+      "cekimler": [
+        "onglür",
+        "ongulmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "357",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "onguqtı",
+      "anlam": "Adamın yüzü süzüldü, işlemeli kumaş parlaklığını kaybetti",
+      "ornek_metin": "er yüzi origuqtı: Adamın yüzü süzüldü. barçın onguqtı: İşlemeli kumaş [başka bir şey de olabilir] parlaklığını kaybetti.",
+      "cekimler": [
+        "onguqâr",
+        "onguqmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "357",
+      "notlar": "",
+      "kontrol_gerekli": true
+    },
+    {
+      "kelime": "origuqtı",
+      "anlam": "Adamın yüzü süzüldü, işlemeli kumaş parlaklığını kaybetti",
+      "ornek_metin": "anıg yüzi onguqtı: (Hastalık veya benzer bir şey nedeniyle) adamın yüzü süzüldü. barçın onguqtı: işlemeli kumaş parlaklığını kaybetti.",
+      "cekimler": [
+        "onguqâr",
+        "onguqmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "357",
+      "notlar": "Benzer bir durumun söz konusu olduğu her şeyi anlatmak için bu sözcük kullanılabilir. [Ana madde olarak bu sözcük, sözlükte iki kez yer almaktadır -çn]",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "op",
+      "anlam": "Harman dövmekte kullanılan öküz",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Argu lehçesi",
+      "kaynak_sayfa": "357",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "öpdı",
+      "anlam": "Adam suyu yutuverdi",
+      "ornek_metin": "er süw öpdı: Adam suyu [başka bir şeyi de olabilir] yutuverdi.",
+      "cekimler": [
+        "öpâr",
+        "öpmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "357",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "opldı",
+      "anlam": "O, onu halktan gizledi. Herhangi bir şeyin başkasından gizlenmesini anlatmak için de bu sözcük kullanılır",
+      "ornek_metin": "ol anı kişîdtn opidı: O, onu halktan gizledi.",
+      "cekimler": [
+        "opfr",
+        "opimâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "357",
+      "notlar": "",
+      "kontrol_gerekli": true
+    },
+    {
+      "kelime": "opındı",
+      "anlam": "O, benden saklandı",
+      "ornek_metin": "ol mendin opındı: O, benden saklandı,",
+      "cekimler": [
+        "opınür",
+        "opınmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "357",
+      "notlar": "",
+      "kontrol_gerekli": false
+    }
+  ]
+}

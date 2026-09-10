@@ -1,0 +1,827 @@
+{
+  "chunk_no": 68,
+  "kaynak_sayfa_baslangic": 397,
+  "kaynak_sayfa_bitis": 401,
+  "kelimeler": [
+    {
+      "kelime": "qançıq",
+      "anlam": "Dişi köpek.",
+      "ornek_metin": "Kadınlara yönelik bir küfür olarak qaııçıq: kancık kullanılır; burada kadın, dişi köpeğe benzetilmiştir.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "397",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qanda",
+      "anlam": "\"Nerede\" anlamına gelen bir soru eki.",
+      "ornek_metin": "qanda erding: Neredeydin?",
+      "cekimler": [],
+      "kelime_turu": "edat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "397",
+      "notlar": "nun (n), ye’den (y) değişmiştir [qayda]. Kök-biçimi qayüda’dır [bkz. qayu, qayda].",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qândı",
+      "anlam": "Suyla doldu - olabildiğince çok su içti; kana kana içti.",
+      "ornek_metin": "ol sûıvdın qândr. O, suyla doldu - olabildiğince çok su içti; kana kana içti.",
+      "cekimler": [
+        "qânar",
+        "qânmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "397",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qandır",
+      "anlam": "Sepilenmeye uygun olan post yüzüldükten sonra geriye kalan deri.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "397",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qandurdı",
+      "anlam": "Susuzluğunu su vererek dindirdi.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "397",
+      "notlar": "bkz. qanturdı.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qânı",
+      "anlam": "\"Nerede\" anlamına gelen bir ilgeç.",
+      "ornek_metin": "oğlum qâm: Oğlum nerede?",
+      "cekimler": [],
+      "kelime_turu": "edat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "397",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qanıdı",
+      "anlam": "Vücudun herhangi bir yerinin kanaması.",
+      "ornek_metin": "bürün qanıdı: Burun kanadı.",
+      "cekimler": [
+        "qanîr",
+        "qanimâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "397",
+      "notlar": "Kök-biçimi qânîdı’dır ve ye (f) düşmüştür.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qanıg",
+      "anlam": "Neşe, sevinç.",
+      "ornek_metin": "tutçı yağar bulitı / Onun (cömertlik) bulutu durmadan yağmaktadır / altun tamar arıg / (Bu buluttan) saf altın damlar / aqsa amng aqinı / Onun seli aksa (benim üzerime, mutluluğum tam olur) / qandı menig qanıg / Neşeyle dolup taşanm",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "397",
+      "notlar": "Hakan’ın eşinin cömertliğini anlatır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qamşdı",
+      "anlam": "İşlerinde mutlu olmak, yaptıkları işten haz almak.",
+      "ornek_metin": "yiğitler tşqa qanışdı: Yiğitler işlerinde mutlulardı.",
+      "cekimler": [
+        "qantşür",
+        "qanışmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "397",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qanıtgân",
+      "anlam": "Övülmek bir adamı her zaman hoşnut eder.",
+      "ornek_metin": "ögdi ol erig qanıtgân: Övülmek bir adamı her zaman hoşnut eder.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "397",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qanturdı",
+      "anlam": "Susuzluğunu su vererek dindirmek.",
+      "ornek_metin": "ol mini suwqa qanturdı: O, susuzluğumu bana su vererek dindirdi.",
+      "cekimler": [
+        "qanturur",
+        "qanturmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "397",
+      "notlar": "Kök-biçimi qandurdı’dır. Bu susuzluk su dışında bir şeyle giderilse yine bu sözcük kullanılırdı. (qandurdı olarak da geçer)",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qanu",
+      "anlam": "\"Hangi\" anlamına gelen bir ilgeç.",
+      "ornek_metin": "qanu. kişi: Hangi adam",
+      "cekimler": [],
+      "kelime_turu": "edat",
+      "dil_veya_lehce": "Argu lehçesi",
+      "kaynak_sayfa": "397",
+      "notlar": "nun (n), yeden (y) dönüşmüştür [bkz. qayu].",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qang",
+      "anlam": "Kaz sesi veya buna benzeyen herhangi bir ses.",
+      "ornek_metin": "qâz qang etti: Kaz böylesi bir ses [kaz sesi] çıkarttı.",
+      "cekimler": [],
+      "kelime_turu": "ünlem",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "397",
+      "notlar": "Yansıma bir sözcüktür.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qangdaş",
+      "anlam": "Babaları aynı anneleri farklı olan erkek kardeşler.",
+      "ornek_metin": "qangdaş qam a ürür, ögdeş örü tartar: Babalan aynı ama anneleri farklı olan erkek kardeşler birbirieriyle çok sert dövüşürler (çünkü aralannda nefret duyguları vardır); aynı anneden olan çocuklar ise birbirlerine yardım ederler (çünkü aralannda sevgi bağı vardır).",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "398",
+      "notlar": "qarigdaş olarak da geçer.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qariglı",
+      "anlam": "Kağnı; yük arabası.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "398",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qariglı",
+      "anlam": "Qıfçâqlardan önemli bir adamın adı.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Kıpçak",
+      "kaynak_sayfa": "398",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qangrıq",
+      "anlam": "Damak.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "398",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qarigsıq",
+      "anlam": "Üvey baba veya üvey oğul.",
+      "ornek_metin": "qarigsıq ata: Üvey baba. / qangstq oğul: Üvey oğul.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "398",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qâp",
+      "anlam": "Tulum [şarap tulumu].",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "398",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qâp",
+      "anlam": "Kap. Her türlü tasa, kutuya ya da fıçı.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "398",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qâp",
+      "anlam": "Rahimde ceninin etrafını çeviren zar.",
+      "ornek_metin": "qâplıg oğul",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "398",
+      "notlar": "Eğer çocuk bu zarla birlikte doğarsa, bu onun kutlu olacağının işareti olarak kabul edilir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qâp",
+      "anlam": "Akraba (hısım).",
+      "ornek_metin": "ol menig birle uya qâp ol: Onunla yuvada ve zann içinde birlikteydik - o benim hısmımdır, öyle ki ikimizde aynı rahmin içinden doğmuş gibiyizdir.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "398",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qapân",
+      "anlam": "Bir erkek adı.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "398",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qapaq",
+      "anlam": "Söz kapağı.",
+      "ornek_metin": "köz qapaqı: Söz kapağı.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "398",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qapaq",
+      "anlam": "Kızlık, bekâret.",
+      "ornek_metin": "qiz qapaqı sıdı: (O) kızın kızlığını bozdu.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "398",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qapaqlâdı",
+      "anlam": "Bakirenin bekâretini bozdu.",
+      "ornek_metin": "er qîzıg qapaqlâdı: Adam bakirenin bekâretini bozdu.",
+      "cekimler": [
+        "qapaqlâr",
+        "qapaqlâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "398",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qapaqlıg",
+      "anlam": "Bakire.",
+      "ornek_metin": "qapaqlıg qız: Bakire.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "398",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qapardı",
+      "anlam": "Yara şişti.",
+      "ornek_metin": "baş qapardı: Yara şişti.",
+      "cekimler": [
+        "qaparur",
+        "qaparmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "398",
+      "notlar": "Kök-biçimi qâpardı'dır, ancak ilk ünlünün kısa okunduğu biçim bozulmamıştır (fasih).",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qapargân",
+      "anlam": "Kaşıntı ve yüksek ateşe yol açan bir sivilce, kabartı.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "398",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qaparttı",
+      "anlam": "Çizme ayakta şişkinliklere neden oldu / Konuşmasını abarttı.",
+      "ornek_metin": "etük adâqıg qaparltı: Çizme ayakta şişkinliklere neden oldu. / ol sözüg qaparttı: O konuşmasını abarttı, aşın önemliymiş gibi gösterdi.",
+      "cekimler": [
+        "qapartür",
+        "qapartmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "398-399",
+      "notlar": "Böylesine tumturaklı bir konuşma yapan adama, abartılı kibrinden dolayı qapartgân denir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qapdı",
+      "anlam": "Giysiyi çaldı / Bebeği cin çarptı / Rüzgârın giysi veya benzer şeyleri havalandırması.",
+      "ornek_metin": "er tön qapâı: Adam giysiyi (başka bir şeyi de olabilir) çaldı. / oglântgyel qapdı: Bebeği cin çarptı.",
+      "cekimler": [
+        "qapâr",
+        "qapmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "399",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qapga",
+      "anlam": "Büyük kapı ya da geçit.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "399",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qapgâq",
+      "anlam": "Sadağın kapağı.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "399",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qapgaqlandı",
+      "anlam": "Bir kapak takılarak sadak donatıldı.",
+      "ornek_metin": "keş qapgaqlandı: Bir kapak takılarak sadak donatıldı.",
+      "cekimler": [
+        "qapgaqlanür",
+        "qapgaqlanmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "399",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qapıldı",
+      "anlam": "Eve kapatıldı - evde hapsedildi / Giysisi çalındı.",
+      "ornek_metin": "er ewde qapddt: Adam eve kapatıldı - evde hapsedildi. / anıg tönvqapıldr: Onun giysisi çalındı.",
+      "cekimler": [
+        "qapdür",
+        "qapdmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "399",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qapındı",
+      "anlam": "Malları çalıyormuş gibi göründü / Bebeği cin çarptı - kem göz değdi.",
+      "ornek_metin": "er tawâr qapındt: Adam mallan çalıyormuş gibi göründü. / oglân yel qapmdı: Bebeği cin çarptı - bebeğe kem göz değdi.",
+      "cekimler": [
+        "qapınûr",
+        "qapmmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "399",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qapış",
+      "anlam": "Yağmalamak.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "399",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qapışdı",
+      "anlam": "Topu kapmak için mücadele etti.",
+      "ornek_metin": "ol menig birle topıq qapışdı: O, (çevgen oyununda ya da başka bir yerde) topu kapmak için benimle mücadele etti.",
+      "cekimler": [
+        "qapışûr",
+        "qapışmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "399",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qapsâdı",
+      "anlam": "Halk onun çevresinde toplandı / Malına el koymak istedi.",
+      "ornek_metin": "anıg tegre kişi qapsâdı: Halk onun çevresinde toplandı. / ol anıg tawârm qapsâdı: O, onun malına el koymak istedi.",
+      "cekimler": [
+        "qapsdr",
+        "qapsâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "399",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qapturdı",
+      "anlam": "Mallarını çaldırdı.",
+      "ornek_metin": "ol arigar tawâr qapturdı: O, ona malllan çaldırdı.",
+      "cekimler": [
+        "qapturıır",
+        "qapturmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "399",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qapug",
+      "anlam": "Kapı.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "399",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qapuglug",
+      "anlam": "Kapısı olan ev.",
+      "ornek_metin": "qapuglug ew: Kapısı olan ev.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "400",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qapuş",
+      "anlam": "Argu ülkesinde bir yer adı.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Argu",
+      "kaynak_sayfa": "400",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qâq",
+      "anlam": "Kurutulmuş erik ya da erik benzeri meyveler.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "400",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qaq",
+      "anlam": "Ortadan ikiye yarılmış herhangi bir şey.",
+      "ornek_metin": "erük qaqi: Varma şeftali [kurutulmuş şeftali - diğer meyveler için de kullanılabilir].",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "400",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qaq",
+      "anlam": "Kurutulmuş et. Dilimlenen ve güneşte kurutulan herhangi bir şey.",
+      "ornek_metin": "qaq et: Kurutulmuş et.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "400",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qaq",
+      "anlam": "Gölcük; su birikintisi.",
+      "ornek_metin": "qaqlar qamug kölerdi / Gölcükler birer göl haline gelene kadar suyla doldu / tâglar başı ilerdi / Dağların zirveleri şöyle böyle seçildi / ajurı tını yıhrdı / Dünyanın soluğu ısındı / tû tü çeçek çergeşür / (Ağaçlar çiçeğe durdu, tomurcuklar açtı) türlü türlü çiçek sıralandı",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "400",
+      "notlar": "İlkbaharı anlatır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qâq qöq",
+      "anlam": "Kazın çıkartarak bağırdığı ses.",
+      "ornek_metin": "qâz qâq qöq etti: Kaz, böylesi bir ses çıkartarak bağırdı.",
+      "cekimler": [],
+      "kelime_turu": "ünlem",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "400",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qâq qöq",
+      "anlam": "Kurutulmuş meyve.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "400",
+      "notlar": "Söz uzatımı vardır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qâq süw",
+      "anlam": "Gölcük; su birikintisi.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "400",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qaqaç",
+      "anlam": "Kir, pislik.",
+      "ornek_metin": "tön qaqaç boldı: Giysi kirlendi",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "400",
+      "notlar": "bkz. qaçâç.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qaqîdı",
+      "anlam": "Yaptığı iş nedeniyle kızdı ve darıldı.",
+      "ornek_metin": "ol andın qaqidı: O, yaptığı iş nedeniyle ona kızdı ve danldı.",
+      "cekimler": [
+        "qaqîr",
+        "qaqimâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "400",
+      "notlar": "Argu lehçesinde qaqıyür biçimindedir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qaqıg",
+      "anlam": "Kızgınlık; kin.",
+      "ornek_metin": "men anıg qaqıgında bu iş qıldım: Ben bu işi ona karşı kinimden yaptım.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "400",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qaqıldı",
+      "anlam": "Başına vuruldu / Ardı ardına gelen darbelerle itildi kakıldı.",
+      "ornek_metin": "başra qaqıldı: Onun başına vuruldu. / qaqıldı soquldı: O ardı ardına gelen darbelerle itildi kakıldı.",
+      "cekimler": [
+        "qaqılur",
+        "qaqılmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "400",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qaqılgân soqulgân",
+      "anlam": "İnsanların darbeleriyle itilip kakılan adam.",
+      "ornek_metin": "bu er ol telim qaqılgân soqulgân: Bu, insanların darbeleriyle itilip kakılan bir adamdır.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "400",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qaqışdı",
+      "anlam": "Birbirlerine karşı öfkeliydiler / Birbirlerinin başına vurdular.",
+      "ornek_metin": "eren qamug qaqışdı: Adamların tamamı birbirlerine karşı öfkeliydiler. / ölar ekki başra qaqışdı: Onlar birbirlerinin başına vurdular.",
+      "cekimler": [
+        "qaqışür",
+        "qaqışmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "401",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qaqıtgân",
+      "anlam": "Sürekli beni kızdıran ve canımı sıkan adam.",
+      "ornek_metin": "bu er ol meni tütçı qaqıtgân: Bu, sürekli beni kızdıran ve canımı sıkan bir adamdır.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "401",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qaqıttı",
+      "anlam": "Onu öylesine öfkelendirdi ve rahatsız etti ki, ondan uzak durmaya başladı.",
+      "ornek_metin": "ol anı qaqıttı: O, onu öylesine öfkelendirdi ve rahatsız etti ki, ondan uzak durmaya başladı.",
+      "cekimler": [
+        "qaqıtür",
+        "qaqıtmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "401",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qaqıyür",
+      "anlam": "Kızmak, darılmak.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "401",
+      "notlar": "bkz. qaqîdı.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qaqlandı",
+      "anlam": "Et kurutuldu / Kayaların arasındaki oyuklarda sular toplandı.",
+      "ornek_metin": "et qaqlandı: Et kurutuldu. / süw qaqlandı: Kayalann arasındaki oyuklarda sular toplandı.",
+      "cekimler": [
+        "qaqlanür",
+        "qaqlanmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "401",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qaqlattı",
+      "anlam": "Etin kurutulmasını emretti.",
+      "ornek_metin": "ol angar et qaqlattı: O, etin kurutulmasını emretti.",
+      "cekimler": [
+        "qaqlatür",
+        "qaqlatmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "401",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qaqrattı",
+      "anlam": "Tohumların yeni saçıldığı tarladan serçe ve benzer kuşları kaçırmak için bekçi davulunu çaldı.",
+      "ornek_metin": "ol qaqratgu qaqrattı: O, tohumların yeni saçıldığı tarladan serçe ve benzer kuşlan kaçırmak için bekçi davulunu çaldı.",
+      "cekimler": [
+        "qaqratur",
+        "qaqratmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "401",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qaqsıdı",
+      "anlam": "Et dilimlendi ve kurutuldu [kuruyayazdı].",
+      "ornek_metin": "et qaqsıdı: Et dilimlendi ve kurutuldu [kuruyayazdı].",
+      "cekimler": [
+        "qaqsîr",
+        "qaqsimâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "401",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qaqtı",
+      "anlam": "Hafifçe onun başına vurdu.",
+      "ornek_metin": "anı başra qaqtı: O, hafifçe onun başına vurdu.",
+      "cekimler": [
+        "qaqâr",
+        "qaqmaq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "401",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qaqturdı",
+      "anlam": "Başkasının kafasına vurulması görevini verdi.",
+      "ornek_metin": "ol anı başra qaqturdı: O, ona, başka birinin kafasına vurulması görevini verdi.",
+      "cekimler": [
+        "qaqturur",
+        "qaqturmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "401",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qâr",
+      "anlam": "Kar.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "401",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qar qur",
+      "anlam": "Karın guruldadı.",
+      "ornek_metin": "qar qur etti qarın: Karın guruldadı.",
+      "cekimler": [],
+      "kelime_turu": "ünlem",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "401",
+      "notlar": "Bu sözcük, ses ve anlam bakımından Arapçaya uygundur.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qara",
+      "anlam": "Herhangi bir şeyin siyah olanı.",
+      "ornek_metin": "Buğra Qara Xâqan",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "401",
+      "notlar": "Hâqânılerin Hanlarına verilen bir ad olarak da kullanılır. Bu adın alınışına ilişkin bir hikâye vardır.",
+      "kontrol_gerekli": false
+    }
+  ]
+}

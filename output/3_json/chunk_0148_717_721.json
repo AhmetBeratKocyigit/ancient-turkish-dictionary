@@ -1,0 +1,395 @@
+{
+  "chunk_no": 148,
+  "kaynak_sayfa_baslangic": 717,
+  "kaynak_sayfa_bitis": 721,
+  "kelimeler": [
+    {
+      "kelime": "yükündi",
+      "anlam": "Yükseldi",
+      "ornek_metin": "yüksedi neng: Bir şey yüksek ya da uzundu.",
+      "cekimler": [
+        "yükser",
+        "yüksemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "717",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yüksek",
+      "anlam": "Yüksek, yüce, ulu olan; uzun olan herhangi bir şey",
+      "ornek_metin": "yüksek tâg: Yüce dağ. üs es körûp yüksek qalıq qödı çoqâr / bilge kişi öğüt berip tawraq uqar: Akbaba avını gördüğü zaman yüksekte olduğu havadan aşağıya iner / Bilge kişinin avı ise öğüttür, onu duyduğu zaman (ezberler ve) anlar",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "717",
+      "notlar": "Bu sözcük yüg: kuş tüyü sözcüğünden türetilmiştir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yüksetti",
+      "anlam": "Yükseltti, inşa etti",
+      "ornek_metin": "ol tâm yüksetti: O, bir duvar yükseltti pnşa ettil.",
+      "cekimler": [
+        "yûksetur",
+        "yüksetmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "717",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yüksük",
+      "anlam": "İğne batmasını önlemek için terzilerin parmak uçlarına taktıkları, pirinçten ya da deriden yapılan, okçukların parmak-koruyuculanna benzeyen şey",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "717",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yükünç",
+      "anlam": "Namaz, secde, başını eğme, itaat etme ve saygıyla önünde eğilme",
+      "ornek_metin": "tengnfee yükünç yükündi: Cenab-ı Hak için namaz kıldı. ol begke yükünç yükündi: O, beyin huzurunda başını eğdi. qul tengnke yükündi: Kul, Cenab-ı Hakkın önünde secde etti. toyın burxânqa yükündi: Kâfirlerin din büyüğü puta secde etti. ol manga yükündi: O, bana itaat etti ve saygıyla önümde eğildi. yüknüp manga imledi / közüm yaşın yamladı / bağrım başın emledi / elgin bolup ol keçer: Başını eğerek beni selamladı ve sanki ’hizmetinizdeyim’ dedi / (Bir göründü ve) gözümdeki yaşı sildi / Ciğerimdeki yarayı iyi etti / (Sonra) bir seyyahmış gibi geçti gitti",
+      "cekimler": [
+        "yükünür",
+        "yükünmek"
+      ],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Qıfçâq",
+      "kaynak_sayfa": "717",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yülidi",
+      "anlam": "Saç tıraş etti",
+      "ornek_metin": "er saç yülidi: Adam saçını tıraş etti.",
+      "cekimler": [
+        "yülır",
+        "yülimek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "718",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yüligü",
+      "anlam": "Ustura",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "718",
+      "notlar": "Oğuzlar bu sözcüğü bilmez ve ‘üstura”ya kerey der.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yülildi",
+      "anlam": "Saç tıraş edildi",
+      "ornek_metin": "saçyülildi: Saç tıraş edildi.",
+      "cekimler": [
+        "yülilur",
+        "yülilmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "718",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yülitti",
+      "anlam": "Saç tıraş ettirdi",
+      "ornek_metin": "er saçın yülitti: Adam saçını tıraş ettirdi.",
+      "cekimler": [
+        "yülitür",
+        "yülitmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "718",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yümdi",
+      "anlam": "Gözlerini kapadı, yumdu",
+      "ornek_metin": "er köz yümdi: Adam gözlerini kapadı [yumdu).",
+      "cekimler": [
+        "yümer",
+        "yümmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "718",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yüm türdi",
+      "anlam": "Gözlerini kapattırdı, yumdurdu",
+      "ornek_metin": "ol anıg közin yümtürdi: O, onun gözlerini kapattırdı [yumdurdu].",
+      "cekimler": [
+        "yümtürür",
+        "yümtürmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "718",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yüm ülgen",
+      "anlam": "Daima uyuklamak için gözlerini kapatan adam",
+      "ornek_metin": "bu er ol közi yümülgen: Bu daima uyuklamak için gözlerini kapatan bir adamdır",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "718",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yun",
+      "anlam": "Tavuskuşu",
+      "ornek_metin": "yün quş: Tavuskuşu.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "718",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yün arıq",
+      "anlam": "Balâsâgün yakınlarındaki bir yaylanın adı",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "718",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yürek",
+      "anlam": "Yürek, kalp",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "718",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yüreklig",
+      "anlam": "Yürekli, yiğit savaşçı, cesur adam",
+      "ornek_metin": "yüreklig er: Yürekli, cesur adam",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "718",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yüreklendi",
+      "anlam": "Cesaret gösterdi",
+      "ornek_metin": "er yüreklendi: Adam cesaret gösterdi.",
+      "cekimler": [
+        "yüreklenür",
+        "yüreklenmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "718",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yüşeng",
+      "anlam": "Düz taş",
+      "ornek_metin": "yüşeng taş: Düz taş.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "718",
+      "notlar": "bkz. üşerig.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yüz",
+      "anlam": "Yüz",
+      "ornek_metin": "yüzke körme erdem tile: Yüzün güzelliğine ya da çirkinliğine bakma, insandaki terbiyeye bak.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "718",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yüzdi",
+      "anlam": "Suda yüzdü; irin birikti, kabardı; hayvanı kesti ve derisini yüzdü",
+      "ornek_metin": "er suwda yüzdi: Adam suda yüzdü. iririg yüzdi: İrin (vücutta ya da yarada) birikti, kabardı. er toqum yüzdi: Adam hayvanı kesti ve derisini yüzdü.",
+      "cekimler": [
+        "yüzer",
+        "yüzmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "719",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yüzerlik",
+      "anlam": "Sedefotu",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Oğuz",
+      "kaynak_sayfa": "719",
+      "notlar": "bkz. yıdıg.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yüzlendi",
+      "anlam": "Yüzünü döndü; halk arasında saygı gördü, saygı görmek istedi",
+      "ornek_metin": "ol manga yüzlendi: O, yüzünü bana döndü. er yüzlendi: Adam halk arasında saygı gördü.",
+      "cekimler": [
+        "yüzlenür",
+        "yüzlenmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "719",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yüzlüg",
+      "anlam": "İkiyüzlü; ayna",
+      "ornek_metin": "ekki yüzlüg er: İkiyüzlü adam. ekki yüzlüg közngü: Ayna.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "719",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yüztürdi",
+      "anlam": "Yüzdürdü",
+      "ornek_metin": "ol angar qöy yüztürdi: O, ona koyun yüzdürdü. ol anı suwda yüztürdi: O, onu suda yüzdürdü.",
+      "cekimler": [
+        "yüztürür",
+        "yüztürmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "719",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yüzük",
+      "anlam": "Yüzük",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "719",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "zânbı",
+      "anlam": "Bir çekirge türü",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "720",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "zânbı art",
+      "anlam": "qoçrigâr başı ile Balâsâgûn arasındaki bir dağ geçidi",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "720",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "zap zap",
+      "anlam": "Adımların hızlı atılmasına ilişkin yansıma bir ilgeç",
+      "ornek_metin": "zap zap bargıl: Çabuk ol.",
+      "cekimler": [],
+      "kelime_turu": "zarf",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "720",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "zaq zaq",
+      "anlam": "Koçları tos vurmaya teşvik etmek için kullanılan bir kışkırtma ifadesi",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "ünlem",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "720",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "zaranza",
+      "anlam": "Yalancısafran bitkisi",
+      "ornek_metin": "zaranza urgı: Yalancısafran tohumu",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "720",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "zargunçmüd",
+      "anlam": "Bir tür fesleğen",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "720",
+      "notlar": "Bu Farsçada pdeng müşg [“kaplanmiski”]denilen ottur.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "züngüm",
+      "anlam": "Bir Çin ipeklisi türü",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "720",
+      "notlar": "",
+      "kontrol_gerekli": false
+    }
+  ]
+}

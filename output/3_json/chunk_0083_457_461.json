@@ -1,0 +1,487 @@
+{
+  "chunk_no": 83,
+  "kaynak_sayfa_baslangic": 457,
+  "kaynak_sayfa_bitis": 461,
+  "kelimeler": [
+    {
+      "kelime": "quyâr",
+      "anlam": "Sığırlara ve kölelere sövmek için kullanılan bir sözcük. Bu sözcük, süw quydı: O suyu boşalttı ifadesinden türetilmiştir.",
+      "ornek_metin": "er küpke süvv quydı: Adam suyu küpe boşalttı.",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "457",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "quyluşdı",
+      "anlam": "Dağdan suların boşandığı, sürekli ve hızlı bir biçimde aktığı durum; sıvılar için kullanılan bir sözcük.",
+      "ornek_metin": "tâgdın süwldr qamug quyluşdı: Dağdan sular boşandı.",
+      "cekimler": [
+        "quyluşûr",
+        "quyluşmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "457",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "quyma",
+      "anlam": "Bir tür yağlı ekmek. Madenin dövülerek işlenmesiyle değil de eritilip kalıba dökülmesiyle yapılan herhangi bir araç (havan, kandil, çekiç).",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "457",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "quyqa",
+      "anlam": "Deri, kök-anlam; kürk.",
+      "ornek_metin": "ol qöyug quyqâladı: O, deriyi ortaya çıkartmak için hayvanın tüylerini yaktı, ancak deriyi işlemedi.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "457",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qutuz ıt",
+      "anlam": "Kuduz köpek.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "457",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qüy",
+      "anlam": "Vadinin dibi, düzlüğü.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "457",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "quyâr qîzı",
+      "anlam": "Yağmur gibi tüküren adam.",
+      "ornek_metin": "bu quyâr qîzı: Bu, kızı yağmur gibi tüküren adamdır.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "457",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "quyâş",
+      "anlam": "Yazın olan şiddetli sıcak; çok parlak güneş ışığı.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "457",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "quydı",
+      "anlam": "Herhangi bir şeyin boşaltılması veya atın ürkerek ileri atılması.",
+      "ornek_metin": "at quydt: At ürkerek ileri atıldı.",
+      "cekimler": [
+        "quyar",
+        "quymâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "457",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "quyturdı",
+      "anlam": "Su dökülmesini emretmek.",
+      "ornek_metin": "ol menig eligke süw quyturdı: O, benim elime su dökülmesini emretti.",
+      "cekimler": [
+        "quyturur",
+        "quyturmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "457",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "quyug",
+      "anlam": "Kuyu; qudug sözcüğünün değişik sesletimi.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "457",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "quyurçaq",
+      "anlam": "Kuyruksokumu [bkz. qudüçaq].",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "457",
+      "notlar": "",
+      "kontrol_gerekli": true
+    },
+    {
+      "kelime": "quyundı",
+      "anlam": "Kendine (kendi eline, vücuduna) su dökmek.",
+      "ornek_metin": "ol Özinge sûw quyundt: O, kendine (kendi eline, vücuduna) su döktü.",
+      "cekimler": [
+        "quyunür",
+        "quyunmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "457",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "quyuşdı",
+      "anlam": "Suyu boşaltmakta yardım etmek.",
+      "ornek_metin": "ol angar süvv quyuşdı: O, ona suyu boşaltmakta yardım etti.",
+      "cekimler": [
+        "quyuşür",
+        "quyuşmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "457",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "quyuttı",
+      "anlam": "Atın ürkerek ileri atılmasına neden olmak.",
+      "ornek_metin": "ol atıg quyuttı: O, atın ürkerek ileri atılmasına neden oldu.",
+      "cekimler": [
+        "quyutür",
+        "quyutmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "458",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qüz",
+      "anlam": "Dağın güneş almayan, gölgede kalan veya yalnızca öğleden sonraları güneş gören, her zaman soğuk ve karlısı olan tarafı.",
+      "ornek_metin": "quzda qâr egsümes, qöyda ydg egsümes: Dağın güneş görmeyen yüzünde kar, koyunda yağ eksik olmaz.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "458",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "quzgırdı",
+      "anlam": "Karın şiddetli bir biçimde yağarak ve rüzgârla anaforlar yaparak gelmesi.",
+      "ornek_metin": "qdr quzgırdı: Kar şiddetli bir biçimde yağarak ve rüzgârla anaforlar yaparak geldi.",
+      "cekimler": [
+        "quzgırâr",
+        "quzgırmdq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "Qıfçâq lehçesi",
+      "kaynak_sayfa": "458",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "quzgün",
+      "anlam": "Kuzgun.",
+      "ornek_metin": "börinirig ortaq quzgfinnug yıgâç bâşında: Kuzgun kurdun avladığı şeye ortak olur, ancak kuzgunun avladığı şey ağacın tepesinde durur.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "458",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "quzıdı",
+      "anlam": "Boğazı yemeğe kurumak, yemek arzulamak.",
+      "ornek_metin": "anıg bogzı aşqa quzîdı: Onun boğazı yemeğe kurudu [yemek arzuladı].",
+      "cekimler": [
+        "quzir",
+        "quzımâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "458",
+      "notlar": "Daha doğru biçimi re’li (r) halidir [qundı]. Bu kullanım süt emüzdi ifadesindeki emüzdi sözcüğü gibi kuraldışıdır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "quzıttı",
+      "anlam": "Yemek arzulattırmak.",
+      "ornek_metin": "ol anıg bogzın quzıttı: O, ona sanki boğazı yemeğe kurumuş ve ıslanması için yemek yemesi gerekiyormuş gibi yemek arzulattı.",
+      "cekimler": [
+        "quzıtûr",
+        "quzıtmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "458",
+      "notlar": "Bu sözcüğün kök-biçimi z’nin r’yle değiştiği qunttı’dır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "rabçat",
+      "anlam": "Angarya, mecburi hizmet (örneğin beyin herhangi bir karşılık ödemeden tebaasına hayvanlarını baktırması).",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Kençek lehçesi",
+      "kaynak_sayfa": "459",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "-râq",
+      "anlam": "Karşılaştırma anlamı veren sonek.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "ek",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "459",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "-sa",
+      "anlam": "Keşke anlamına gelen bir ilgeç.",
+      "ornek_metin": "ol ewke barsa: Keşke o, eve gitse; qaçan barsa sen: Keşke gitsen.",
+      "cekimler": [],
+      "kelime_turu": "edat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "460",
+      "notlar": "Yalnızca eylemlere eklenir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sa",
+      "anlam": "Sen anlamına gelen bir sözcük.",
+      "ornek_metin": "sa ayur men: Sana söylüyorum.",
+      "cekimler": [],
+      "kelime_turu": "zamir",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "460",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "saban",
+      "anlam": "Saban, tarlayı sürmekte kullanılan araç; tarlayı sürme eylemi.",
+      "ornek_metin": "sabanda sandrış (sandruş/sanrış) bolsa örtgünde irteş bolmüş: Tarla sürülürken çekişme olursa, harmanda kavga olmaz.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "460",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sabanlâdı",
+      "anlam": "Yeri sabanla sürmek.",
+      "ornek_metin": "ol yerig sabanlâdı: O, yeri sabanla sürdü.",
+      "cekimler": [
+        "sabanlar",
+        "sabanldmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "460",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sabrân",
+      "anlam": "Oğuz kentlerinden birinin adı.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Oğuz",
+      "kaynak_sayfa": "460",
+      "notlar": "Halk sâd (ş) kullanarak bu kentin adını şabrân olarak söyler.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "saç",
+      "anlam": "Saç.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "460",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sâç",
+      "anlam": "Tava.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "460",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "saçgâq",
+      "anlam": "Zenginliğini saçıp savuran, çarçur eden kimse.",
+      "ornek_metin": "sa(gâq kişi: Zenginliğini saçıp savuran, çarçur eden kimse.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "460",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "saçgırdı",
+      "anlam": "Neredeyse su sıçratmak (sıçratayazmak).",
+      "ornek_metin": "er süw saçgırdı: Adam neredeyse su sıçratıyordu.",
+      "cekimler": [
+        "saçgırâr",
+        "saçgırmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "460",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "saçışdı",
+      "anlam": "Parayı dağıtma işinde yardım etmek veya bu konuda yarışmak.",
+      "ornek_metin": "ol manga yarmâq saçışdı: O, parayı dağıtma işinde bana yardım etti.",
+      "cekimler": [
+        "saçışür",
+        "saçışmaq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "461",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "saçıttı",
+      "anlam": "Beynini dağıtmak, birinin dağıtılmasını emretmek veya su serptirmek.",
+      "ornek_metin": "ol anıg merigisin saçıttı: O, onun beynini dağıttı.",
+      "cekimler": [
+        "saçıtür",
+        "saçıtmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "461",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "saçrattı",
+      "anlam": "İstemeden su sıçratmak; sıvıyı kaptan başka kaba boşaltırken sıçratmak veya odun keserken etrafa parça sıçratmak.",
+      "ornek_metin": "ol manga süw saçrattı: O, istemeden bana su sıçrattı.",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "461",
+      "notlar": "Aynı zamanda saçratgu adı verilen bir tür kapan da bu kökten türetilmiştir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "saçıldı",
+      "anlam": "Paranın veya başka bir şeyin saçılması.",
+      "ornek_metin": "yarmâq saçıldı: Para saçıldı.",
+      "cekimler": [
+        "saçılür",
+        "saçılmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "461",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "saçındı",
+      "anlam": "Kendi üzerine su sıçratmak (püskürtmek) ya da saçılan, dağılan şey.",
+      "ornek_metin": "er Szinge süw saçındı: Adam kendi üzerine su sıçratttı.",
+      "cekimler": [
+        "saçınür",
+        "saçınmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "461",
+      "notlar": "Aynı kelime hem fiil hem isim (saçındı nerig) anlamında geçmektedir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "saçlandı",
+      "anlam": "Saçı uzamak.",
+      "ornek_metin": "er saçlandı: Adamın saçı uzadı.",
+      "cekimler": [
+        "saçlanür",
+        "saçlanmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "461",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "saçlaşdı",
+      "anlam": "Birbirlerinin saçlarını yakalamak.",
+      "ornek_metin": "d ekki bile saçlaşdı: O ikisi birbirlerinin saçlarını yakaladılar.",
+      "cekimler": [
+        "saçlaşûr",
+        "saçlaşmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "461",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "saçlıg",
+      "anlam": "Uzun saçlı adam.",
+      "ornek_metin": "saçlıg er: Uzun saçlı adam.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "461",
+      "notlar": "",
+      "kontrol_gerekli": false
+    }
+  ]
+}

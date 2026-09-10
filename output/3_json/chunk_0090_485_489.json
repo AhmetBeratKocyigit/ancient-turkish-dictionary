@@ -1,0 +1,698 @@
+{
+  "chunk_no": 90,
+  "kaynak_sayfa_baslangic": 485,
+  "kaynak_sayfa_bitis": 489,
+  "kelimeler": [
+    {
+      "kelime": "işsewredi",
+      "anlam": "İş tamamlandı. İşi tamamlayan kişiyi anlatırken de bu sözcük kullanılır.",
+      "ornek_metin": "işsewredi: İş tamamlandı. İşi tamamlayan kişiyi anlatırken de [özne, işi yapan kişi olduğunda da] bu sözcük kullanılır.",
+      "cekimler": [
+        "sevvrer",
+        "sevremek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "485",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sewretti",
+      "anlam": "Boşalttı, işini tamamladı ve son noktayı koydu.",
+      "ornek_metin": "ol ewin sewretti: O, onun evini [evdeki eşyalan] boşalttı. ol îşın sewretti: O, işini tamamladı ve son noktayı koydu.",
+      "cekimler": [
+        "sewretür",
+        "sewretmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "485",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sewtürdi",
+      "anlam": "Tanrı gönlümde sana karşı bir sevgi zuhur etmesine neden oldu.",
+      "ornek_metin": "tengri seni manga sewtürdi: Tanrı gönlümde sana karşı bir sevgi zuhur etmesine neden oldu.",
+      "cekimler": [
+        "sewtûrür",
+        "servtürmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "485",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sewük",
+      "anlam": "Sevilen herhangi bir şey.",
+      "ornek_metin": "sewük neng: Sevilen herhangi bir şey.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "485",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sewündi",
+      "anlam": "Adam sevindi.",
+      "ornek_metin": "er sewündi: Adam sevindi, sewünmegil yond öğür adgır atın altun kümüş bulnupan agı tawâr: Sevinme sürüler halinde atlar, aygırlar ve kısraklar İpekler, gümüşler ve altınlar bulduğunda [aslolan bunlan iyi ameller için kullanmaktır]",
+      "cekimler": [
+        "sevvünur",
+        "sewünmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "485",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sezig",
+      "anlam": "Sezgi; düşünce ve şüphe.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "485",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "seziktim",
+      "anlam": "Bu işi ondan sezdim.",
+      "ornek_metin": "bu Işıg angâr seziktim: Bu işi ondan sezdim.",
+      "cekimler": [
+        "seziker men",
+        "sezikmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "485",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sezindi",
+      "anlam": "O, ona ilişkin bir sezgiye [şüpheye] sahipti.",
+      "ornek_metin": "ol angar sezig sezindi: O, ona ilişkin bir sezgiye [şüpheye] sahipti.",
+      "cekimler": [
+        "sezinür",
+        "sezinmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "485",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sıbızgu",
+      "anlam": "Düdük.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "486",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sıbut",
+      "anlam": "Kişniş tanesi.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Kâşgar lehçesi",
+      "kaynak_sayfa": "486",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sıçdı",
+      "anlam": "Adam sıçtı.",
+      "ornek_metin": "er sıçdı: Adam sıçtı.",
+      "cekimler": [
+        "sıçar",
+        "sıçmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "486",
+      "notlar": "Başka hayvanlar için de bu sözcük kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sıçgân",
+      "anlam": "Fare; sıçan.",
+      "ornek_metin": "öldeçi sıçgân muş taşaqı qaşir: Ölümü yaklaşan sıçan kedi taşağı kaşır.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "486",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sıçgân yılı",
+      "anlam": "Oniki yıllık Türk takviminin yıllarından birinin adı.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "486",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sıçgâq",
+      "anlam": "Bağırsakları düzenli olarak çalışan [çok sıçan] kimse.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "486",
+      "notlar": "Bu kullanım kuraldan bir istisnadır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sıçıttı",
+      "anlam": "O, onun sıçmasına neden oldu.",
+      "ornek_metin": "ol anı sıçıttı: O, onun sıçmasına neden oldu.",
+      "cekimler": [
+        "sıçıtûr",
+        "sıçıtmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "486",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sıçturdı",
+      "anlam": "O, onu sıçtırttı.",
+      "ornek_metin": "ol anı sıçturdı: O, onu sıçtırttı.",
+      "cekimler": [
+        "sıçturur",
+        "sıçturmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "486",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sidı",
+      "anlam": "Odun kırdı veya orduyu bozguna uğrattı.",
+      "ornek_metin": "ol Oturig Sidı: O, odun [başka bir şey de olabilir] kırdı. ol suni sidı: O, orduyu bozguna uğrattı,",
+      "cekimler": [
+        "sır",
+        "simâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "486",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sıdırgâq",
+      "anlam": "Çatal ayak [çift toynak].",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "486",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sıdrım",
+      "anlam": "Kayış.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Oğuz lehçesi",
+      "kaynak_sayfa": "486",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sıdnm işlıg er",
+      "anlam": "(Üstlendiği) görevi yerine getiren ve geriye başkasının yapması gereken bir iş bırakmayan adam.",
+      "ornek_metin": "sıdnm işlıg er: (Üstlendiği) görevi yerine getiren ve geriye başkasının yapması gereken bir iş bırakmayan adam.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "486",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sıdrışdı",
+      "anlam": "O, ona karı [başka bir şeyi de olabiliri küreme işinde yardım etti.",
+      "ornek_metin": "ol angar qâr sıdrışdı: O, ona karı [başka bir şeyi de olabiliri küreme işinde yardım etti.",
+      "cekimler": [
+        "sıdnşür",
+        "sıdrtşmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "487",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sıdıg",
+      "anlam": "Kaftanın diz üstünden yakaya kadar uzanan iki eteğinden biri.",
+      "ornek_metin": "sıdıg yapıp olturdı: Cüppesinin eteklerini toplayarak oturdu - bu hareket iyi bir terbiyeye sahip olunduğunun işaretidir,",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "487",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sıdıg",
+      "anlam": "Dişler arasındaki açıklık.",
+      "ornek_metin": "sıdıgdm sızıtma: bu sözün dişlerinin arasında akıp gitmesine sakın izin verme [onu ifşa etme] denir,",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "487",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sıdırgân",
+      "anlam": "Bu adam her zaman hayvanın derisini yüzer ve tüylerini yolar.",
+      "ornek_metin": "bu er ol sıdnm sıdırgân: Bu adam her zaman hayvanın derisini yüzer ve tüylerini yolar. Belli bir şeyi soymasıyla tanımlanan birini anlatmak için bu sözcük kullanılır,",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "487",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sıdrıldı",
+      "anlam": "Balık elden kaydı, yol her açıdan incelendi veya adam duvardan aşağıya kaydı.",
+      "ornek_metin": "balıq eligdin sıdrıldı: Balık elden kaydı. Elden ya da başka bir yerden kayan herhangi bir kaygan şeyi anlatmak için de bu sözcük kullanılır. yöl sıdrıldı: Yol her açıdan incelendi. er tamdın sıdrıldı: Adam duvardan [başka bir yerden de olabilir] aşağıya kaydı.",
+      "cekimler": [
+        "sıdnlür",
+        "sıdrılmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "487",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sığan",
+      "anlam": "Düz ve cansız saç.",
+      "ornek_metin": "sığan saç: Düz ve cansız saç.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "487",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sıgdadtı",
+      "anlam": "bkz. sıxtattı.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "belirsiz",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "487",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sığdı",
+      "anlam": "Bu sözler gönüle etki etti veya un kaba sığdı.",
+      "ornek_metin": "bu söz köngülke sığdı: Bu sözler gönüle etki etti. ün qdpqa sığdı: Un kaba sığdı. Herhangi bir başka şey için de bu ifade kullanılır,",
+      "cekimler": [
+        "sigar",
+        "sigmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "487",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sığındı",
+      "anlam": "Yaban hayvanı dağ koyuğuna sığındı.",
+      "ornek_metin": "keyik turugga sıgındı: Yaban hayvanı dağ koyuğuna sığındı. Bir yere ya da bir şeye sığınan herhangi bir şeyi anlatmak için de bu sözcük kullanılır. men tengrîke sıgınür men: Ben tannya sığınırım,",
+      "cekimler": [
+        "sıgmür",
+        "sığınmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "487",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sığır",
+      "anlam": "Sığır.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "488",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "süw sığırı",
+      "anlam": "Manda.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "488",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sıgırçıq",
+      "anlam": "Sığırcık.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "488",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sıgırlâdı",
+      "anlam": "O, onu sığıra benzetti.",
+      "ornek_metin": "ol anı sıgırlâdı: O, onu sığıra benzetti.",
+      "cekimler": [
+        "sığırlar",
+        "sıgırlâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "488",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sıgırlıg",
+      "anlam": "Sığır sahibi olan adam.",
+      "ornek_metin": "sıgırhg er: Sığır sahibi olan adam,",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "488",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sıgıt",
+      "anlam": "Ağlama; gözyaşı dökme.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "488",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sıgra",
+      "anlam": "İki dağ arasındaki dik yamaçlı arazi; vadi.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Oğuz lehçesi",
+      "kaynak_sayfa": "488",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sıgruşdı",
+      "anlam": "Onlar birbirleri için bir mekân [birbirlerine yer] yaptılar.",
+      "ornek_metin": "olâr hır hhig sıgruşdı: Onlar birbirleri için bir mekân [birbirlerine yer) yaptılar.",
+      "cekimler": [
+        "sıgruşûr",
+        "sıgruşmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "488",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sıgtâdı",
+      "anlam": "Bebek [başka biri de olabilir] ağladı.",
+      "ornek_metin": "Oglân sıgtâdı: Bebek [başka biri de olabilir] ağladı.",
+      "cekimler": [
+        "sıgtâr",
+        "sıgtâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "488",
+      "notlar": "hı'yla (x) okunan bir değişik sesletimi vardır [sıxta-].",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sıgtaşdı",
+      "anlam": "bkz. sıxtaşdı.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "belirsiz",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "488",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sıgturdı",
+      "anlam": "O, bir şeyi başka bir şeye sığdırdı.",
+      "ornek_metin": "ol bir nengni bırke sıgturdı: O, bir şeyi başka bir şeye sığdırdı,",
+      "cekimler": [
+        "sıgturar",
+        "sıgturmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "488",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sigun",
+      "anlam": "Erkeklere özgü olan; bir şeyin erkek cinsinden olanı.",
+      "ornek_metin": "ş ıgun otı. Kökü erkek şeklinde olan ve iktidarsızlık için ilaç olarak kullanılan bir ot.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "488",
+      "notlar": "Farsçada buna estarek denir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sigun samur",
+      "anlam": "Bir yer adı. Buğra Xân burada zehirlenmiştir.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "488",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sıgurdı",
+      "anlam": "O, küçük bir kaba oldukça fazla un koydu. Bir şeyin içine sıkıştırarak, bastırarak başka bir şeyi sığdırmayı anlatmak için de bu sözcük kullanılır.",
+      "ornek_metin": "ol ünug qâpqa sıgurdı: O, küçük bir kaba oldukça fazla un koydu.",
+      "cekimler": [
+        "sıgurur",
+        "sıgurmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "488",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sıgzâdı",
+      "anlam": "O, kürdanla dişini kaşırttı veya dikişlerin içinden köseleyi geçirerek çizmesini dikti.",
+      "ornek_metin": "ol tîş sıgzâdı: O, kürdanla dişini kanştırdı. ol etük yipin sıgzâdı: O, dikişlerin içinden köseleyi geçirerek çizmesini dikti.",
+      "cekimler": [
+        "sıgzdr",
+        "sıgzdmdq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "488-489",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sıgzag",
+      "anlam": "İki şeyi birleştiren bir parça.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "489",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sıgzâgı",
+      "anlam": "Kürdan.",
+      "ornek_metin": "tiş sıgzâgı- Kürdan.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "489",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sıgzaldı",
+      "anlam": "Bir şey güç kullanarak başka bir şeyin içine sokuldu.",
+      "ornek_metin": "bîr neng bîrke sıgzaldı: Br şey güç kullanarak başka bir şeyin Çine sokuidu - daha sağlam durması için baltanın ya da küreğin sapına çakılan ağaç çivi ya da dikişlerin arasındaki sına sıkıştırılan kösele [bkz. sıgzag] gibi,",
+      "cekimler": [
+        "sıgzalür",
+        "sıgzalmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "489",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sımrâq",
+      "anlam": "Bir yemek adı. Baş pişirilir ve sonra küçük küçük doğranır; bu parçalar güvece konur ve baharat eklenir. Bu karışımın üzerine ekşi yoğurt dökülür ve olmaya bırakılır. Sonra yenir.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Çigil lehçesi",
+      "kaynak_sayfa": "489",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sin",
+      "anlam": "Boy bos; endam.",
+      "ornek_metin": "bödlugsînlıgkişi: Uzun boylu adam. Buradan hareketle “mezar”a da sin denir; çu mezar kişinin boyuna göre kazılır, bkz. qatunsmı.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "489",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sınadı",
+      "anlam": "O, onu sınadı [bir işte denedi].",
+      "ornek_metin": "ol anı sınadı: O, onu sınadı [bir işte denedi].",
+      "cekimler": [
+        "sınar",
+        "simimde)"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "489",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sınaldı",
+      "anlam": "İş sınandı.",
+      "ornek_metin": "fşsmaldı: İş sınandı,",
+      "cekimler": [
+        "sınalur",
+        "smalmdq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "489",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sınattı",
+      "anlam": "O, birine beni bu işte sınamasını emretti.",
+      "ornek_metin": "ol meni bu fşta sınattı: O, birine beni bu işte sınamasını emretti.",
+      "cekimler": [
+        "sınatur",
+        "smatmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "489",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sınçu",
+      "anlam": "Pideden büyük, somundan küçük bir ekmek çeşidi.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "489",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sındı",
+      "anlam": "Odun kırıldı veya ordu bozguna uğratıldı.",
+      "ornek_metin": "yıgâç sındı: Odun [başka bir şey de olabiliri kırıldı, sü smdı: Ordu bozguna uğratıldı,",
+      "cekimler": [
+        "sınür",
+        "sınmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "489",
+      "notlar": "sınar da denir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sındu",
+      "anlam": "Kırkı; kırkma makası.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Oğuz lehçesi",
+      "kaynak_sayfa": "489",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sıngâr",
+      "anlam": "Bir şeyin yanı.",
+      "ornek_metin": "sıngârdın yon: Yan yana yürü.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "489",
+      "notlar": "",
+      "kontrol_gerekli": false
+    }
+  ]
+}

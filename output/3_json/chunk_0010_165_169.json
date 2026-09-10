@@ -1,0 +1,701 @@
+{
+  "chunk_no": 10,
+  "kaynak_sayfa_baslangic": 165,
+  "kaynak_sayfa_bitis": 169,
+  "kelimeler": [
+    {
+      "kelime": "azuqlug",
+      "anlam": "Azığı olan, güçlü ve iyi beslenen kimse",
+      "ornek_metin": "azuqlug arm âs: Azığı olan adam yorulmaz (çünkü güçlüdür ve iyi beslenir).",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "165",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "azuqlandı",
+      "anlam": "Azık sahibi oldu",
+      "ornek_metin": "er azuqlandı: Adam azık sahibi oldu.",
+      "cekimler": [
+        "azuqlanur",
+        "azuqlanmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "165",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "azuqlug",
+      "anlam": "Azığı olan adam",
+      "ornek_metin": "azuqlug er: Azığı olan adam.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "165",
+      "notlar": "Şu atasözünde de geçer",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "azuqluq",
+      "anlam": "Erzak olarak hazırlanan şey",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "165",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "baçâq",
+      "anlam": "Hıristiyan orucu",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "166",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "badal",
+      "anlam": "Uç ile Barsgân arasındaki bir dağ geçidi",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "166",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "badar badar",
+      "anlam": "Patırtıyla, belli bir ses çıkaracak biçimde koşmak",
+      "ornek_metin": "badar badar yügürdi: O patırtıyla [böylesi bir ses çıkaracak biçimde] koştu",
+      "cekimler": [],
+      "kelime_turu": "zarf",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "166",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "badgâdı",
+      "anlam": "Ayağına çelme taktı",
+      "ornek_metin": "ol am gadâqm badgâdı: O (güreşirken) onun ayağını çelme taktı",
+      "cekimler": [
+        "badgâr",
+        "badgâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "166",
+      "notlar": "bağdadı biçiminde bir de değişik seslemesi vardır; göçüşme söz konusudur.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bâdı",
+      "anlam": "Bağladı",
+      "ornek_metin": "ol atıgbâdı: O, atı (başka bir şeyi de olabilir) bağladı.",
+      "cekimler": [
+        "bâr",
+        "bâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "166",
+      "notlar": "Bir iple bağlanan ya da tutturulan herhangi bir şeyi anlatmak için de bu sözcük kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "badıçlıq",
+      "anlam": "Üzüm asmalarına çardak yapmak için kullanılan ağaç",
+      "ornek_metin": "badıçlıq yıgdç: Üzüm asmalarına çardak yapmak için kullanılan ağaç.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "166",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "badruq",
+      "anlam": "Bir erkek adı",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "166",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "badram",
+      "anlam": "Halkın hep birlikte yaşadığı sevinç ve eğlence hali",
+      "ornek_metin": "badram yer: latif toprak denir.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "166",
+      "notlar": "Toprak çiçeklerle bezendiği zaman badram yer denir. Bu sözcüğün kökenini bilmiyorum; ancak bunu Farsîlerin ağzından da işittim. Bununla birlikte Oğuzlar “şenlik, şölen günü”ne bayram der; çünkü bu gün sevinç ve eğlence günüdür. Oğuzlar'ın alışkanlığına uygun olarak zel (d), ye (y) çevrilmiştir. Bu açıdan bakıldığında bu sözcüğün özgün dile ait bir sözcük olduğu söylenebilir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bâg",
+      "anlam": "Üzüm bağı",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "166",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bâg",
+      "anlam": "Odun ya da benzer şeylerin bir demeti",
+      "ornek_metin": "oturiğ bâgı: Bir bağ odun",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "166",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bağdadı",
+      "anlam": "Ayağına çelme taktı",
+      "ornek_metin": "ol anıg adâqm bağdadı: O (güreşirken) onun ayağını çelme taktı.",
+      "cekimler": [
+        "bagdâr",
+        "bagdâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "166",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bağdattı",
+      "anlam": "Ayağına çelme takılmasını emretti",
+      "ornek_metin": "ol anıg adâqın bağdattı: O, (güreşirken) onun ayağına çelme takılmasını emretti.",
+      "cekimler": [
+        "bagdatür",
+        "bagdatmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "166",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bağır",
+      "anlam": "Ciğer",
+      "ornek_metin": "bedük bagırlıg: ciğeri büyük",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "166",
+      "notlar": "Kimseye boyun eğmeyen kimseye bedük bagırlıg denir. Yayın ortası [tutulan yeri] için de bagn denir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bagırçaq",
+      "anlam": "Eşek semeri",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "167",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bagırdaq",
+      "anlam": "Kadın giysisinin üst bölümü",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "167",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bagırlâdı",
+      "anlam": "Bağrına vurdu; yayın tutulan yerini onardı",
+      "ornek_metin": "ol anı bagırlâdı: O, onun bağrına vurdu; ol yasın bagırlâdı: O, yayın tutulan yerini onardı.",
+      "cekimler": [
+        "bagırlâr",
+        "bagırlâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "167",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bagırlandı",
+      "anlam": "Kan aktı ve pıhtılaştı (yoğurdun katılaşması için de kullanılır)",
+      "ornek_metin": "qan bagırlandı: Kan aktı ve pıhtılaştı.",
+      "cekimler": [
+        "bagırlanür",
+        "bağırlanmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "167",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bağırlaq",
+      "anlam": "Çöl tavuğu",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "167",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bagırlıg",
+      "anlam": "Kimseye boyun eğmeyen adam",
+      "ornek_metin": "bagırlıg er: Kimseye boyun eğmeyen adam.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "167",
+      "notlar": "Bu, anlam olarak, Arapçadaki innâ lenahnû a'zam ekbaden mine'l-ibil (\"gerçekte biz develerden daha yürekliyizdir\") ifadesine benzer.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bagırsâdı",
+      "anlam": "Canı ciğer istedi",
+      "ornek_metin": "er bagırsâdı: Adamın canı ciğer istedi.",
+      "cekimler": [
+        "bağırsâr",
+        "bagırsâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "167",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bagırsaq",
+      "anlam": "Şefkatli, iyi kalpli kişi",
+      "ornek_metin": "bagırsaq kişi: Şefkatli, iyi kalpli kişi.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "167",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bagırsuq",
+      "anlam": "Bağırsak",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "167",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bağış",
+      "anlam": "Kol, bacak veya parmakların eklem yeri; kamış ve sazlık bitkilerin boğumu",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "167",
+      "notlar": "bkz. bogım",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bağışladı",
+      "anlam": "Hediye etti",
+      "ornek_metin": "ol manga at bağışladı: O bana bir at [başka bir şey de olabilir] hediye etti.",
+      "cekimler": [
+        "bağışlar",
+        "bagışlâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "167",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bağladı",
+      "anlam": "Bağladı",
+      "ornek_metin": "ol otung bağladı: O odunları [başka bir şeyleri de olabilir] bağladı.",
+      "cekimler": [
+        "baglâr",
+        "baglâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "167",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bağlandı",
+      "anlam": "Bağlandı",
+      "ornek_metin": "otung bağlandı: Odun bağlandı; er özinge otung bağlandı: Adam kendisi için odun bağlandı.",
+      "cekimler": [
+        "baglanür",
+        "baglanmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "167",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bağlattım",
+      "anlam": "Bağlattı",
+      "ornek_metin": "angar otung bağlattım: Ona odun [başka bir şey de olabilir] bağlattım.",
+      "cekimler": [
+        "baglatür men",
+        "baglatmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "167",
+      "notlar": "bkz. boglattım",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bagna",
+      "anlam": "Merdivenin bir basamağı",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "168",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bagram",
+      "anlam": "Kum tepesi, kumul",
+      "ornek_metin": "bagram qum: Kum tepesi, kumul",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "168",
+      "notlar": "Kâşgar ile Yârkend arasındaki kumluk araziye bagram qümı denir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bagrıqtı",
+      "anlam": "Açlıktan midesi karnına yapıştı",
+      "ornek_metin": "aç er bagrıqtı: Aç adamın midesi karnına yapıştı",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "168",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bâl",
+      "anlam": "Bal",
+      "ornek_metin": "bardı sariga yek otru tutup bâl / barçın kediben telwe bolup qâl: Şeytan bal (dünyanın tatlığını) sunarak sana vardı (senin karşına çıktı) / İpek giysi giyerek (ondan etkilenmiş halde) delilik içinde kal",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Suvar, Qıfçâq ve Oğuz lehçeleri",
+      "kaynak_sayfa": "168",
+      "notlar": "Diğer Türkler buna arı yağı der.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bala",
+      "anlam": "Kuş yavrusu ve vahşi hayvanların yavrusu",
+      "ornek_metin": "quş balâsı qusınçıg, ıt balâsı oxşançtg: Kuş yavrusu (tüyleri çıkana kadar) tiksindirici gözükür, köpek yavrusu ise oyuncak bebek gibidir",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "168",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bala",
+      "anlam": "Bir adama işlerinde yardım eden kişi, çırak",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "168",
+      "notlar": "Genellikle tarımla ilintili olarak kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "balçıq",
+      "anlam": "Çamur",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Oğuz lehçesi",
+      "kaynak_sayfa": "168",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "baldır",
+      "anlam": "Dağın zirvesi",
+      "ornek_metin": "tâg baldırı: Dağın zirvesi",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "168",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "baldır",
+      "anlam": "Üvey",
+      "ornek_metin": "baldır oğul: Üvey oğul; baldır qîz: Üvey kız.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "168",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "baldır",
+      "anlam": "İlkbaharın başında işlenen tarla veya gerçekleşme döneminin en başında olan",
+      "ornek_metin": "baldır tarıg: İlkbaharın başında işlenen tarla; baldır qozı: Doğum mevsiminin en başında doğan kuzu.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "168",
+      "notlar": "Bu sözcüğün dört kullanımında da be (b) işba'lıdır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "baldız",
+      "anlam": "Bir adamın karısının küçük kız kardeşi",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "168",
+      "notlar": "Erkeğin kız kardeşine baldız denmez, sirigil denir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "baldu",
+      "anlam": "Balta",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "168",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bâlıg",
+      "anlam": "Yaralı",
+      "ornek_metin": "urmış ajun busügın / qılmış anı bâlıg / em sam angar tilenip / sizde bulur yaqıg: Dünya pusu kurmuş / Onu yaralamış / İlaç, çare arayıp / Yakayı sizde buluyor",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "168",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "balıq",
+      "anlam": "Balık",
+      "ornek_metin": "balıq suwda kâzi taştın: Balık suda gözü dışarıda.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "169",
+      "notlar": "Bu atasözü bir şeyin farkındayken, farkında değilmiş gibi görünen insanları belirtmek için söylenir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "balıq",
+      "anlam": "Çamur",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Argu lehçesi",
+      "kaynak_sayfa": "169",
+      "notlar": "Oğuzların ve Argıtların bir bölümü yan yana üç ünlü almayan yazaç kullanıp bâlq der.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "balıq",
+      "anlam": "Kale, kent",
+      "ornek_metin": "beş balıq: beş kent; yangı balıq: yeni kent",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "İslamiyet öncesi dinsiz kabileler ve Uygur lehçesi",
+      "kaynak_sayfa": "169",
+      "notlar": "İslamiyet öncesi dinsiz [pagan] kabilelerin lehçelerinde ve Uygur lehçesinde kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "balıqçın",
+      "anlam": "Balıkçıl; balık avlayan beyaz bir kuş",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "169",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "balıqlandı",
+      "anlam": "Göl balıkla doldu",
+      "ornek_metin": "kol balıklandı: Göl balıkla doldu.",
+      "cekimler": [
+        "balıqlanür",
+        "balıqlanmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "169",
+      "notlar": "Aynı zamanda Argu lehçesinde çamurlu yerler de böyle tanımlanır; Uygur lehçesinde yakınında kale olan kentler için de kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "balıqlıg",
+      "anlam": "Balıklı",
+      "ornek_metin": "balıqlıg ögüz: Balıklı ırmak.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "169",
+      "notlar": "Aynı zamanda Argu lehçesinde çamurlu yerler için kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "balıqsâdı",
+      "anlam": "Adam balık yemek istedi",
+      "ornek_metin": "er balıqsâdı: Adam balık yemek istedi.",
+      "cekimler": [
+        "balıqsâr",
+        "balıqsâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "169",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "balu balu",
+      "anlam": "Bebekleri uyutmak için söylenen ninnimsi söz öbeği",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "ünlem",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "169",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "balu",
+      "anlam": "Arguların küçük bir kentinin adı",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Argu lehçesi",
+      "kaynak_sayfa": "169",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bamuq",
+      "anlam": "Pamuk",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "169",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bandâl",
+      "anlam": "Ağaçtan kürek kemiği biçiminde çıkıntı yapan parça",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "169",
+      "notlar": "Çocuklar bu parçayı söker, yakar ve gece yanan köze vurarak cirit benzeri bir oyun oynar (öt bandâl da denir).",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bandı",
+      "anlam": "Bağlandı",
+      "ornek_metin": "qöy bandı: Koyun bağlandı.",
+      "cekimler": [
+        "bânır",
+        "banmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "169",
+      "notlar": "Bir yere bağlanan her şey için kullanılabilir. Nun (n) lım'dan (!) dönüşmüştür.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "banzı",
+      "anlam": "Bağbozumundan sonra asma çubuklarında kalan artıklar",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Kençek lehçesi",
+      "kaynak_sayfa": "169",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bang",
+      "anlam": "Ağlamak",
+      "ornek_metin": "oglân bariğ sıgtâdı: Çocuk bir bebek gibi ağladı.",
+      "cekimler": [],
+      "kelime_turu": "belirsiz",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "169",
+      "notlar": "OCR/metin çıkışında başlık 'bang' olarak verilmiştir, kontrol_gerekli true yapıldı.",
+      "kontrol_gerekli": true
+    },
+    {
+      "kelime": "baqa",
+      "anlam": "Kurbağa",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "169",
+      "notlar": "Buradan hareketle kaplumbağaya müngüz baqa denir.",
+      "kontrol_gerekli": false
+    }
+  ]
+}

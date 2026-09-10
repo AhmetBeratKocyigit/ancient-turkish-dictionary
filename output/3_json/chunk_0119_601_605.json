@@ -1,0 +1,753 @@
+{
+  "chunk_no": 119,
+  "kaynak_sayfa_baslangic": 601,
+  "kaynak_sayfa_bitis": 605,
+  "kelimeler": [
+    {
+      "kelime": "tüdeş",
+      "anlam": "Bir şeyin tuzlanması",
+      "ornek_metin": "ol et tuzladı: O, (çömleğin içine tuz atarak) eti [başka bir şeyi de olabilir] tuzladı.",
+      "cekimler": [
+        "tuzlar",
+        "tuzlâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "601",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tuzlanûr",
+      "anlam": "Etin tuzlanması",
+      "ornek_metin": "et tuzlandı: Et [başka bir şey de olabiliri tuzlandı.",
+      "cekimler": [
+        "tuzlanûr",
+        "tuzlanmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "601",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tuzlatür",
+      "anlam": "Eti tuzlatmasını emretmek",
+      "ornek_metin": "ol et tuzlattı: O, etin [başka bir şeyin de olabiliri tuzlanmasını emretti.",
+      "cekimler": [
+        "tuzlatür",
+        "tuzlatmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "601",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tuzluq",
+      "anlam": "Tuzluk",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "601",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tü",
+      "anlam": "Tüy",
+      "ornek_metin": "bîr tü saç: Bir tutam saç.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "601",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tü",
+      "anlam": "Renk",
+      "ornek_metin": "tüdeş tonlar: Hepsi aynı renkte olan kumaşlar,",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "601",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tü",
+      "anlam": "Atın derisinin rengi",
+      "ornek_metin": "atııig ne tülüg: Atının rengi ne?",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "601",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tübüt",
+      "anlam": "Türk ülkesinde yerleşik olan kalabalık bir kavim",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "601",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tübütledi",
+      "anlam": "Birini tübüt saymak, onlarla ilişkilendirmek",
+      "ornek_metin": "ol anı tübütledi: O, onu tübüt saydı, onlarla ilişkilendirdi. Tübüt bir kavimdir.",
+      "cekimler": [
+        "tübütler",
+        "tübütlemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "601",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tübütlendi",
+      "anlam": "Tübüt gibi giyinmek",
+      "ornek_metin": "er tübütlendi: Adam tübüt gibi giyindi - bu, Türk ülkesine yerleşmiş bir kavimdir,",
+      "cekimler": [
+        "tübûtlenür",
+        "tübütlenmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "601",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tüdeş",
+      "anlam": "Aynı türden olan bir başka şeye benzeyen herhangi bir şey",
+      "ornek_metin": "tüdeş neng: Aynı türden olan bir başka şeye benzeyen herhangi bir şey.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "601-602",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tügdi",
+      "anlam": "Düğümlemek, bağlamak",
+      "ornek_metin": "er tügün tügdi: Adam düğümü (başka bir şeyi de olabilir] düğümledi [bağladı], tılın tûgmişni Sşın yazm âs: Dille bağlanan dişle çözülmez.",
+      "cekimler": [
+        "tüger",
+        "tügmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "602",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tüge",
+      "anlam": "İki yaşına ulaşan buzağı",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "602",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tügek",
+      "anlam": "Yükleri iyice sıkıştırarak tutturmak için ipin iki ucuna takılan ahşap halka",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "602",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tügi",
+      "anlam": "Darının, kabukları ayıklandıktan sonra geriye kalan taneleri",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "602",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tüglündi",
+      "anlam": "Suyun boğazı tıkaması ve öksürtmesi, ipin düğümlenmesi",
+      "ornek_metin": "süw boguzda tüglündi: Su boğazı tıkadı ve adam öksürdü.",
+      "cekimler": [
+        "tüglünür",
+        "tüglünmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "602",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tüglüşdi",
+      "anlam": "İplerin düğümlenmesi, birbirine bağlanması",
+      "ornek_metin": "yıplâr tüglüşdi : İpler düğümlendi - ipler birbirlerine bağlandılar.",
+      "cekimler": [
+        "tüglüşür",
+        "tüglüşmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "602",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tügme",
+      "anlam": "Düğme",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "602",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tügmelendi",
+      "anlam": "Gömleğin düğmelerini iliklemek",
+      "ornek_metin": "er tügmelendi: Adam gömleğinin düğmelerini ilikledi.",
+      "cekimler": [
+        "tügmelenür",
+        "tügmelenmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "602",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tügsîn",
+      "anlam": "Dört ipli düğüm",
+      "ornek_metin": "tegme çeçek üküldi Türlü çiçek derildi boquqlamp bögüldi Tomurcuklar açıldı tügsîn tügün tügüldi Ûrgü düğümle bağlandı",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "602",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tügsîn",
+      "anlam": "Mevki olarak Hakan'dan sonra üçüncü konumdaki, halktan birine verilen unvan",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "602",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tügüldi",
+      "anlam": "Düğümün düğümlenmesi",
+      "ornek_metin": "tügün tügüldi: Düğüm düğümlendi.",
+      "cekimler": [
+        "tüglür",
+        "tügülmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "602-603",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tügülgen",
+      "anlam": "Her zaman düğümlenen",
+      "ornek_metin": "bu yıp ol tügülgen: Bu her zaman düğümlenen bir iptir,",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "603",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tügülgen",
+      "anlam": "Sürekli surat asan",
+      "ornek_metin": "bu er ol tutçı qâşı közi tügülgen: Bu (can sıkıntısından dolayı) sürekli surat asan bir adamdır.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "603",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tügün",
+      "anlam": "Düğün",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "603",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tügündi",
+      "anlam": "Düğümü kendi başına düğümlemek",
+      "ornek_metin": "ol tügün tügündi: O, düğümü (kendi başına) düğümledi",
+      "cekimler": [
+        "tügünür",
+        "tügünmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "603",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tügüşdi",
+      "anlam": "Düğüm düğümleme konusunda yarışmak",
+      "ornek_metin": "ol menig birle tügün tügüşdi: O, düğümü düğümleme konusunda benimle yanşti.",
+      "cekimler": [
+        "tügüşur",
+        "tügüşmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "603",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tükedi",
+      "anlam": "İşin bitmesi veya herkesi doyurması",
+      "ornek_metin": "fş tükedi: İş bitti. bu aş qamugqa tükedi: Bu yemek herkese yetti.",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "603",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tükel",
+      "anlam": "Tamam, eksiksiz olma hali",
+      "ornek_metin": "tükel algıl: Tamamını al.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "603",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tüketti",
+      "anlam": "İşini bitirmek",
+      "ornek_metin": "ol işin tüketti: O, işini bitirdi.",
+      "cekimler": [
+        "tüketur",
+        "tüketmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "603",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tükü tükü",
+      "anlam": "Yavru köpeği çağırmak için kullanılan bir ifade",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "ünlem",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "603",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tüledi",
+      "anlam": "Kışlık tüyünü dökmek ve yeni tüy çıkarmak",
+      "ornek_metin": "at tüledi: At [başka bir hayvan da olabilir] kışlık tüyünü döktü ve yeni tüy çıkardı.",
+      "cekimler": [
+        "tüler",
+        "tülemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "603",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tülek",
+      "anlam": "Hayvanların kışlık tüylerini döktükleri mevsim",
+      "ornek_metin": "ol qöy tülekinde keldi: O, koyunların kırkıldığı mevsimde geldi,",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "603",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tülek",
+      "anlam": "Kışlık tüylerini döken hayvan",
+      "ornek_metin": "tülek yılqı: Kışlık tüylerini döken hayvan,",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "603",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tümen",
+      "anlam": "Herhangi bir şeyin çok olanı",
+      "ornek_metin": "tümen türlüg sözledi: Her türlü şey üzerine çokça söz söyledi,",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "603",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tümen ming",
+      "anlam": "Bin kere bin, bir milyon",
+      "ornek_metin": "tümen mingyarmâq: Bir milyon para.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "603",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tümiledi",
+      "anlam": "Tırıs tırıs gitmek, sekerek koşmak",
+      "ornek_metin": "eşyek tümiledi: Eşek tırıs tırıs gitti - bu, eşeğin sekerek koştuğu anlamına gelir.",
+      "cekimler": [
+        "tümîler",
+        "tümılemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "604",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tümrüg",
+      "anlam": "Tef",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Oğuz lehçesi",
+      "kaynak_sayfa": "604",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tün",
+      "anlam": "Gece",
+      "ornek_metin": "tünle keldim: Gece geldim,",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "604",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tünedi",
+      "anlam": "Geceyi birinin yanında geçirmek",
+      "ornek_metin": "ol mende tünedi: O, geceyi benim yanımda geçirdi.",
+      "cekimler": [
+        "tüner",
+        "tünemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "604",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tünek",
+      "anlam": "Hapishane, zindan",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Barsgân lehçesi",
+      "kaynak_sayfa": "604",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tünerdi",
+      "anlam": "Mekânın karanlık olması",
+      "ornek_metin": "tünerdi yer: Mekân karanlık oldu. Zaman anlamında da kullanılır.",
+      "cekimler": [
+        "tünerür",
+        "tünermek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "604",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tünerig",
+      "anlam": "Herhangi bir karanlık yer, mezar",
+      "ornek_metin": "tünerig yer: Herhangi bir karanlık yer. “Mezar”a da tünerig denir.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "604",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tünetti",
+      "anlam": "Konuğu gece evde ağırlamak",
+      "ornek_metin": "ol qonuqlug ewde tünetti: O, konuğunu gece evde ağırladı.",
+      "cekimler": [
+        "tünetür",
+        "tünetmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "604",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tünglük",
+      "anlam": "Baca ya da pencere",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "604",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "türigüldi",
+      "anlam": "İşten umudunu kesmek",
+      "ornek_metin": "er ıştın türigüldi: Adam işten umudunu kesti,",
+      "cekimler": [
+        "türigür"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "604",
+      "notlar": "Metinde türigür başlığı altında 'Kadının kayınları' anlamı da verilmiştir.",
+      "kontrol_gerekli": true
+    },
+    {
+      "kelime": "türigürledi",
+      "anlam": "Birini kaynı olarak düşünmek",
+      "ornek_metin": "ol meni tüngürledi: O beni kaynı olarak düşündü.",
+      "cekimler": [
+        "tüngürler",
+        "türigürlemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "604",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "türigürlendi",
+      "anlam": "Kendisini kayın saymak",
+      "ornek_metin": "ol mariga türigünlendi: O, kendisini benim kaynım saydı.",
+      "cekimler": [
+        "türigürlenür",
+        "tüngürlenmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "604",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "türigüşdi",
+      "anlam": "Bakışları dikerek saldırmaya hazırlanmak veya tereddüt edip dik dik bakmak",
+      "ornek_metin": "toriguz türigüşdi: Domuz, bakışlarını adamın üzerine dikerek saldırmaya hazırlandı.",
+      "cekimler": [
+        "türiğüşur",
+        "türigüşmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "604",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tüp",
+      "anlam": "Herhangi bir şeyin kökü",
+      "ornek_metin": "yıgâç tüpi: Ağaç kökü,",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "604-605",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tüp",
+      "anlam": "Temel",
+      "ornek_metin": "tdm tüpi: Duvar temeli,",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "605",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tüp",
+      "anlam": "Bir insanın kökü ya da kökeni",
+      "ornek_metin": "tüplüg eren: Soylu adam,",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "605",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tüpgerdi",
+      "anlam": "İşin aslını merak etmek, izleri takip etmeye başlamak",
+      "ornek_metin": "ol fşıg tüpgerdi: O, işin aslını merak etti ve izleri takip etmeye başladı.",
+      "cekimler": [
+        "tûpgerûr",
+        "tüpgermek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "605",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tüpi",
+      "anlam": "Şiddetli rüzgâr",
+      "ornek_metin": "qalm bulutug tüpi sürer qarangqu fşıg unınç açâr: Kalın, karanlık bulutlan ancak güçlü rüzgâr sürer götürür.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "605",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tüpledi",
+      "anlam": "Meselenin kökenine inmek, konuyu derinlemesine araştırmak",
+      "ornek_metin": "ol îşıg tüpledi: O, meselenin kökenine indi, konuyu derinlemesine araştırdı.",
+      "cekimler": [
+        "tüpler",
+        "tüplemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "605",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tüplendi",
+      "anlam": "Ağaçların köklenmesi, adamın zenginleşmesi",
+      "ornek_metin": "yıgâç tüplendi: Ağaçlar köklendi. er tüplendi: Adam zenginleşti.",
+      "cekimler": [
+        "tüplenûr",
+        "tüplenmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "605",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tüpleşdiler",
+      "anlam": "İşin aslını [kökenini] araştırmak",
+      "ornek_metin": "olâr bu îşıg tüpleşdiler: Onlar bu işin aslını [kökenini] araştırdılar.",
+      "cekimler": [
+        "tüpleşür",
+        "tüpleşmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "605",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tüpletti",
+      "anlam": "Meseleyi ayrıntılı bir biçimde inceletmek",
+      "ornek_metin": "ol bu fşıg telim tüpletti: O, bu meseleyi ayrıntılı bir biçimde inceletti.",
+      "cekimler": [
+        "tüpletür",
+        "tüpletmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "605",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tüpirdi",
+      "anlam": "Rüzgârın eserek toz toprak savurması",
+      "ornek_metin": "tüpi tüpirdi: Rüzgâr eserek toz toprak savurdu. tütüşmeginçe füzülmes tüpirmeginçe açılmâs",
+      "cekimler": [
+        "tüpirer",
+        "tüpirmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "605",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "türdi",
+      "anlam": "Kitabı veya başka bir şeyi dürümlemek",
+      "ornek_metin": "ol bitig türdi: O, kitabı [başka bir şeyi de olabilir] dürdü.",
+      "cekimler": [
+        "türer",
+        "türmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "605",
+      "notlar": "",
+      "kontrol_gerekli": false
+    }
+  ]
+}

@@ -1,0 +1,798 @@
+{
+  "chunk_no": 53,
+  "kaynak_sayfa_baslangic": 337,
+  "kaynak_sayfa_bitis": 341,
+  "kelimeler": [
+    {
+      "kelime": "küsdi",
+      "anlam": "O, onu gücendirdi",
+      "ornek_metin": "ol andın küsdi: O, onu gücendirdi",
+      "cekimler": [
+        "küser",
+        "küsmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "Oğuz lehçesi",
+      "kaynak_sayfa": "337",
+      "notlar": "Herhangi bir şey arzulandığında yine bu sözcük kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "küsen",
+      "anlam": "Kuş olarak da bilinen kemirgen bir diğer ad",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "337",
+      "notlar": "Burası bir Uygur sınırlıdır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "küseşdi",
+      "anlam": "Bütün adamlar, zenginlikler-zenginliklerle sundular",
+      "ornek_metin": "eren ...rtak : Bütün adamı., «ngin» Slerker - rengtrlklerbie »undu»",
+      "cekimler": [
+        "küseşür",
+        "küseşmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "337",
+      "notlar": "",
+      "kontrol_gerekli": true
+    },
+    {
+      "kelime": "küsri",
+      "anlam": "Göğüs kafesi (kaburga kemikleri)",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "337",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kütü",
+      "anlam": "Çatı",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "337",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kütürdi",
+      "anlam": "O, ona koyun güttürdü",
+      "ornek_metin": "ol angar qöy kutürdi: O, ona koyun [başka bir hayvan da olabilir] güttürdü",
+      "cekimler": [
+        "kütürür",
+        "kütürmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "337",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "küveç",
+      "anlam": "Bir çeşit at başlığı",
+      "ornek_metin": "küveç yügün: Bir çeşit at başlığı.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "337",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "küvük",
+      "anlam": "Erkek kedi",
+      "ornek_metin": "küvük muş: Erkek kedi",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "337",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "küvük",
+      "anlam": "Saman",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Oğuz lehçesi",
+      "kaynak_sayfa": "337",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "küwendi",
+      "anlam": "O, benimle övündü",
+      "ornek_metin": "o! menig birle küwendi: O, benimle övündü.",
+      "cekimler": [
+        "kütvenür",
+        "küwenmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "337",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "küwez",
+      "anlam": "Mağrur, kibirli kimse",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "337",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "küwezlik",
+      "anlam": "Küstahlık, saygısızlık",
+      "ornek_metin": "eştip ata anângnıg savularını qadırma neng qut bulup küvvezlik qılmp yana qutumıa: Annenin babanın sözünü işittiğinde öğütlerini geri çevirme Zenginliğe ve başanya ulaştığında küstahlık yapma, kendine hakim ol ve haddin bil",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "337",
+      "notlar": "Şu dizelerde de kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "küwlük",
+      "anlam": "Kilden yapılmış ufak misketler; kurumadan önce veya kuruduktan sonra yuvarlanarak oynanır",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "337",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "küwrüg",
+      "anlam": "Kös",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "337",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "küwük",
+      "anlam": "Erkek kedi",
+      "ornek_metin": "küvvük müş: Erkek kedi",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Çigil lehçesi",
+      "kaynak_sayfa": "337",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "küye",
+      "anlam": "Güve. Keçe veya keçeye benzeyen şeyleri yiyen böcek",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "337",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "küyeledi",
+      "anlam": "Adam keçeden güveleri ayıkladı",
+      "ornek_metin": "er kidiz küyeledi: Adam (silkerek) keçeden [başka bir şeyden de olabiliri güveleri ayıkladı.",
+      "cekimler": [
+        "küyeler",
+        "küyelemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "338",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "küymendi",
+      "anlam": "Adam işte kayıtsızdı ve meseleyle tam anlamıyla ilgilenmedi",
+      "ornek_metin": "er işqa küymendi: Adam işte kayıtsızdı ve meseleyle tam anlamıyla ilgilenmedi.",
+      "cekimler": [
+        "küymenür",
+        "küymenmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "338",
+      "notlar": "Bu sözcük göçüşmeye maruz kalır ve bir değişik sesletim olarak kümyendi denir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "küyüm küyüm",
+      "anlam": "O, bir yandan meşgul gibi durarak öte yandan kayıtsız kalarak günü geçirdi",
+      "ornek_metin": "ol küyüm küyüm kân keçürdi: O, bir yandan meşgul gibi durarak öte yandan kayıtsız kalarak günü geçirdi",
+      "cekimler": [],
+      "kelime_turu": "zarf",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "338",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "küz",
+      "anlam": "Sonbahar",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "338",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "küzeç",
+      "anlam": "Testi, ibrik",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "338",
+      "notlar": "Bu sözcük he'nin (h) cim'e (ç) dönüşmesi dışında Arapçaya uygundur.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "küzeçlik",
+      "anlam": "Çömlek yapılacak kil",
+      "ornek_metin": "küzeçlik titig: Çömlek yapılacak kil.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "338",
+      "notlar": "Bu kile sahip olan kimseyi anlatmak için sözcüğün g'li biçimi kullanılır [küzeçlig].",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "küzedi",
+      "anlam": "O, sonbaharı yaylada geçirdi",
+      "ornek_metin": "ol yaylâgda küzedi: O, sonbaharı yaylada geçirdi.",
+      "cekimler": [
+        "küzer",
+        "küzemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "338",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "küzen",
+      "anlam": "Küçük kuşları ya da benzerlerini avlamakta kullanılan sıçangillerden bir hayvan",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "338",
+      "notlar": "bkz. kelegü.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "küzerdi",
+      "anlam": "Sonbahar geldi",
+      "ornek_metin": "öd küzerdi: Sonbahar geldi.",
+      "cekimler": [
+        "küzerür",
+        "küzermek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "338",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "küzgerdi",
+      "anlam": "Mevsim sonbahara döndü",
+      "ornek_metin": "ödleg küzgerdi: Mevsim sonbahara döndü",
+      "cekimler": [
+        "küzgerür",
+        "küzgermek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "338",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "küzük",
+      "anlam": "Bir dokuma tezgahında üst çözgülerin alt çözgülerden ayrılmasını sağlayan düğümlenmiş iplikler",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "338",
+      "notlar": "Aynı zamanda süslü bir kumaş ya da benzerlerini dokuyan kimseyi anlatmak için de bu sözcük kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "küzükti",
+      "anlam": "Mevsim sonbahara döndü",
+      "ornek_metin": "yıl küzükti: Mevsim sonbahara döndü",
+      "cekimler": [
+        "küzüker",
+        "küzükmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "338",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "la",
+      "anlam": "Bir işin gerçekleştiğini ya da bittiğini açıkça belirtmek için kullanılan bir ilgeç",
+      "ornek_metin": "ol bardı la. O, gitti; ol keldi la: O geldi",
+      "cekimler": [],
+      "kelime_turu": "edat",
+      "dil_veya_lehce": "Oğuz lehçesi",
+      "kaynak_sayfa": "339",
+      "notlar": "Eylemlerin sonrasına eklenir. Diğer Türkler bunu kullanmaz.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "lâçin",
+      "anlam": "Şahin; yırtıcı bir kuş",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "339",
+      "notlar": "Savaşta cesaret gösteren bir adam da lâçın diye adlandırılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "lagün",
+      "anlam": "Tahıl ölçmekte kullanılan ölçek gibi içi oyulmuş olan bir şey; süt, ayran ve benzeri şeyler içerken kullanılır",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "339",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "lâw",
+      "anlam": "Mühür mumu",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "339",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "leş",
+      "anlam": "Sümük, balgam",
+      "ornek_metin": "leş aqtı: Sümük ya da balgam aktı.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Çigil lehçesi",
+      "kaynak_sayfa": "339",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "-laqın/-likin",
+      "anlam": "İle anlamına gelen iki ilgeç",
+      "ornek_metin": "biligin ulugluqqa tegdim: Bilgelikle ululuğa eriştim; edgülûkün kel, isizligin kelme: Hayırla gel, şerle gelme",
+      "cekimler": [],
+      "kelime_turu": "edat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "339",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "lıtu",
+      "anlam": "Şehriyeler su, buz ya da kar gibi şeylerle soğutulur. Sonra bunun içerisine çeşniler konur, serinletici bir yiyecek olarak yenir",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "339",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "lıyu",
+      "anlam": "Kuruduğu zaman sert kil haline gelen çamur",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "339",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "lim ken",
+      "anlam": "Sarı erik",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "339",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "loxtây",
+      "anlam": "Üzerinde sarı pullar olan kırmızı renkte süslü bir Çin kumaşı",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "339",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "luçnut",
+      "anlam": "Buğday ve buğdaya benzer şeylerin temizlenmesine yardım etme",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Kençek lehçesi",
+      "kaynak_sayfa": "339",
+      "notlar": "Köylüler birbirlerine köle ya da hayvan yollayarak harman dövme işinde yardımlaşır. Belki de bu sözcük köçmit diye yazılır.",
+      "kontrol_gerekli": true
+    },
+    {
+      "kelime": "-ma",
+      "anlam": "Buyrum kipindeki eylemlere gelen ve olumsuzluk bildiren bir ilgeç",
+      "ornek_metin": "qıl: yap - qılma: yapma",
+      "cekimler": [],
+      "kelime_turu": "edat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "340",
+      "notlar": "Bu yalın ya da türemiş olsun bütün eylemsel gövdelere olumsuzluk anlamı vermek için geçerli olan kuraldır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ma",
+      "anlam": "Al anlamına gelen bir ilgeç",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "edat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "340",
+      "notlar": "Elif (a) yerine ha'yla (h) söylenerek mah biçiminde de kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ma",
+      "anlam": "Oğlak ve kuzu sesinin yansıması",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "ünlem",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "340",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "mâh",
+      "anlam": "İşte; al anlamına gelen bir ilgeç; bir şey verildiği zaman söylenir",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "edat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "340",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "malguna",
+      "anlam": "bkz. bulguna",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "belirsiz",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "340",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "mamu",
+      "anlam": "Gerdek gecesi gelinle birlikte yollanan kadın",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "340",
+      "notlar": "Bu, özgün dile ait bir sözcük değildir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "mân qışlâg",
+      "anlam": "Oğuz ülkesinde bir yer adı",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Oğuz lehçesi",
+      "kaynak_sayfa": "340",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "mân kend",
+      "anlam": "Eskiden Kâşgar yakınlarında olan bir kentin adı",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "340",
+      "notlar": "Şimdi harap durumdadır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "mân",
+      "anlam": "Dört yaşını geçen koyun",
+      "ornek_metin": "mân yâşlıg qöy: Dört yaşını geçen koyun.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "340",
+      "notlar": "Koyun dışında bir hayvan için kullanılmaz.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "mançu",
+      "anlam": "Bir zanaatkâra verilen ücret",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "340",
+      "notlar": "Başka bir ücreti anlatmak için kullanılmaz.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "mançuq",
+      "anlam": "Heybe, torba gibi at eyerine takılan herhangi bir şey",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "340",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "mançuqlandı",
+      "anlam": "Adam giysisini heybeye koydu ve onu eyerinin arkasına astı",
+      "ornek_metin": "er tömn mançuqlandı: Adam giysisini heybeye koydu ve onu eyerinin arkasına astı.",
+      "cekimler": [
+        "mançuqlanür",
+        "mançuqlanmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "340",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "mandâr",
+      "anlam": "Ağaçlara sarılan ve onların kurumasına neden olan bir bitkinin adı - sarmaşık",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Oğuz lehçesi",
+      "kaynak_sayfa": "340",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "mandarlandı",
+      "anlam": "Ağaç sarmaşıklandı",
+      "ornek_metin": "yıgâç mandarlandı: Agaç sarmaşıklandı.",
+      "cekimler": [
+        "mandarlanür",
+        "mandarlanmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "340",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "mandı",
+      "anlam": "Adam silah kuşandı / Adam, ekmeği sirkeye bandı",
+      "ornek_metin": "er tulum mandı: Adam silah kuşandı; er ötmek sirkeke mandı: Adam, ekmeği sirkeye bandı.",
+      "cekimler": [
+        "manâr",
+        "manmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "340-341",
+      "notlar": "Herhangi bir şeyin, başka bir şeye banılıp yenmesini anlatmak için de bu sözcük kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "mandırı",
+      "anlam": "Gelinle güveyin gece bir araya getirildiği ve insanların onların başlarından aşağı para attığı yerin adı",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Çigil lehçesi",
+      "kaynak_sayfa": "341",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "mandu",
+      "anlam": "Bir tür Türk sirkesi",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "341",
+      "notlar": "Bir küpe üzüm şırası konup mayalanana kadar beklenir, daha sonra üzerine sek şarap dökülür, bu karışım bir gece bekletilir ve sirke elde edilir. Bu, sirkelerin en güzelidir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "mandurdı",
+      "anlam": "O, bana kılıç kuşandırdı / O, bana ekmeği yağa bandırttı",
+      "ornek_metin": "ol manga qdıç mandurdı: O, bana kılıç kuşandırdı; ol manga etmekigyâgqa mandurdı: O, bana ekmeği yağa bandırttı.",
+      "cekimler": [
+        "mandurur",
+        "mandurmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "341",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "mangırdı",
+      "anlam": "O, ekmeği yağa bandırayazdı, daldırayazdı",
+      "ornek_metin": "ol etmekigyâgqa mangırdı: O, ekmeği yağa bandırayazdı, daldırayazdı.",
+      "cekimler": [
+        "mangırâr",
+        "mangırmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "341",
+      "notlar": "Başka şeyler için de kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "mangıg",
+      "anlam": "Adım",
+      "ornek_metin": "anıg mangıgt kör: Onun adımına bak.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "341",
+      "notlar": "Metinde 'marigıg' olarak geçmektedir.",
+      "kontrol_gerekli": true
+    },
+    {
+      "kelime": "manıldı",
+      "anlam": "Ekmek sirkeye banıldı",
+      "ornek_metin": "etmek sirkeke manıldı: Ekmek sirkeye [başka bir şeye de olabilir] banıldı.",
+      "cekimler": [
+        "manılur",
+        "manılmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "341",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "mangradı",
+      "anlam": "Adam bağırdı",
+      "ornek_metin": "er mangrâdı: Adam [başka biri de olabilir] bağırdı.",
+      "cekimler": [
+        "mangrâr",
+        "mangrâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "341",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "mangrattı",
+      "anlam": "O, onu bağırttı",
+      "ornek_metin": "ol anı mangrattı: O, onu bağırttı.",
+      "cekimler": [
+        "mangratür",
+        "mangratmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "341",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "maraz",
+      "anlam": "Karanlık gece",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "341",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "marâz",
+      "anlam": "Ücretle çalışan kimse; ırgat",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Argu ve Yağma lehçeleri",
+      "kaynak_sayfa": "341",
+      "notlar": "xıyar maraz da denir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "masıç",
+      "anlam": "Kara üzüm",
+      "ornek_metin": "masıç üzüm: Kara üzüm",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "341",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "mat",
+      "anlam": "Öyle, onun gibi anlamına gelen bir ilgeç",
+      "ornek_metin": "andag mat: O, öyle.",
+      "cekimler": [],
+      "kelime_turu": "edat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "341",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "mayaq",
+      "anlam": "Dışkı; özellikle deve gübresi",
+      "ornek_metin": "tewe bedük erse mayaqı bedük ermes: Deve büyüktür, ancak pisliği büyük değildir.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "341",
+      "notlar": "Daha sonra bu anlam qöy mayaqı: koyun gübresi olarak genişlemiştir. At gübresi ise yalnızca yundaq biçiminde adlandırılır.",
+      "kontrol_gerekli": false
+    }
+  ]
+}

@@ -1,0 +1,851 @@
+{
+  "chunk_no": 47,
+  "kaynak_sayfa_baslangic": 313,
+  "kaynak_sayfa_bitis": 317,
+  "kelimeler": [
+    {
+      "kelime": "kezig",
+      "anlam": "Dönüşümlü olarak yapılan bir işte sıra.",
+      "ornek_metin": "senig kezıgtng keldi: Senin sıran geldi.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "313",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kezig",
+      "anlam": "Cesaret.",
+      "ornek_metin": "bu işde sarıga kezig kerek: Bu işte sana cesaret gerek. Aslında bunun anlamı da ilk anlamdan gelmektedir - “senin sıran geldi, cesur olman gerek.\"",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "313",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kezik",
+      "anlam": "Ateş ve titreme.",
+      "ornek_metin": "sarıg kezik: Sarılık hastalığı.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "313",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kezişdi",
+      "anlam": "Dünyayı dolaşma konusunda meydan okumak.",
+      "ornek_metin": "ol manga yer kezişdi: O, bana dünyayı dolaşma konulunda meydan okudu.",
+      "cekimler": [
+        "kezişür",
+        "kezişmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "313",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kezitti",
+      "anlam": "Ülkede gezdirmek.",
+      "ornek_metin": "ol meni yer kezitti: O, beni ülkede gezdirdi.",
+      "cekimler": [
+        "kezitür",
+        "kezitmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "313",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kezledi",
+      "anlam": "Okun gezini düzeltmek, ayarlamak.",
+      "ornek_metin": "ol oqın kezledi: O, okunun gezini düzeltti, ayarladı.",
+      "cekimler": [
+        "bezler",
+        "kezlemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "313",
+      "notlar": "Birinin tencerede kalan yemek artığını temizlemesini anlatmak için de bu sözcük kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kezlendi",
+      "anlam": "Okun gezi düzeltilmek veya yiyecek artığı tencerenin dibine yapışmak.",
+      "ornek_metin": "oq kezlendi: Ok gezlendi. / eşiç kezlendi: Yiyecek artığı tencerenin dibine yapıştı.",
+      "cekimler": [
+        "kezlenür",
+        "kezlenmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "313",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kezleşdi",
+      "anlam": "Oku gezlemekte meydan okumak veya bu konuda yardımlaşmak.",
+      "ornek_metin": "ol angar oq kezleşdi: O, oku gezlemekte ona meydan okudu.",
+      "cekimler": [
+        "kezleşür",
+        "kezleşmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "313",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kezletti",
+      "anlam": "Okun gezinin onarılmasını, ayarlanmasını emretmek.",
+      "ornek_metin": "ol oq kezletti: O, okun gezinin onarılmasını, ayarlanmasını emretti.",
+      "cekimler": [
+        "kezletür",
+        "kezletmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "313",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kezlik",
+      "anlam": "Kadınların kaftanlarına tutturulmuş olarak sakladıkları küçük bir bıçak.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "313",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kibe",
+      "anlam": "Az sayıda gün.",
+      "ornek_metin": "kibe boldı: Kısa bir süre geçti.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Oğuz lehçesi",
+      "kaynak_sayfa": "313",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kiçidi",
+      "anlam": "Vücut kaşınmak.",
+      "ornek_metin": "etim kiçidi: Vücudum kaşındı.",
+      "cekimler": [
+        "kiçıry",
+        "kiçimek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "313-314",
+      "notlar": "Başka hayvanların kaşınmasını anlatmak için de bu sözcük kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kiçig",
+      "anlam": "Herhangi bir şeyin küçüğü.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "314",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kiçigledi",
+      "anlam": "Küçük saymak.",
+      "ornek_metin": "ol anı kiçigledi: O, onu küçük saydı.",
+      "cekimler": [
+        "kiçigler",
+        "kiçiglemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "314",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kiçindi",
+      "anlam": "Aşırı cinsel arzuyla yanıp tutuşmak.",
+      "ornek_metin": "urâgut kiçindi: Kadın aşırı cinsel arzuyla yanıp tutuştu.",
+      "cekimler": [
+        "kiçinür",
+        "kiçinmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "314",
+      "notlar": "Aynı zamanda kiçinme: dayak için kaşınma! denir. Kök-anlamı et kiçindi: vücut kaşındı ifadesindeki anlamıdır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kiçitti",
+      "anlam": "Uyuzunu kaşıttırmak.",
+      "ornek_metin": "anıg udûzı kiçitti: O, ona uyuzunu kaşıttı.",
+      "cekimler": [
+        "kiçitür",
+        "kiçitmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "314",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kidiz",
+      "anlam": "Keçe.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "314",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kidizgek",
+      "anlam": "Tazeliği kaybetmiş ve keçeleşmiş kavun.",
+      "ornek_metin": "kidizgek qâgün: Tazeliği kaybetmiş ve keçeleşmiş kavun.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "314",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kidizlik",
+      "anlam": "Keçe yapmak için hazırlanan yün.",
+      "ornek_metin": "kidizlik yüng: Keçe yapmak için hazırlanan yün.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "314",
+      "notlar": "Böylesi bir yünün sahibini anlatmak için sözcük titreşimli kefle (g) söylenir [kidizlig].",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kigrüldi",
+      "anlam": "Mallar eve getirilmek.",
+      "ornek_metin": "tawâr ewke kigrüldi: Mallar eve [başka bir yere de olabilir] getirildi.",
+      "cekimler": [
+        "kigrülür",
+        "kigrülmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "314",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kikçürdi",
+      "anlam": "Bıçağı başka bir bıçağa sürterek bilemek veya iki adamı birbirlerine karşı kışkirtmak.",
+      "ornek_metin": "er biçek kikçürdi: Adam bıçağı başka bir bıçağa sürterek onu biledi. / ol ekki er kikçürdi: O, iki adamı birbirlerine karşı kışkırttı.",
+      "cekimler": [
+        "kikçürür",
+        "kikçürmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "314",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kikdi",
+      "anlam": "Bıçağı keskinleştirmek, bıçakları birbirine sürterek bilemek.",
+      "ornek_metin": "biçek kikdi er: Adam bıçağı keskinleştirdi - bıçakları birbirine sürterek biledi.",
+      "cekimler": [
+        "kiker",
+        "kikmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "314",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kim",
+      "anlam": "Kim anlamına gelen bir soru eki.",
+      "ornek_metin": "bu kim",
+      "cekimler": [],
+      "kelime_turu": "edat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "314",
+      "notlar": "Tekil ve çoğul için kullanılır. Oğuzlar, \"boy kim: Hangi boydansın\" der. \"Boy\" bir topluluk adıdır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kim işge",
+      "anlam": "Nakışlı bir Kâşgar keçesi.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "314",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kim sen",
+      "anlam": "Başlıkları süslemek için kullanılan altın varak.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "314",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kin yıpâr",
+      "anlam": "Misk kesesi.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "314",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kingüt",
+      "anlam": "Uygur sınırındaki bir kentin adı.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "314",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kirdeş",
+      "anlam": "Tek bir mesken içinde birlikte ikamet edilen komşu.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "314",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kirişdi",
+      "anlam": "Belirli bir işe girişme konusunda rekabet etmek.",
+      "ornek_metin": "ol menig birle işqa kirişdi: O, belirli bir işe [başka bir şeye de olabilir] girişme konusunda benimle rekabet etti.",
+      "cekimler": [
+        "kirişür",
+        "kirişmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "315",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kirit",
+      "anlam": "Anahtar.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "315",
+      "notlar": "Bu sözcük Arapça ıklîd sözcüğüne yakındır, elif düştükten sonra kaf kefle, lam re’yle, dal te’yle yer değiştirmiştir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kiritlig qapug",
+      "anlam": "Kilitli kapı.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "315",
+      "notlar": "\"Kilide sahip olan kapı;\" kef, titreşimli kefe (ince kef - g) dönüştüğünde sözcüğün sahip olma anlamı yüklendiği hatırlanmalı.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kirdi",
+      "anlam": "Girmek.",
+      "ornek_metin": "ol ewke kirdi: O, eve [başka bir yere de olabilir] girdi.",
+      "cekimler": [
+        "kirür",
+        "kirmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "315",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kirgin",
+      "anlam": "Aygırın kızışma zamanı.",
+      "ornek_metin": "buğra kirgini kirdi: (Deve) aygır kızıştı, azdı.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "315",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kirigsedi",
+      "anlam": "Eve girmeyi arzuladı.",
+      "ornek_metin": "ol ewke kirigsedi: O, eve [başka bir yere de olabilir] girmeyi arzuladı.",
+      "cekimler": [
+        "kirigser",
+        "kirigsemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "315",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kirikti",
+      "anlam": "Giysi kirlendi.",
+      "ornek_metin": "tön kirikti: Giysi [başka bir şey de olabilir] kirlendi.",
+      "cekimler": [
+        "kiriker",
+        "kirikmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "315",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kirildi",
+      "anlam": "Eve girildi.",
+      "ornek_metin": "ewke kirildi: Eve [başka bir yere de olabilir] girildi.",
+      "cekimler": [
+        "kirilür",
+        "kirilmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "315",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kirim sindi",
+      "anlam": "Eve girermiş gibi görünmek.",
+      "ornek_metin": "ol ewke kirimsindi: Adam eve girermiş gibi göründü.",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "315",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kirindi",
+      "anlam": "Suyun içinde yürüdü ve yıkandı veya eve girermiş gibi göründü.",
+      "ornek_metin": "er suwda kirindi: Adam suyun içinde yürüdü ve yıkandı. / er ewke kirindi: Adam eve girermiş gibi göründü.",
+      "cekimler": [
+        "kirnür",
+        "kirinmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "315",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kiriş",
+      "anlam": "Yayın iki ucu arasında gerili olan tel.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "315",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kiriş",
+      "anlam": "Bir kişinin mülklerinden edindiği gelir.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "315",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kiritledi",
+      "anlam": "Kapıyı kilitlemek.",
+      "ornek_metin": "ol qapug kiritledi: O, kapıyı kilitledi.",
+      "cekimler": [
+        "kiritler",
+        "kiritlemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "315",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kiritlik",
+      "anlam": "Kilit.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "315",
+      "notlar": "Kaynakta (kiritlig) olarak da geçer.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kirlendi",
+      "anlam": "Giysi kirlenmek veya göz kızarmak, kanlanmak.",
+      "ornek_metin": "tön kirlendi: Giysi [başka bir şey de olabilir] kirlendi. / köz kirlendi: Göz kızardı, kanlandı.",
+      "cekimler": [
+        "kirlenür",
+        "kirlenmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "315-316",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kirpi",
+      "anlam": "Kirpi.",
+      "ornek_metin": "oqlug kirpi: oklu kirpi de denir.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "316",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kirpik",
+      "anlam": "Kirpik.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "316",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kirpilendi",
+      "anlam": "Adam kirpi benzeri kabalığı içinde surat astı.",
+      "ornek_metin": "kişi kirpilendi: Adam kirpi benzeri kabalığı içinde surat astı.",
+      "cekimler": [
+        "kirpîlenür",
+        "kirpîlenmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "316",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kirpiklendi",
+      "anlam": "Kirpikleri uzamak.",
+      "ornek_metin": "anıg közi kirpiklendi: Onun kirpikleri uzadı.",
+      "cekimler": [
+        "kirpiklenur",
+        "kirpiklenmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "316",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kirşen",
+      "anlam": "Üstübeç (isîdâc); beyaz boya.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "316",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kirşenlendi",
+      "anlam": "Kadın yüzüne beyaz boya sürmek, yüzünü üstübeçle kaplamak.",
+      "ornek_metin": "urâgıt kirşenlendi: Kadın yüzüne beyaz boya sürdü - yüzünü üstübeçle kapladı.",
+      "cekimler": [
+        "kirşenlenür",
+        "kirşenlenmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "316",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kirtüç",
+      "anlam": "Herkese kin besleyen ve huysuz kişi.",
+      "ornek_metin": "kirtüç kişi: Herkese kin besleyen ve huysuz kişi.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "316",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kirtürdi",
+      "anlam": "Onun eve getirilmesini emretmek.",
+      "ornek_metin": "ol anı ewke kirtürdi: O, onun eve [başka bir yere de olabilir] getirilmesini emretti.",
+      "cekimler": [
+        "kirtûrür",
+        "kirtürmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "316",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kis",
+      "anlam": "Eş, zevce.",
+      "ornek_metin": "anıg kisi: Onun karısı. / ol kisi aldı: O bir eş aldı.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "316",
+      "notlar": "Bazı lehçelerde bu sözcük iyelik ekiyle kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kış",
+      "anlam": "Samur.",
+      "ornek_metin": "Bunun kuyruğuna kiş qudruqı denir.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "316",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kişedi",
+      "anlam": "Atı bukağılamak (kaçmaması için ayağına demir köstek takmak) veya kölesini bağlamak.",
+      "ornek_metin": "ol atıg kişedi: O, atı bukağıladı; er qûlın kişedi: Adam kölesini bağladı.",
+      "cekimler": [
+        "kişer",
+        "kişemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "316",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kişi",
+      "anlam": "Kişi (insan).",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "316",
+      "notlar": "Tekil ya da çoğul, eril ya da dişil için kullanılabilir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kişi",
+      "anlam": "Eş (zevce).",
+      "ornek_metin": "Yağmaların, \"o evlendi mi?\" anlamına gelecek biçimde ol kişi aldı mu diye sorduklarını duydum.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Yağma",
+      "kaynak_sayfa": "316",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kişnedi",
+      "anlam": "At kişnemek veya katır anırmak.",
+      "ornek_metin": "at kişnedi: At kişnedi; qatır kişnedi: Katır anırdı.",
+      "cekimler": [
+        "kişner",
+        "kişnemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "316",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "-kiye",
+      "anlam": "Küçültme eki.",
+      "ornek_metin": "erkiye: Adamcağız; yerkiye: Yercik.",
+      "cekimler": [],
+      "kelime_turu": "belirsiz",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "316-317",
+      "notlar": "Kefli (k), rikkat'in [incelik] ve imâle'nin söz konusu olduğu sözcüklerle kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kiz",
+      "anlam": "Misk kutusu, sandık veya heybe gibi şeyler, herhangi bir kutu veya dolap.",
+      "ornek_metin": "kizdeki kizyıpâr: Kutuda saklanan bir misk kesesi - bu ifade genç kızların mis kokulu nefesini anlatan bir benzetme olarak kullanılır.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "317",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kizledi",
+      "anlam": "Nesneyi gizlemek.",
+      "ornek_metin": "ol kizledi nengni: O, nesneyi gizledi.",
+      "cekimler": [
+        "kizler",
+        "kizlemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "317",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kizlençü",
+      "anlam": "Gizli.",
+      "ornek_metin": "kizlençü kelinde: Gizli şey yalnızca genç zevceyle bulunur (çünkü o iyi şeyleri kocası için saklar).",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "317",
+      "notlar": "Şu atasözünde de geçer.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kizlendi",
+      "anlam": "Malını saklıyormuş gibi görünmek, mallarını kendi başına saklamak.",
+      "ornek_metin": "ol tawârın kizlendi: O, malını saklıyormuş gibi göründü - Mallarını kendi başına sakladı.",
+      "cekimler": [
+        "kizlenür",
+        "kizlenmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "317",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kizleşdi",
+      "anlam": "Mallarını birbirlerinden gizlemek.",
+      "ornek_metin": "olâr ekki tawâr kizleşdi: Onlar mallarını [başka bir şeyi de olabilir] birbirlerinden gizlediler.",
+      "cekimler": [
+        "kizleşür",
+        "kizleşmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "317",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kizletti",
+      "anlam": "Sözlerini, sırrını saklaması konusunda ısrar etmek.",
+      "ornek_metin": "ol manga söz kizletti: O, sözlerini [başka bir şeyi de olabilir - sırrını] saklamam konusunda ısrar etti.",
+      "cekimler": [
+        "kizletür",
+        "kizletmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "317",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "köç",
+      "anlam": "Göç; yerleşimi bir yerden bir yere taşımak ya da ordunun sefere çıkması.",
+      "ornek_metin": "sü köçti: Ordu hareket etti.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "317",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "köç",
+      "anlam": "Saat ya da belli bir süre.",
+      "ornek_metin": "bir köç küdgil: Bir süre bekle.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "317",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "köçrüm",
+      "anlam": "Ani ve şiddetli korku; dehşet.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "317",
+      "notlar": "Kırsalda yaşayan halk güvenliği için kentlere sığınmaya başladığında böylesi bir durum söz konusudur.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "köçti",
+      "anlam": "Ordu hareket etmek.",
+      "ornek_metin": "sü köçti: Ordu [başka bir şey de olabilir] hareket etti.",
+      "cekimler": [
+        "köçer",
+        "köçmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "317",
+      "notlar": "Titreşimsiz seslerle ilgili açıklama metinde yer almaktadır.",
+      "kontrol_gerekli": false
+    }
+  ]
+}

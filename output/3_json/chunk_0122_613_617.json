@@ -1,0 +1,888 @@
+{
+  "chunk_no": 122,
+  "kaynak_sayfa_baslangic": 613,
+  "kaynak_sayfa_bitis": 617,
+  "kelimeler": [
+    {
+      "kelime": "ü",
+      "anlam": "Uyku",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "613",
+      "notlar": "zam m e (u) ile kesre (i) arasında kaldığı için vav (ü) düşmüştür.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ü",
+      "anlam": "Kefil",
+      "ornek_metin": "men ani üqa aldım: Ben ona kefil oldum",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "613",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "uç",
+      "anlam": "Tanınmış bir kent",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "613",
+      "notlar": "elif, işba'lıdır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "uç",
+      "anlam": "Türk yazısını yazmakta kullanılan kalemin yapıldığı, dağlarda yetişen bir ağaç, aynı zamanda bu ağaçtan kirmen ve baston da yapılır",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "613",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "uç",
+      "anlam": "Bir şeyin ucu; sonu",
+      "ornek_metin": "butaq üçı: Dalın ucu.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "613",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "uç",
+      "anlam": "Bir şeyin tükenmesi, azalması",
+      "ornek_metin": "boyda ne üç bâr: Halkta sayıca azalma yoktur.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Oğuz lehçesi",
+      "kaynak_sayfa": "613",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "üç el",
+      "anlam": "Sınır",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "613",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "uça",
+      "anlam": "Arka",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "613",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "uçan",
+      "anlam": "İki yelkenli tekne",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Qıfçâq lehçesi",
+      "kaynak_sayfa": "613",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "uçdı",
+      "anlam": "Kuş uçtu; bahtı kaybolup gitti",
+      "ornek_metin": "quş uçdı: Kuş uçtu; anıg qutı Uçdı: Onun bahtı kaybolup gitti.",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "613",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "uçdı",
+      "anlam": "Adam attan düştü",
+      "ornek_metin": "er attın qodı uçdı: Adam attan düştü.",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "613",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "uçguq",
+      "anlam": "Nezle",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "613",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "uçlandı",
+      "anlam": "Bir şey sivrileşti - ucu oluştu",
+      "ornek_metin": "uçlandı neng: Bir şey sivrileşti - ucu oluştu.",
+      "cekimler": [
+        "uçlanur",
+        "uçlanmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "613",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "uçmâq",
+      "anlam": "Cennet",
+      "ornek_metin": "türlüg çeçek yazıldı / Çeşit çeşit çiçek yanlarak açıldı / barçm yadım kerildi / (Sanki) ipekten bir halı serildi / uçmâq yeri körüldi / Cennet ülkesi görüldü / tumlıg yana kelgusüz / (Mevsim o kadar ılıman ki) kış bir daha hiç gelmeyecek",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "613",
+      "notlar": "Şu dörtlükte de kullanılır, (llkbahan anlatıyor)",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "uçruşdı",
+      "anlam": "O kuş uçurmakta bana yardım etti. Kuş uçurmakta rekabet etmeyi anlatmak için de bu sözcük kullanılır",
+      "ornek_metin": "öl manga quş uçruşdı: O kuş uçurmakta bana yardım etti.",
+      "cekimler": [
+        "uçruşür",
+        "uçruşmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "613-614",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "uçuqtı",
+      "anlam": "İş sona erdi",
+      "ornek_metin": "fş uçuqtı: İş sona erdi.",
+      "cekimler": [
+        "uçuqâr",
+        "uçuqmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "614",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "uçurdı",
+      "anlam": "O, kuş uçurdu",
+      "ornek_metin": "ol quş uçurdı: O, kuş uçurdu.",
+      "cekimler": [
+        "uçrur",
+        "uçurmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "614",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "uçurdı",
+      "anlam": "O, onu attan (başka bir yerden de olabilir) düşürdü",
+      "ornek_metin": "ol ani attın uçurdı: O, onu attan Ibaşka bir yerden de olabiliri düşürdü.",
+      "cekimler": [
+        "uçrur",
+        "uçurmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "614",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "uçurgân",
+      "anlam": "Sık sık kuş uçuran bir adam",
+      "ornek_metin": "bu er ol quşıg uçurgân: Bu, sık sık kuş uçuran bir adamdır.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "614",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "uçuz",
+      "anlam": "Ucuz olan bir şey",
+      "ornek_metin": "uçuz neng: Ucuz olan bir şey.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "614",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "uçuz",
+      "anlam": "Aşağılık ve rezil bir adam",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "614",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "uçuzlâdı",
+      "anlam": "Bey onu küçümsedi",
+      "ornek_metin": "beg anı uçuzlâdı: Bey onu küçümsedi.",
+      "cekimler": [
+        "uçuzlâr",
+        "uçuzlâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "614",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "uçuzlandı",
+      "anlam": "O, bu şeyin ucuz olduğunu düşündü",
+      "ornek_metin": "ol bu nerigni uçuzlandı: O, bu şeyin ucuz olduğunu düşündü.",
+      "cekimler": [
+        "uçuzlanur",
+        "uçuzlanmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "614",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "uçuzluq",
+      "anlam": "Değerin düşük olması; ucuzluk",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "614",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "uçuzluq",
+      "anlam": "Aşağılama; küçük görme",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "614",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "üd",
+      "anlam": "Öküz",
+      "ornek_metin": "ûd yılı: Oniki yıllık Türk takviminin yıllanndan birinin adı.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Çigil lehçesi",
+      "kaynak_sayfa": "614",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "udluq",
+      "anlam": "İnek ahırı",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Argu lehçesi",
+      "kaynak_sayfa": "614",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "udmaq",
+      "anlam": "Yandaş, çırak (şâkird)",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "614",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "udun",
+      "anlam": "Hoten kentinin adı ve bu kentin sakinleri",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "614",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "uduqluq",
+      "anlam": "İnsanın bir şey üzerine bilgisizliği, gafleti",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "614",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "udıdı",
+      "anlam": "Adam uyudu",
+      "ornek_metin": "er udıdı: Adam uyudu.",
+      "cekimler": [
+        "udir",
+        "udimâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "614",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "udındı",
+      "anlam": "Ateş söndürüldü; yula söndürüldü",
+      "ornek_metin": "öt udındı: Ateş söndürüldü; yula udındı: Kandil söndürüldü.",
+      "cekimler": [
+        "udnur",
+        "udınmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "614",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "udındı",
+      "anlam": "Onun bahtı söndü",
+      "ornek_metin": "amg qutı udındı: Onun bahtı söndü.",
+      "cekimler": [
+        "udnur",
+        "udınmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "614",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "udıq",
+      "anlam": "Uykulu, uyuklayan bir adam",
+      "ornek_metin": "udıq er: Uykulu, uyuklayan bir adam",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "615",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "udışdı",
+      "anlam": "O benimle uyuma yarışı yaptı",
+      "ornek_metin": "ol metıigbirle udışdı: O benimle uyuma yarışı yaptı.",
+      "cekimler": [
+        "udışür",
+        "udışmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "615",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "udışdı",
+      "anlam": "Ayak uyuştu",
+      "ornek_metin": "adaq udışdı: Ayak uyuştu.",
+      "cekimler": [
+        "udışür",
+        "udışmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "615",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "udışdı",
+      "anlam": "Süt koyulaşarak yoğurt haline geldi",
+      "ornek_metin": "yogrut udışdı: Süt koyulaşarak yoğurt haline geldi.",
+      "cekimler": [
+        "udışür",
+        "udışmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "615",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "udıtgân",
+      "anlam": "İnsanları uyutan bir ilaç",
+      "ornek_metin": "bu ot ol kişini udıtgân: Bu, insanlan uyutan bir ilaçtır",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "615",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "udıtma",
+      "anlam": "Yumuşak, taze peynir",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "615",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "udıttı",
+      "anlam": "O beni uyuttu",
+      "ornek_metin": "o! mini udıttı: O beni uyuttu.",
+      "cekimler": [
+        "udıtur",
+        "udıtmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "615",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "udıttı",
+      "anlam": "O, sütü mayalayıp yoğurt yaptı",
+      "ornek_metin": "ol yogrut udıttı: O, sütü mayalayıp yoğurt yaptı.",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "615",
+      "notlar": "Üstteki maddeyle aynı geniş zaman çekimine ve eylemliğe sahiptir",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "udıttı",
+      "anlam": "O, peynir yaptı",
+      "ornek_metin": "ol udıtma udıttı: O, peynir yaptı.",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "615",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "udıttı",
+      "anlam": "O, ateşi söndürdü",
+      "ornek_metin": "ol ot udıttı: O, ateşi söndürdü.",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "615",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "udlaşdı",
+      "anlam": "Dişi geyikler birbirinin arkasından yürüdü",
+      "ornek_metin": "ıwıq bir bırke udlaşdı: Dişi geyikler birbirinin arkasından yürüdü",
+      "cekimler": [
+        "udlaşür",
+        "udlaşmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "615",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "udlattı",
+      "anlam": "O, çocuğunun, kendisini ardı sıra takip etmesini sağladı",
+      "ornek_metin": "ol oglm manga udlattı: O, çocuğunun, kendisini ardı sıra takip etmesini sağladı.",
+      "cekimler": [
+        "udlatur",
+        "udlatmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "615",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "udluq",
+      "anlam": "Bacağın kalın kısmı",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "615",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "udmaqlandı",
+      "anlam": "Adam yandaş ve şâkird sahibi oldu",
+      "ornek_metin": "er udmaqlandı: Adam yandaş ve şâkird sahibi oldu.",
+      "cekimler": [
+        "udmaqlanur",
+        "udmaqlanmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "615",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "udu",
+      "anlam": "Tepecik; toprak yığını",
+      "ornek_metin": "qum udu: Kum tepeciği.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "615",
+      "notlar": "Buradan hareketle \"Argu da bir kent adı,\" udu kend'dir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "udu",
+      "anlam": "Arka; geri",
+      "ornek_metin": "men anîg udu keldim: Ben onun gerisinden geldim.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "615",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "udülâdı",
+      "anlam": "O onun ardından gitti - ona uydu",
+      "ornek_metin": "ol artı uçlülâdı: O onun ardından gitti - ona uydu.",
+      "cekimler": [
+        "udülâr",
+        "udülâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "616",
+      "notlar": "Metinde 'artı uçlülâdı' şeklinde geçen ifade kaynak hatası olabilir.",
+      "kontrol_gerekli": true
+    },
+    {
+      "kelime": "uduz",
+      "anlam": "Uyuz",
+      "ornek_metin": "tilkü özyinke ûrse uduz bolûr: Tilki kendi inini hor görürse uyuz olur.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "616",
+      "notlar": "Bu atasözü, kendi kavmini, boyunu ya da kentini yadırgayan, ayıplayan bir kimseye öğüt vermek için kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "uduzlâdı",
+      "anlam": "O, onun uyuzunu iyileştirdi",
+      "ornek_metin": "ol anı uduzlâdı: O, onun uyuzunu iyileştirdi.",
+      "cekimler": [
+        "uduzlâr",
+        "uduzlâmâcj"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "616",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "uduzlug",
+      "anlam": "Uyuz olan kimse",
+      "ornek_metin": "uduzlug kişi: Uyuz olan kimse",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "616",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "üg",
+      "anlam": "Çadırın üst kısmındaki çubukların her biri",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "616",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ugan",
+      "anlam": "Şeyler üzerinde, onları etkileyebilecek gücü olma durumu",
+      "ornek_metin": "ugan tengri: Her şeye kadir tanrı",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "616",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "uglıttı",
+      "anlam": "O, zenginliğini arttırdı",
+      "ornek_metin": "ol tawârın uglıttı: O, zenginliğini arttırdı.",
+      "cekimler": [
+        "uglıtur",
+        "uglıtmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "616",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ugrâdı",
+      "anlam": "Bey ona uğradı",
+      "ornek_metin": "beg angar ugrâdı: Bey ona uğradı.",
+      "cekimler": [
+        "ugrâr",
+        "ugrâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "616",
+      "notlar": "Herhangi bir yere uğramayı, gitmeyi anlatmak için de bu sözcüğe başvurulur.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ugrâg",
+      "anlam": "Amaç; niyet",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "616",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ugraldı",
+      "anlam": "O bölgelere gitmeye niyetlenildi",
+      "ornek_metin": "ol yerke ugraldı: O bölgelere gitmeye niyetlenildi.",
+      "cekimler": [
+        "ugralur",
+        "ugralmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "616",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ugraşdı",
+      "anlam": "İki düşman birbirine doğru yöneldi",
+      "ornek_metin": "ekkiyagı ugraşdı: İki düşman birbirine doğru yöneldi",
+      "cekimler": [
+        "ugraşur",
+        "ugraşmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "616",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "uğrattı",
+      "anlam": "O, beni işe yönlendirdi",
+      "ornek_metin": "ol meni işqa uğrattı: O, beni işe yönlendirdi.",
+      "cekimler": [
+        "ugratur",
+        "uğratmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "617",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "uguq",
+      "anlam": "Çizme",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "617",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "uğur",
+      "anlam": "İmkân; fırsat; bir işin gerçekleşmesinin olanaklı olması",
+      "ornek_metin": "bu iş ugurlug boldı: Bu işin gerçekleşmesi mümkün hale geldi",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "617",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "uğur",
+      "anlam": "Bir şeye karşılık olarak alınan armağan (ivâz)",
+      "ornek_metin": "atqa uğur aldım: Ata karşılık (bir şey) aldım",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Oğuz lehçesi",
+      "kaynak_sayfa": "617",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "uğur",
+      "anlam": "Zaman; vakit",
+      "ornek_metin": "ne uğurda keldıng: Ne zaman geldin?",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "617",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "uğur",
+      "anlam": "Saltanat (devlet)",
+      "ornek_metin": "beg ugurinda menig işim etildi: Benim işlerim beyin saltanatı sırasında refaha kavuştu",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "617",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "uğur",
+      "anlam": "Hayır ve bereket (uğur)",
+      "ornek_metin": "yol uğur bolsün: Yolun uğurlu olsun",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Oğuz lehçesi",
+      "kaynak_sayfa": "617",
+      "notlar": "Bu ifade yalnızca bir yolculuk söz konusu olduğunda kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "uğurladı",
+      "anlam": "Adam işi erteledi ve sonra tam zamanında gerçekleştirdi",
+      "ornek_metin": "er işin uğurladı: Adam işi erteledi ve sonra tam zamanında gerçekleştirdi.",
+      "cekimler": [
+        "uğurlar",
+        "ugurlâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "617",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "uğurladı",
+      "anlam": "Adam malları çaldı",
+      "ornek_metin": "er tawâr ogurlâdı: Adam malları çaldı",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "617",
+      "notlar": "Bu eyleme ilişkin açıklama ogn (hırsız) sözcüğünden türetildiği yönündedir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "uğurlandı",
+      "anlam": "Bir şeyin vakti geldi - icra edilmesi için doğru zaman geldi",
+      "ornek_metin": "uğurlandı neng: Bir şeyin vakti geldi - icra edilmesi için doğru zaman geldi.",
+      "cekimler": [
+        "ugurlanur",
+        "ugurlanmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "617",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "uğurlandı",
+      "anlam": "Yol uğurlu (mübarek) oldu",
+      "ornek_metin": "yöl uğurlandı: Yol uğurlu (mübarek) oldu.",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "617",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "uğurlandı",
+      "anlam": "Armağan edilen ata karşılık olarak bir şey verildi",
+      "ornek_metin": "at uğurlandı: (Armağan edilen) ata karşılık olarak bir şey verildi",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "Oğuz lehçesi",
+      "kaynak_sayfa": "617",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ugurlug",
+      "anlam": "Tam zamanında yapılan (münasip) iş",
+      "ornek_metin": "ugurlug iş: Tam zamanında yapılan (münasip) iş.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "617",
+      "notlar": "",
+      "kontrol_gerekli": false
+    }
+  ]
+}

@@ -1,0 +1,793 @@
+{
+  "chunk_no": 130,
+  "kaynak_sayfa_baslangic": 645,
+  "kaynak_sayfa_bitis": 649,
+  "kelimeler": [
+    {
+      "kelime": "xafsı",
+      "anlam": "Hokka.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "645",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "xalaç",
+      "anlam": "bkz. türkmen.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "belirsiz",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "645",
+      "notlar": "qâl aç olarak da geçer.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "xân",
+      "anlam": "Onların [Türklerin] en büyük hakanı. Afrâsiyab'ın torunlarına bu ad verilir. Afrâsiyâb, Xâqân'dır [Hâqân].",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "645",
+      "notlar": "Bu adın verilişine ilişkin uzun bir hikâye vardır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "xanda",
+      "anlam": "bkz. qanu; qanda.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "belirsiz",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "645",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "xara",
+      "anlam": "bkz. xün.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "belirsiz",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "645",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "xasni",
+      "anlam": "Bebeklerin büyümesi için kaymağın içine katılarak yedirilen bir Hint ilacı.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "645",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "xayu",
+      "anlam": "bkz. qayu; qanu.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "belirsiz",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "645",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "xıtây",
+      "anlam": "Orta Çin.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "645",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "xıyâr",
+      "anlam": "bkz. maraz.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "belirsiz",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "645",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "xız",
+      "anlam": "bkz. qız.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "belirsiz",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "645",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "xoc xoc",
+      "anlam": "Keçileri güderken kullanılan bir ifade.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "ünlem",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "645",
+      "notlar": "Bu hı yazacının, bir değişik sesletimleri olmaksızın kullanıldığı yegâne örnektir ve Arapça çevriyazıda h olan bu yazaç burada x olarak geçmektedir -çn.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "xuçünek",
+      "anlam": "bkz. çüçûnek.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "belirsiz",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "645",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "xulırig",
+      "anlam": "Çin’den getirilen, pek çok renkte olabilen bir ipek.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "645",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "xumâru",
+      "anlam": "Miras.",
+      "ornek_metin": "büm atamdan xumâru buldum: Bunu babamdan miras olarak aldım.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "645",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "xumâru",
+      "anlam": "Hatıra (tezkire) olan bir mal.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "645",
+      "notlar": "Bu, Türklerin bir geleneğidir; bir ilin şefi öldüğünde zenginliğinin önemli bir kısmı Hakan için ayrılır. Ayrılan bu zenginliğe xumâru: ondan bir hatıra denir. Bu sözcük bir erkek adı ya da bir kadın adı olarak da kullanılır. Aynı zamanda yolculuğa çıkan bir kimse, kendisini hatırlamaları için hısımlarına bir şeyler bırakır ve buna da xumâru denir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "xumâru ulandı",
+      "anlam": "Adama miras kaldı.",
+      "ornek_metin": "er xumârülandı: Adama (bir dostundan ya da başka birinden) miras kaldı.",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "645",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "xün",
+      "anlam": "Kaba, nazik olmayan bir şey; hantal, beceriksizce hareket etme.",
+      "ornek_metin": "xün iş: Kaba, nazik olmayan bir şey; xün xara işleme: Hantal, beceriksizce hareket etme.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "645",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "xutu",
+      "anlam": "Çin’den getirilen bir balık duyargası veya bıçak sapı yapılan bir ağaç kökü. Yemeklerin zehirli olup olmadığını anlamaya yarar.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "645",
+      "notlar": "Çorba ya da başka bir yemek bir kapta bununla karıştırılır; eğer içerisinde zehir varsa altında ateş olmamasına rağmen yemek kaynamaya başlar. Yine bu duyarga kabın içine konduğunda duman çıkmamasına rağmen kabın kenarları buğulanır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "xuzâr",
+      "anlam": "Türklerin ülkesinde bir yer adı.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "645",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ya",
+      "anlam": "Yay.",
+      "ornek_metin": "qurmış kiriş tügûlmes, uqruqun tâg egilmes: Serilmiş yay teli bağlanmaz, (yüksek) dağ kementle eğilmez.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "646",
+      "notlar": "Örnek cümlede bir hata söz konusudur, ya: yay sözcüğü yerine kiriş: yayın iki ucu arasında gerili olan tel sözcüğü kullanılmıştır -çn. Bu atasözü, birine, önemli bir işe zayıf bağlarla bağlanmamasını öğütlemek için kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ya",
+      "anlam": "Reddetme bildiren bir ilgeç.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "edat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "646",
+      "notlar": "bkz. va",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yabâqu",
+      "anlam": "Bir Türk kavmi.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "646",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yabçân",
+      "anlam": "Pelinotu.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "646",
+      "notlar": "yawçân bir değişik sesletimdir; kural uyarınca w, b’ye dönüşür.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yabîtaq",
+      "anlam": "Üzerinde eyeri ya da eyer örtüsü bulunmayan at.",
+      "ornek_metin": "yabîtaq at: Üzerinde eyeri ya da eyer örtüsü bulunmayan at. ol atıgyabhaq müridi: O, üzerinde eyer olmaksızın atı sürdü.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "646",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yaçandı",
+      "anlam": "İşi yapmakta başarısız olduğu için mahcup olmak.",
+      "ornek_metin": "ol mendin yaçandı: O, işi yapmakta başarısız olduğu için (benim önümde) mahcup oldu.",
+      "cekimler": [
+        "yaçanür",
+        "yaçanmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "646",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yadâg",
+      "anlam": "Yayan olan kimse; yaya.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "646",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yadırig",
+      "anlam": "Bir zemine yayılan sığ su.",
+      "ornek_metin": "yadırig süw: Bir zemine yayılan sığ su.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "646",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yadaglıq",
+      "anlam": "Yayan olarak seyahat etmek; yayalık.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "646",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yadıglıg",
+      "anlam": "Yayılmış döşek.",
+      "ornek_metin": "yadıglıg töşek: Yayılmış döşek.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "646",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yadıldı",
+      "anlam": "Yayılmak, dağılmak, serilmek.",
+      "ornek_metin": "Sû yadıldı : Asker [başka bir şey de olabilir] yayıldı [dağıldı). töıig kânke yadıldı: Giysi güneşin önüne yayıldı [serildi).",
+      "cekimler": [
+        "yadlar",
+        "yadılmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "646",
+      "notlar": "Yayılan [serilen] herhangi bir şeyi anlatmak için bu sözcük kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yadıldı",
+      "anlam": "Yağın bir şeyin üzerinde yayılması.",
+      "ornek_metin": "yâg tonda yadıldı: Yağ giysinin [başka bir şeyin de olabilir] üzerinde yayıldı.",
+      "cekimler": [
+        "yadlur",
+        "yadılmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "646",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yadım",
+      "anlam": "Döşek; yaygı [halı, kilim].",
+      "ornek_metin": "mekjerî’ye [“serilecek şey”] tülügyadım: tüylü yaygı [halı] denir.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "646",
+      "notlar": "Buradaki sözcük mekferi değil fogfûrî (“Çin işi - Çin halısı”) de olabilir -çn. Bu sözcük özgün dile ait değildir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yadındı",
+      "anlam": "Güneşte yaymak, sermek.",
+      "ornek_metin": "ol nengni künke yadındı: O, nesnesini güneşe yaya, sermiştir. Güneş altındaki şeyler için de kullanılır.",
+      "cekimler": [
+        "yadınür",
+        "yadınmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "646-647",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yadışdı",
+      "anlam": "Döşek yayma işinde yardım etmek veya bu işte yarışmak.",
+      "ornek_metin": "ol manga töşek yadışdı: O, döşek yayma işinde ona yardım etti.",
+      "cekimler": [
+        "yadışûr",
+        "yadışmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "647",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yadışdı",
+      "anlam": "Askerlerin her yana yayılması, dağılması veya mürekkebin kâğıtta dağılması.",
+      "ornek_metin": "sû yadışdı: Askerler her yana yayıldı [dağıldı].",
+      "cekimler": [
+        "yadlışür",
+        "yadlışmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "647",
+      "notlar": "Bir şeyin başka bir şey üzerinde, örneğin ince mürekkebin kötü kâğıt üzerinde dağılmasını anlatmak için de bu sözcük kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yadsâdı",
+      "anlam": "Döşek yaymak istemek ve neredeyse yapacak olmak.",
+      "ornek_metin": "ol töşek yadsâdı: O, döşek yaymak istedi ve bunu neredeyse yapıyordu.",
+      "cekimler": [
+        "yadsâr",
+        "yadsâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "647",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yadsâdı",
+      "anlam": "Askerini yaymak, her yana dağıtmak istemek veya hamurun açılacak olduğunu anlatmak.",
+      "ornek_metin": "ol sû yadsâdı: O, askerini [başka bir şeyi de olabilir] yaymak [her yana dağıtmak] istedi.",
+      "cekimler": [
+        "yadsâr",
+        "yadsâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "647",
+      "notlar": "Hamurun açılmak üzere olduğunu anlatmak için de bu sözcük kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yâdtı",
+      "anlam": "Bir şeyi, örneğin tepsi üzerine ekmeği yaymak.",
+      "ornek_metin": "ol yâdtı nengni: O, bir şeyi -örneğin tepsi üzerine ekmeyi- yaydı.",
+      "cekimler": [
+        "yadâr",
+        "yadmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "647",
+      "notlar": "bkz. yattı.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yâg",
+      "anlam": "Sıvı yağ.",
+      "ornek_metin": "sâeyâg: Tereyağı [sağyağ].",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Oğuz",
+      "kaynak_sayfa": "647",
+      "notlar": "Oğuzlar “içyağı”na yâg der.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yâğan",
+      "anlam": "Fil.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "647",
+      "notlar": "İki deftik sesletimden biri [bkz. yâgân]. yâgân biçimindeki bir erkek adında da kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yaganlıg",
+      "anlam": "File bakan kimse; fil çobanı.",
+      "ornek_metin": "yaganhg er: File bakan kimse; fil çobanı.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "647",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yagâq",
+      "anlam": "Ceviz.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "647",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yagaqlig",
+      "anlam": "Cevizli ağaç.",
+      "ornek_metin": "yagaqlig yıgâç: Cevizli ağaç.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "647",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yagaqlıq",
+      "anlam": "Cevizlik; ceviz korusu.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "647",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yağdı",
+      "anlam": "Yağmur yağmak.",
+      "ornek_metin": "yağmur yağdı: Yağmur yağdı. qutlugqa (qut) qoşayagâr: Baht, açık adamın üzerine çifte şans yağar.",
+      "cekimler": [
+        "yağar",
+        "yagmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "647",
+      "notlar": "Karın ve dolunun yağışını anlatmak için de bu sözcük kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yağı",
+      "anlam": "Düşman.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "648",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yagîlâdı",
+      "anlam": "Düşmanlık etmek, düşmanla savaşmak.",
+      "ornek_metin": "ol anı yagîlâdı: O, ona karşı düşmanlık etti; er yağı yagîlâdı: Adam düşmanla savaştı.",
+      "cekimler": [
+        "yagîlâr",
+        "yagîlâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "648",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yağıldı",
+      "anlam": "Yağdırılmak.",
+      "ornek_metin": "yağmur yağıldı: Yağmur [başka bir şey de olabilir] yağdırıldı.",
+      "cekimler": [
+        "yagılür",
+        "yagılmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "648",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yagıqtı",
+      "anlam": "Birbirine düşman olmak.",
+      "ornek_metin": "begler bir bırke yagıqtı: İki bey birbirine düşman oldu.",
+      "cekimler": [
+        "yagıqâr",
+        "yagıqmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "648",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yağır",
+      "anlam": "Bir hayvanın sırtındaki yara; eyerin sürtünmesi sonucu oluşan yara.",
+      "ornek_metin": "yagırlig at: Yağırlı at.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "648",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yagırlâdı",
+      "anlam": "Atın yağırını iyileştirmek.",
+      "ornek_metin": "ol atın yagırlâdı: O, atın yağırını iyileştirdi.",
+      "cekimler": [
+        "yagırlâr",
+        "yagırlâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "648",
+      "notlar": "“Yağır oluşmasına neden olma”yı anlatmak için de atıg yagrıttı: O, atın sırtında yağır oluşmasına neden oldu denir. Bu Arapçadaki teribe (“yoksul olma”) ile etrebe (“zengin olma”) ve qaseta (“hatalı davranma”) ile aqseta (“uygun davranma”) kullanımlarına benzer.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yagırlandı",
+      "anlam": "Devede (başka bir hayvanda da olabilir) pek çok eyer yağırı oluşmak.",
+      "ornek_metin": "tewe yagırlandı: Devede [başka bir hayvanda da olabilir) pek çok eyer yağırı oluştu.",
+      "cekimler": [
+        "yagırlanûr",
+        "yagırlanmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "648",
+      "notlar": "Hayvanın yağır nedeniyle kaşınmasını anlatmak için de bu sözcük kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yagırlıg",
+      "anlam": "Yağırlı deve veya başka bir hayvan.",
+      "ornek_metin": "yagırlig tewe: Yağırlı deve [başka bir hayvan da olabilir].",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "648",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yağış",
+      "anlam": "Kâfirlerin putları için bir sunu olarak ya da bir adağa istinaden kestikleri kurban hayvanı.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "648",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yagıtgân",
+      "anlam": "Yağmuru yağdıran Cenab-ı Hak.",
+      "ornek_metin": "tengri ol yağmur yagıtgân: Yağmuru yağdıran Cenab-ı Hakk’tır.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "648",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yagıtgân",
+      "anlam": "Barıştan sonra düşmanlığı sürdüren kimse.",
+      "ornek_metin": "ol kişi ol tutçı yagıtgân: O, barıştan sonra düşmanlığı sürdüren bir kimsedir.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "648",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yagıttı",
+      "anlam": "Yağmur yağdırmak.",
+      "ornek_metin": "tengri yağmur yagıttı: Allah yağmur yağdırdı.",
+      "cekimler": [
+        "yagıtür",
+        "yagıtmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "648",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yağız",
+      "anlam": "Koyu kahverengi; kızıl ile siyah arasındaki bir renk.",
+      "ornek_metin": "yağız at : Yağız at.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "648-649",
+      "notlar": "“Dünya” buna benzetilir ve yağız yer denir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yağladı",
+      "anlam": "Deriyi veya başka bir şeyi yağlamak.",
+      "ornek_metin": "er qoguş yaglâdı: Adam deriyi [başka bir şeyi de olabilir] yağladı.",
+      "cekimler": [
+        "yağlar",
+        "yaglâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "649",
+      "notlar": "Kök-biçimi yâglâdı’dır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yağlandı",
+      "anlam": "Bir şeyin yağlanması, üzerine yağ sürülmesi.",
+      "ornek_metin": "yağlandı neng: Bir şey yağlandı [üzerine yağ sürüldü].",
+      "cekimler": [
+        "yaglanûr",
+        "yaglanmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "649",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yağlattı",
+      "anlam": "Derinin veya başka bir şeyin yağlanmasını emretmek.",
+      "ornek_metin": "ol qoguşnı yağlattı: O, derinin [başka bir şeyin de olabilir] yağlanmasını emretti.",
+      "cekimler": [
+        "yaglatûr",
+        "yağlatmaq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "649",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yağma",
+      "anlam": "Bir Türk kavmi.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "649",
+      "notlar": "Bunlara qara yağma da denir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yağma",
+      "anlam": "Taraz [Talâs] kenti yakınlarındaki bir köyün adı.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "649",
+      "notlar": "Bu kullanım ilk kullanımdan hareketle söz konusu olmuştur.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yağmalarandı",
+      "anlam": "Yağma üslubunda giyinmek ve onlar gibi davranmak.",
+      "ornek_metin": "er yağmalandı: Adam Yağma üslubunda giyindi ve onlar gibi davrandı.",
+      "cekimler": [
+        "yagmalanür",
+        "yagmalanmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "649",
+      "notlar": "Bu [anlam olarak, Arapçadaki] vegayse ’aylâne ve men tegayyese (...) ya da tema'dada r-racul (...) ifadelerine benzer.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yağmur",
+      "anlam": "Yağmur.",
+      "ornek_metin": "neçe me opraq kedük erse yagmurqa yarâr: Kepenek ne kadar eskimiş olursa olsun, yağmurda işe yarar. quydı bulıt yagmurm / Bulut yağmurunu koyuverdi / kerip tutar aq torîn / Sererek beyaz ağını gökyüzüne / qırqa qodtı öl qarın / Bırakb karnı dağın üzerinde / aqın aqar angraşûr / Oradan akar sel inleyerek ve gürleyerek",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "649",
+      "notlar": "Yamgur bir değişik sesletimdir. Atasözü ve dörtlük açıklamaları metinde yer almaktadır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yagmurçıl",
+      "anlam": "Çok fazla yağmur alan yer - yağmurlu yer.",
+      "ornek_metin": "yagmurçıl yer: Çok fazla yağmur alan yer - yağmurlu yer.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "649",
+      "notlar": "Bu bir kuraldır; bir şey başka bir şey üzerindeki etkisini hiç durmadan sürdürürse, söz konusu etkiyi yaratan eylemin türediği ada sonek olarak cim (ç, c) gelir.",
+      "kontrol_gerekli": false
+    }
+  ]
+}

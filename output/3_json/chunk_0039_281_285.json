@@ -1,0 +1,701 @@
+{
+  "chunk_no": 39,
+  "kaynak_sayfa_baslangic": 281,
+  "kaynak_sayfa_bitis": 285,
+  "kelimeler": [
+    {
+      "kelime": "ıq",
+      "anlam": "Soğuk su içilip hemen sonrasında ekmek yenildiğinde ortaya çıkan hıçkırık.",
+      "ornek_metin": "anı ıq tuttı: Onu hıçkırık tuttu.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "281",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ıqılâç",
+      "anlam": "Hızlı, çevik at.",
+      "ornek_metin": "atın sırtını yara yapma. Bu atasözüyle beylere öğüt verilir. Şu dörtlükte de kullanılır, ıqılâçım erig boldı: Çevik atm tez canlılıkla doludizgin koştu erig bolgu yeri kördi: Çünkü bunun gerekli olduğunu gördü bulıt örüp kök örtüldi: Göğü kaplayan bulut yükseldiğinde tuman türup tolı yağdı: (Ve) hava puslanıp, dolu boşandığında",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "281",
+      "notlar": "alp erigyawntma ıqîldç arqâsın yagrıtma: Yiğit kişiye zarar verip onu zayıf düşürme, çevik ol",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ır",
+      "anlam": "bkz. yır.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "belirsiz",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "281",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ırgâdı",
+      "anlam": "Ağacı salladı.",
+      "ornek_metin": "yıgdç ırgâdı: O (meyvesini düşürmek için) ağacı salladı. Başka şeyleri sallamayı anlatmak için de kullanılabilir",
+      "cekimler": [
+        "ırgdr",
+        "ırgâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "281",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ırgâg",
+      "anlam": "Kaynağındaki buzu depoya çekip götürmek için kullanılan çengeli demir.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "281",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ırgaldı",
+      "anlam": "Ağaç sallandı.",
+      "ornek_metin": "yıgdç ırgaldı: Ağaç sallandı. Silkelenen, sarsılan herhangi bir şeyi anlatmak için de bu sözcük kullanılır.",
+      "cekimler": [
+        "ırgalur",
+        "ırgalmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "281",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ırgan",
+      "anlam": "Ağaç silkelendi ve sallandı.",
+      "ornek_metin": "yıgâç ırgandı: Ağaç silkelendi ve sallandı.",
+      "cekimler": [
+        "ırganür",
+        "ırganmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "281",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ırgattı",
+      "anlam": "Ağacı [başka bir şeyi de olabilir] sallattı.",
+      "ornek_metin": "ol yıgdç ırgattı: O, ağacı [başka bir şeyi de olabilir] sallattı. Şu dörtlükte de kullanılır, (Bir şöleni anlatıyor) yigitlerig ışlatu: Gençleri çalıştırarak badram qıhp awnalım: Bayram yapıp zaman geçirelim",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "281",
+      "notlar": "yıgâç yemiş ırgatu: (Onlara) ağaçlan sallatıp meyve toplatarak qulân keyik awlatu: Yabân eşeklerini ve vahşi hayvanlan avlatarak",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ırq",
+      "anlam": "Gaipten haber vermek, kehanetlerde bulunmak, saklı olanı ifşa etmek.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "281",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ırıgrattı",
+      "anlam": "O, onu inletti.",
+      "ornek_metin": "ol anı ınğrattı: O, onu inletti.",
+      "cekimler": [
+        "ıngratür",
+        "ıngratmdcj"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "281",
+      "notlar": "Metinde 'ırıgrattı' başlığı altında 'ol anı ınğrattı' örneği verilmiştir.",
+      "kontrol_gerekli": true
+    },
+    {
+      "kelime": "ırqlâdı",
+      "anlam": "Şaman kehanette bulundu.",
+      "ornek_metin": "qâm ırqlâdı: Şaman kehanette bulundu.",
+      "cekimler": [
+        "ırqldr",
+        "ırqlâmaq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "282",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ırra",
+      "anlam": "Utanç.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "282",
+      "notlar": "Hem ir hem de ırra biçiminde kullanılabilir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ısırdı",
+      "anlam": "Köpek ısırdı.",
+      "ornek_metin": "ıt ısırdı: Köpek ısırdı. Şu atasözünde de geçer, ıt tsırmas, at tepmes teme: Köpek ısırmaz, at tepmez deme - çünkü yapmaları olası olan hareketler bunlardır.",
+      "cekimler": [
+        "ısırur",
+        "ısırmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "282",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ısırgan",
+      "anlam": "Isıran köpek.",
+      "ornek_metin": "ısırgan ıt: Isıran köpek",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "282",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ısırttı",
+      "anlam": "Birinin bir şeyi ısırmasına neden oldu.",
+      "ornek_metin": "o! angar etmek ısırttı: O, onun ekmeği (başka bir şeyi de olabilir) ısırmasına yol açb. Birinin bir şeyi ısırmasına neden olan herhangi biri için de bu sözcük kullanılır.",
+      "cekimler": [
+        "ısırtür",
+        "ısırtmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "282",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ısra",
+      "anlam": "“Buranın ötesinde, ilerisinde” anlamına gelen bir ilgeç.",
+      "ornek_metin": "ol andan ısra ol: O, bundan ileridedir",
+      "cekimler": [],
+      "kelime_turu": "edat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "282",
+      "notlar": "bkz. asra.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ısrıldı",
+      "anlam": "Ekmek [başka bir şey de olabilir] ısırıldı.",
+      "ornek_metin": "etmek ısrıldı: Ekmek İbaşka bir şey de olabilir] ısınldı.",
+      "cekimler": [
+        "isrtlur",
+        "ısrılmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "282",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ısrım",
+      "anlam": "Dişlerini sıkmış ve (öfkeli bir biçimde) kaşlarını çatmış adam.",
+      "ornek_metin": "ısrım kişi: Dişlerini sıkmış ve (öfkeli bir biçimde) kaşlarını çatmış adam.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "282",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ısrındı",
+      "anlam": "Adam öfkeyle dişlerini sıktı.",
+      "ornek_metin": "er ışt ındı: Adam öfkeyle dişlerini sıktı.",
+      "cekimler": [
+        "ısrınur",
+        "ısrmmdq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "282",
+      "notlar": "Bunun kök-anlamı karnabahar veya benzer şeylerin üzerine iyice pişmeden önce soğuk su dökülmesiyle birlikte bunlann artık pişemeyecek duruma gelmesi ve çiğ kalmasıyla ilişkilidir. Yumuşak huylu bir kimsenin haşinleşmesini anlatmak için de bu sözcük kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ısrıq",
+      "anlam": "Göz değmesi veya nazara maruz kalan çocuğu iyileştirmek için söylenen bir sözcük.",
+      "ornek_metin": "Mağdurun yüzüne tütsü tutularak tsrıq ısrıq: ey cin ısıtılmış ol! denir.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "282",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ısrıştı",
+      "anlam": "İki aygır [başka hayvanlar da olabilir] birbirini ısırdı.",
+      "ornek_metin": "ekki adgir birle ısnştı: İki aygır İbaşka hayvanlar da olabilir] birbirini ısırdı.",
+      "cekimler": [
+        "ısrışür",
+        "ısrışmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "282",
+      "notlar": "Isırma konusunda yardım etmeyi ya da bu konuda boy ölçüşmeyi anlatmak için de bu sözcük kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ıssız",
+      "anlam": "bkz. essiz.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "belirsiz",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "282",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "iş",
+      "anlam": "İş; mesele; olay.",
+      "ornek_metin": "ne fşıng bâr: Ne işin var?",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "283",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ışgun",
+      "anlam": "Ravendiye, ışkın.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "283",
+      "notlar": "Karabuğdaygillerden, süs bitkisi veya sebze olarak yetiştirilen, yaprak veya saplarından reçel yapılan, tedavi edici olarak da kullanılan bir bitki -çn",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "îşlandı",
+      "anlam": "Adam iş yapıyormuş gibi gözüktü / Duman eve sindi ve onu kararttı.",
+      "ornek_metin": "er îşlandı: Adam iş yapıyormuş gibi gözüktü. ew îşlandı: Duman eve sindi ve onu kararttı.",
+      "cekimler": [
+        "îşlanur",
+        "îşlanmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "283",
+      "notlar": "Giysi ve benzer şeylerin işten kararmasını anlatmak için de bu sözcük kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ıt",
+      "anlam": "Köpek.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "283",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ıtlâdı",
+      "anlam": "O, ona hakaret etti ve onu aşağıladı; onu bir köpekmiş gibi gördü.",
+      "ornek_metin": "ol anı ıtlâdı: O, ona hakaret etti ve onu aşağıladı; onu bir köpekmiş gibi gördü.",
+      "cekimler": [
+        "ıtlâr",
+        "ıtlâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "283",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ıthg",
+      "anlam": "Köpeği olan ev.",
+      "ornek_metin": "ıtlıg ew: Köpeği olan ev.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "283",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ıwıq",
+      "anlam": "Sıklıkla kayalık arazilerde ve çöllerde görülen dişi ceylan.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "283",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "iyindi",
+      "anlam": "Adam sıçarken ıkındı.",
+      "ornek_metin": "(ol) er iyindi: Adam sıçarken ıkındı.",
+      "cekimler": [
+        "lynur",
+        "iymmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "283",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ızdang",
+      "anlam": "Balık avlamaya yarayan bir çeşit ağ.",
+      "ornek_metin": "İnce çubuklar dereyi dik kesecek bir sıra oluşturacak şekilde suyun içine dizilir ve ortalarında bir boşluk bırakılır; bu açık ağzın olduğu yere ağ atılır. Balık içine girdiği an ağ hızla çekilir.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "283",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "iç",
+      "anlam": "Herhangi bir şeyin iç kısmı.",
+      "ornek_metin": "iç qur. İç kuşamı, uçkur; iç söz: Yürekteki gizli şey, sır; iç et: Ciğere yapışık olan ince et tabakası",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "284",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "içdi",
+      "anlam": "Adam su [başka bir şey de olabilir] içti.",
+      "ornek_metin": "er süw içdi: Adam su (başka bir şey de olabiliri içti. Bir şeyi içen ya da bir sıvıyı emen herhangi bir şeyi anlatmak için bu sözcük kullanılır.",
+      "cekimler": [
+        "içer",
+        "içmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "284",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "içegü",
+      "anlam": "Kaburga kemikleri tarafından çevrilen şeylerin tümüne verilen ad.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "284",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "içgerdi",
+      "anlam": "O, atını [başka bir şeyi de olabilir] evin içine soktu / O, onun hakkında beyi [başka birini de olabilir] yanlış bilgilendirdi; ona iftira attı.",
+      "ornek_metin": "ol atın ewke içgerdi: O, atını [başka bir şeyi de olabilir] evin içine soktu. ol anı begke içgerdi: O, onun hakkında beyi [başka birini de olabilir] yanlş bilgilendirdi; ona iftira attı.",
+      "cekimler": [
+        "içgerür",
+        "içgermek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "284",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "içikti",
+      "anlam": "Adam düşmana boyun eğdi ve onların safına geçti.",
+      "ornek_metin": "er içikti: Adam düşmana boyun eğdi ve onların safına geçti.",
+      "cekimler": [
+        "içiker",
+        "içikmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "284",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "içildi",
+      "anlam": "Su [başka bir şey de olabilir] içildi.",
+      "ornek_metin": "SÜW İçildi: Su [başka bir şey de olabilir) içildi.",
+      "cekimler": [
+        "içlür",
+        "içilmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "284",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "için",
+      "anlam": "“Arasındalık” ifade eden bir ilgeç.",
+      "ornek_metin": "olâr için etişdiler: Onlar kendi aralannda barıştılar",
+      "cekimler": [],
+      "kelime_turu": "edat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "284",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "içişdi",
+      "anlam": "O, süt [başka bir şey dc olabilir] içme konusunda benimle aşık attı.",
+      "ornek_metin": "ol menig birle süt içişdi: O, süt [başka bir şey dc olabilir) içme konusunda benimle aşık attı.",
+      "cekimler": [
+        "içişür",
+        "içişmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "284",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "içkin",
+      "anlam": "Taraf değiştiren ve eskiden düşman olduğu saflarda şimdi kendisine koruma sağlanan adam.",
+      "ornek_metin": "içkin er: Taraf değiştiren ve eskiden düşman olduğu saflarda şimdi kendisine koruma sağlanan adam",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "284",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "içkü",
+      "anlam": "İçilen herhangi bir şey.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "284",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "içledi",
+      "anlam": "O, giysiye astar dikti.",
+      "ornek_metin": "ol töngug içledi: O, giysiye astar dikti.",
+      "cekimler": [
+        "içler",
+        "içlemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "284",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "içlendi",
+      "anlam": "Ekin içlendi, taneler gelişti.",
+      "ornek_metin": "tang içlendi. Ekin içlendi, taneler gelişti.",
+      "cekimler": [
+        "içlenür",
+        "içlenmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "284-285",
+      "notlar": "Ortası yenilen herhangi bir şeyin bu kısmının olgunlaştığını anlatmak için de bu sözcük kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "içlik",
+      "anlam": "Eyer kumaşı.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "285",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "içmek",
+      "anlam": "Koyun ya da kuzu postu.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "285",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "içmeklendi",
+      "anlam": "Adam kuzu postu giydi - kuzu postuna sahip oldu.",
+      "ornek_metin": "er içmeklendi: Adam kuzu postu giydi - kuzu postuna sahip oldu.",
+      "cekimler": [
+        "içmeklenür",
+        "içmeklenmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "285",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "içrüşdi",
+      "anlam": "O, bana su içme konusunda yardım etti.",
+      "ornek_metin": "ol manga suw içrüşdi: O, bana su içme konusunda yardım etti. Bu konuda meydan okumayı anlatmak için de bu sözcük kullanılır.",
+      "cekimler": [
+        "içrüşür",
+        "içrüşmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "285",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "içsedi",
+      "anlam": "O, su [başka bir şey de olabilir] içmek istedi.",
+      "ornek_metin": "ol SÛVV İçsedi: O, SU [başka bir şey de olabilir] içmek istedi,",
+      "cekimler": [
+        "içser",
+        "içsemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "285",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "içtonlandı",
+      "anlam": "bkz. iştonlandı.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "belirsiz",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "285",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "içtürdi",
+      "anlam": "O, bana su [başka bir şey de olabilir] içirdi.",
+      "ornek_metin": "ol manga süw içtürdi: O, bana su Ibaşka bir şey de olabilir] içirdi. Şu atasözünde de geçer, süw içürmeskc süt ber: (Sana) su içirmeyene içmesi için süt ver - Sana kötülük edene, iyilikle karşılık ver.",
+      "cekimler": [
+        "içtürür",
+        "içtürmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "285",
+      "notlar": "Aynı anlamı verecek şekilde içürdi de denir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "içük",
+      "anlam": "Samur ya da sincap kürkü.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "285",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "içükledi",
+      "anlam": "O, giysisine (samur, sincap ya da benzeri hayvanlara ait) kürk diktirdi.",
+      "ornek_metin": "ol tönug içükledi: O, giysisine (samur, sincap ya da benzeri hayvanlara ait) kürk diktirdi.",
+      "cekimler": [
+        "içükler",
+        "içüklemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "285",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "içürdi",
+      "anlam": "O, ona su [başka bir şey de olabilir] içirdi.",
+      "ornek_metin": "ol angar SÜW İçürdi: O, ona SU [başka bir şey de olabilir] içirdi,",
+      "cekimler": [
+        "içürür",
+        "içürmik"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "285",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "içürgen",
+      "anlam": "Bu adam sık sık insanlara şarap verir.",
+      "ornek_metin": "bu er ol telim süçig içürgen: Bu adam sık sık insanlara şarap verir",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "285",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "idiş",
+      "anlam": "Kadeh, çanak, kap, tas.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Yağma, Tuxsı, Yemek, Oğuz ve Argu lehçelerinde",
+      "kaynak_sayfa": "285",
+      "notlar": "Yağma, Tuxsı, Yemek, Oğuz ve Argu lehçelerinde her türlü çanak, kap ya da tas idiş olarak adlandırılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "idi",
+      "anlam": "Efendi (seyyid, mevlâ).",
+      "ornek_metin": "idimizyarltgı: Rabbimizin buyruğu.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "285",
+      "notlar": "Allahü-teâlâ’ya da idi denir [bu sözcük malik, sahip ve Allah anlamlarıyla çeşitli örneklerde kullanılmıştır -çn ].",
+      "kontrol_gerekli": false
+    }
+  ]
+}

@@ -1,0 +1,701 @@
+{
+  "chunk_no": 121,
+  "kaynak_sayfa_baslangic": 609,
+  "kaynak_sayfa_bitis": 613,
+  "kelimeler": [
+    {
+      "kelime": "türüşdi",
+      "anlam": "Şiirde geçen anlam bağlamına göre; gönlün erdemle dürülmesi, toparlanması.",
+      "ornek_metin": "idimni ögermen / Tanrıma şükrederim (İhsan ettikleri için) / biligni bögermen / Yetkinliğimi [hikmeti] çoğaltırım (onun inayetiyle) / körîgülni tügermen / Gönlümü (bununla) düğümlerim / erdem üze türlünür / (Çünkü) gönlüm erdemle dürülür",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "609",
+      "notlar": "Şu dörtlükte de kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "türmek",
+      "anlam": "Dürmek.",
+      "ornek_metin": "türm eklendi. / ötmek türmeklendi: Ekmekten dürüm yapıldı.",
+      "cekimler": [
+        "türmeklenür",
+        "türmeklenmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "609",
+      "notlar": "Dürülmüş ekmek anlamındaki türm kelimesi de geçmektedir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "türtti",
+      "anlam": "Sürmek, silmek veya ovmak.",
+      "ornek_metin": "konke yâg türtti: Köseleye yağ sürdü. Herhangi bir sürme ya da silme [ovma] eylemini anlatmak için bu sözcük kullanılır.",
+      "cekimler": [
+        "türter",
+        "türkmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "609",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "türlüldi",
+      "anlam": "Sürülmek.",
+      "ornek_metin": "terîke yâg türtüldi: Deriye [başka bir şeye de olabilir] yağ sürüldü",
+      "cekimler": [
+        "türtülûr",
+        "türtülmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "609",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "türtündi",
+      "anlam": "Kendine sürmek.",
+      "ornek_metin": "ol özınge yâg tûrtündi: O, kendine [kendi üstüne] yağ sürdü.",
+      "cekimler": [
+        "türtünur",
+        "türtünmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "609",
+      "notlar": "Yağ sürüyormuş gibi görünürse yine bu sözcük kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "türtüşdi",
+      "anlam": "Sürme konusunda yarışmak, yardım etmek.",
+      "ornek_metin": "ol menig birle qoguşqa yâg türtüşdi: O, deriye yağ sürme konusunda benimle yarıştı. Herhangi bir şeyin üzerine bir şey sürmeyi ya da sıvamayı anlatmak için de bu sözcük kullanılır.",
+      "cekimler": [
+        "tünüşiir",
+        "türtüşmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "609",
+      "notlar": "OCR metninde 'tünüşiir' olarak geçen geniş zaman formu şüpheli olabilir.",
+      "kontrol_gerekli": true
+    },
+    {
+      "kelime": "türüldi",
+      "anlam": "Dürülmek.",
+      "ornek_metin": "bitig türüldi: Kitap [başka bir şey de olabilir] dürüldü.",
+      "cekimler": [
+        "türlür",
+        "türülmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "609",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "türündi",
+      "anlam": "Kendi kendine dürülmek.",
+      "ornek_metin": "er öz bitiğin türündi: Adam, kendi kitabını kendisi dürdü",
+      "cekimler": [
+        "türnfir",
+        "türünmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "609",
+      "notlar": "Geniş zaman formunda OCR hatası riski (türnfir) bulunmaktadır.",
+      "kontrol_gerekli": true
+    },
+    {
+      "kelime": "türüşdi",
+      "anlam": "Dürmekte yardım etmek, rekabet etmek.",
+      "ornek_metin": "ol martga bitig türüşdi: O, bana kitabı [başka bir şeyi de olabiliri dürmekte yardım etti",
+      "cekimler": [
+        "türüşür",
+        "türüşmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "609",
+      "notlar": "Bu işte rekabet etmeyi anlatmak için de bu sözcük kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tüş",
+      "anlam": "Durma, duraklama yeri ya da zamanı (menzil).",
+      "ornek_metin": "tüş ödi: Durma zaman",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "610",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tuş",
+      "anlam": "Dinlenme [şekerleme yapma] zamanı.",
+      "ornek_metin": "tüş ödi: Dinlenme [şekerleme yapma] zamanı",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "610",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tüş",
+      "anlam": "Açık saçık düşler (afilâm - hulm'un çoğulu).",
+      "ornek_metin": "tüş körmiş oglân: Ergenlik çağına erişmiş [ıslak düş (hulm) görmüş] oğlan",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "610",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tüş",
+      "anlam": "Rüya; rüyet.",
+      "ornek_metin": "tüş yordi: Rüyayı yorumladı",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "610",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tüşdi",
+      "anlam": "İnmek, düşmek.",
+      "ornek_metin": "er attın tüşdi: Adam attan indi. / er tâmdm tüşdi: Adam duvardan düştü. Attan düşmeyi ya da bir yerden düşen herhangi bir şeyi anlatmak için de bu sözcük kullanılır. / tegre awıp egrelim / Düşmanın etrafını çevirelim / attın tüşüp yügrelim / Atlarımızdan inip yayan ilerleyelim / arslanayu kökrelim / Aslanlar gibi kükreyelim / küçi anın kewilsün / Onun gücü böytece zayıflasın / ewek sirigek sütke tüşür: Aceleci sinek süte düşer [ve ölür].",
+      "cekimler": [
+        "tüşer",
+        "tüşmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "610",
+      "notlar": "Atasözü, birine telaşlı davrandırmaması gerektiğini öğütlemek için kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tüşedi",
+      "anlam": "Rüya görmek.",
+      "ornek_metin": "ol tüş tüşedi: O, rüya gördü.",
+      "cekimler": [
+        "tüşer",
+        "tüşemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "610",
+      "notlar": "“İslak bir düş (hulm) görme” işini anlatmak için de bu sözcük kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tüşgün",
+      "anlam": "Kitre ağacı.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "610",
+      "notlar": "Bkz. tûşürgun.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tüşgünlendi",
+      "anlam": "Kitre ağacıyla kaplanmak.",
+      "ornek_metin": "tâg tüşgünlendi: Dağ kitre ağacıyla kaplandı",
+      "cekimler": [
+        "tûşgûnlenür",
+        "tüşgünlenmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "610",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tüşlendi",
+      "anlam": "Yolculukta gün ortasında dinlenmek/uyumak için durmak.",
+      "ornek_metin": "elgin tüşlendi: Yolcu, yola devam etmeden önce, gün ortasında kısa bir süre uyumak için durdu.",
+      "cekimler": [
+        "tüşlenür",
+        "tüşlenmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "610",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tüşlük",
+      "anlam": "Dinlenmek için durma ve konaklama zamanı.",
+      "ornek_metin": "tüşlük Ödi: Dinlenmek için durma ve konaklama zamanı.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "610",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tüşrüm",
+      "anlam": "Eğrilmiş ip yumağı.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Argu lehçesi",
+      "kaynak_sayfa": "611",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tüşük",
+      "anlam": "Miskin, aylak kimse.",
+      "ornek_metin": "tüşük kişi: Miskin, aylak kimse",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "611",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tüşürdi",
+      "anlam": "Düşürmek, inmesine neden olmak.",
+      "ornek_metin": "ol eligdın yarm âq tüşürdi: O, parayı Ibaşka bir şeyi de olabilir] elinden düşürdü. / men anı attın tüşürdûm: Ben, onun attan inmesine neden oldum.",
+      "cekimler": [
+        "tûşürür",
+        "tüşürmeh"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "611",
+      "notlar": "Düşmesine neden olmayı anlatmak için de bu sözcük kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tüşürgü",
+      "anlam": "Bir su kaynağının arkaya açılan ağzı; değirmenden çıkan suyun akıntıyla birleştiği yer ve benzerleri.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "611",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tüşürgün",
+      "anlam": "Kitre ağacı.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "611",
+      "notlar": "Bir değişik sesletimi vardır [bkz. tüşgün].",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tütek",
+      "anlam": "İbrik ya da semaver gibi şeylerin ağzı.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "611",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tütetti",
+      "anlam": "Duman tüttürmek, duman çıkarmak.",
+      "ornek_metin": "öt tütün tütetti: Ateş duman tüttürdü - ateş duman çıkardı.",
+      "cekimler": [
+        "tütetûr",
+        "tütetmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "611",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tütsüg",
+      "anlam": "Kavgacı, huysuz kimse.",
+      "ornek_metin": "tütsüg kişi: Kavgacı, huysuz kimse",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "611",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tütün",
+      "anlam": "Duman.",
+      "ornek_metin": "öt tütünsüz bolmâs / yiğit yâzuqsuz bolmâs / Ateş dumansız olmaz / Senç günahsız durmaz",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "611",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tütürdi",
+      "anlam": "Üstüne salmak, yakalaması için yöneltmek.",
+      "ornek_metin": "ol angar ıt tütürdi: O, onu yakalaması için köpeğini üstüne saldı",
+      "cekimler": [
+        "tütrür",
+        "tütürmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "611",
+      "notlar": "Tütgürdi de denir. Kök-biçimi üç teli (t) olan ıt tüttürdi’dir - teşdîd vardır; daha sonra hafifletme amacıyla bir te (t) atılmıştır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tütüşdi",
+      "anlam": "Avlanma konusunda yardım etmek veya yarışmak; tartışmak.",
+      "ornek_metin": "ol manga keyik tütüşdi: O, bana av hayvanını yakalama işinde yardım etti. Avlanma konusunda yarışmayı anlatmak için de bu sözcük kullanılır. / olâr ekki tütüşdıler: O ikisi tartışb.",
+      "cekimler": [
+        "tütüşür",
+        "tütüşmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "611",
+      "notlar": "Kök-anlam ilk kullanımdaki anlamdır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tüwek",
+      "anlam": "Küçük kuşları vurmak için kullanılan üfleme borusu.",
+      "ornek_metin": "Yaş söğüt ağacının dalının kabuğu çıkartılır [böylece bir üfleme borusu ortaya çıkar]. Bu bir boru gibidir. İçine fındık ya da yuvarlak şeyler konur ve [üflemek suretiyle bu taneleri atarak] küçük kuşlan vurmak için kullanılır.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Çigil lehçesi",
+      "kaynak_sayfa": "611",
+      "notlar": "Böylesi bir boru kamıştan da yapılabilir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tüweklik",
+      "anlam": "Küçük kuşları vurmak için üfleme borusu yapmakta kullanılan dal.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "612",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tüwşedi",
+      "anlam": "Boncuk boncuk terler kaplamak.",
+      "ornek_metin": "anıg teri tüwşedi: Onun her yanını boncuk boncuk terler kapladı",
+      "cekimler": [
+        "tüvvşer",
+        "tüwşemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "612",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tüwşeldi",
+      "anlam": "İp çok fazla kullanıldığı için karışmak.",
+      "ornek_metin": "yıp tüwşeldi: İp çok fazla kullanıldığı için karıştı.",
+      "cekimler": [
+        "tüwşelür",
+        "tüwşelmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "612",
+      "notlar": "Karışan başka şeyler için de kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tüz",
+      "anlam": "Düz, yatay olan herhangi bir şey.",
+      "ornek_metin": "tüz yer: Düz yer.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "612",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tüzdi",
+      "anlam": "Düzene sokmak (teşkilatlandırmak), düzleştirmek.",
+      "ornek_metin": "beg elin tüzdi: Bey ülkesini düzene soktu (teşkilatlandırdı). / Oİ yeıig tüzdi: O, yeri [başka bir şeyi de olabilir] düzleştirdi.",
+      "cekimler": [
+        "tüzer",
+        "tüzmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "612",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tüzerdi",
+      "anlam": "Düzleşmek.",
+      "ornek_metin": "yer tüzerdi: Yer [başka bir şey de olabilir] düzleşti",
+      "cekimler": [
+        "tüzerür",
+        "tüzermek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "612",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tüzeşdi",
+      "anlam": "Düzleştirmekte yardım etmek, rekabet etmek.",
+      "ornek_metin": "ol manga yer tüzeşdi: O, bana yeri [başka bir şeyi de olabilir] düzleştirmekte yardım etti.",
+      "cekimler": [
+        "tüzeşûr",
+        "tüzeşmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "612",
+      "notlar": "Bu işte rekabet etmeyi anlatmak için de bu sözcük kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tüzgürdiüm",
+      "anlam": "Armağan vermek.",
+      "ornek_metin": "men anı tüzgürdiım: Ben ona armağan verdim",
+      "cekimler": [
+        "tüzgürür men",
+        "tüzgiirmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "612",
+      "notlar": "Madde başı OCR metninde 'tüzgüıdüm' şeklinde geçmektedir.",
+      "kontrol_gerekli": true
+    },
+    {
+      "kelime": "tüzlündi",
+      "anlam": "Düzleştirilmek, düzelmek, yoluna konmak.",
+      "ornek_metin": "tüzlündi yer: Yer [başka bir şey de olabilir] düzleştirildi / îş tüzüldi: İş Ibaşka bir şey de olabilir] düzeldi - iş, yoluna kondu.",
+      "cekimler": [
+        "tüzlünur",
+        "tüzlünmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "612",
+      "notlar": "Tüzüldi'nin değişik sesletimi.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tüzüldi",
+      "anlam": "Düzleştirilmek, düzelmek, yoluna konmak.",
+      "ornek_metin": "yer tüzüldi: Yer [başka bir şey de olabiliri düzleştirildi / fş tüzüldi: İş düzeldi - iş, yoluna kondu",
+      "cekimler": [
+        "tüzülür",
+        "tüzülmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "612",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tüzün",
+      "anlam": "Yumuşak huylu (halim).",
+      "ornek_metin": "tüzün birle uruş ütün birle tireşme: Yumuşak huylu kimselerle tartış (çünkü seninle uzlaşaca br), ancak küstah ve anlayışsız kimselerle tartışma (mutlaka.üstün gelirler).",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "612",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ü",
+      "anlam": "Uyku.",
+      "ornek_metin": "udîdîm: Uyudum — zam m e (u) ile kesre (i) arasında kaldığı için vav (ü) düşmüştür",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "613",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ü",
+      "anlam": "Kefil.",
+      "ornek_metin": "men ani üqa aldım: Ben ona kefil oldum",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "613",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "uç",
+      "anlam": "Tanınmış bir kent.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "613",
+      "notlar": "Elif, işba'lıdır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "uç",
+      "anlam": "Türk yazısını yazmakta kullanılan kalemin yapıldığı, dağlarda yetişen bir ağaç.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "613",
+      "notlar": "Aynı zamanda bu ağaçtan kirmen ve baston da yapılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "üç",
+      "anlam": "Bir şeyin ucu; sonu.",
+      "ornek_metin": "butaq üçı: Dalın ucu.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "613",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "üç",
+      "anlam": "Bir şeyin tükenmesi, azalması.",
+      "ornek_metin": "boyda ne üç bâr: Halkta sayıca azalma yoktur.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Oğuz lehçesi",
+      "kaynak_sayfa": "613",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "üç",
+      "anlam": "Sınır.",
+      "ornek_metin": "üç el: Sınır",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "613",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "uça",
+      "anlam": "Arka.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "613",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "uçan",
+      "anlam": "İki yelkenli tekne.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Qıfçâq lehçesi",
+      "kaynak_sayfa": "613",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "uçdı",
+      "anlam": "Uçmak, kaybolup gitmek, düşmek.",
+      "ornek_metin": "quş uçdı: Kuş uçtu; anıg qutı Uçdı: Onun bahtı kaybolup gitti. / er attın qodı uçdı: Adam attan düştü.",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "613",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "uçguq",
+      "anlam": "Nezle.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "613",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "uçlandı",
+      "anlam": "Sivrilmek, ucu oluşmak.",
+      "ornek_metin": "uçlandı neng: Bir şey sivrileşti - ucu oluştu.",
+      "cekimler": [
+        "uçlanur",
+        "uçlanmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "613",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "uçmâq",
+      "anlam": "Cennet.",
+      "ornek_metin": "türlüg çeçek yazıldı / Çeşit çeşit çiçek yanlarak açıldı / barçm yadım kerildi / (Sanki) ipekten bir halı serildi / uçmâq yeri körüldi / Cennet ülkesi görüldü / tumlıg yana kelgusüz / (Mevsim o kadar ılıman ki) kış bir daha hiç gelmeyecek",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "613",
+      "notlar": "İlkbaharı anlatır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "uçruşdi",
+      "anlam": "Kuş uçurmakta yardım etmek, yarışmak.",
+      "ornek_metin": "öl manga quş uçruşdı: O kuş uçurmakta bana yardım etti. Kuş uçurmakta rekabet etmeyi anlatmak için de bu sözcük kullanılır.",
+      "cekimler": [
+        "uçruşür",
+        "uçruşmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "613",
+      "notlar": "",
+      "kontrol_gerekli": false
+    }
+  ]
+}

@@ -1,0 +1,502 @@
+{
+  "chunk_no": 37,
+  "kaynak_sayfa_baslangic": 273,
+  "kaynak_sayfa_bitis": 277,
+  "kelimeler": [
+    {
+      "kelime": "ewdildi",
+      "anlam": "O şey toplandı.",
+      "ornek_metin": "ol özirige yemiş ewdindi: O, kendisi için meyve topladı.",
+      "cekimler": [
+        "ewdilür",
+        "evvdilmek",
+        "evvdindi",
+        "evvdinmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "273",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "evvdindi neng",
+      "anlam": "Bir şeyden geriye kalan kırıntılar; herhangi bir şeyin hasadı kaldırıldıktan sonra toplanan ürün.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "273",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ewe",
+      "anlam": "Oğuzların bir kolu.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Oğuz",
+      "kaynak_sayfa": "273",
+      "notlar": "bkz. yewe ya da yeve.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ewek",
+      "anlam": "Tez canlı, aceleci adam.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "273",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "eweklik",
+      "anlam": "İvedilik, acele.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "273",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ewet",
+      "anlam": "Peki, tamam anlamına gelen bir ilgeç.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "edat",
+      "dil_veya_lehce": "Yağma, Tuxsı, Qıfçâq ve Oğuz",
+      "kaynak_sayfa": "273",
+      "notlar": "Bunun üç değişik sesletimi vardır. Yağma, Tuxsı, Qıfçâq ve Oğuz kavinden ewet, geriye kalan Türkler ise em el, evet ya da yemet der.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ewildi",
+      "anlam": "Meseleye dair bir telaş söz konusuydu.",
+      "ornek_metin": "îşqa e\nvildi: Meseleye dair bir telaş söz konusuydu.",
+      "cekimler": [
+        "evvilür",
+        "evvilmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "273",
+      "notlar": "",
+      "kontrol_gerekli": true
+    },
+    {
+      "kelime": "ewin (evin)",
+      "anlam": "Tahıl tanesi, tohum.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "273",
+      "notlar": "evin değişik sesletimdir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ewişdi",
+      "anlam": "Halk bu konuda telaş içindeydi.",
+      "ornek_metin": "kişiler işqa ewişdi: Halk bu konuda telaş içindeydi.",
+      "cekimler": [
+        "ewişfir",
+        "ewişmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "273",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "evvlendi",
+      "anlam": "Ay halelendi.",
+      "ornek_metin": "ay evvlendi : Ay halelendi.",
+      "cekimler": [
+        "evvlenür",
+        "evvlenmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "273",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "evvlendi (2)",
+      "anlam": "Adam bu evi kendine mesken edindi ve kendini evin sakinlerinden biri saydı.",
+      "ornek_metin": "ol bu ewni evvlendi: Adam bu evi kendine mesken edindi ve kendini evin sakinlerinden biri saydı.",
+      "cekimler": [
+        "evvlenür",
+        "evvlenmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "273",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "evvleşti",
+      "anlam": "Bey bahis olarak ortaya bir ev koyarak onunla oynadı.",
+      "ornek_metin": "beg (anıg) birle evvleşti oynâp: Bey bahis olarak ortaya bir ev koyarak onunla oynadı.",
+      "cekimler": [
+        "evvleşür",
+        "evvleşmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "273",
+      "notlar": "Bu bir temel-ilkedir; kumarda üzerine bahse girilen şey -leşti sonekiyle birlikte anılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ewren",
+      "anlam": "Demirci ocağı biçiminde yapılan ekmek fırını.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "273",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "evvrüldi",
+      "anlam": "Adam izlediği yoldan (gittiği yönden) çevrildi. Gittiği doğrultuyu değiştiren herkes için bu sözcük kullanılır.",
+      "ornek_metin": "er evvrüldi: Adam izlediği yoldan (gittiği yönden) çevrildi.",
+      "cekimler": [
+        "ewrü!ür",
+        "evvrülmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "273-274",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ewrüşti",
+      "anlam": "O, her zaman onunla güç yarıştırır.",
+      "ornek_metin": "anıg birle telim evvrüşti: O, her zaman onunla güç yanştınr.",
+      "cekimler": [
+        "ewrüşür",
+        "evvrişür",
+        "evvrüşmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "274",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "evvsedi",
+      "anlam": "Adam evini özledi.",
+      "ornek_metin": "er evvsedi: Adam evini özledi.",
+      "cekimler": [
+        "evvser",
+        "evvsemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "274",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "evvsedi (2)",
+      "anlam": "Adam acele etmek istedi.",
+      "ornek_metin": "er evvsedi: Adam acele etmek istedi.",
+      "cekimler": [
+        "evvser",
+        "evvsemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "274",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "evvsetti",
+      "anlam": "Çocuğum nedeniyle sıla hasreti çektim.",
+      "ornek_metin": "oğlum meni evvsetti: Çocuğum nedeniyle sıla hasreti çektim.",
+      "cekimler": [
+        "evvsetür",
+        "ewsetmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "274",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "evvsindi",
+      "anlam": "O, bu evi kendi evlerinden biri saydı ve buraya yerleşti.",
+      "ornek_metin": "ol bu ewni evvsindi: O, bu evi kendi evlerinden biri saydı ve buraya yerleşti.",
+      "cekimler": [
+        "eıvsmür",
+        "ewsinmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "274",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "evvşük",
+      "anlam": "Direk, kiriş.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "274",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "evvürdi tewürdi",
+      "anlam": "Adam malı yukarı aşağı döndürerek her yerine iyice baktı.",
+      "ornek_metin": "er tavvârıg evvürdi tevvürdi: Adam malı yukarı aşağı döndürerek her yerine iyice baktı.",
+      "cekimler": [
+        "tewürer",
+        "tevvürmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "274",
+      "notlar": "Burada kök olan sözcük ewürdi’dir ve tewürdi ona uygun olarak ifadeye eklenir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "evvürdi",
+      "anlam": "O, beni yoldan çevirdi; kabı çevirdi.",
+      "ornek_metin": "ol meni yöldın evvürdi: O, beni yoldan çevirdi; ol ayâq evvürdi: O, kabı çevirdi.",
+      "cekimler": [
+        "evvrer",
+        "evvürmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "274",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "evvürgen tewürgen",
+      "anlam": "Bu adam işleri evirip çevirir, ticarette kurnazdır.",
+      "ornek_metin": "bu er ol ışıg evvürgen tevvürgen: Bu aöam işleri evirip çevirir [ticarette kurnazdır].",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "274",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "evvzedi",
+      "anlam": "O, bu sözlerle ona iftira etti, kara çaldı.",
+      "ornek_metin": "ol sözni angar evvzedi: O, bu sözlerle ona iftira etti, kara çaldı.",
+      "cekimler": [
+        "evvzer",
+        "evvzemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "274",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "eyegü",
+      "anlam": "Kaburga kemiği. Çadırın çubuklarına da eyegü denir.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "274",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "eyegüyer",
+      "anlam": "Dağın ortasında bulunan belirli bir yer, örneğin bir yokuş.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "274",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "eyegü (2)",
+      "anlam": "Bir hayvanın ya da herhangi bir canlının kaburga kemiği.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "274",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "eymendi",
+      "anlam": "O, benden utandı ve bu işi sürdürmeye cesaret edemedi.",
+      "ornek_metin": "ol mendin bu ışta eymendi: O, benden utandı ve bu işi sürdürmeye cesaret edemedi.",
+      "cekimler": [
+        "eymenür",
+        "eymenmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "274-275",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ysildi",
+      "anlam": "Nesne eksildi.",
+      "ornek_metin": "eksildi neng: Nesne eksildi.",
+      "cekimler": [
+        "eysilûr",
+        "eysihnck"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "275",
+      "notlar": "bkz. egsüdi.",
+      "kontrol_gerekli": true
+    },
+    {
+      "kelime": "ez",
+      "anlam": "Topraktaki ya da derideki herhangi bir uzunlamasına çizik.",
+      "ornek_metin": "qızıl ez: Kâşgar dağlarında bir kışlak.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "275",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ezdi",
+      "anlam": "O, toprağın üzerine çizik attı - o, derinin üzerine çizik attı.",
+      "ornek_metin": "ol yem i ezdi: O, toprağın üzerine çizik attı - o, derinin üzerine çizik attı.",
+      "cekimler": [
+        "ezer",
+        "ezmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "275",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "eze",
+      "anlam": "Yaşça büyük kız kardeş.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Oğuz",
+      "kaynak_sayfa": "275",
+      "notlar": "bkz. eke, eçe.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ezig",
+      "anlam": "Derideki uzunlamasına çizik.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "275",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ezildi",
+      "anlam": "Onun eti tırmalandı. Uzunlamasına her türlü çizik ya da sıyrık için bu sözcük kullanılır.",
+      "ornek_metin": "anıg eti ezildi: Onun eti tırmalandı.",
+      "cekimler": [
+        "eziür",
+        "ezilmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "275",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ezitti",
+      "anlam": "O, çocuğun kulağında ince bir yarık açtı. Uzunlamasına yırtılan ya da sıyrılan her şey için bu sözcük kullanılır.",
+      "ornek_metin": "ol oglân qulâqm ezitti: O, çocuğun kulağında ince bir yank açtı.",
+      "cekimler": [
+        "ezitûr",
+        "ezitmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "275",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "eztürdi",
+      "anlam": "O, oğlunun kulağında ince bir yarık açtı. Deri ya da toprak üzerindeki herhangi bir yarık ya da çizgiyi anlatmak için bu sözcük kullanılır.",
+      "ornek_metin": "ol oglt qulâqm eztürdi: O, oğlunun kulağında ince bir yarık açtı.",
+      "cekimler": [
+        "eztürür",
+        "eztürmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "275",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "furxan",
+      "anlam": "Burhan.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "276",
+      "notlar": "bkz. burxân.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "geşür/gezri",
+      "anlam": "Turma.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "277",
+      "notlar": "bkz. turma.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "-gu",
+      "anlam": "Eylemlerin buyrum kipi haline [gövdeye] eklenen ve onu zamanı, mekanı ya da aracı anlatan bir ad haline getiren ek.",
+      "ornek_metin": "bargu yer. Varılan yer; turgu yer: Durulan yer.",
+      "cekimler": [],
+      "kelime_turu": "ek",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "277",
+      "notlar": "",
+      "kontrol_gerekli": false
+    }
+  ]
+}

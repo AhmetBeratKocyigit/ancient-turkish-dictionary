@@ -1,0 +1,737 @@
+{
+  "chunk_no": 85,
+  "kaynak_sayfa_baslangic": 465,
+  "kaynak_sayfa_bitis": 469,
+  "kelimeler": [
+    {
+      "kelime": "salımlaşdı",
+      "anlam": "O, onunla kavga etti ve tartıştı.",
+      "ornek_metin": "amg birle salımlaşdı: O, onunla kavga etti ve tartıştı.",
+      "cekimler": [
+        "salımlaşûr",
+        "salımlaşmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "465",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "salındı",
+      "anlam": "İnci kulaktan sarktı. Bir yerden sarkan, bir yere asılı olan herhangi bir şeyi anlatmak için bu sözcük kullanılır.",
+      "ornek_metin": "yinçü qulâqtm salındı: İnci kulaktan sarktı.",
+      "cekimler": [
+        "salmür",
+        "salınmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "465",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "salındı",
+      "anlam": "Selin getirerek kıyıya attığı odun.",
+      "ornek_metin": "salındı oturig: Selin getirerek kıyıya attığı odun.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "465",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "salındı",
+      "anlam": "Atılan bir şey.",
+      "ornek_metin": "salındı neng: Atılan bir şey.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "465",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "salındı",
+      "anlam": "Erkek cinsel organı.",
+      "ornek_metin": "salındı neng: bir şey aşağı sarktı",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "465",
+      "notlar": "Bu kaba bir sözcüktür. Bu sözcük salındı neng: bir şey aşağı sarktı ifadesinden gelmektedir; çünkü erkeklik organı her zaman sarkık, bir yere asılı halde durur.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "salışdı",
+      "anlam": "Onlar giysilerinin kollarını sallayarak birbirlerine işaret ettiler. Aynı zamanda güreşte birinin diğerini yandan tutarak sağa sola sallamasını anlatmak için de bu sözcük kullanılır.",
+      "ornek_metin": "olar çkki yaîg salışdı: Onlar giysilerinin kollarını sallayarak birbirlerine işaret ettiler.",
+      "cekimler": [
+        "salışür",
+        "salışmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "465",
+      "notlar": "Bu sözcüğün kök-anlamı “iki kişinin bir giysiyi ya da başka bir şeyi silkmesi”dir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "salngu",
+      "anlam": "Sapan.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "465",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "salrigülâdı",
+      "anlam": "Salkım çardaktan sarktı. Aşağı doğru sarkan herhangi bir şeyi anlatmak için bu sözcük kullanılır.",
+      "ornek_metin": "üzüm salrigülâdı: Salkım çardaktan sarktı.",
+      "cekimler": [
+        "salrigülâr",
+        "salngülâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "465",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "salturdı",
+      "anlam": "O, paranın bana aktarılmasını ve onun borcu olarak kabul edilmesini emretti.",
+      "ornek_metin": "ol meni angâr salturdı: O, paranın bana aktarılmasını ve onun borcu olarak kabul edilmesini emretti",
+      "cekimler": [
+        "salturur",
+        "salturmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "Oğuz lehçesi",
+      "kaynak_sayfa": "465",
+      "notlar": "Aynı zamanda bir şeyin atılmasını, defedilmesini emretmeyi anlatmak için de bu sözcük kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sam",
+      "anlam": "Em sam",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "belirsiz",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "465",
+      "notlar": "bkz. em sam",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "samân",
+      "anlam": "Saman.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Çigil lehçesi",
+      "kaynak_sayfa": "465",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "samanlıg",
+      "anlam": "Samanı olan adam.",
+      "ornek_metin": "samanlıg er: Samanı olan adam.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "465",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "samda",
+      "anlam": "Sandalet.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Çigil lehçesi",
+      "kaynak_sayfa": "466",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "samdûy",
+      "anlam": "Sıcak ile soğuk arasında bir sıcaklığa sahip olan her tür yemek.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "466",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "samlâdı",
+      "anlam": "O, onu iyileştirdi.",
+      "ornek_metin": "ol anı emledi samlâdı: O, onu iyileştirdi.",
+      "cekimler": [
+        "samlar",
+        "samlâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "466",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "samsıttı",
+      "anlam": "O, onu sözleriyle incitti - o, onu eliyle yaraladı.",
+      "ornek_metin": "ol anı samsıttı: O, onu (sözleriyle) incitti - o, onu (eliyle) yaraladı.",
+      "cekimler": [
+        "samsıtûr",
+        "samsıtmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "466",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "samur",
+      "anlam": "Sigun",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "466",
+      "notlar": "bkz. sigun",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "samursaq",
+      "anlam": "Sarmusaq",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "466",
+      "notlar": "bkz. sarmusaq",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "samurtug",
+      "anlam": "Karışık, içinden çıkılması zor mesele.",
+      "ornek_metin": "samurtug îş: Kanşık, içinden çıkılması zor mesele.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "466",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sân",
+      "anlam": "Sayı.",
+      "ornek_metin": "qöy sânı neçe: Koyunun sayısı kaç?",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "466",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sanaç",
+      "anlam": "Kırmızı deriden heybe.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "466",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sanâdı",
+      "anlam": "O, koyununu saydı.",
+      "ornek_metin": "ol qöyın sanâdı: O, koyununu saydı.",
+      "cekimler": [
+        "sanâr",
+        "sanâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "466",
+      "notlar": "Kök-biçimi sünâdı'dır, ilk a atılmıştır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sançdı",
+      "anlam": "O, onu bıçağıyla [başka bir şeyle de olabilir] bıçakladı [bıçağını sapladı].",
+      "ornek_metin": "ol anı biçekin sançdı: O, onu bıçağıyla [başka bir şeyle de olabiliri bıçakladı [bıçağını sapladı].",
+      "cekimler": [
+        "sançâr",
+        "sançmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "466",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sançıldı",
+      "anlam": "Bıçak duvara [başka bir yere de olabilir] saplandı.",
+      "ornek_metin": "biçek tâmqa sançıldı: Bıçak duvara [başka bir yere de olabilir] saplandı.",
+      "cekimler": [
+        "sançılür",
+        "sançılmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "466",
+      "notlar": "Bunun kök-anlamı erke biçek sançıldı: Adama bıçak saplandı ifadesindeki kullanımdır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sançıqtı",
+      "anlam": "Düşman bozguna uğratıldı. Bir adamın bıçaklanmasını anlatmak için de bu sözcük kullanılır.",
+      "ornek_metin": "yağı sançıqtı: Düşman bozguna uğratıldı.",
+      "cekimler": [
+        "sançıqâr",
+        "sançıqmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "466",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sançışdı",
+      "anlam": "Onlar birbirlerini (hançer ya da benzer bir şeyle) bıçakladılar.",
+      "ornek_metin": "olâr ekki sançışdı: Onlar birbirlerini (hançer ya da benzer bir şeyle) bıçakladılar.",
+      "cekimler": [
+        "sançışür",
+        "sançışmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "466",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sandı",
+      "anlam": "O adam atlılardan sayıldı.",
+      "ornek_metin": "ol er hayl bile sandı: O adam atlılardan sayıldı",
+      "cekimler": [
+        "sanûr",
+        "sanmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "467",
+      "notlar": "Türkçe at ya da yond sözcüklerinin yerine farkında olmadan Arapça hayl (\"atlar\") sözcüğü kullanılmıştır -çn. Belli bir şeyle tanımlanan herhangi birine anlatmak için bu sözcük kullanılır. Şu atasözünde de geçer: bdrıg utru tutsa yöqqa sanmds: (Konuğa) var olan şey sunulursa (misafirperverlik) yerine getirilmiş sayılmaz.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sandridı",
+      "anlam": "Sanridı",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "belirsiz",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "467",
+      "notlar": "bkz. sanridı.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sandruş",
+      "anlam": "Çekişme.",
+      "ornek_metin": "sabanda sandruş bolsa örtgünde irteş bolmâs: Tarla sürülürken çekişme olursa, harmanda kavga olmaz.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "467",
+      "notlar": "Şu atasözünde de geçer.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sanduvâç",
+      "anlam": "Bülbül.",
+      "ornek_metin": "sende qaçar sondılâç / Şakrakkuşu senden kaçar / mende tinar qargılâç / Kırlangıç (ve diğer kuşlar) bende huzur bulur / tatlıg öter sanduvâç / Bülbül tatlı ezgilerle öter / erkek tişi uçruşür / Erkek ile dişi (yazın) çiftleşir",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "467",
+      "notlar": "Yaz ile Kışın çekişmesinde Yaz, Kışa sesleniyor. Bu madde, içeriği ve yazılışı aynı olmakla birlikte sözlükte iki kez yer almaktadır -çn.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sangardı",
+      "anlam": "O, onu halktan biri saydı.",
+      "ornek_metin": "ol anı kişiden sangardı: O, onu halktan biri saydı.",
+      "cekimler": [
+        "sangarur",
+        "sangarmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "467",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sanlıg",
+      "anlam": "Sayılmış herhangi bir şey.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "467",
+      "notlar": "Kök-biçimi sâniıg’dır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sanrîdı",
+      "anlam": "Sarhoş saçmaladı [sayıkladı].",
+      "ornek_metin": "esrük sanrîdı: Sarhoş saçmaladı [sayıkladı].",
+      "cekimler": [
+        "sanrîr",
+        "sanrîmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "467",
+      "notlar": "Kök-biçimi sandrîdı’dır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sannşdı",
+      "anlam": "Sarhoşlar tamamen saçmaladı.",
+      "ornek_metin": "esrükler qamug sannşdı: Sarhoşlar tamamen saçmaladı.",
+      "cekimler": [
+        "sanrışür",
+        "sannşmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "467",
+      "notlar": "Bunun kök-biçimi sandrışdîdır [bkz. sandruş]. Şu atasözünde de geçer: sabanda sandrış (sannş) bolsa örtgünde irteş bolmâs: Tarla sürülürken çekişme olursa, harmanda kavga olmaz.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sang",
+      "anlam": "Kuş pisliği.",
+      "ornek_metin": "quş sangı da denir.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "467",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sariğa",
+      "anlam": "Sana söyledim.",
+      "ornek_metin": "sariga aydım: Sana söyledim.",
+      "cekimler": [],
+      "kelime_turu": "belirsiz",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "468",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sarigân",
+      "anlam": "Tadı buruk olan herhangi bir şey.",
+      "ornek_metin": "sarigân nerig: Tadı buruk olan herhangi bir şey.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "468",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sariglâdı",
+      "anlam": "Kuş pisledi.",
+      "ornek_metin": "quş sariglâdı: Kuş pisledi.",
+      "cekimler": [
+        "sariglâr",
+        "sariglâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "468",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sariglattı",
+      "anlam": "O, doğanın pislemesini sağladı.",
+      "ornek_metin": "ol quşm sariglattı: O, doğanın [başka bir kuşun da olabilir] pislemesini sağladı.",
+      "cekimler": [
+        "sariglatür",
+        "sariglatmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "468",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sâp",
+      "anlam": "Kılıç ya da bıçak sapı; kabza.",
+      "ornek_metin": "oglân işi iş bolmös oglâq mürigzi sâp bolmâs: Oğlanın yaptığı iş sayılmaz, oğlağın boynuzundan sap olmaz.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "468",
+      "notlar": "Şu atasözünde de geçer.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sâp",
+      "anlam": "Bir şeyi yanıtlarkenki sıra, söz hakkı; değirmende tahıl öğütmek ya da tarlayı sulamak için girilen sıra.",
+      "ornek_metin": "ol sözke sâp bermes: O (hiç kimseye) söz söyleme sırası vermez. Değirmende ya da sıra beklenen başka yerlerde senig sâp keldi: senin sıran geldi denir.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "468",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sapdı",
+      "anlam": "Terzi iğneye iplik geçirdi.",
+      "ornek_metin": "ylçiyigne sapdı: Terzi iğneye iplik geçirdi.",
+      "cekimler": [
+        "sapâr",
+        "sapmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "468",
+      "notlar": "Hasarlı olan ve birinin onardığı ya da yapıştırdığı herhangi bir şeyi anlatmak için de bu sözcük kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sapgâq",
+      "anlam": "Bedenin, kalçanın üst tarafında kalan kısmı.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "468",
+      "notlar": "bkz. başgâq.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sapıdı",
+      "anlam": "Atın kuyruğu şakladı.",
+      "ornek_metin": "at qudruqı sapıdı: Atın kuyruğu [başka bir şey de olabilir] şakladı.",
+      "cekimler": [
+        "sapır",
+        "sapîmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "468",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sapıg",
+      "anlam": "Çadırın eteği.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "468",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sapıldı",
+      "anlam": "İplik iğneye geçirildi.",
+      "ornek_metin": "yıpyigneke sapıldı: İplik iğneye geçirildi.",
+      "cekimler": [
+        "saplür",
+        "sapılmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "468",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sapılgân",
+      "anlam": "Itilgen",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "468",
+      "notlar": "bkz. itilgen",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sapındı",
+      "anlam": "Kadın iğneye iplik geçirme işini üzerine aldı, ama bunu gerçekleştirmedi.",
+      "ornek_metin": "eşler yigne sapındı: Kadın iğneye iplik geçirme işini üzerine aldı, ama bunu gerçekleştirmedi.",
+      "cekimler": [
+        "sapmûr",
+        "sapınmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "468",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sapıtgân",
+      "anlam": "Bu, devamlı kuyruğunu sallayan bir attır.",
+      "ornek_metin": "bu at ol qudruq sapıtgân: Bu, devamlı kuyruğunu sallayan bir attır.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "469",
+      "notlar": "Yemek istediği ya da sahiplerini gördüğü zaman bir köpeğin kuyruğunu sallamasını, hoplayıp zıplamasını anlatmak için de bu sözcük kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sapıttı",
+      "anlam": "At kuyruğunu sallayıp şaklattı; köpek kuyruğunu salladı.",
+      "ornek_metin": "at qudruq sapıttı: At kuyruğunu sallayıp şaklattı; ıt qudruq sapıttı: Köpek kuyruğunu salladı.",
+      "cekimler": [
+        "sapıtûr",
+        "sapıtmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "469",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sapladı",
+      "anlam": "Adam kılıca kabza taktı.",
+      "ornek_metin": "erqilıç sapladı: Adam kılıca kabza taktı.",
+      "cekimler": [
+        "saplâr",
+        "saplâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "469",
+      "notlar": "Herhangi bir şeye sap takılmasını anlatmak için bu sözcük kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "saplattı",
+      "anlam": "O, kılıca kabza taktırdı.",
+      "ornek_metin": "ol qılıç saplattı: O, kılıca kabza taktırdı.",
+      "cekimler": [
+        "saplatür",
+        "saplatmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "469",
+      "notlar": "Bıçak, hançer ve benzer şeylere sap taktırılmasını anlatmak için de bu sözcük kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sapturdı",
+      "anlam": "O, bana doğanın kanatlarını bağlamamı emretti.",
+      "ornek_metin": "ol manga quş qanatm sapturdı: O, bana doğanın kanatlarını bağlamamı emretti.",
+      "cekimler": [
+        "sapturur",
+        "sapturmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "469",
+      "notlar": "Herhangi bir şeyin düzeltilmesini anlatmak için de bu sözcük kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "saq saq",
+      "anlam": "Hazır olun; zeki ve tetikte adam.",
+      "ornek_metin": "saq saq: Hazır olun; saq er: Zeki ve tetikte adam.",
+      "cekimler": [],
+      "kelime_turu": "ünlem",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "469",
+      "notlar": "Askerlerin arasındaki nöbetçilerin yaklaşan düşmana karşı kalenin, mevzilerin ya da atların savunulmasında hazır olunmasını emretmek için kullandıkları bir ifade.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "saqa",
+      "anlam": "Dağın etekleri.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "469",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "saqalduruq",
+      "anlam": "İpekten dokunmuş bir ip.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "469",
+      "notlar": "Düşmemesini sağlamak için başlığın kenarlarına dikilir, çenenin altından geçirilerek sıkıca bağlanır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "saqaq",
+      "anlam": "Çene.",
+      "ornek_metin": "sâqâl oxşâr saqaq bıçdr: (O, oyunbaz bir biçimde) sakalını okşar, (gizlice) çeneni keser.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "469",
+      "notlar": "Şu atasözünde de geçer. Bu, anlam olarak, Arapların yusirruhasvenfirtigâ (“O, köpüğü içerken gizlice bir yudum alır”) sözüne benzer.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "saqldı",
+      "anlam": "Göründü.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "469",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "saqîdı",
+      "anlam": "O, silik bir biçimde benim önümde belirdi - o, hayal meyal bana göründü.",
+      "ornek_metin": "ol menig közüme saqîdı: O, silik bir biçimde benim önümde belirdi - o, hayal meyal bana göründü.",
+      "cekimler": [
+        "saqîr",
+        "saqimâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "469",
+      "notlar": "",
+      "kontrol_gerekli": false
+    }
+  ]
+}

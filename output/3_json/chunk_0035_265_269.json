@@ -1,0 +1,709 @@
+{
+  "chunk_no": 35,
+  "kaynak_sayfa_baslangic": 265,
+  "kaynak_sayfa_bitis": 269,
+  "kelimeler": [
+    {
+      "kelime": "erükledi",
+      "anlam": "O deriyi sepiledi.",
+      "ornek_metin": "teri erükledi: O deriyi sepiledi,",
+      "cekimler": [
+        "erüklemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "265",
+      "notlar": "enikler, erüklemek.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "erüklendi",
+      "anlam": "Ağaçlar meyveye durup şeftali, kayısı ve erik doldu.",
+      "ornek_metin": "yıgâç erüklendi: Ağaçlar meyveye durup şeftali, kayısı ve erik doldu.",
+      "cekimler": [
+        "erüklenür",
+        "erüklenmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "265",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "erüklük",
+      "anlam": "Eriklik; şeftali bahçesi",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "265",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "erüksedi",
+      "anlam": "Adamın canı şeftali istedi.",
+      "ornek_metin": "er erüksedi: Adamın canı şeftali [kayısı ya da e rik de o la b ilir] istedi.",
+      "cekimler": [
+        "erükser",
+        "erüksemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "265",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "erüşdi",
+      "anlam": "Yağ tamamen eridi.",
+      "ornek_metin": "yâg erüşdi: Yağ [başka b ir şey de o la b ilir] tamamen eridi.",
+      "cekimler": [
+        "erüşûr",
+        "erüşmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "265",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "erütti",
+      "anlam": "O yağı eritti.",
+      "ornek_metin": "ol ydg erütti: O y ağı [başka b ir şeyi de o la b ilir] eritti.",
+      "cekimler": [
+        "erütür",
+        "erütmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "265",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "es",
+      "anlam": "Yırtıcı hayvanların avı olan hayvan",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "265",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "esdi",
+      "anlam": "O, ipi gerdi.",
+      "ornek_metin": "ol yişig esdi: O, ipi [başka b ir şeyi de o la b ilir] gerdi,",
+      "cekimler": [
+        "eser",
+        "esmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "265",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "esdi",
+      "anlam": "Hafif ve tatlı bir rüzgâr esti.",
+      "ornek_metin": "esin esdi: Hafif ve tatlı bir rüzgâr esti.\ntang esdi: O, buğdayı [başka bir şeyi de olabilir] savurarak taneleri kabuğundan ayırdı.",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "265",
+      "notlar": "Bu sözcük hem geçişli hem de geçişsiz olarak kullanılabilir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "esen",
+      "anlam": "Herhangi bir şeyin sağlıklı ve iyi durumda olması (salim)",
+      "ornek_metin": "esen mü sen: İyi misin?",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "265",
+      "notlar": "Bu sözcük, esende evvek yocj: Esenlikte acele olmaz atasözünde olduğu gibi esenlik (selâmet) anlamında da kullanılabilir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "esenledi",
+      "anlam": "O beni selamladı ve elimi sıktı.",
+      "ornek_metin": "ol manga esenledi: O beni selamladı ve elimi sıktı,",
+      "cekimler": [
+        "esenler",
+        "esenlemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "265",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "esgü",
+      "anlam": "Harman savurma işinde kullanılan sepet",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "265",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "esik",
+      "anlam": "Uzayıp giden bozkırlara sahip bir ülke.",
+      "ornek_metin": "esik yer: Uzayıp giden bozkırlara sahip bir ülke.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "265",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "esildi",
+      "anlam": "İp gerildi.",
+      "ornek_metin": "yışıg esildi: İp [başka b ir şey de o la b ilir] gerildi.",
+      "cekimler": [
+        "esilür",
+        "esilmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "266",
+      "notlar": "İpi başka biri gerse de bu sözcük kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "esilgen",
+      "anlam": "Olabildiğince gerilen ip.",
+      "ornek_metin": "bu yıp ol esilgen: Bu olabildiğince gerilen bir iptir,",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "266",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "esin",
+      "anlam": "Esinti, hafif bir rüzgâr",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "266",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "esindi",
+      "anlam": "At kaçmak için ipi zorladı, onu gerdi ve neredeyse koparıyordu.",
+      "ornek_metin": "at esindi. At kaçmak için ipi zorladı, onu gerdi ve neredeyse koparıyordu,",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "266",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "esirgedi",
+      "anlam": "O, bir şeyin kaybı nedeniyle üzüntü duydu.",
+      "ornek_metin": "ol esirgedi nerigni’ O. bir şeyin kaybı nedeniyle üzüntü duydu.",
+      "cekimler": [
+        "esirger",
+        "esirgemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "266",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "esirgendi",
+      "anlam": "Adam servetini kaybettiği için kederlendi.",
+      "ornek_metin": "er tawârınga esirgendi: Adam servetini kaybettiği için kederlendi,",
+      "cekimler": [
+        "esırgenür",
+        "esirgenmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "266",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "esişdi",
+      "anlam": "O, bana ipi çekmekte yardım etti.",
+      "ornek_metin": "ol manga yıp esişdi: O, bana ipi çekmekte yardım etti.",
+      "cekimler": [
+        "esişür",
+        "esişmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "266",
+      "notlar": "Bu işte rekabet etmeyi anlatmak için de aynı sözcük kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "eşitti",
+      "anlam": "O, ipi gerdirtti.",
+      "ornek_metin": "ol uruqnı eşitti: O, ipi (başka b ir şeyi de o la b ilir] gerdirtti.",
+      "cekimler": [
+        "esitür",
+        "esitmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "266",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "esiz",
+      "anlam": "Yaramaz, ele avuca sığmaz çocuk",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "266",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "esizlendi",
+      "anlam": "Çocuk yaramazlaştı.",
+      "ornek_metin": "oğlan esizlendi: Çocuk yaramazlaştı.",
+      "cekimler": [
+        "esizlenür",
+        "esizlenmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "266",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "esizlik",
+      "anlam": "Kötülük.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "266",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "eski",
+      "anlam": "Eski, yıpranmış herhangi bir şey.",
+      "ornek_metin": "eski ton : Lime lime olmuş giysi,",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "266",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "eskirdi",
+      "anlam": "Giysi eskidi.",
+      "ornek_metin": "tön eskirdi: Giysi [başka bir şey de olabilir] eskidi.",
+      "cekimler": [
+        "eskirür",
+        "eskirmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "266",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "esnedi",
+      "anlam": "Hafif bir rüzgar esti / Adam esnedi.",
+      "ornek_metin": "esin esnedi: Hafif bir rüzgar esti. er esnedi: Adam esnedi.",
+      "cekimler": [
+        "esner",
+        "esnemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "266-267",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "esnetti",
+      "anlam": "Cenab-ı Hak rüzgâr estirdi / Şeytan onu esnetti.",
+      "ornek_metin": "tengri esin esnetti: Cenab-ı Hak rüzgâr estirdi. yek anı esnetti: Şeytan onu esnetti,",
+      "cekimler": [
+        "esnettir",
+        "esnetmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "267",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "esri",
+      "anlam": "Kaplan.",
+      "ornek_metin": "esri yışıg: Siyah ve beyaz iplikçiklerden oluşan ip.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "267",
+      "notlar": "Benzer bir biçimde, iki renkli olan herhangi bir şey, kaplanın renginden hareketle esri olarak adlandırılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "esriledi",
+      "anlam": "O, keçenin üzerine kaplan derisi deseni işledi.",
+      "ornek_metin": "ol kidizni esriledi: O, keçenin üzerine kaplan derisi deseni işledi.",
+      "cekimler": [
+        "esriler",
+        "esrilemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "267",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "esrük",
+      "anlam": "Sarhoş",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "267",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "essiz",
+      "anlam": "Yüzsüz, arsız, hain, utanmaz adam",
+      "ornek_metin": "essiz kişi: Yüzsüz, arsız, hain, utanmaz adam",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "267",
+      "notlar": "sin’in katmerlenmesi pekiştirme içindir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "essiz",
+      "anlam": "Bir kaybın arkasından üzülmeyi belirten sözcük. Yazık!",
+      "ornek_metin": "essiz anıgyigitliki: Yazık onun gençliğine!",
+      "cekimler": [],
+      "kelime_turu": "ünlem",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "267",
+      "notlar": "Arapçadaki ya esefa ifadesine benzer.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "estürdi",
+      "anlam": "O, ipi gerdirtti / O, harmanın savrulup darının kepekten ayrılmasını emretti.",
+      "ornek_metin": "uruq estürdi: O, ip i gerdirtti. ol qawıcj estürdi: O, harmanın savrulup darının kepekten ayrılmasını emretti.",
+      "cekimler": [
+        "estürür",
+        "estürmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "267",
+      "notlar": "Savrulup ayrıştırılan her tahıl için bu sözcük kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "esürtti",
+      "anlam": "Şarap onu sarhoş etti.",
+      "ornek_metin": "süçig anı esürtti: Şarap onu sarhoş etti,",
+      "cekimler": [
+        "esıırtür",
+        "esürtmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "267",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "eş",
+      "anlam": "Arkadaş, yoldaş.",
+      "ornek_metin": "anıg işin keçürdüm / (Onu öldürerek) bu işe bir son verdim / eşin yem e qaçürdum / Arkadaşının aceleyle kaçmasına neden oldum / ölüm ötm içürdüm / Ona içmesi için ölüm iksirini sundum / içti bolupyuzi turı / Yüzünü buruşturarak bunu içti (ona ölümü tattırdım)",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "267",
+      "notlar": "Samimi tavırları olan kimseye eşlig denir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "eşdi",
+      "anlam": "O, kumu boşalttı.",
+      "ornek_metin": "ol qayırnı eşdi: O, kumu boşalttı. atlıg eşdi: Atlı tırıs gitti. eş iç qayna eşdi: Kaynayan gügüm taştı.",
+      "cekimler": [
+        "eşer",
+        "eşmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "267",
+      "notlar": "Unu çuval ya da çuvala benzer bir şeye koymayı anlatmak için de bu sözcük kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "eşgek",
+      "anlam": "Eşek.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "268",
+      "notlar": "İki lehçesel değişik seslerinden biri; diğeri eşyek'tir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "eşgeklendi",
+      "anlam": "Adam bir eşek sahibi oldu.",
+      "ornek_metin": "er eşgeklendi: Adam bir eşek sahibi oldu",
+      "cekimler": [
+        "eşgeklenür",
+        "eşgeklenmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "268",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "eşgüti",
+      "anlam": "İpekli cinsinden süslü ve işlemeli bir Çin kumaşı",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "268",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "eşiç",
+      "anlam": "Tencere, güğüm.",
+      "ornek_metin": "eşiç ayür tüpüm altûn, qamıç ayûr men qanda men: Tencere der dibim altın, kepçe der 'ben neredeyim?'",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "268",
+      "notlar": "Bu atasözü kendisini çok iyi tanıyan birinin yanında gerçek olmayan şeyler söyleyerek böbürlenen kişiyi anlatmak için kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "eşiçlendi",
+      "anlam": "Adam bir tencere kazandı.",
+      "ornek_metin": "er eşiçlendi: Adam bir tencere kazandı.",
+      "cekimler": [
+        "eşiçlenür",
+        "eşiçlenmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "268",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "eşiklik",
+      "anlam": "Kapıya eşik yapmak için kullanılacak tahta parçası",
+      "ornek_metin": "eşiklik yıgâç: Kapıya eşik yapmak için kullanılacak tahta parçası",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "268",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "eşildi",
+      "anlam": "Kum boşaltıldı.",
+      "ornek_metin": "qum eşildi: Kum boşaltıldı.",
+      "cekimler": [
+        "eşilür",
+        "eşilmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "268",
+      "notlar": "bkz. eşler",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "eşilgen",
+      "anlam": "Her zaman kolayca akan kum.",
+      "ornek_metin": "bu qayır ol eşilgen: Bu her zaman kolayca akan bir kumdur",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "268",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "eşişdi",
+      "anlam": "O, bana toprağı doldurmakta yardım etti.",
+      "ornek_metin": "01 manga toprâq eşişdi: O, bana toprağı doldurmakta yardım etti.",
+      "cekimler": [
+        "eşişür",
+        "eşişmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "268",
+      "notlar": "Bu işte rekabet etmeyi anlatmak için de aynı sözcük kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "eşitti",
+      "anlam": "Kulak sözleri işitirse gönül bunları bilir, göz sevgiliyi görünce arzu uyanır.",
+      "ornek_metin": "qu!aq eşitse köngül bilir, köz körse üdig kelir: Kulak sözleri işitirse gönül bunları bilir, göz sevgiliyi görünce arzu uyanır,",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "268",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "eşkin",
+      "anlam": "Akıp giden toprak / Uzun yolu hızla giden atlı haberci",
+      "ornek_metin": "eşkin topraq: Akıp giden toprak",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "268-269",
+      "notlar": "Dörtnala gitmek anlamı da vardır. Buradan hareketle eşkinçi: atlı haberci denir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "eşler",
+      "anlam": "Kadın.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "269",
+      "notlar": "Kök-biçimi eş'iler: soylu kadınlar'dır. Teki anlamda kullanılan aslında çoğul bir sözcüktür.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "eştildi",
+      "anlam": "Bu sözler işitildi.",
+      "ornek_metin": "bu S ÖZ eştildi: Bu sözler işitildi.",
+      "cekimler": [
+        "eştilür",
+        "eştilmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "269",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "eştürdi",
+      "anlam": "O, benim iyi sözleri işitmeme izin verdi / O, toprağın bir yere boşaltılmasını emretti.",
+      "ornek_metin": "ol manga edgü söz eştürdi: O, benim iyi sözleri işitmeme izin verdi. ol qum eştürdi: O, toprağın boşaltılmasını emretti.",
+      "cekimler": [
+        "eştürür",
+        "eştürmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "269",
+      "notlar": "Çuvala un koyulmasını emretmeyi anlatmak için de bu sözcük kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "eşüdi",
+      "anlam": "O, onun üstüne yorgan örttü.",
+      "ornek_metin": "ol angar yoğuran eşudi: O, onun üstüne yorgan örttü.",
+      "cekimler": [
+        "eşûr",
+        "eşûmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "269",
+      "notlar": "Herhangi bir şeyin üzerinin örtülmesini anlatmak için bu sözcük kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "eşük",
+      "anlam": "Yatak örtüsü.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "269",
+      "notlar": "Bir bey ya da hakan öldüğü zaman mezarının üzerine örtülmesi için yollanan işlemeli kumaş anlamı da vardır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "eşüklük",
+      "anlam": "Eşük yapmak için kullanılan kumaş",
+      "ornek_metin": "eşüklük barçm: eşük yapmak için kullanılan kumaş.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "269",
+      "notlar": "Böylesi bir kumaşa sahip olan kişiyi anlatmak için kef [q], titreşimli keFe dönüşür [eşüklüg].",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "eşüldi",
+      "anlam": "Onun üzerine yorgan örtüldü.",
+      "ornek_metin": "anıg üze yogurqân eşüldi: Onun üzerine yorgan örtüldü,",
+      "cekimler": [
+        "eşûlür",
+        "eşülmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "269",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "eşütti",
+      "anlam": "O, başka birine benim üzerime yorgan örtmesini emretti.",
+      "ornek_metin": "ol manga yoğuran eşütti: O, başka birine benim üzerime yorgan örtsün emretti.",
+      "cekimler": [
+        "eşütür",
+        "eşütmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "269",
+      "notlar": "Herhangi biri, başka birine, bir şeyi saklamasını emrettiğinde yine bu sözcük kullanılır.",
+      "kontrol_gerekli": false
+    }
+  ]
+}

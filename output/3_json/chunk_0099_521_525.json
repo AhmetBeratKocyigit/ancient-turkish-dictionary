@@ -1,0 +1,807 @@
+{
+  "chunk_no": 99,
+  "kaynak_sayfa_baslangic": 521,
+  "kaynak_sayfa_bitis": 525,
+  "kelimeler": [
+    {
+      "kelime": "şütük",
+      "anlam": "düğüm çözme",
+      "ornek_metin": "er tügün şeşdi: Adam düğümü çözdü. Atın ya da bir hayvanın bağını çözmeyi anlat­mak için de bu sözcük kullanılır.",
+      "cekimler": [
+        "şeşer",
+        "şeşmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "521",
+      "notlar": "bkz. seşdi.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "şeştürdi",
+      "anlam": "düğüm çözdürme",
+      "ornek_metin": "ol tügün şeştürdi: O, düğümü [başka bir şeyi de olabilir) çözdürdü.",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "521",
+      "notlar": "Bu, aynı anlama gelen ve sin’le (s) söylenen sözcüğün [şeştürdi] değişik sesletimidir. Benzer bir değişim Arapçadaki misk ile Farsçadaki müşg ya da Arapçadaki sukker ile Farsçadaki şeker ya da yine Arapçadaki asker ve Farsçadaki leşker sözcükleri arasında da vardır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "şln",
+      "anlam": "Sedir, divan",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Çigil lehçesi",
+      "kaynak_sayfa": "521",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "şi",
+      "anlam": "Çin hakanlarını selamlarken kullanılan bir sözcük",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "ünlem",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "521",
+      "notlar": "Bu, anlam olarak, Arapçadaki ebayte'l-la'n (“kötülükten uzak olun!”) ifadesine benzer",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "şöpik",
+      "anlam": "Meyve yendikten sonra geriye kalan ve atılan kısım",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "521",
+      "notlar": "şın (ş), cim den (ç) dönüşmüştür [çöpik].",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "şuglu",
+      "anlam": "Tilki üzümü",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "521",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "şurîgla",
+      "anlam": "Argu ülkesinde yetişen bir bitki; kökü çıkarılır ve yenir",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Argu",
+      "kaynak_sayfa": "521",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "şutı",
+      "anlam": "Bu, özgün dile ait bir sözcük değildir.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "belirsiz",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "521",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "şuwşattı",
+      "anlam": "kulağa söz fısıldatma",
+      "ornek_metin": "ol menig qulâqqa söz şuvvşattı: O, benim kulağıma söz fısıldattı.",
+      "cekimler": [
+        "şuwşatür",
+        "şuwşatmaq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "521",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "şuwşaşdı",
+      "anlam": "fısıldaşarak bir şeyler konuşma",
+      "ornek_metin": "ol anıg birle şuwşaşdı: O, onunla fısıldaşarak bir şeyler konuştu.",
+      "cekimler": [
+        "şuwşaşür",
+        "şuwşaşmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "521",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "şu/şü",
+      "anlam": "çu/çü’nün yerine kullanılan bir ilgeç",
+      "ornek_metin": "bargıl şu: Git!; feelşü: Gel!",
+      "cekimler": [],
+      "kelime_turu": "edat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "521",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "şük",
+      "anlam": "Birini susturma amacıyla kullanılan bir sözcük",
+      "ornek_metin": "Türkler şük tur: sessiz ol der.",
+      "cekimler": [],
+      "kelime_turu": "ünlem",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "521",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "şünük",
+      "anlam": "Çınar ağacı",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "521",
+      "notlar": "şm (ş) rim’den (ç) dönüşmüştür [bkz. çünük]",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "şüt",
+      "anlam": "Kök",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Hoten lehçesi",
+      "kaynak_sayfa": "521",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "şütük",
+      "anlam": "Öküz boynuzundan ya da başka bir malzemeden yapılan divit",
+      "ornek_metin": "şütük saqâl: Seyrek sakallı - divite benzetilerek.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "521",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "taban",
+      "anlam": "Devenin toynağı",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "522",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tabanlâdı",
+      "anlam": "deveye toynağıyla vurmama",
+      "ornek_metin": "teve tabanlâdı: Deveye toynağıyla (ona) vurdu.",
+      "cekimler": [
+        "tabanlar",
+        "tabanlâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "522",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tabanlıg",
+      "anlam": "Toynağı olan",
+      "ornek_metin": "tabanlıg tewe: Toynağı olan deve",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "522",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tada",
+      "anlam": "Gözün tamamını görebileceği büyüklükte, yaklaşık on adım genişliğinde bir toprak parçası",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "522",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tadgün",
+      "anlam": "Nehir; örneğin Fırat ya da benzerleri",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "522",
+      "notlar": "Bu sözcük de, ögüz sözcüğü gibi, “herhangi bir akan su kaynağı”nı anlatmak için kullanılır",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tadu",
+      "anlam": "İnsanın doğuştun gelen tabiatı",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "522",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tâdun",
+      "anlam": "Bir yaşındaki buzağı",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "522",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tadun",
+      "anlam": "Buzağı",
+      "ornek_metin": "Dişisine tişi tadun denir",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "522",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tâg",
+      "anlam": "Dağ",
+      "ornek_metin": "tâg tâgqa qawuşmâs, kişi kişike qawuşür: Dağ dağa kavuşmaz (çünkü ik'ısi de kendi yerlerine bağlanmıştır), insan insana kavuşur (bu uzun bir zaman alsa da). Bu atasözü, uzun bir süre sonra sevgilisini gören birini anlatmak için kullanılır",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "522",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tagâr",
+      "anlam": "İçine buğday ya da benzer şeyler konan çuval",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "522",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tagây",
+      "anlam": "Dayı",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "522",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tagıldı",
+      "anlam": "ok temreninin kayaya çarpıp hasar görmesi ve kırılması",
+      "ornek_metin": "oq başaqt taşqa tegip tagıldı: Ok temreni kayaya çarpınca hasar gördü ve kırıldı. Ucu sivri olan herhangi bir şeyin sert bir nesneye ya da taşa çarparak körelmesini anlatmak için de bu sözcük kullanılır.",
+      "cekimler": [
+        "tagılur",
+        "tagılmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "522",
+      "notlar": "tıgıldı şekli de bulunur.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tagıqtı",
+      "anlam": "keçinin yabanileşmesi, dağa kaçıp dağ keçisi olması",
+      "ornek_metin": "eçkü tagıqtı: Keçi [başka bir hayvan da olabilir] yabanileşti; dağa kaçarak dağ keçisi oldu.",
+      "cekimler": [
+        "tagıqâr",
+        "tagıqmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "522",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "taglâdı",
+      "anlam": "atını dağlama, damgalama",
+      "ornek_metin": "ol atın taglâdı: O, atını dağladı [damgaladı].",
+      "cekimler": [
+        "taglâr",
+        "taglâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "522-523",
+      "notlar": "Başka hayvanların dağlanmasını anlatmak için de yine bu sözcük kullanılır. Bu dile ait özgün bir sözcük değildir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "taglattı",
+      "anlam": "atını dağlatma, damgalatma",
+      "ornek_metin": "ol atın taglattı: O, atını dağlattı (damgalattı).",
+      "cekimler": [
+        "taglatür",
+        "taglatmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "523",
+      "notlar": "Farsîler bu sözcüğü [bkz. dâg] Türklerden almıştır...",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tagna",
+      "anlam": "Bir tür kasnı",
+      "ornek_metin": "Bunun şifa verici olan nektarı yoğurtla karıştırılır, tutmâç’m suyuna katılır.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "523",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "taguzmaq er",
+      "anlam": "Kısa boylu ve oldukça tombul adam",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "523",
+      "notlar": "kaj (q) kullanılan bir değişik sesletimi vardır [taquzmaq]. Boy olarak kısa ve en olarak geniş başka şeyleri anlatmak için de bu sözcük kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tâh tâh",
+      "anlam": "Şahin salındıktan sonra onu geri çağırmak için kullanılan bir ilgeç",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "edat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "523",
+      "notlar": "Buradaki h durak işlevi görmektedir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "taxçek",
+      "anlam": "Bir tür Çin ipeği",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "523",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tâl",
+      "anlam": "Dal; körpe ve düzgün ağaç kolu",
+      "ornek_metin": "Uzun boylu ve ince bir adam ’a, esnekliği bakımından dala benzetilerek tâl bödlug denir; ancak bu ifade daha çok ince ve zarif genç kızları anlatmak için kullanılır",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "523",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tajik",
+      "anlam": "Farsî",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "523",
+      "notlar": "iki eklemleme noktası arasındaki ze’yle (j).",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tajikledi",
+      "anlam": "birini Fars sayma ve onlarla bağlantılama",
+      "ornek_metin": "ol anı tajikledi: O, onu Farsî saydı ve onlarla bağlantılandırdı.",
+      "cekimler": [
+        "tajikler",
+        "tajiklemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "523",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "talâgu",
+      "anlam": "Ölümcül bir zehir. Aşırı ağrı ve kanlı ishalle kendini gösteren hastalık [dizanteri]",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "523",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "talâq",
+      "anlam": "Dalak",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "523",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "talâs",
+      "anlam": "Taraz olarak bilinen kent",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "523",
+      "notlar": "Bu ada sahip iki kent vardır. Biri ulug talâs, diğeri İslam sınırlarında bulunan kümi talas’tır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "talaş",
+      "anlam": "At yarışında veya çevgen oyununda gerilen ip",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "523",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "taldı",
+      "anlam": "çatal değnekle topa vurma",
+      "ornek_metin": "er topıqm adn bile taldı: Adam, çatal değnekle topa vurdu. Bu, Türklerin oynadığı bir oyundur. Oyuna kimin önce başlayacağını belirlemek için bir oyuncu topa bu biçimde vurur; oyuna önce başlama hakkını bu vuruşu en iyi yapan oyuncu elde eder. Çelikçomak oyununda da [bir çubuğa başka bir çubukla vurarak onu havalandırma esasına dayalı bir oyun -çn] taldı sözcüğü kullanılır.",
+      "cekimler": [
+        "talar",
+        "talmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "523",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "taldurdı",
+      "anlam": "atlı veya başka bir şeyin çarpması",
+      "ornek_metin": "atllg ani taldurdı: Atlı [başka bir şey de olabilir] ona çarptı.",
+      "cekimler": [
+        "taldurur",
+        "taldurmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "524",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "talgâg",
+      "anlam": "İnsanın üzerine şiddetle inen ve onu neredeyse öldürecek olan tipi",
+      "ornek_metin": "tâg üze talgâg boldı: Dağda kar ve tipi koptu",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "524",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "talgân",
+      "anlam": "Sara [epilepsi]",
+      "ornek_metin": "talgân îg: Sara [epilepsi]",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "524",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "talgırdı",
+      "anlam": "dağ geçidinde tipinin kopması",
+      "ornek_metin": "art başı talgırdı: Dağ geçidinin başında tipi koptu.",
+      "cekimler": [
+        "talgırâr",
+        "talgırmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "524",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "talgüç",
+      "anlam": "Hayvan sırtına yüklenen denk ile ip arasına yerleştirilen bir agaç parçası",
+      "ornek_metin": "İp buna sanlarak birkaç kez çevrilir; böylece ip iyice çekilerek gerilmiş, yük güvenli bir biçimde bağlanmış ve denk sarkık ve çarpık bir biçimde taşınıp dağılmaktan kurtulmuş olur.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "524",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "talgüq",
+      "anlam": "Kürek ya da kazmanın sapı ile başı arasına çakılan, sapı iyice tutturmaya yarayan ağaç çivi ya da pim",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "524",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "talpındı",
+      "anlam": "kuşun kanatlarını kırpıştırması ve çırpması",
+      "ornek_metin": "quş talpındı: Kuş kanatlarını kırpıştırdı ve çırptı. Kırpışan, titreyen herhangi bir şeyi anlatmak için bu sözcük kullanılır.",
+      "cekimler": [
+        "talpınür",
+        "talpınmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "524",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "talpırdı",
+      "anlam": "kuşun kanat çırpması, gelin çadırı kumaşının dalgalanması",
+      "ornek_metin": "quş talpırdı: Kuş kanat çırptı. tolwır talpırdı: Gelin çadırının kumaşı dalgalandı. Titreyen, sallanan herhangi bir şeyi anlatmak için bu sözcük kullanılır.",
+      "cekimler": [
+        "talpırâr",
+        "talpırmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "524",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "talpışdı",
+      "anlam": "kuşların kanat çırpması, bayrakların dalgalanması",
+      "ornek_metin": "quşlâr qamug talpışdı : Kuşlar kanat çırptı. batraq qamug talpışdı: Bayraklar dalgalandı, mızrak uçlarındaki ipek kumaşlar sallandı [ve benzer şeyler].",
+      "cekimler": [
+        "talpışur",
+        "talpışmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "524",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "talqa",
+      "anlam": "Ekşi üzüm; koruk",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "524",
+      "notlar": "lâm (1) re’yle (r) değişebilir [bkz. tarqa].",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "talqalandı",
+      "anlam": "üzümlerin koruk haline gelmesi",
+      "ornek_metin": "üzüm talqalandı: Üzümler koruk haline geldi.",
+      "cekimler": [
+        "talqalanür",
+        "talqalanmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "524",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "talqân",
+      "anlam": "Kavut [arpanın unundan yapılan bir bulamaç]",
+      "ornek_metin": "angar bekmes qatâr: Ona pekmez katar [yani aklı olan kimse, nasihata değer verir]; oğlum öğüt algıl: Oğlum öğüdümü dinle; biligsizlik keter: (Ve) cehaletten kurtul; talqân kimnig bolsa: (Çünkü) kavutu olan kimse",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "524-525",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "talqıg",
+      "anlam": "Sıradağların çakıştığı yer",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "525",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "talqıg",
+      "anlam": "İşlerin gerçekleşmesini engelleyen bir şey",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "525",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "talqıldı",
+      "anlam": "nesnenin itilmesi, sürüklenmesi; işin ertelenmesi",
+      "ornek_metin": "talqıldı nerig: Nesne itildi, sürüklendi. iş talqıldı: İş ertelendi; ilerki bir zamana itildi; gerçekleşmesi engellendi. yük talqıldı: Yük çekilerek sıraya yerleştirildi.",
+      "cekimler": [
+        "talqılür",
+        "talqılmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "525",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "talqışdı",
+      "anlam": "çizme yapımında kullanılan keçeyi dürmekte yardım etme",
+      "ornek_metin": "ol manga uyma talqışdı: O, bana çizme yapımında kullanılan keçeyi dürmekte yardım etti. Dürülen herhangi bir şeyi anlatmak için de bu sözcük kullanılır.",
+      "cekimler": [
+        "talqışür",
+        "talqışmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "525",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "talqıttı",
+      "anlam": "birinin işini geciktirmesini sağlama; yükün düzgün durması için ağaç parçası koyup emniyete almasını emretme",
+      "ornek_metin": "ol yükni talqıttı: O, birinin yükü sıkıştırmasını sağladı - O, birine yükün düzgün durması için yük ile ip arasında bir ağaç parçası [talgûç] koyup bunu bükerek yükü emniyete almasını emretti. ol anıg fşm talqıttı: O, birinin onun işim geciktirmesini sağladı.",
+      "cekimler": [
+        "talqıtür",
+        "talqıtmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "525",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "talqu",
+      "anlam": "Dürülmüş, eğrilmiş herhangi bir şey",
+      "ornek_metin": "talquyışıg: Bükülmüş ip.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "525",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "talturdı",
+      "anlam": "birini neredeyse bayıltana kadar dövme",
+      "ornek_metin": "anı urup talturdı: O, onu neredeyse bayıltana kadar dövdü.",
+      "cekimler": [
+        "talturur",
+        "talturmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "525",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "talu",
+      "anlam": "Seçilmiş bir şey",
+      "ornek_metin": "talu neng: Seçilmiş bir şey.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "525",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "talülâdı",
+      "anlam": "bir şeyi seçme",
+      "ornek_metin": "ol talülâdı nengni: O, bir şeyi seçti.",
+      "cekimler": [
+        "talülâr",
+        "talüldmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "525",
+      "notlar": "",
+      "kontrol_gerekli": true
+    },
+    {
+      "kelime": "tâm",
+      "anlam": "Duvar",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "525",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tam",
+      "anlam": "Kapının sürgüsü",
+      "ornek_metin": "qapug tamlattı: Kapıyı sürgüledi",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "525",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "taman",
+      "anlam": "Kâşgar’ın içinden akan bir nehir",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "525",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tamar",
+      "anlam": "",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "belirsiz",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "525",
+      "notlar": "bkz. tamur.",
+      "kontrol_gerekli": false
+    }
+  ]
+}

@@ -1,0 +1,762 @@
+{
+  "chunk_no": 30,
+  "kaynak_sayfa_baslangic": 245,
+  "kaynak_sayfa_bitis": 249,
+  "kelimeler": [
+    {
+      "kelime": "çüvit",
+      "anlam": "Üstü başı dökülüyordu",
+      "ornek_metin": "işi taqı çülükti Üstü başı dökülüyordu sofili anıg kim tutar (Tüm bu felaketlerden sonra) onun sözünü kim dinler",
+      "cekimler": [],
+      "kelime_turu": "belirsiz",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "245",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kümeli",
+      "anlam": "Sıcaktan dolayı sersemleşen",
+      "ornek_metin": "sıcaktan gözü karardı ve miskinleşti",
+      "cekimler": [],
+      "kelime_turu": "belirsiz",
+      "dil_veya_lehce": "Çigil lehçesi",
+      "kaynak_sayfa": "245",
+      "notlar": ";üm elı şeklinde de geçer.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "şünük",
+      "anlam": "Çınar ağacı",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "245",
+      "notlar": "bkz. şünük",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çüpek",
+      "anlam": "Erkek çocuğun cinsel organı",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "245",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çür",
+      "anlam": "Fayda, kazanç",
+      "ornek_metin": "ol andın neng çürledi: O, ondan çıkar sağladı.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "245",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çürgü",
+      "anlam": "Çocuğa çişi olup olmadığını sormak için kullanılan ifade",
+      "ornek_metin": "çurgü bâr mu",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "245",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çürlendi",
+      "anlam": "Kazanç sağladı",
+      "ornek_metin": "ol andın neng çürlendi: O, ondan kazanç sağladı.",
+      "cekimler": [
+        "çürlenür",
+        "çürlenmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "245",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çürletti",
+      "anlam": "Mallarının bazılarını iç etti",
+      "ornek_metin": "ol andın neng çürletti: O, onun mallannın bazılannı iç etti.",
+      "cekimler": [
+        "çürletür",
+        "çürletmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "245",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çüşek",
+      "anlam": "Çayır, otlak",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Sogd lehçesi",
+      "kaynak_sayfa": "245",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çüvit",
+      "anlam": "Renk belirleyen kapsayıcı sözcük",
+      "ornek_metin": "qızıl çüvit: Parlak kırmızı renk; al çüvit: Kızıituruncu renk; kok çüvit: Parlak mavi renk; yaşıl çüvit: Yeşil renk; sâng çüvit: Sarı renk.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "245",
+      "notlar": "Bu sözcüğün titreşimli vav’la (ince vav - w) bir değişik sesletimi vardır [çüvvit].",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "dâg",
+      "anlam": "Atlara ve başka hayvanlara vurulan damga",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "246",
+      "notlar": "Farsîler bu sözcüğü Türklerden almıştır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "dâg",
+      "anlam": "Yok, değil",
+      "ornek_metin": "d andag dâg ol. O, öyle değil.",
+      "cekimler": [],
+      "kelime_turu": "ilgeç",
+      "dil_veya_lehce": "Argu lehçesi",
+      "kaynak_sayfa": "246",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "dang dorig",
+      "anlam": "Dan dun etti - ses çıkarttı",
+      "ornek_metin": "dang dong etti neng: Nesne dan dun etti - böylesi bir ses çıkarttı. Bu tarig tong etti: böylesi bir ses çıkarttı ifadesine benzer.",
+      "cekimler": [],
+      "kelime_turu": "belirsiz",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "246",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "dava",
+      "anlam": "Ilgın ağacının meyvesi. Bitkisel boya yapımında kullanılır.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "246",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "dava",
+      "anlam": "Bükülerek halka şekline sokulup, el ile dirsek arasına geçirilen ve buradan eğrilen yün yumağı",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "246",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "dede",
+      "anlam": "Baba",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Oğuz lehçesi",
+      "kaynak_sayfa": "246",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "deve",
+      "anlam": "Deve",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "246",
+      "notlar": "bkz. tewe",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "denggel",
+      "anlam": "Boğum ya da yumru",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "246",
+      "notlar": "",
+      "kontrol_gerekli": true
+    },
+    {
+      "kelime": "didek",
+      "anlam": "Tahtırevan perdesi",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "246",
+      "notlar": "Gelin, bir yerden bir yere giderken yabancıların görmemesi için bu örtünün arkasında gizlenir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "didim",
+      "anlam": "Gerdek gecesi gelinin giydiği taç",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "246",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "dik",
+      "anlam": "Dik",
+      "ornek_metin": "dik turdı: Dik durdu",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "246",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "dük",
+      "anlam": "Yumruğuyla yavaşça vurmak",
+      "ornek_metin": "dük urdı: Yumruğuyla yavaşça vurdu",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "246",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "dük",
+      "anlam": "Binlerce",
+      "ornek_metin": "dük ming: Binlerce; dük ming yarmâq: Binlerce para",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "246",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "dülek",
+      "anlam": "Kırık çanak çömlek, örneğin ağzı kırık bir testi",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "246",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "dünüşge",
+      "anlam": "Yabani tere",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Kençek lehçesi",
+      "kaynak_sayfa": "246",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "e",
+      "anlam": "Turuncu renkte süslü bir kumaş",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "247",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "e bitiği",
+      "anlam": "Üzerine askeri birliklerin adları ve levazım bilgilerinin yazıldığı tomar",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "247",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ebe",
+      "anlam": "Ana",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Oğuz lehçesi",
+      "kaynak_sayfa": "247",
+      "notlar": "Qarluk Türkmenlerı bu sözcüğü epe olarak söyler.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ebeki",
+      "anlam": "Bir şeyi küçümsemek, azımsamak için kullanılan bir sözcük",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "ünlem",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "247",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "eçe",
+      "anlam": "Yaşça büyük kız kardeş",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "247",
+      "notlar": "eke sözcüğüyle eşdeğerli bir sözcük [bkz. eke, eze].",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "eçi",
+      "anlam": "Yaşça büyük olan erkek kardeş",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "247",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "eçiqim",
+      "anlam": "Ağabey",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Haqânîler",
+      "kaynak_sayfa": "247",
+      "notlar": "eçi’nin birinci kişi eki almış hali olan eçim'e ka f (q) eklenerek yapılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "eçkü",
+      "anlam": "Keçi",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "247",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ed",
+      "anlam": "İşlenmiş, imal edilmiş herhangi bir şey, örneğin süslü bir kumaş ya da benzerleri",
+      "ornek_metin": "edgü ed: İyi yapılmış bir ürün",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "247",
+      "notlar": "Kısaltılarak ed de denir - bu daha doğru iyi söyleyiştir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ed",
+      "anlam": "İyiye işaret olan herhangi bir şey",
+      "ornek_metin": "iglig tutzugı ed bolür: Hasta adamın vasiyetini sunması (onun için) iyidir.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "247",
+      "notlar": "Bu atasözü hasta bir kişiden vasiyetini istemek için söylenir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ederdim",
+      "anlam": "Uydum, izlerini takip ettim",
+      "ornek_metin": "men anı ederdim: Ben ona uydum, onun izlerini takip ettim.",
+      "cekimler": [
+        "ederiür men",
+        "edermek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "247",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "edergen",
+      "anlam": "Kovalamak, intikam almaya çalışmak",
+      "ornek_metin": "bu ıt ol keyikni edergen: Bu köpek daima vahşi hayvanı kovalar.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "247",
+      "notlar": "Her zaman intikam almaya çalışan bir adamı anlatmak için de bu sözcük kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ederledi",
+      "anlam": "Eyerledi",
+      "ornek_metin": "er at ederledi: Adam atı (başka bir binek hayvanını da olabilir) eyerledi.",
+      "cekimler": [
+        "ederler",
+        "ederlemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "247",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ederlik",
+      "anlam": "Eyerin üzerine yerleştirildiği ahşap iskelet",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "247",
+      "notlar": "Bir eyere sahip olan kimse anlamında titreşimli k ef le (ince kef - g) söylenir [ederlig].",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "edgerdi",
+      "anlam": "Bazı önemsiz sözler duymak, ciddiye alıp bunlara göre davranmak",
+      "ornek_metin": "ol kiçig sozüg edgerdi: Bazı önemsiz sözler duydu, ancak ciddiye alıp bunlara göre davrandı.",
+      "cekimler": [
+        "edgerür",
+        "edgermek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "247",
+      "notlar": "Bu sözcük genellikle olumsuz anlamda kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "edgiş",
+      "anlam": "Özçend'de yerleşik olan bir Türk kavmi",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Özçend Türk kavmi",
+      "kaynak_sayfa": "248",
+      "notlar": "Kök-biçimi olan egdiş göçüşmeye uğrayarak edgiş haline gelmiştir. Egdiş olarak da geçer.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "edgü",
+      "anlam": "İyi, güzel",
+      "ornek_metin": "qoşm qonum ogışqa Konuya komşuya iyilik et qılgıl angar agırlıq Onlara saygı duy ertüt alıp anungıl Bir armağan aldığında edgü tawâr ugurluq Onun için iyi bir karşılığı hazırda bulundur",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "248",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "edgü",
+      "anlam": "İyi, güzel",
+      "ornek_metin": "kelse kişi atma angår örter kül-e baqqü angâr edgulükün ağzın küle Bir kişi sana gülerek yaklaşırsa onun yüzüne sıcak küller atma (onu utandırma) Onu saygıyla ve güleç bir yüzle karşıla",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "248",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ediz",
+      "anlam": "Herhangi bir şeyin yükselmiş hali",
+      "ornek_metin": "ediz tâg: Aşılamayan dağ; ediz yer: Yüksek yer",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "248",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "edizlendi",
+      "anlam": "Yüksek bir engel olarak gördü",
+      "ornek_metin": "ol tâgnı edizlendi: O, bu dağı yüksek bir engel olarak gördü.",
+      "cekimler": [
+        "edizlenür",
+        "edizlenmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "248",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "edizlik",
+      "anlam": "Yükselti, yükseklik",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "248",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "edledi",
+      "anlam": "Nesneyi alıp işleyerek mal (ürün) haline getirdi",
+      "ornek_metin": "ol edledi neriğin: O, nesneyi alıp işleyerek mal (ürün) haline getirdi.",
+      "cekimler": [
+        "edler",
+        "edlemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "248",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "edleldi",
+      "anlam": "Nesne, mal haline getirilerek kullanılmaya başlandı veya iyiye işaret olarak kabul edildi",
+      "ornek_metin": "edleldi neng: Nesne, mal haline getirilerek kullanılmaya başlandı",
+      "cekimler": [
+        "edlelür",
+        "edlelmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "248",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "edlendi",
+      "anlam": "Nesne kullanılabilir bir mal haline getirildi",
+      "ornek_metin": "edlendi neng: Nesne kullanılabilir bir mal haline getirildi ve atıl durumda bırakılmadı",
+      "cekimler": [
+        "edlenür",
+        "edlenmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "248",
+      "notlar": "Deriden kürk, keçeden çizme yapılması gibi.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "edleşdi",
+      "anlam": "Karşılıklı olarak saygı bekledi",
+      "ornek_metin": "olâr bir ekkindmi edleşdi: Onlar karşılıklı olarak saygı bekledi.",
+      "cekimler": [
+        "eçjleşür",
+        "edleşmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "249",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "edletti",
+      "anlam": "Malın atıl durumdan çıkartılıp kullanılır kılınmasını emretti",
+      "ornek_metin": "ol tawârın edletti: O, bu malın, atıl durumda olan malları arasından çıkartılıp kullanılır kılınmasını emretti.",
+      "cekimler": [
+        "edletür",
+        "edletmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "249",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "edlik",
+      "anlam": "Bir mal olarak yararlanılabilecek herhangi bir nesne",
+      "ornek_metin": "edlik neng: Bir mal olarak yararlanılabilecek herhangi bir nesne",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "249",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "edrim",
+      "anlam": "Eyerin üstüne yerleştirildiği ahşap iskeletin altındaki deri ve keçe",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "249",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "eğdi",
+      "anlam": "Dalı eğdi",
+      "ornek_metin": "ol butaq eğdi: O, dalı eğdi",
+      "cekimler": [
+        "eger",
+        "eğmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "249",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "eğdi",
+      "anlam": "Mezbaha",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "249",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "egedi",
+      "anlam": "Bıçağı biledi, diş gıcırdattı",
+      "ornek_metin": "ol biçek egedi: O, bıçağı biledi; buğra tışın egedi: Aygır (deve) dişini gıcırdattı.",
+      "cekimler": [
+        "eger",
+        "egemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "249",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "egdü",
+      "anlam": "Kılıç kını yapmak için deri kesmeye yarayan eğri uçlu bıçak",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "249",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "egdiş",
+      "anlam": "Özçend'de yerleşik olan bir Türk kavmi",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "249",
+      "notlar": "bkz. edgiş",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "eğeme",
+      "anlam": "Bir lavta çeşidi",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "249",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "egeşdi",
+      "anlam": "Demiri eğelemekte yardım etti",
+      "ornek_metin": "ol manga temür egeşdi: O, bana demiri eğelemekte yardım etti.",
+      "cekimler": [
+        "egeşur",
+        "egeşmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "249",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "egeşdi",
+      "anlam": "İki aygır (deve) itişti ve hırlaştı",
+      "ornek_metin": "ekki buğra egeşdi: İki aygır (deve) itişti ve hırlaştı. Ekki buğra egeşür otra kökegün yançılür: İki deve çarpışır, aralarında gök sinek ezilir.",
+      "cekimler": [
+        "egeşur",
+        "egeşmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "249",
+      "notlar": "Bu atasözü iki beyin savaşı sırasında sonuçta hep zayıfların öldüğünü belirtmek için kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "eget",
+      "anlam": "Gerdek gecesi geline hizmet için yollanan genç kız",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "249",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "egetledi",
+      "anlam": "Güveyin evine, kızına hizmet etmesi için genç bir kız yolladı",
+      "ornek_metin": "ol qîzm egetledi: O güveyin evine, kızına (geline) hizmet etmesi için genç bir kız yolladı.",
+      "cekimler": [
+        "egetler",
+        "egetlemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "249",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "egetlendi",
+      "anlam": "Kız kendisine hizmet etmesi için yollanan bir genç kıza sahip oldu",
+      "ornek_metin": "qîz egetlendi: Kız (gelin) kendisine hizmet etmesi için yollanan bir genç kıza sahip oldu",
+      "cekimler": [
+        "egetlenür",
+        "egetlenmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "249",
+      "notlar": "",
+      "kontrol_gerekli": false
+    }
+  ]
+}

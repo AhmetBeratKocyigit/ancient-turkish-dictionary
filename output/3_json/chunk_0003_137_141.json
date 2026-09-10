@@ -1,0 +1,879 @@
+{
+  "chunk_no": 3,
+  "kaynak_sayfa_baslangic": 137,
+  "kaynak_sayfa_bitis": 141,
+  "kelimeler": [
+    {
+      "kelime": "agruqlandı",
+      "anlam": "Bir işi külfetli bulmak, bir yükün çok ağır olduğunu anlatmak.",
+      "ornek_metin": "ol bu işıg agruqlandı: O, bu işi külfetli buldu.",
+      "cekimler": [
+        "agruqlanur",
+        "agruqlanmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "137",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "agsâdı",
+      "anlam": "Dağa veya başka bir yere tırmanmak istemek.",
+      "ornek_metin": "ol tâgqa agsâdı: O, dağa [başka bir yere de olabilir] tırmanmak istedi,",
+      "cekimler": [
+        "agsâr",
+        "agsamâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "137",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "agtardı",
+      "anlam": "Axtardı kelimesine bakın.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "belirsiz",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "137",
+      "notlar": "bkz. axtardı.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "agtıldı",
+      "anlam": "Adam yere yıkıldı. Kök-biçimi agtarıldı dır.",
+      "ornek_metin": "er agtıldı: Adam yere yıkıldı.",
+      "cekimler": [
+        "agtılur",
+        "agtılmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "137",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "agu",
+      "anlam": "Zehir.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "137",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "aguj",
+      "anlam": "Doğurduktan sonra inek ya da koyundan gelen ilk süt.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "137",
+      "notlar": "aguz da denir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "agujlug",
+      "anlam": "İlk sütü içen kişi.",
+      "ornek_metin": "agujlug er: İlk sütü içen kişi,",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "137",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "agülâdı",
+      "anlam": "Yemeği veya başka bir şeyi zehirlemek.",
+      "ornek_metin": "ol aşm agülâdı: O, onun yemeğini [başka bir şeyini de olabilir] zehirledi.",
+      "cekimler": [
+        "agûlâr",
+        "agülâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "137",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "aguqtı",
+      "anlam": "Zehirlenmek.",
+      "ornek_metin": "er aguqtı: Adam zehirlendi. Bu Arapçadaki el-hummâ dan [ yüksek ateş ] gelen hum m a’r-racul [“adam ateşlendi\") ifadesi gibi geçişsizdir.",
+      "cekimler": [
+        "aguqâr",
+        "aguqmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "137",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ajlan",
+      "anlam": "Bir sürüngen; bukalemun.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Oğuz lehçesi",
+      "kaynak_sayfa": "137",
+      "notlar": "İki eklemleme noktası arasındaki ze’yle (j).",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ajmuq",
+      "anlam": "Beyaz şap.",
+      "ornek_metin": "ajmuq tâz: başı şapla sıvanmış kel",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "137",
+      "notlar": "Dazlak bir kafanın çıplaklığı buna benzetilir - iki eklemleme noktası arasındaki ze’yle (j).",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ajmuqlandı",
+      "anlam": "Kelin kelliği artmak veya topraktaki şap artmak.",
+      "ornek_metin": "tâz başı ajmuqlandı: Kelin kelliği arttı. yer ajmuqlandi: Topraktaki [başka.bir yerdeki de olabilir] şap arttı.",
+      "cekimler": [
+        "ajmuqlanur",
+        "ajmuqlanmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "137",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ajun",
+      "anlam": "Dünya; cihan.",
+      "ornek_metin": "bu ajun: Bu dünya; ol ajun: Öbür dünya",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Çigil lehçesi",
+      "kaynak_sayfa": "137",
+      "notlar": "İki eklemleme noktası arasındaki ze’yle (j).",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "âl",
+      "anlam": "Hanların sancaklarını yapmak için kullanılan ya da onların atlarının eyer örtüsü olan turuncu renkte, ipekli süslü kumaş ve turuncu renk.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "137-138",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "âl",
+      "anlam": "Hile, dalavere.",
+      "ornek_metin": "âlin arslân tutar, küçün oyuq tutmâs: Hileyle aslan tutulur, güçle bostan korkuluğu tutulmaz.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "138",
+      "notlar": "Bu atasözü güç harcayarak bir şeyi ele geçiremeyen bir kimseye, bu amaçla hile kullanmasını tavsiye etmek için söylenir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "al çüvit",
+      "anlam": "Parlak ve kırmızımsı turuncu renk.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "138",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ala",
+      "anlam": "Beyaz tenli kimse.",
+      "ornek_metin": "ala at: Kır at. beg 0(ânqa) ala bolciı: Bey hanın sözünü dinlemedi ve düşmanlarıyla birlik oldu,",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "138",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ala",
+      "anlam": "Hastalıklı görünen kimse.",
+      "ornek_metin": "kişi alası içtin, yılqı alası taştın: İnsanın alası içinde, atın alası dışında.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "138",
+      "notlar": "Bu atasözü ihanetlerini gizlemek için dalkavukluk yapan kimse için kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ala",
+      "anlam": "Fergâna'ya yakın bir yayla adı.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "138",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ala yıgâç",
+      "anlam": "Sınıra yakın bir yer adı.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "138",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "alâçu",
+      "anlam": "Büyük çadır.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "138",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "alâçülandı",
+      "anlam": "Büyük çadır kurmak.",
+      "ornek_metin": "er alâçülandı: Adam büyük çadır kurdu",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "138",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "alang",
+      "anlam": "Düz ova.",
+      "ornek_metin": "alang yazı: Düz ova.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "138",
+      "notlar": "Bu “açık kapı” anlamında kullanılan angıl sözcüğünün göçüşmeye maruz kalmış biçimidir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "alârigır",
+      "anlam": "Türkmenlerin yediği geleni adlı küçük bir hayvan.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Türkmen",
+      "kaynak_sayfa": "138",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "alardı",
+      "anlam": "Koruk veya meyve kızarmak, bedeni alalaşmak ya da gözü kamaşmak.",
+      "ornek_metin": "talqa alardı: Koruk kızardı; kişi yeni alardı : Adamın bedeni alalaştı. anıg közi alardı: Onun gözü kamaşdı.",
+      "cekimler": [
+        "alarur",
+        "alarmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "138",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "alarttı",
+      "anlam": "Göz ucuyla bakmak.",
+      "ornek_metin": "ol angâr közin alarttı: O, ona göz ucuyla baktı.",
+      "cekimler": [
+        "alartur",
+        "alartmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "138",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "alâvân",
+      "anlam": "Timsah.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "138",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "alçaq",
+      "anlam": "Yumuşak huylu, uslu.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "138",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "aldâdı",
+      "anlam": "Düşmanı aldatmak.",
+      "ornek_metin": "olyâginı aldâdı: O, düşmanı aldattı.",
+      "cekimler": [
+        "aldâr",
+        "aldâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "138",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "aldı",
+      "anlam": "Alacağını tahsil etmek veya ülke almak.",
+      "ornek_metin": "ol alımın aldı: O, alacağını tahsil etti; beg el aldı: Bey ülke aldı.",
+      "cekimler": [
+        "alîr",
+        "almâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "138",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "alguq",
+      "anlam": "Kâşgar’a bağlı bir köy adı.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "138",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "alıg",
+      "anlam": "Kötü olan herhangi bir şey.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "Oğuz ve Qıfçâq lehçeleri",
+      "kaynak_sayfa": "139",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "alım",
+      "anlam": "Alacak; kişinin üzerinde olan borç.",
+      "ornek_metin": "aîfmçı arslân, berimçi sıçgân: Ata aslan, verici sıçan. Alacaklı, alacağını isterken aslan gibidir, borçlu ise korkudan sıçana benzer,",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "139",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "alımlıg",
+      "anlam": "Alacaklı adam.",
+      "ornek_metin": "alımlıg er: Alacaklı adam,",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "139",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "alın",
+      "anlam": "Alın; dağın sırtı.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "139",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "alındı",
+      "anlam": "Kısrak gebe kalmak veya başkasının yardımı olmaksızın kendi başına alacağını almak.",
+      "ornek_metin": "qısrâq alındı: Kısrak gebe kaldı. ol almın alındı: O, başkasının yardımı olmaksızın, kendi başına alacağını aldı,",
+      "cekimler": [
+        "alınur",
+        "alınmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "139",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "alınlıg",
+      "anlam": "Geniş alınlı adam.",
+      "ornek_metin": "alınhg er: Geniş alınlı adam.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "139",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "alıq",
+      "anlam": "Kuş gagası.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Oğuz lehçesi",
+      "kaynak_sayfa": "139",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "alış",
+      "anlam": "Bir su kaynağının aktığı noktalar.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "139",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "alış",
+      "anlam": "Borçluyu borcu yüzünden dava etmek.",
+      "ornek_metin": "alış berîş: Bir hakkın alınması ve verilmesi,",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "139",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "alışdı",
+      "anlam": "Alacağını almakta yardım etmek.",
+      "ornek_metin": "ol manga alım alışdı: O, bana alacağımı almakta Ibaşka bir işte de olabilir] yardım etti.",
+      "cekimler": [
+        "ülışûr",
+        "alışmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "139",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "alışgân",
+      "anlam": "Satışgan kelimesine bakın.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "belirsiz",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "139",
+      "notlar": "bkz. satışgan.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "alma",
+      "anlam": "Elma.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Oğuz lehçesi",
+      "kaynak_sayfa": "139",
+      "notlar": "Türkler aynı anlama gelecek biçimde alımla der.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "alm ıla",
+      "anlam": "Elma.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "139",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "alp",
+      "anlam": "Yiğit, kahraman, bahadır.",
+      "ornek_metin": "alp yağıda alçaq çogida: Yiğit düşman karşısında, yumuşak huylu adam savaşta belli olur.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "139",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "alpâgut",
+      "anlam": "Tek başına düşmana saldıran, hiçbir şekilde yakalanmayan yiğit.",
+      "ornek_metin": "budraç yem e qudurdı / (Yabâqu kavminin beyi) Budraç yine kudurdu / alpâgutın üdürdi / Yiğitlerini ayırdı (seçti) / silsin yana qadırdı / Askerini yine (geri) döndürdü / kelgelimet irfa'şür / (Üzerimize) gelmek için toplaşıyorlar",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "139",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "alqâdı",
+      "anlam": "Arqâdı kelimesine bakın.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "belirsiz",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "140",
+      "notlar": "bkz. arqâdı.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "alqaldı",
+      "anlam": "Övülmek ve faziletleri bir bir sayılmak.",
+      "ornek_metin": "begke alqış alqaldı: Bey övüldü ve faziletleri bir bir sayıldı.",
+      "cekimler": [
+        "alqalur",
+        "alqalmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "140",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "alqaşdı",
+      "anlam": "Övgü düzmek konusunda yarışmak.",
+      "ornek_metin": "ol menig birle alqış alqaşdı: O, övgü düzmek konusunda benimle yarıştı.",
+      "cekimler": [
+        "alqaşür",
+        "alqaşmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "140",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "alqındı",
+      "anlam": "Bir şeyin tamamen bitmesi, tükenmesi veya ölmek.",
+      "ornek_metin": "alqındt neng: Bir şey tamamen bitti, tükendi. er alqm dı: Adam öldü.",
+      "cekimler": [
+        "alqınur",
+        "alqtnmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "140",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "alqış",
+      "anlam": "Dua etme; övme; birinin iyiliklerini faziletlerini bir bir sıralama.",
+      "ornek_metin": "ol begke alqış berdi: O beyi övdü. yalâvaçqa alqış bergil: Muhammed'e salavat getir.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "140",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "alqıştı",
+      "anlam": "İki boyun birbirini yok etmesi veya herhangi bir şeyi yok etmek konusunda rekabet etmek.",
+      "ornek_metin": "böy (bir) ekki bile alqıştı: İki boy birbirini yok etti.",
+      "cekimler": [
+        "alqışür",
+        "alqışmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "140",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "alqtı",
+      "anlam": "Malını veya başka bir şeyini bitirmek.",
+      "ornek_metin": "ol tavârın alqti: O, malını bitirdi.",
+      "cekimler": [
+        "alqâr",
+        "alqmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "140",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "alsâdı",
+      "anlam": "At veya başka bir şey almak istemek.",
+      "ornek_metin": "ol at alsâdı: O, at almak istedi.",
+      "cekimler": [
+        "alsâr",
+        "alsâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "140",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "alsıqtı",
+      "anlam": "Malı alınmak, yağma edilmek.",
+      "ornek_metin": "ol tawârın alsıqtı: Onun malı alındı, yağma edildi.",
+      "cekimler": [
+        "alsıqâr",
+        "alsıqmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "140",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "altın",
+      "anlam": "Alt, aşağı anlamına gelen bir ilgeç.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "edat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "140",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "altün",
+      "anlam": "Altın.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "140",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "alturdum",
+      "anlam": "Paranın alınmasını emretmek.",
+      "ornek_metin": "men andan yarm âq alturdum: Ben ondan paranın alınmasını emrettim.",
+      "cekimler": [
+        "alturur men",
+        "alturmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "141",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "alüç",
+      "anlam": "Sarı erik; alıç.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "141",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "alüçin",
+      "anlam": "Yumruları olan yenilebilir bir ot.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "141",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "aluş",
+      "anlam": "Kâşgar’a bağlı bir köy adı.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "141",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "alwırdı",
+      "anlam": "Sanki bir tartışma başlatmak istiyormuş gibi terslemek, sözcükleri onun yüzüne fırlatmak.",
+      "ornek_metin": "ol amgyüzlnge alwırdı: O sanki bir tartışma başlatmak istiyormuş gibi onu tersledi",
+      "cekimler": [
+        "alwırâr",
+        "alm rm âq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "141",
+      "notlar": "Ehvirmek de denir.",
+      "kontrol_gerekli": true
+    },
+    {
+      "kelime": "am",
+      "anlam": "Kadın cinsel organı.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Oğuz ve Qıfçâq lehçeleri",
+      "kaynak_sayfa": "141",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "amaç",
+      "anlam": "Amaç; hedef.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "141",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "amaç",
+      "anlam": "Saban; pulluk.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "141",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "amaçladı",
+      "anlam": "Kuşa nişan almak.",
+      "ornek_metin": "er quşug amaçladı: Adam kuşa nişan aldı,",
+      "cekimler": [
+        "amaçlar",
+        "amaçlâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "141",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "amaçlıq",
+      "anlam": "Atış yapmak için nişangâh olarak kullanılabilecek yer.",
+      "ornek_metin": "amaçhq yer: Atış yapmak için nişangâh olarak kullanılabilecek yer.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "141",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "amdı",
+      "anlam": "Şimdi anlamına gelen bir ilgeç.",
+      "ornek_metin": "amdı keldim: Şimdi geldim.",
+      "cekimler": [],
+      "kelime_turu": "edat",
+      "dil_veya_lehce": "Oğuzlar",
+      "kaynak_sayfa": "141",
+      "notlar": "Oğuzlar elifi kesre’li söyler ve imdi der.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "amraq",
+      "anlam": "Can gönül, sıcak yürek.",
+      "ornek_metin": "amraq köngül: An gönül, sıcak yürek,",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "141",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "amruldı",
+      "anlam": "Kaynayan tencerenin durulması veya adamın soluğunun kesilmesi (ölmesi), coşkunluktan sonra dinmesi.",
+      "ornek_metin": "qaynâr eşiç amruldı: Kaynayan tencere duruldu. er tînı amruldı: Adamın soluğu kesildi",
+      "cekimler": [
+        "amrulur",
+        "amrulmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "141",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "amşan",
+      "anlam": "Kürk yapılan deri.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "141",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "amşüy",
+      "anlam": "Bir erik türü; sarı renktedir.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "141",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "amuç",
+      "anlam": "Armağan kelimesine bakın.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "belirsiz",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "141",
+      "notlar": "bkz. armağan.",
+      "kontrol_gerekli": false
+    }
+  ]
+}

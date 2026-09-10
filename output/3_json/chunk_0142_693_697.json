@@ -1,0 +1,764 @@
+{
+  "chunk_no": 142,
+  "kaynak_sayfa_baslangic": 693,
+  "kaynak_sayfa_bitis": 697,
+  "kelimeler": [
+    {
+      "kelime": "yıqıldı",
+      "anlam": "Duvar [başka bir şey de olabilir] yıkıldı.",
+      "ornek_metin": "tâm yiqildi: Duvar [başka bir şey de olabiliri yıkıldı.",
+      "cekimler": [
+        "yıqılür",
+        "yıqılmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "693",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yıqılgân",
+      "anlam": "Daima yıkılan bir şey.",
+      "ornek_metin": "ol tâm ol tutçı yıqılgân: Bu, daima yıkılan bir duvardır. Başka şeyler için de kullanılır.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "693",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yıqışdı",
+      "anlam": "Yıkma işinde yardım etti.",
+      "ornek_metin": "ol angar tâm ytqışdı: O, duvan [başla bir şeyi de olabilir] yıkma işinde ona yardım etti.",
+      "cekimler": [
+        "yıqışûr",
+        "yıqışmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "693",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yıqsâdı",
+      "anlam": "Yıkmak istedi.",
+      "ornek_metin": "ol tâm yıqsâdi: O, duvan [başka bir şeyi de olabilir] yıkmak istedi.",
+      "cekimler": [
+        "yıqsâr",
+        "yıqsâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "693",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yıqturdı",
+      "anlam": "Yıktırdı.",
+      "ornek_metin": "ol anıg cwin yıqturdı: O, onun evini yıktırdı. Başka şeyler için de kullanılabilir.",
+      "cekimler": [
+        "yıqturur",
+        "yıqturmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "693",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yır",
+      "anlam": "Aşk şiirleri, şarkıları (gazel, gınâ).",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "693",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yır",
+      "anlam": "Türkü; şarkı (gmd).",
+      "ornek_metin": "ol yıryırlâdı: O, bir türkü söyledi. Bu sözcük genellikle aşk duygularını anlatan türkü­ leri (gazel) ifade etmek için kullanılır. Aynı zamanda ır da denir; elif (ı) ye’den (y) dönüşmüştür,",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "693",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yırâdı",
+      "anlam": "Bir şey uzaklaştı.",
+      "ornek_metin": "yırâdı neng: Bir şey uzaklaştı.",
+      "cekimler": [
+        "yırâr",
+        "yırâm âq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "693",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yırâgu",
+      "anlam": "Çalgıcı (mutrib); şarkıcı (muganni).",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "693",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yırâq",
+      "anlam": "Uzak.",
+      "ornek_metin": "yırâq yer: Uzak bir yer. Uzakta olan hısımları ya da başkalarını anlatmak için de bu sözcüğe başvurulur. Şu dizelerde de kullanılır, uğrağım kendüyırâq bulnadı meni qarâq Arzuladığım şey uzak (Ancak sevgilimin) gözbebeği aldı beni tutsak (bu nedenle hedefime ulaşamıyorum)",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "693",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yıraqlandı",
+      "anlam": "Bir yerin çok uzakta olduğunu düşündü.",
+      "ornek_metin": "eryerigyıraqlandı: Adam bir yerin çok uzakta olduğunu düşündü.",
+      "cekimler": [
+        "yıraqlanûr",
+        "yıraqlanmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "693",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yıraqlıq",
+      "anlam": "Uzaklık.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "693",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yırattı",
+      "anlam": "Uzağa yolladı.",
+      "ornek_metin": "ol anı yırattı: O, onu uzağa yolladı.",
+      "cekimler": [
+        "yıratür",
+        "yıratm aq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "694",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yırçu",
+      "anlam": "Mezar (habr).",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "694",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yırladı",
+      "anlam": "Türkü söyledi.",
+      "ornek_metin": "er yırladı: Adam bir türkü söyledi.",
+      "cekimler": [
+        "yırlar",
+        "yırlâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "694",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yırtıldı",
+      "anlam": "Giysi yırtıldı.",
+      "ornek_metin": "ton yırtıldı: Giysi yırtıldı. Şu dizelerde de kullanılır, (Zamanı anlatıyor) atsa oqın kezgerip kim turdnı yıgdaçı tâgıg uğrasa özi quyı yırtılür Üzerine çentik açtıktan sonra okunu gerip atsa önüne kim engel koyabilir? Bir dağa nişan alsa vadi ortasından yırtılarak aynlır",
+      "cekimler": [
+        "yırtılür",
+        "yırtılmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "694",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yırtındı",
+      "anlam": "Giysisini yırtıyormuş gibi göründü.",
+      "ornek_metin": "ol tönın yırtındı: O, giysisini Ibaşka bir şeyi de olabilir] yırtıyormuş gibi göründü.",
+      "cekimler": [
+        "yırtınür",
+        "yırtmmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "694",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yırtışdı",
+      "anlam": "Bez yıkmakta yardım etti.",
+      "ornek_metin": "ol angar bâz yırtışdı: O, ona bez [başka bir şey de olabiliri yırtmakta yardım etti.",
+      "cekimler": [
+        "yırtışür",
+        "yırtışmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "694",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yırttı",
+      "anlam": "Giysisini yırttı.",
+      "ornek_metin": "ol tönın yırttı: O, giysisini [başka bir şeyi de olabilir] yırttı.",
+      "cekimler": [
+        "yırtar",
+        "yırtmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "694",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yışılgân",
+      "anlam": "bkz. buşulgan.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "belirsiz",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "694",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yîş",
+      "anlam": "İniş; aşağıya doğru eğimli yer (hebût).",
+      "ornek_metin": "artyiş: Çıkış ve iniş. İniş” anlamına gelen bir diğer sözcük de en’dir; art sözcüğü ise “dag geçidi” anlamına gelir,",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "694",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yış",
+      "anlam": "İniş; aşağıya doğru eğimli yer (hebût).",
+      "ornek_metin": "art yış: Çıkış ve iniş.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "694",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yışıg",
+      "anlam": "Deve kolanında kullanılan sırım [sicim kalınlığındaki kösele].",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "694",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yışıglıg",
+      "anlam": "İpli [ipi olan].",
+      "ornek_metin": "yışıglıg er: İpli [ipi olan] adam,",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "694",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yışım",
+      "anlam": "Tozluk; soğukta bacaklara giyilen bir şey [dolak].",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "694",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yışımlandı",
+      "anlam": "Tozluk giydi.",
+      "ornek_metin": "eryışımlandı (yişimlendi) : Adam tozluk giydi.",
+      "cekimler": [
+        "yışımlanür",
+        "yışımlanmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "694-695",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yi",
+      "anlam": "Giysinin dikişi.",
+      "ornek_metin": "Bu sözden hareketle “terzfye yîçi denir.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "695",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yi",
+      "anlam": "Dağdaki dar bir patika.",
+      "ornek_metin": "yi yıgâç: Sık dallı agaç. Kök-biçimi “sıkıştırılmış; sık” anlamına gelen yigi [yigi] sözcüğüdür; hafifletilmiştir.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "695",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yîçi",
+      "anlam": "Terzi.",
+      "ornek_metin": "bkz. yi.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "695",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yig",
+      "anlam": "Çiğ.",
+      "ornek_metin": "yıg et: Çiğ et. Çiğ olan herhangi bir şeye de yig denir,",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "695",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yigde",
+      "anlam": "İğde.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "695",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yigen",
+      "anlam": "Hasırotu; saz.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "695",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yigi-",
+      "anlam": "Dalları birbirine girmiş ağaç, sık dikiş.",
+      "ornek_metin": "yigi yıgâç: Dallan birbirine girmiş [sık dallı] ağaç. Bazen k ef (g) atılabilir ve yi yıgâç denir. yigi tiş: Birbirlerine yakın, sıkışık dişler. tön yigi tik: Giysiyi sık dikişle dik. “Dikiş’e kök-biçimi olan yigi sözcüğünden dönüştürerek yi denir.",
+      "cekimler": [],
+      "kelime_turu": "belirsiz",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "695",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yigirme",
+      "anlam": "Yirmi.",
+      "ornek_metin": "yigirme bir değişik sesletimdir.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "695",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yigirminç",
+      "anlam": "Yirminci.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "695",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yiğit",
+      "anlam": "Herhangi bir şeyin genç olanı.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "695",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yiğitlik",
+      "anlam": "Gençlik.",
+      "ornek_metin": "essiz anıgyigitliki: Yazık onun gençliğine,",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "695",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yigne",
+      "anlam": "İğne.",
+      "ornek_metin": "temen yigne: Büyük iğne, çuvaldız,",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "695",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yigrendi",
+      "anlam": "Tüyleri ürperdi / Etin çiğ olduğunu düşünüp yemekten iğrendi.",
+      "ornek_metin": "anıgyeni yigrendi: Onun tüyleri ürperdi. er etni yigrendi: Adam, etin çiğ olduğunu düşündü ve yemekten iğrendi.",
+      "cekimler": [
+        "yigrenür",
+        "yigrenmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "695",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yigtürdi",
+      "anlam": "Dar çizme ayağı sıktı.",
+      "ornek_metin": "târ etük adâqıg yigtürdi: Dar çizme ayağı sıktı.",
+      "cekimler": [
+        "yigtürür",
+        "yigtürmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "695",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yık",
+      "anlam": "Gem.",
+      "ornek_metin": "yügün yıki: at başlığının gemi de denir.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "695",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yîk",
+      "anlam": "İğ.",
+      "ornek_metin": "titreşimsiz k efle (sert k ef - k). elifle (i) söylenen îk’in değişik sesletimidir; tıpkı Arapçadaki elma'î ve yelma'î (“büyücü”) ya da elended ve yelended (“kusur bulan kimse”) sözcükleri arasındaki değişim gibi.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "695",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yikledi",
+      "anlam": "Toprağı ayakları altında ezdi, çiğnedi.",
+      "ornek_metin": "ol yerig yikledi: O, toprağı ayakları altında ezdi, çiğnedi.",
+      "cekimler": [
+        "yikler",
+        "yiklemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "695-696",
+      "notlar": "Bu sözcük elifi (i) ye' ye (y) çevirenlerin lehçesine aittir; bozulmamış (fasih) biçimi ikledi’dir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yiliklig",
+      "anlam": "İlikli.",
+      "ornek_metin": "yiliklig süngük: İlikli kemik,",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "696",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yilmirdi",
+      "anlam": "Su ılır gibi oldu (ılıyayazdı).",
+      "ornek_metin": "sûvnyilmirdi: Su ılır gibi oldu (ılıyayazdı).",
+      "cekimler": [
+        "yilmirer",
+        "yilmirmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "696",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yimledi",
+      "anlam": "Göz kırptı.",
+      "ornek_metin": "ol manga yimledi: O, bana göz kırptı.",
+      "cekimler": [
+        "yimler",
+        "yimlemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "696",
+      "notlar": "Kök-biçimi imledi'div.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yin",
+      "anlam": "Hayvan dışkısı; gübre.",
+      "ornek_metin": "qöyyini: Koyun pisliği,",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "696",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yin",
+      "anlam": "İn, yatak.",
+      "ornek_metin": "arslân yini: Aslanın ini. Tilkinin yatağı ya da herhangi bir yırtıcı hayvanın ini de yin olarak adlandırılır [bkz. İn]. Şu atasözünde de geçer, tilkü özyinke ûrse udüz bolûr: Tilki kendi yatağına hırlarsa perişan olur. Bu atasözü kavmini kusurlu bulan ama onlarsız da yapamayan kişiye söylenir.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "696",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yinçge",
+      "anlam": "İnce ya da narin olan herhangi bir şey.",
+      "ornek_metin": "yinçge torqu: İnce ipek. yinçge qtz: Odalık; cariye. yinçge kişi: Zahit, kendini adamış, kulluk eden adam,",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "696",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yinçgeledi",
+      "anlam": "Bir şeyin ince olduğunu düşündü - Bir şeyi inceltti.",
+      "ornek_metin": "ol nengni yinçgeledi: O, bir şeyin ince olduğunu düşündü - O, bir şeyi inceltti.",
+      "cekimler": [
+        "yinçgeler",
+        "yinçgelemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "696",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yinçgelendi",
+      "anlam": "Alçakgönüllülük gösterdi ve boyun eğdi / Odalık olarak aldı / Tavazu gösterdi.",
+      "ornek_metin": "ol manga yinçgelendi: O, alçakgönüllülük gösterdi ve bana boyun eğdi. ol qizıgyinçgelendi: O, kızı odalık olarak aldı. cjul tengrıke yinçgelendi: Kul tevazu gösterdi, zühd sahibi oldu, ibadet etti oruç tuttu, namaz kıldı ve Alemlerin Rabbi olan Allah'a boyun eğdi",
+      "cekimler": [
+        "yinçgelenür",
+        "yinçgelenmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "696-697",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yinçü",
+      "anlam": "İnci.",
+      "ornek_metin": "Caiyelere de bazen yinçü denir. Şu atasözünde de geçer, ütlügyinçü yerde qalmâs: Delik inci yerde kalmaz [biri gelecek ve onu alacaktır]. Bu atasözü, kızların bakire ve bekâr olarak kalamayacaklarım, birinin çıkıp onlarla evleneceğini belirtmek için kullanılır.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Oğuzlar ve Qıfçâqlar",
+      "kaynak_sayfa": "697",
+      "notlar": "Oğuzlar ve Qıfçâqlar ye'yi (y) cim'e (c) çevirir ve buna cinçü derler.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yindi",
+      "anlam": "Aradı.",
+      "ornek_metin": "ol amg cıvın yindi’. O, onun evini aradı. Kök-biçimi yindti dir, hafifletilmiştir.",
+      "cekimler": [
+        "yinder",
+        "yindmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "697",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yindürdi",
+      "anlam": "Evini arattı.",
+      "ornek_metin": "amg ewin yindürdi: O, çalındığından şüphelendiği bir şeyi bulmak için onun evini arattı.",
+      "cekimler": [
+        "yindürür",
+        "yindürmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "697",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yirig",
+      "anlam": "Sümük.",
+      "ornek_metin": "yingdegü: Bir oğlan çocuğuna söverken söylenir; “sümüklü” anlamına gelir,",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "697",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yirigitti",
+      "anlam": "Sümkürdü.",
+      "ornek_metin": "er yîngitti: Adamsümkûrdü. Kök-biçimi ying attı: sümük attı ifadesidir,",
+      "cekimler": [
+        "yingitür",
+        "yingitmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "697",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yişildi",
+      "anlam": "Eli işe alıştı.",
+      "ornek_metin": "anıg elgi îşqa yişildi: Onun eli işe alıştı,",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "697",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yitig",
+      "anlam": "Keskin.",
+      "ornek_metin": "yitig biçek: Keskin bıçak. Kılıç ya da benzerleri gibi keskin olan herhangi bir şeyi anlatmak için de yine bu sözcük kullanılır,",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "697",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yitig",
+      "anlam": "Akıllı, keskin zekâlı.",
+      "ornek_metin": "yitig er: Akıllı, keskin zekâlı adam,",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "697",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yitti",
+      "anlam": "Kayboldu.",
+      "ornek_metin": "yitti neng: Bir şey kayboldu |yitti],",
+      "cekimler": [
+        "yiter",
+        "yitmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "697",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yittürdi",
+      "anlam": "Kaybettirdi.",
+      "ornek_metin": "ol angar yarmâqın yittürdi: O, ona para [başka bir şey de olabilir] kaybettirdi.",
+      "cekimler": [
+        "yittürür",
+        "yittürmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "697",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yitük",
+      "anlam": "Başıboş, kaybolmuş hayvan.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "697",
+      "notlar": "",
+      "kontrol_gerekli": false
+    }
+  ]
+}

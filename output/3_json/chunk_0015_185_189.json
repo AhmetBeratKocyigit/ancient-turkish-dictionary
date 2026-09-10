@@ -1,0 +1,628 @@
+{
+  "chunk_no": 15,
+  "kaynak_sayfa_baslangic": 185,
+  "kaynak_sayfa_bitis": 189,
+  "kelimeler": [
+    {
+      "kelime": "bezgek",
+      "anlam": "Titremeli humma, sıtma.",
+      "ornek_metin": "tumlug anı bezitti: Soğuk onu titretti. Buradan hareketle “titremeli humma”ya bezgek denir.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "185",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bezig",
+      "anlam": "Ürperti.",
+      "ornek_metin": "ol bezig bezdi: O ürperdi.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "185",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bıçgâs",
+      "anlam": "İnsanlar arasında yapılan sözleşme ya da ahit.",
+      "ornek_metin": "bıçgâs bitiq qılurlar Ant yazısı yazarlar (Halkım bir bağlılık sözleşmesi yazdı) ...and key yeme berûrler Sağlam yemin ederler xândın basut tilerler Handan yardım isterler",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "185",
+      "notlar": "Yabâqu'yla yapılan savaşta yardım etmesi için Hakan'ı çağırıyor dörtlükte geçmektedir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bıçgüç",
+      "anlam": "Kırkma makası.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "185",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bıçıg",
+      "anlam": "Ahit; sözleşme.",
+      "ornek_metin": "ol menig birle bıçıg qıldı: O benimle bir antlaşma yaptı.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "185",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bıçılgân",
+      "anlam": "Çatlak (elde, ayakta ya da toprakta olan çatlakların tümü).",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "186",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "biçim",
+      "anlam": "Dilim.",
+      "ornek_metin": "bir biçim qâgün: Bir dilim kavun. Başka şeyler için de kullanılır.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "186",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bıçış",
+      "anlam": "Düğünlerde ya da soyluların tertiplediği şölenlerde konuklara verilen işlemeli bir ipek kumaş parçası.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "186",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bıçma",
+      "anlam": "Biçilmiş.",
+      "ornek_metin": "bıçma yorînçga: Biçilmiş yonca.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "186",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bıçuq",
+      "anlam": "Herhangi bir şeyden kesilen parça veya yarım.",
+      "ornek_metin": "bıçuqyarmâq: Yarım para.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "186",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bıdıq",
+      "anlam": "Bıyık.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "186",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bıldur",
+      "anlam": "Bir önceki yıl.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "186",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bıqm",
+      "anlam": "Kalça.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "186",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "b'gng",
+      "anlam": "Bkz. bogrug.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "belirsiz",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "186",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bırqıg",
+      "anlam": "Atın ya da eşeğin homurtusu.",
+      "ornek_metin": "ât bırqıgı denir.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "186",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bıruq",
+      "anlam": "Hakanın maiyetindeki soyluların toplumsal mevkilerini belirleyen kimse.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "186",
+      "notlar": "Kök-biçimi buyruk: emir’dir; çünkü bu kişinin mevkiler için emir vermesi gerekiyordu.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bışıg",
+      "anlam": "Pişmiş yemek, pişmiş şey veya fırınlanarak yapılan tuğla, kiremit gibi şeyler.",
+      "ornek_metin": "bışıg aş: Pişmiş yemek. bışıg kerpiç: Fırınlanarak yapılan tuğla, kiremit gibi şeyler. bışıg sûçug: Isıtılmış şarap.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "187",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bışıq et",
+      "anlam": "Pişmiş et.",
+      "ornek_metin": "bışıq et. Pişmiş et.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Yağma lehçesi",
+      "kaynak_sayfa": "187",
+      "notlar": "Yağma lehçesinde bışıg yerine kullanılan sözcüktür.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bi",
+      "anlam": "Zehirli bir örümceğin adı olan böy’ün değişik sesletimi.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Oğuz lehçesi",
+      "kaynak_sayfa": "187",
+      "notlar": "bkz. böy, bög",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bibli",
+      "anlam": "Karabibere benzeyen, uzun taneli bir baharat.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "187",
+      "notlar": "bkz. bitmül",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "biçek",
+      "anlam": "Bıçak.",
+      "ornek_metin": "neçeyitig, biçek erse Öz sapın yonümâs: Bıçak ne kadar keskin olursa olsun kendi sapını kesemez.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "187",
+      "notlar": "Bu atasözü başkalarının sorunlarını çözmede usta olan, ama kendi dertlerine çare bulamayan kişi için söylenir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "biçildi",
+      "anlam": "Ağaç veya başka bir şey kesildi.",
+      "ornek_metin": "yıgâç biçildi: Ağaç [başka bir şey de olabilir] kesildi.",
+      "cekimler": [
+        "bıçılûr",
+        "bıçûmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "186",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bıçındı",
+      "anlam": "Adam eti kendisi için doğramaya niyetlendi.",
+      "ornek_metin": "er özünge et bıçındı: Adam eti kendisi için doğramaya niyetlendi.",
+      "cekimler": [
+        "bıçınür",
+        "bıçmmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "186",
+      "notlar": "Bu işi yalnız başına ya da başka biriyle yapması kullanımı değiştirmez.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bıçışdı",
+      "anlam": "Odun kesme işinde rekabet etti veya yardım etti.",
+      "ornek_metin": "ol menig birle yıgâç bıçışdı: O, odun kesme işinde benimle rekabet etti. Bu işte yardım etmeyi anlatmak için de bu sözcük kullanılır.",
+      "cekimler": [
+        "bıçışür",
+        "bıçışmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "186",
+      "notlar": "İki kişinin ilişkilerini kesmesini anlatmak için de uygun bir sözcüktür.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bıçturdı",
+      "anlam": "Ağacın kesilmesini emretti.",
+      "ornek_metin": "er yıgâç bıçturdı : Adam ağacın kesilmesini emretti.",
+      "cekimler": [
+        "bıçturur",
+        "bıçturmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "186",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bırqırdı",
+      "anlam": "At homurdandı.",
+      "ornek_metin": "at bırqırdı: At homurdandı.",
+      "cekimler": [
+        "bırqırâr",
+        "bırkırmdq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "186",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bışdı",
+      "anlam": "Çorba pişti, meyve olgunlaştı veya kımız katıştırıldı.",
+      "ornek_metin": "eşiç bışdı: Çorba pişti. yemiş bışdı: Meyve olgunlaştı. ev qımız bışdı : Adam uygun kıvama gelmesi için kımızı katıştırdı.",
+      "cekimler": [
+        "bışmâz",
+        "bışmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "187",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bışıglâdı",
+      "anlam": "Et veya başka bir şeyi pişirdi.",
+      "ornek_metin": "ol et bişiglâdi: O et [başka bir şey de olabilir] pişirdi.",
+      "cekimler": [
+        "bışıglâr",
+        "bışıglâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "187",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bışurdı",
+      "anlam": "Et veya başka bir şeyi pişirdi.",
+      "ornek_metin": "ol et bişurdi: O et [başka bir şey de olabilir] pişirdi.",
+      "cekimler": [
+        "bışurur",
+        "bışurmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "187",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "biçekledi",
+      "anlam": "Bıçakladı.",
+      "ornek_metin": "ol anı biçekledi: O,onu bıçakladı.",
+      "cekimler": [
+        "biçekler",
+        "biçeklemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "187",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "biçeklendi",
+      "anlam": "Bir bıçak sahibi oldu.",
+      "ornek_metin": "er biçeklendi: Adam bir bıçak sahibi oldu.",
+      "cekimler": [
+        "biçeklenür",
+        "biçeklenmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "187",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bildi",
+      "anlam": "Anlayışı, bilgiyi, bilgeliği [hikmeti] bildi; başka şeyleri bildi.",
+      "ornek_metin": "ol bilig bildi: O anlayışı, bilgiyi, bilgeliği [hikmeti] bildi. Aynı zamanda başka şeyleri bilmeyi anlatmak için de kullanılır.",
+      "cekimler": [
+        "bilir",
+        "bilmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "187",
+      "notlar": "Argu halkı lâm'ı (l) zamme'li okuyarak bilür der, diğerleri bu kullanımda onlarla uzlaşmaz.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bildüzdi",
+      "anlam": "Konu hakkında bilgilendirdi.",
+      "ornek_metin": "ol maııga fj bildüzdi: O, beni konu hakkında bilgilendirdi.",
+      "cekimler": [
+        "bildüzür",
+        "bildüzmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "Oğuz lehçesi",
+      "kaynak_sayfa": "188",
+      "notlar": "Bu Oğuz lehçesindedir ve kurala uygun değildir. Diğer Türkler tarafından kullanılmaz.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "biledi",
+      "anlam": "Bilemek veya diş bilemek.",
+      "ornek_metin": "ol biçek biledi: O bıçağını biledi. ol tîş biledi: O diş biledi.",
+      "cekimler": [
+        "biler",
+        "bilemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "188",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bilegü",
+      "anlam": "Bileğitaşı.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "188",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bilek",
+      "anlam": "Bilek.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "188",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bileklig",
+      "anlam": "Kolları güçlü.",
+      "ornek_metin": "küçlüg bileklig kişi: Kollan güçlü adam.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "188",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "biletti",
+      "anlam": "Bıçağın bilenmesini emretti.",
+      "ornek_metin": "ol biçek biletti: O bıçağın bilenmesini emretti.",
+      "cekimler": [
+        "biletür",
+        "biletmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "188",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bilezüklendi",
+      "anlam": "Bilezik taktı.",
+      "ornek_metin": "eşler bilezüklendi: Kadın bilezik taktı.",
+      "cekimler": [
+        "bilezüklenür",
+        "bilezüklenmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "188",
+      "notlar": "Bu tür bir eylem dörtyazaçlı bir addan türetilerek yapılmıştır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bilge",
+      "anlam": "Bilge, bilgili, zeki.",
+      "ornek_metin": "bilge erig edgü tutup sözin eşit erdemini ögreniben ışqa sür-e Bilge kişiyi iyi' tut, onun kelamını dinle Erdemini öğren ve bunu [öğrendiğini] uygula",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "188",
+      "notlar": "Buradan hareketle bilge beg: bilge, bilgili, zeki bey adı türetilmiştir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bilgelendi",
+      "anlam": "Akıllanmış gibi göründü.",
+      "ornek_metin": "er bilgelendi: Adam akıllanmış gibi göründü.",
+      "cekimler": [
+        "bilgelenür",
+        "bilgelenmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "188-189",
+      "notlar": "Bunun daha iyi bir söylenişi bilimsindi: Adam kendisini akıllı gösterdi’dir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bilgetti",
+      "anlam": "Zekileşti.",
+      "ornek_metin": "oğlan bilgetti: Çocuk zekileşti.",
+      "cekimler": [
+        "bilgetür",
+        "bilgetmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "189",
+      "notlar": "Kök-biçimi bilgedti'dır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bilig",
+      "anlam": "Bilgi (ilm), bilgelik (hikmet) veya akıl.",
+      "ornek_metin": "bilig öğren: Bilgi öğren. ozâqt bilgeler: Eski bilgeler. oglân biligsiz: Çocuklarda akıl yoktur.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "189",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "biliglig",
+      "anlam": "Bilgili, zeki, bilge kişi.",
+      "ornek_metin": "biliglig kişi: Bilgili, zeki, bilge kişi.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "189",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "biligsedi",
+      "anlam": "Bilgeliğe [hikmete] sahip olmayı arzuladı.",
+      "ornek_metin": "oglân biligsedi: Çocuk bilgeliğe |hikmete] sahip olmayı arzuladı.",
+      "cekimler": [
+        "biligser",
+        "biligsemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "189",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bilik",
+      "anlam": "Kandil fitili veya yaraların tedavisi sırasında kullanılan bir inceleme aleti.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "189",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "biliklik",
+      "anlam": "Fitil yapmak için hazırlanmış bir parça pamuk.",
+      "ornek_metin": "bitiklik kebez: Fitil yapmak için hazırlanmış bir parça pamuk.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "189",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bilinçek",
+      "anlam": "Çalınmış ve daha sonra hırsızın ya da bir başkasının elinde bulunan herhangi bir şey.",
+      "ornek_metin": "bilinçek neng: Çalınmış ve daha sonra hırsızın ya da bir başkasının elinde bulunan herhangi bir şeye verilen ad; bilinçek bildi: Hırsızın elindeki çalınmış malı tanıdı.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "189",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bilindi",
+      "anlam": "İşini bildi veya suçunu itiraf etti.",
+      "ornek_metin": "er ışın bilindi: Adam işini bildi, eryâzuqın bilindi: Adam suçunu itiraf etti.",
+      "cekimler": [
+        "bilinür",
+        "bilinmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "189",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "biliş",
+      "anlam": "Bilgi, malumat.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "189",
+      "notlar": "Burada eylem değil, betimleyici bir sözcüktür.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bilişdi",
+      "anlam": "Tanıştı.",
+      "ornek_metin": "ol menig birle bilişdi: O benimle tanıştı.",
+      "cekimler": [
+        "bilişûr",
+        "bilişmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "189",
+      "notlar": "",
+      "kontrol_gerekli": false
+    }
+  ]
+}

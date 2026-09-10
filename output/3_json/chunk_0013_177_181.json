@@ -1,0 +1,909 @@
+{
+  "chunk_no": 13,
+  "kaynak_sayfa_baslangic": 177,
+  "kaynak_sayfa_bitis": 181,
+  "kelimeler": [
+    {
+      "kelime": "battı",
+      "anlam": "Başak tanelendi.",
+      "ornek_metin": "",
+      "cekimler": [
+        "başlanmâq",
+        "başlattım"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "177",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "başlattım",
+      "anlam": "İşe başlamasını emrettim",
+      "ornek_metin": "men angar iş başlattım: Ben ona işe başlamasını emrettim.",
+      "cekimler": [
+        "başlatür",
+        "başlatmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "177",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "başmaq",
+      "anlam": "Pabuç, çarık",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Oğuz lehçesi",
+      "kaynak_sayfa": "177",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "başmaqlandı",
+      "anlam": "Adam pabuçlarını giydi",
+      "ornek_metin": "er başmaqlandı: Adam pabuçlarını giydi.",
+      "cekimler": [
+        "başmaqlanur",
+        "başmaqlamâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "177",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "başnaq",
+      "anlam": "bkz. baştaq",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "177",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "baştar",
+      "anlam": "Tırpan",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Argu lehçesi",
+      "kaynak_sayfa": "177",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "baştaq",
+      "anlam": "Silahsız adam",
+      "ornek_metin": "baştaq er: Silahsız adam.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "177",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bat",
+      "anlam": "Hurma ezildikten sonra geriye kalan posa; ağır bir nesne düştüğü zaman çıkardığı ses",
+      "ornek_metin": "Ağır bir nesne düştüğü zaman çıkardığı ses\"e bat tüşdi denir",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "177",
+      "notlar": "Çabuk etmeyi, bir yere aceleyle gitmeyi anlatmak için bat kel denir; bu şap kel ifadesine benzer.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "batğa",
+      "anlam": "Başlık yapmak için üzerinde keçi yünü ve keçe kesilen tahta",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "177",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "batıg",
+      "anlam": "Bir su yatağının, nehrin derin yeri",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "177",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "batlâdı",
+      "anlam": "Kumaşı hurmanın posasıyla işledi",
+      "ornek_metin": "ol bozni batlâdı: O, kumaşı hurmanın posasıyla işledi.",
+      "cekimler": [
+        "batlar",
+        "batlâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "177",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "batman",
+      "anlam": "Büyüklüğü bölgelere ve tartılacak şeye göre değişen eski bir ağırlık ölçüsü",
+      "ornek_metin": "bîr batman et: Söz konusu ağırlıkta olan et.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "177",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "batraq",
+      "anlam": "Ucuna bir ipek parçası takılan mızrak; savaş günü atlı süvarilerin yerini belli etmeye yarar",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "177",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "batruş",
+      "anlam": "Çamurlu su; çok fazla hamur ve çok az sudan yapılan erişte",
+      "ornek_metin": "batmş sibv: Çamurlusu.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "177",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "batruşdı",
+      "anlam": "Onlar birbirlerini suya batırdı",
+      "ornek_metin": "oldr ekki bir bİrig suwqa batruşdı: 'Onlar birbirlerini suya batırdı.",
+      "cekimler": [
+        "batruşür",
+        "batruşmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "177",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "batsıg",
+      "anlam": "Batı; günbatısı",
+      "ornek_metin": "kün batsıg: Batı; günbatısı [bkz. tugsug].",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "177",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "battı",
+      "anlam": "Güneş (gün) battı",
+      "ornek_metin": "kün battı: Güneş (gün) battı.",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "177",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "baturdı",
+      "anlam": "Kurşun suya battı / O sırrını benden gizledi, onu suya batırdı",
+      "ornek_metin": "qorugjin suwqa battı: Kurşun suya battı. ol sözın mendin baturdı: O sırrını benden gizledi, ol anı suwqa baturdı: O, onu suya batırdı.",
+      "cekimler": [
+        "batar",
+        "batmaq",
+        "baturür",
+        "baturmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "177-178",
+      "notlar": "Herhangi bir şeyin görünmez hale gelmesini anlatmak için de kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "baturgân",
+      "anlam": "Bu sır (söz ve benzerlerini) saklayabilen kimse",
+      "ornek_metin": "bu kişi ol söz baturgân: Bu sır (söz ve benzerlerini) saklayabılen bir adamdır.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "178",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bay yıgâç",
+      "anlam": "Kuça kentiyle Uç kenti arasında, Uç’a yakın bir yerin adı",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "178",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bây",
+      "anlam": "Zengin",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "178",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bayât",
+      "anlam": "Cenab-ı Hakk’ın adı",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Argu lehçesi",
+      "kaynak_sayfa": "178",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bayat",
+      "anlam": "Oğuzların bir kolunun adı",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Oğuz",
+      "kaynak_sayfa": "178",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "baybayuq",
+      "anlam": "Ağaç dallarından sarkan sepet biçiminde bir yuvası olan ve ezgili bir biçimde şakıyan bir kuş (Tunavvit)",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "178",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bayın",
+      "anlam": "bkz. yepün, qızıl",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "belirsiz",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "178",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bayıq",
+      "anlam": "Doğru söz",
+      "ornek_metin": "bayıq söz: Doğru söz (Oğuz lehçesi).",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "Oğuz lehçesi",
+      "kaynak_sayfa": "178",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "baynaq",
+      "anlam": "Dışkı, gübre",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Oğuz lehçesi",
+      "kaynak_sayfa": "178",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bayram",
+      "anlam": "Şenlik, bayram",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Oğuz lehçesi",
+      "kaynak_sayfa": "178",
+      "notlar": "Islamiyetten önce Türklerde özel bayram günleri yoktu.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bayüdı",
+      "anlam": "Adam (başka birisi de olabilir) zenginleşti",
+      "ornek_metin": "er bayüdı: Adam Ibaşka birisi de olabiliri zenginleşti.",
+      "cekimler": [
+        "bayûr",
+        "bayümâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "178",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bayuttı",
+      "anlam": "Tanrı beni zenginleştirdi",
+      "ornek_metin": "tengri meni bayuttı: Tanrı beni zenginleştirdi.",
+      "cekimler": [
+        "bayutür",
+        "bayutmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "178",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bâz",
+      "anlam": "Yabancı, ecnebi",
+      "ornek_metin": "yat bâz yadıldı: Yad yabancı ayrıldı.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "178",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bazgân",
+      "anlam": "Demircinin çekici",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "178",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "be",
+      "anlam": "Koyun melemesini anlatan bir yansıma sözcük",
+      "ornek_metin": "qöy beledi: Koyun meledi.",
+      "cekimler": [],
+      "kelime_turu": "ünlem",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "179",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "be",
+      "anlam": "Kısrak",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Oğuzlar dışındaki bütün Türkler",
+      "kaynak_sayfa": "179",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "beçenek",
+      "anlam": "Rûm ülkesi yakınında yaşayan bir Türk kavmi",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "179",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "beçenek",
+      "anlam": "Oğuzların bir kolu",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Oğuz",
+      "kaynak_sayfa": "179",
+      "notlar": "Bunun değişik sesletimi beçenek'tir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "beçin",
+      "anlam": "Maymun",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "179",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "beçin (yılı)",
+      "anlam": "Türk takviminin oniki yılından biri",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "179",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "beçkem",
+      "anlam": "Savaş sırasında savaşçıların ayırt edilmesini sağlayan, ipekten ya da dağ sığırın kuyruğundan yapılan bir tür simge",
+      "ornek_metin": "beçkem urup atlaqa / Atların üzerinde simgelerimizi taşıyarak / uygurdaqı tatlaqa / Uygurların (Uygur köpeklerinin/halkının) / ogrı yawuz ıûaqa / Saklanan kötülük köpeklerinin üzerine yürüdük / quşlar kepi uçtımız / Kuşlar gibi uçtuk (onlann tepelerine binene kadar)",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "179",
+      "notlar": "Oğuzlar buna berçem der.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "beçkemlendi",
+      "anlam": "Adam (savaş günü) simgesini takınarak kendini belli etti",
+      "ornek_metin": "er beçkemlendi: Adam (savaş günü) simgesini takınarak kendini belli etti.",
+      "cekimler": [
+        "beçkemlenür",
+        "beçkemlenmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "179",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "beçküm",
+      "anlam": "Evin sofası",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "179",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bedüdi",
+      "anlam": "Bebek büyüdü",
+      "ornek_metin": "oglân bedüdi: Bebek büyüdü. Küçüklükten çıkıp da büyüyen herhangi bir şeyi anlatmak için bu sözcük kullanılır.",
+      "cekimler": [
+        "bedür",
+        "bedümek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "179",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bedük",
+      "anlam": "Herhangi bir şeyin büyük olanı",
+      "ornek_metin": "bedûk tewi: Büyük deve.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "179",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bedükledi",
+      "anlam": "O beni büyüğü saydı",
+      "ornek_metin": "ol meni bedükledi: O beni büyüğü saydı.",
+      "cekimler": [
+        "bedükler",
+        "bedüklemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "179",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bedütti",
+      "anlam": "O, çocuğu büyüttü ve yetiştirdi",
+      "ornek_metin": "ol öglânıg bedütti: O, çocuğu büyüttü ve yetiştirdi.",
+      "cekimler": [
+        "bedütür",
+        "bedütmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "179",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bediz",
+      "anlam": "bkz. burxâın",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "179",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bedizlig",
+      "anlam": "Süslü ev",
+      "ornek_metin": "bedizlig ew: Süslü ev.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "179",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bedti",
+      "anlam": "Onun görme yeteneği zayıfladı",
+      "ornek_metin": "anıg közi bedii: Onun görme yeteneği zayıfladı.",
+      "cekimler": [
+        "bedir",
+        "bedmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "179",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "beg",
+      "anlam": "Bey; evinde bir beye benzediği için kocaya da beg denir",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "180",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "begeç",
+      "anlam": "bkz. bekeç",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "180",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "begi",
+      "anlam": "bkz. beki",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "180",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "begledi",
+      "anlam": "O, onu bey olarak kabul etti",
+      "ornek_metin": "ol anı begledi: O, onu bey olarak kabul etti.",
+      "cekimler": [
+        "begler",
+        "beglemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "180",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "beglendi",
+      "anlam": "Kadın evlendi",
+      "ornek_metin": "urâgut beglendi: Kadın evlendi.",
+      "cekimler": [
+        "beglenür",
+        "beglenmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "180",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "begni",
+      "anlam": "Buğday, darı, arpa gibi tahıllardan yapılan içki",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "180",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "begsig",
+      "anlam": "bkz. -sıg",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "belirsiz",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "180",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bek",
+      "anlam": "Sert, sağlam nesne",
+      "ornek_metin": "bek neng: Sert, sağlam nesne [bkz. berk].",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "180",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bekeç",
+      "anlam": "Hükümdarlara verilen, saygı belirten bir unvan",
+      "ornek_metin": "Nitekim Bekeç Arslân Tegin denir.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "180",
+      "notlar": "Bu sözcük titreşimli kefle (ince kef - g) söylendiğinde [begeç] “ey beycik” gibi bir anlam taşır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "beki",
+      "anlam": "Bir erkek adı",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "180",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bekledi",
+      "anlam": "O mülkünü korudu, bekledi / O kapısını kapattı",
+      "ornek_metin": "ol nengin bekledi: O mülkünü korudu, bekledi. ol qapugın bekledi: O kapısını kapattı.",
+      "cekimler": [
+        "bekler",
+        "beklemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "180",
+      "notlar": "Herhangi bir şeyin sıkıca bağlanmasını anlatmak için de bu sözcük kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "beklen",
+      "anlam": "Bir erkek adı",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "180",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "beklendi",
+      "anlam": "Nesne sertleşti, sağlamlaştı / Adam kendini evine kapattı (ya da evine kapatıldı) / Nesne saklandı, korumaya alındı",
+      "ornek_metin": "beklendi neng: Nesne sertleşti, sağlamlaştı. er ewinde beklendi: Adam kendinfevine kapattı (ya da evine kapatıldı]. beklenildi nerig: Nesne saklandı, korumaya alındı.",
+      "cekimler": [
+        "beklenür",
+        "beklenmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "Oğuz lehçesi",
+      "kaynak_sayfa": "180",
+      "notlar": "Bu eylem hem geçişli hem de geçişsizdir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bekleşdi",
+      "anlam": "O benimle bir antlaşma yaptı / O bana kapıyı kapatırken yardım etti / O bana ata göz kulak olurken yardım etti",
+      "ornek_metin": "ol menig birle bekleşdi: O benimle bir antlaşma yaptı. ol manga qapug bekleşdi: O bana kapıyı kapatırken yardım etti. ol manga at bekleşdi: O bana ata [başka bir şeye de olabilir] göz kulak olurken yardım etti.",
+      "cekimler": [
+        "bekleşür",
+        "bekleşmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "Oğuz lehçesi",
+      "kaynak_sayfa": "180",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bekletti",
+      "anlam": "Bey hırsızın bağlanmasını ve hapsedilmesini emretti / Ben ata göz kulak olunmasını emrettim",
+      "ornek_metin": "beg ogıinı bekletti: Bey hırsızın bağlanmasını ve hapsedilmesini emretti. men at beklettim: Ben ata ibaşka bir şeye de olabilir] göz kulak olunmasını emrettim.",
+      "cekimler": [
+        "bekletür men",
+        "bekletmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "Oğuz lehçesi",
+      "kaynak_sayfa": "180-181",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bekmes",
+      "anlam": "Pekmez",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Oğuz lehçesi",
+      "kaynak_sayfa": "181",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bektür",
+      "anlam": "Bir erkek adı",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "181",
+      "notlar": "Kökeni bek tur. yerinde sağlam dur’dur.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "beküdi",
+      "anlam": "Düğüm sıkılaştı",
+      "ornek_metin": "tûgün beküdi: Düğüm sıkılaştı.",
+      "cekimler": [
+        "bekûr",
+        "bekûmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "181",
+      "notlar": "Herhangi bir şeyin sıkılaştırılmasını, sağlamlaştırılmasını anlatmak için de bu sözcük kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "beküşdi",
+      "anlam": "Nesne sağlamlaştı",
+      "ornek_metin": "beküşdi nerig: Nesne sağlamlaştı.",
+      "cekimler": [
+        "beküşür",
+        "beküşmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "181",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bekütti",
+      "anlam": "O, işi sağlamlaştırdı",
+      "ornek_metin": "ol işıg bekütti: O, işi sağlamlaştırdı.",
+      "cekimler": [
+        "bekûtür",
+        "bekütmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "181",
+      "notlar": "Kök-anlamı “bir düğümün sıkılmasıdır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bel",
+      "anlam": "Bel",
+      "ornek_metin": "anı belinde tut: Onu belinden tut, ol angar ança aş berdi bel toldı: Ona boş boğru şişene kadar yemek verdi.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "181",
+      "notlar": "“Bir adama istediğinden çok yemek veren kimse” anlamına gelecek biçimde bel qıldı denir (Çigil lehçesi).",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "beldir",
+      "anlam": "Dağın zirvesi",
+      "ornek_metin": "tâg beldin: Dağın zirvesi.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "181",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "beledi",
+      "anlam": "Koyun meledi",
+      "ornek_metin": "qöy beledi: Koyun meledi.",
+      "cekimler": [
+        "beler",
+        "belemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "181",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "beledi",
+      "anlam": "O, bebeğini beşiğe yatırdı ve sıkıca bağladı / O, ona kanını bulaştırdı",
+      "ornek_metin": "ol kençin beledi: O, bebeğini beşiğe yatırdı ve sıkıca bağladı, ol anı qântga beledi: O, ona kanını bulaştırdı.",
+      "cekimler": [
+        "beler",
+        "belemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "181",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "beleg",
+      "anlam": "Bir yolcunun akrabalarına getirdiği armağan, hediye",
+      "ornek_metin": "Bir yerden başka bir yere yollanan armağanlar da böyle adlandırılır.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "181",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "belegledi",
+      "anlam": "O beni bir armağanla ödüllendirdi",
+      "ornek_metin": "ol manga belegledi: O beni bir armağanla ödüllendirdi.",
+      "cekimler": [
+        "belegler",
+        "beleglemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "181",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "beleldi",
+      "anlam": "Adam tere bulandı / Çocuk beşiğe bağlandı",
+      "ornek_metin": "er terke beleldi: Adam tere bulandı, ogldn beleldi: Çocuk beşiğe bağlandı.",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "181",
+      "notlar": "",
+      "kontrol_gerekli": false
+    }
+  ]
+}

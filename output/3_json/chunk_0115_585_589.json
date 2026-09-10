@@ -1,0 +1,773 @@
+{
+  "chunk_no": 115,
+  "kaynak_sayfa_baslangic": 585,
+  "kaynak_sayfa_bitis": 589,
+  "kelimeler": [
+    {
+      "kelime": "töngderdi",
+      "anlam": "O, kabı döndürdü [ters çevirdi].",
+      "ornek_metin": "ol ayâq töngderdi: O, kabı [başka bir şeyi de olabilir] döndürdü [ters çevirdi].",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "585",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "töpüledi",
+      "anlam": "O, düşmanın başının tepesine vurdu [düşmanını tepeledi].",
+      "ornek_metin": "ol yağını töpüledi: O, düşmanın başının tepesine vurdu [düşmanını tepeledi].",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "585",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tör",
+      "anlam": "Evin [saygı duyulan kimselere ayrılmış] en önemli yeri",
+      "ornek_metin": "törke keç: Evin başköşesine geç.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "585",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "töndi",
+      "anlam": "O, evine döndü.",
+      "ornek_metin": "ol ewirige töndi: O, evine döndü.",
+      "cekimler": [
+        "töner",
+        "tönmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "Oğuz lehçesi",
+      "kaynak_sayfa": "585",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "töngderdi",
+      "anlam": "Töngderdi",
+      "ornek_metin": "",
+      "cekimler": [
+        "törigderür",
+        "törigdermek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "585",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "törigitti",
+      "anlam": "Adam başını eğdi.",
+      "ornek_metin": "erbaşın töngitti: Adam başını eğdi.",
+      "cekimler": [
+        "törigitür",
+        "törigitmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "585",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "törigre",
+      "anlam": "Adam yüzüstü düştü",
+      "ornek_metin": "er törigre tüşti: Adam yüzüstü düştü",
+      "cekimler": [],
+      "kelime_turu": "zarf",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "585",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "törigüşdi",
+      "anlam": "Adam başını eğdi.",
+      "ornek_metin": "er törigüşdi: Adam başını eğdi.",
+      "cekimler": [
+        "törigüşür",
+        "törigüşmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "585",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "törigütti",
+      "anlam": "Adam [başka biri de olabilir] başını eğdi.",
+      "ornek_metin": "er başın töngütti: Adam [başka biri de olabilir] başını eğdi.",
+      "cekimler": [
+        "törigütûr",
+        "törigütmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "585",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "töpü",
+      "anlam": "Bir dağın zirvesi",
+      "ornek_metin": "töpü. Bir dağın zirvesi; nitekim tâg töpüsi denir",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "585",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "töpü",
+      "anlam": "İnsanın başının tepesi",
+      "ornek_metin": "töpü. İnsanın başının tepesi",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "585",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "töpüledi",
+      "anlam": "Töpülemek",
+      "ornek_metin": "",
+      "cekimler": [
+        "töpüler",
+        "töpülemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "585",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "törçidi",
+      "anlam": "Adam işe başladı.",
+      "ornek_metin": "er ış törçidi: Adam işe başladı.",
+      "cekimler": [
+        "törçîr",
+        "törçîmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "585",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "törçitti",
+      "anlam": "O, onu işe başlattı.",
+      "ornek_metin": "ol angar iş törçitti: O, onu işe başlattı.",
+      "cekimler": [
+        "törçitür",
+        "törçitmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "585",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "töre",
+      "anlam": "Evin en önemli yeri ve itibar edilen kimselere sunulan oturağı [sedir]",
+      "ornek_metin": "töre yoqlâdı: O, evde sedire oturdu",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "586",
+      "notlar": "te’nin (t) okunuşunda işmâm söz konusudur.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "törkün",
+      "anlam": "Boyun toplanma yeri; anne-baba evi.",
+      "ornek_metin": "qiz törkünke keldi: Kız baba evine geldi.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "586",
+      "notlar": "Yabâqu kavmine karşı savaşması için Hakan'a seslenilen dörtlükte de geçer.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "törkünlendi",
+      "anlam": "O, bu evi kendi halkının evlerinden biri saydı ve içinde konakladı.",
+      "ornek_metin": "ol bu ewtıi törkünlendi: O, bu evi kendi halkının evlerinden biri saydı ve içinde konakladı.",
+      "cekimler": [
+        "törkûnlenür",
+        "törkünlenmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "586",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "törpidi",
+      "anlam": "Adam ağacı [başka bir şeyi de olabilir] yonttu, rendeledi.",
+      "ornek_metin": "er yıgâç törpidi: Adam ağacı [başka bir şeyi de olabilir] yonttu, rendeledi.",
+      "cekimler": [
+        "törpır",
+        "törpımek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "586",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "törpig",
+      "anlam": "Keser ya da törpü [eğe]. Buna törpigü de denir",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "586",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "törpigü",
+      "anlam": "Ağacın pürüzlerini gidermeye yarayan keser",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "586",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "törpişdi",
+      "anlam": "O, ağacın pürüzlerini giderme işinde bana yardım etti.",
+      "ornek_metin": "ol menig birle yıgâç törpişdi: O, ağacın pürüzlerini giderme işinde bana yardım etti.",
+      "cekimler": [
+        "törpişâr",
+        "törpişmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "586",
+      "notlar": "Bu işte yarışmayı anlatmak için de aynı sözcük kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "törpitti",
+      "anlam": "O, boynuzu [başka bir şeyi de olabilir] törpületti.",
+      "ornek_metin": "ol müngüz törpitti: O, boynuzu [başka bir şeyi de olabilir] törpületti.",
+      "cekimler": [
+        "törpitür",
+        "törpitmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "586",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "törpüldi",
+      "anlam": "Ağaç keserle yontuldu.",
+      "ornek_metin": "yıgâç törpüldi: Agaç keserle yontuldu.",
+      "cekimler": [
+        "törpülür",
+        "lörpülmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "586",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tört",
+      "anlam": "Dört sayısı",
+      "ornek_metin": "tört yarm âq: Dört para.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "586",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "törtgil",
+      "anlam": "Kare biçimindeki ev.",
+      "ornek_metin": "törtgil ew: Kare biçimindeki ev.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "586",
+      "notlar": "Kare biçimindeki herhangi bir şeyi anlatmak için bu sözcük kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "törtünç",
+      "anlam": "Dördüncü.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "586",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "törü",
+      "anlam": "Töre; gelenek.",
+      "ornek_metin": "el qalır töriı qahnâs: Ülke terk edilir, ama töre terk edilmez.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "587",
+      "notlar": "Bu atasözü, ataların törelerine bağlı kalmayı öğütlemek için kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "törüdi",
+      "anlam": "Âdemoğlu yaratıldı.",
+      "ornek_metin": "yalnguq törudi: Âdemoğlu yaratıldı.",
+      "cekimler": [
+        "törür",
+        "törümek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "587",
+      "notlar": "Bu geçişsiz bir eylemdir ve huliqa anlamınadır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "törütti",
+      "anlam": "Cenab-ı Hak, Âdemi (ve diğer mahlukları) yarattı.",
+      "ornek_metin": "tengri yalnguq törütti: Cenab-ı Hak, Âdemi (ve diğer mahlukları) yarattı.",
+      "cekimler": [
+        "îörütür",
+        "törütmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "Oğuz lehçesi",
+      "kaynak_sayfa": "587",
+      "notlar": "Oğuz lehçesinde törütti, “bir şeyi yerli yerine koymak ya da bir şeyi doğru bir biçimde icra etmek” anlamına gelir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "töş",
+      "anlam": "Göğüs kemiği",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "587",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "töşedi",
+      "anlam": "Döşek döşedi [yaydı].",
+      "ornek_metin": "töşek töşedi: Döşek döşedi [yaydı].",
+      "cekimler": [
+        "töşer",
+        "töşemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "587",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "töşek",
+      "anlam": "Döşek",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "587",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "töşeklik",
+      "anlam": "Döşek yapmakta kullanılan kumaş.",
+      "ornek_metin": "töşeklik barçın: Döşek yapmakta kullanılan kumaş.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "587",
+      "notlar": "Buna -yani döşeğe- sahip olan kimseyi anlatmak için sözcüğün titreşimli kef’li (ince kef - g) biçimi kullanılır [töşeklig].",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "töşeldi",
+      "anlam": "Döşek döşendi [yayıldı].",
+      "ornek_metin": "töşek töşeldi: Döşek döşendi [yayıldı].",
+      "cekimler": [
+        "töşelür",
+        "töşelmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "587",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "töşendi",
+      "anlam": "O, kendisine döşek döşeme [yayma] işini üstüne aldı.",
+      "ornek_metin": "ol özinge töşek töşendi: O, kendisine döşek döşeme [yayma] işini üstüne aldı.",
+      "cekimler": [
+        "töşenür",
+        "töşenmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "587",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "töşetti",
+      "anlam": "O, döşek döşetti [yaydırdı].",
+      "ornek_metin": "ol töşek töşetti: O, döşek döşetti [yaydırdı].",
+      "cekimler": [
+        "töşetür",
+        "töşetmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "587",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "töşletti",
+      "anlam": "O, onun göğsüne [döşüne] vurularak dövülmesini emretti.",
+      "ornek_metin": "ol anı töşletti: O, onun göğsüne [döşüne] vurularak dövülmesini emretti.",
+      "cekimler": [
+        "töşletür",
+        "töşletmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "587",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "töz",
+      "anlam": "Ülkenin ve reayanın durumu",
+      "ornek_metin": "el töz neteg: Ülkenin ve reayanın durumu nasıl",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "588",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "töz",
+      "anlam": "Kök [asl; soy]",
+      "ornek_metin": "anıg tûpi tözi kim: Onun kökü kim - kökeni kime dayanıyor?",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "588",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tözdi",
+      "anlam": "Adam soğuğa katlandı ve bu nedenle acıktı.",
+      "ornek_metin": "er tumlugqa tözdi: Adam soğuğa katlandı ve bu nedenle acıktı.",
+      "cekimler": [
+        "tözer",
+        "tözmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "Qıfçâq lehçesi",
+      "kaynak_sayfa": "588",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tüç",
+      "anlam": "Tunç [sarı bakır; bronz]",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "588",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tüdı",
+      "anlam": "O, (onun) ağzını kapattı. Birinin kapattığı herhangi bir deliği anlatmak için bu sözcük kullanılır.",
+      "ornek_metin": "olagzm tüdı: O, (onun) ağzını kapattı.",
+      "cekimler": [
+        "tür",
+        "tümâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "588",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tudrıç",
+      "anlam": "Gübre",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Argu lehçesi",
+      "kaynak_sayfa": "588",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tüf",
+      "anlam": "Yün ipliklerinin elle dokunmasıyla yapılan kuşak",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "588",
+      "notlar": "Bu se (t) yazacının Türk dilinde kullanıldığı tek örnektir ve burada da t, t olarak yorumlanmıştır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tüdün",
+      "anlam": "Köylüler arasında suyu dağıtan adam",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "588",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tudun",
+      "anlam": "Köyün şefi; köylülere su dağıtan kimse",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "588",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tüg",
+      "anlam": "Hakanın huzurunda çalınan davul [kös].",
+      "ornek_metin": "xân tüg urdı: Han, nöbet davulunu vurdu",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "588",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tüg",
+      "anlam": "Tuğ (alem).",
+      "ornek_metin": "toqüz tüglugxdıı: Dokuz tuğlu han ya da Hakan",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "588",
+      "notlar": "Egemenlik alanı ne kadar geniş ya da payeleri ne kadar çok olursa olsun, bir Hakan asla dokuzdan fazla tuğ kullanmaz. Barçıtı adı verilen kumaştan ya da turuncu renkteki ipekten yapılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tüg",
+      "anlam": "Su bendi.",
+      "ornek_metin": "suwqa tüg ur: Suyun önüne bir bent inşa et.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "588",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tüg",
+      "anlam": "Herhangi bir şeyin kapağı ya da tıpası.",
+      "ornek_metin": "tünglüfc tûgı: Baca kapağı",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "588",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tuga",
+      "anlam": "Hastalık; soluk alma güçlüğü [nefesin kesilmesi].",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "588",
+      "notlar": "Bkz. tunçuq-",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tugâqlıq",
+      "anlam": "Süzgeç yapılacak bir ağaç parçası",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "588",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tugdı",
+      "anlam": "Güneş doğdu.",
+      "ornek_metin": "kürı tugdı: Güneş doğdu.",
+      "cekimler": [
+        "tugdr",
+        "tugmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "588",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tugdı",
+      "anlam": "Çocuk doğdu.",
+      "ornek_metin": "oğul tugdı: Çocuk doğdu.",
+      "cekimler": [
+        "tugdr",
+        "tugmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "588",
+      "notlar": "mûş oglı muyâvu tugâr atasözü, babasının huylarını almış bir çocuğu anlatmak için kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tuglâdı",
+      "anlam": "O, yarığı kapattı.",
+      "ornek_metin": "olydrıg tuglâdı: O, yarığı kapattı.",
+      "cekimler": [
+        "tuglâr",
+        "tuglâmdq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "589",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tugrâg",
+      "anlam": "Dönüşte geri alınmak üzere, bir savaşta ya da bir törende binilmek üzere hakan tarafından askere verilen at.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "589",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tugrâg",
+      "anlam": "Tuğra; hakanın mührü ya da imzası",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Oğuz lehçesi",
+      "kaynak_sayfa": "589",
+      "notlar": "Türkler bu sözcüğü bilmez ve kökenini ben de bilmiyorum.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tugraglandı",
+      "anlam": "Delikanlıya tugrâg verildi.",
+      "ornek_metin": "oglân tugraglandı: Delikanlıya tugrâg verildi.",
+      "cekimler": [
+        "tugraglanûr",
+        "tugraglanmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "589",
+      "notlar": "Bir mektubun ya da belgenin üzerine mühür vurulmasını anlatmak için de bu sözcük kullanılır - Oğuz lehçesinde.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tugsâq",
+      "anlam": "Dul kadın.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "589",
+      "notlar": "Bu sözcük genellikle tül tugsâq biçiminde, ikileme olarak kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tugsug",
+      "anlam": "Doğu; gündoğusu",
+      "ornek_metin": "kün tugsug: Doğu; gündoğusu",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "589",
+      "notlar": "Bkz. batsıg.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tugturdı",
+      "anlam": "Tanrı çocuk doğurttu [kadından çocuk meydana gelmesini sağladı].",
+      "ornek_metin": "tengri oğul tugturdı: Tanrı çocuk doğurttu.",
+      "cekimler": [
+        "tugturür",
+        "tugturmdq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "589",
+      "notlar": "Kökü tugurdı’dır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tugurdı",
+      "anlam": "Kadın, çocuk doğurdu.",
+      "ornek_metin": "uragut oğul tugurdı: Kadın, çocuk doğurdu.",
+      "cekimler": [
+        "tugrur",
+        "tugurmâıj"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "589",
+      "notlar": "Hayvanların doğurması da bu sözcükle anlatılır.",
+      "kontrol_gerekli": false
+    }
+  ]
+}

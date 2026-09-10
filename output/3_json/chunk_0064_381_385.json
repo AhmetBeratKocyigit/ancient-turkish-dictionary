@@ -1,0 +1,583 @@
+{
+  "chunk_no": 64,
+  "kaynak_sayfa_baslangic": 381,
+  "kaynak_sayfa_bitis": 385,
+  "kelimeler": [
+    {
+      "kelime": "ötgündi",
+      "anlam": "Belli bir işte boy ölçüşmek",
+      "ornek_metin": "ol manga ötgündi: O, belli bir işte benimle boy ölçüştü.\nŞu atasözünde de geçer,\nqarga qazga ötgünse butı sınür: Karga (güç ve uçma yeteneği anlamında) kazla aşık atsa ayağı kırılır. Bu atasözü bir kimseye haddini aşmamasını öğütlemek için kullanılır.",
+      "cekimler": [
+        "ötgünür",
+        "ötgünmlk"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "381",
+      "notlar": "Başka bir anlamı için bkz. ötündi",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ötgürdi",
+      "anlam": "Müshil bağırsakları yumuşattı / Bir şeyi başka bir şeyin içinden geçirmek",
+      "ornek_metin": "ötrüm qarın ötgürdi: Müshil bağırsakları yumuşattı.\nol ewke bitig ötgürdi: O, evinden gelen bir mektup aldı. Bir şeyi başka bir şeyin içinden geçirmeyi anlatmak için de bu sözcük kullanılır.",
+      "cekimler": [
+        "ötgürür",
+        "ötgürmlk"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "381",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ötgürüşdi",
+      "anlam": "Ulaştırmak, karşılıklı göndermek",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "381",
+      "notlar": "bkz. ötrüşdi.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ötki",
+      "anlam": "Bir şeyin bedeli, karşılığı olarak verilen hediye",
+      "ornek_metin": "bu atqa ötki birdim: Bu atın bedelini verdim",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Çigil lehçesi",
+      "kaynak_sayfa": "381",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ötlük",
+      "anlam": "Öğüt",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "381",
+      "notlar": "Bu anlama gelecek biçimde övüt sözcüğü de kullanılır. Kök-biçimi ögût’tür.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ötnü",
+      "anlam": "Ödünç verilen şeyle bağlantılı olarak kullanılan ilgeç",
+      "ornek_metin": "men yarm âq ötnü birdim: Ben (ona) ödünç para verdim",
+      "cekimler": [],
+      "kelime_turu": "edat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "381",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ötrük",
+      "anlam": "Hileci, dolap çeviren adam",
+      "ornek_metin": "ötrük utun ogrılayu yüzke baqâr\nelgin tüşüp birmiş aştg başra qaqâr\nDüzenbaz ve adi olan kimse (konuğunun) yüzüne sanki hırsızmış gibi bakar (böylece insanlar arasında ayırt edileblir)\nKonuğunu över ama verdiği yemeği onun başına kakar",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "Oğuz lehçesi",
+      "kaynak_sayfa": "381",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ötrüldi",
+      "anlam": "Öttürüldü",
+      "ornek_metin": "SlblZgU ötrüldi: Düdük [başka bir şey de olabiliri öttürüldü.",
+      "cekimler": [
+        "ötrülür",
+        "ötrülm lk"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "381",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ötrüm",
+      "anlam": "Müshil",
+      "ornek_metin": "sut ötrüm: Sütotu.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "381",
+      "notlar": "Bu sözcük (ses ve anlam olarak) Arapçaya yakındır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ötrüşdi",
+      "anlam": "Birbirlerine mektupla veya başka bir şeyle ulaştı",
+      "ornek_metin": "olâr bir blrke bitig ötrüşdi: Onlar birbirlerine mektupla [başka bir şeyle de olabiliri ulaştı",
+      "cekimler": [
+        "ötrüşür",
+        "ötrüşmlk"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "381",
+      "notlar": "Bunun kök-biçimi ötgürüşdi’dir. Herhangi bir şeym varlığını sürdürmek için yardımlaşmayı ya da rekabet etmeyi anlatmak için de bu sözcük kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ötsedi",
+      "anlam": "Dışarı çıkmak istemek, içine nüfuz etmek",
+      "ornek_metin": "ol üttin ötsedi: O, bu delikten dışan çıkmak istedi.",
+      "cekimler": [
+        "ötser",
+        "ötsemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "382",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ötti",
+      "anlam": "Saplandı, derisini yarip içine girdi, bağırsaklar çalışmaya başladı",
+      "ornek_metin": "oq keyikten ötti: Ok geyiğe saplandı - derisini yanp içine girdi. Bir şeyi delen ya da içinden gelip geçen herhangi bir şeyi anlatmak için de bu sözcük kullanılır.\nqann ötti: Bağırsaklar hareketlendi - çalışmaya başladı.",
+      "cekimler": [
+        "öter",
+        "ötmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "382",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "öttürdi",
+      "anlam": "Öttürdü",
+      "ornek_metin": "sıbızgu öttürdi: Düdüğü öttürdü. Yapılan bir hareket sonucu ses çıkaran herhangi bir şeyi anlatmak için de bu sözcük kullanılabilir.",
+      "cekimler": [
+        "öttürür",
+        "öttürmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "382",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ötüg",
+      "anlam": "Hakana sunulan arzuhal",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "382",
+      "notlar": "Kök-anlamı “öykü anlatmak ya da taklit etmek”tir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ötüg",
+      "anlam": "Dizanteri",
+      "ornek_metin": "arığar ötüg tuttı: O dizanteri oldu",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "382",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ötüglüg",
+      "anlam": "Hakandan bir dileği olan kimse",
+      "ornek_metin": "ötüglüg kişi: Hakandan bir dileği olan kimse",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "382",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ötüken",
+      "anlam": "Uygur ülkesine yakın Tatar bozkırlarında bir yer adı",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "382",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ötünç",
+      "anlam": "Ödünç; borç",
+      "ornek_metin": "men arigâryarm âq ötünç herdim: Ben ona borç para verdim",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "382",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ötünç",
+      "anlam": "Borç verme",
+      "ornek_metin": "men arigâr yarm âq ötünç herdim: Ben ona borç para verdim",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Oğuz lehçesi",
+      "kaynak_sayfa": "382",
+      "notlar": "Ana madde olarak bu sözcük, sözlükte iki kez yer almaktadır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ötündi",
+      "anlam": "Dileğini sunmak",
+      "ornek_metin": "ol xânqa ötüg ötündi: O, Hakana [başka birine de olabilir) dileğini sundu.",
+      "cekimler": [
+        "ötnur",
+        "ötünmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "382",
+      "notlar": "Kök-biçimi ötgündi: duyduğu biçimiyle taklit etti ya da öyküledi’dir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ötürdi",
+      "anlam": "Ottürmek, ses çıkartmak",
+      "ornek_metin": "Oİ sıbızgu ötürdi: O, düdüğü [başka bir şeyi de olabilir] öttürdü",
+      "cekimler": [
+        "ötrür",
+        "ötürmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "382",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ötürdi",
+      "anlam": "Delmek",
+      "ornek_metin": "ol tam Ötürdi: O, duvarı [başka bir şeyi de olabilir) deldi.",
+      "cekimler": [
+        "ötrür",
+        "ötürmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "382",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ötürdi",
+      "anlam": "Hatırlatmak",
+      "ornek_metin": "ol manga söz Ötürdi: O, bana sözleri [başka bir şeyi de olabilir] hatırlattı.",
+      "cekimler": [
+        "ötrür",
+        "ötürmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "382",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ötüş",
+      "anlam": "Çocukların oynadığı bir oyunda itişi bir sonraki çocuğa geçirme sözü",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "383",
+      "notlar": "Bir oyunda belli bir bağlamda kullanılan bir sözcük - ö ince okunur.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "övüt",
+      "anlam": "Öğüt",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "383",
+      "notlar": "bkz. ötlük, öğüt.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "öyle",
+      "anlam": "Öğle vakti",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Oğuz lehçesi",
+      "kaynak_sayfa": "383",
+      "notlar": "Qıfçdqlar ye’yi (y) ze (z) yapar ve özle der.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "öyük",
+      "anlam": "Yer seviyesinden yüksekte olan her türlü zemin, örneğin bir tepecik",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Oğuz lehçesi",
+      "kaynak_sayfa": "383",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "öyük",
+      "anlam": "Yutan kum, bataklık",
+      "ornek_metin": "öyük yer: Yutan kum; basıldığı zaman ayağın içinde kaybolduğu ve su ya da benzer bir etken nedeniyle bir daha dışan çekilemediği kumluk yer, bataklık",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "383",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "öz",
+      "anlam": "Öz, kendi, benlik",
+      "ornek_metin": "körklüg tonüg özüngke\nKendi üzerine iyi giysiler giy\ntatlîg aşîg admqa\nLezzetli yemekten başkasna pay ayır\ntütgil qonüq agfrlıg\nKonuğu ağırla\nyadsün çamng bodunqa\n(Böylece) ününü herkese yaysın - halk arasında şanın yürüsün",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "383",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "öz",
+      "anlam": "İki dağ arasındaki arazi, vadi",
+      "ornek_metin": "tâg Özi: Dağ vadisi.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "383",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "öz",
+      "anlam": "Akrabalık bağı (hısım) olan kimse",
+      "ornek_metin": "bu biznig öz kişi ol: Bu bizim akrabalarımızdandır.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "383",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "öz",
+      "anlam": "Kalp ve karın bölgesinde bulunan tüm organlar",
+      "ornek_metin": "özüm ağrıdı: Kamım ağrıdı.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "383",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "öz",
+      "anlam": "Ağacın özü",
+      "ornek_metin": "yıgâç özi de denir - hurma ağaçlarında oluşan, hurma göbeği de denen ve tadı süte benzeyen öz gibi.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "383",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "öz",
+      "anlam": "Bedenin yaşamı sağlayan unsuru, ruh",
+      "ornek_metin": "bardı közüm yarüqı\nSözümün nuru gitti\naldı Özüm qonuqı\n(Giderken) ruhumu da benden alıp götürdü\nqarıda erinç qânîqı\nŞimdi nerede olabilir\namdı udin odgurür\nBeni uykudan uyandıracak olan",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "383",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "öz tikti",
+      "anlam": "Östikti",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "belirsiz",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "383",
+      "notlar": "bkz. östikti.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "öz kend",
+      "anlam": "Kend, qâz",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "belirsiz",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "383",
+      "notlar": "bkz. kend, qâz.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "özek",
+      "anlam": "Omurilik",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "384",
+      "notlar": "Muhammed Peygamber’in de bir keresinde andığı, omurganın içinde uzanan ana damardır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "özekledi",
+      "anlam": "Koyunun omuriliğini kesti",
+      "ornek_metin": "ol qöyug özekledi: O, koyunun omuriliğini kesti. Bunu vurarak kırmayı anlatmak için de bu sözcük kullanılır.",
+      "cekimler": [
+        "özekler",
+        "özeklemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "384",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "özeldi",
+      "anlam": "Kolayca rahatlığa kavuşamadan sıkıntılarla boğuşmak, direniş göstermek",
+      "ornek_metin": "er özeldi: Adam kolayca rahatlığa kavuşamadan bir işte sıkıntılarla boğuştu ve direniş gösterdi.\niglig özeldi: Hasta adam ruhunu kolay kolay teslim etmedi, sanki ölümün onun aleyhine bir ferman çıkarmasını önleyecek güçte gibi göründü",
+      "cekimler": [
+        "özelür",
+        "özelmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "384",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "özi",
+      "anlam": "İki dağ arasındaki derin vadi",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Çigil lehçesi",
+      "kaynak_sayfa": "384",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "özle",
+      "anlam": "Öğle vakti",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "384",
+      "notlar": "bkz. öyle",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "özledi",
+      "anlam": "Hamuru küllerin üzerinde pişirdi",
+      "ornek_metin": "ol ünug özledi: O, hamuru küllerin üzerinde pişirdi.",
+      "cekimler": [
+        "özler",
+        "özlemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "384",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "özlük",
+      "anlam": "Gözde at; kişinin kendisi için ayırdığı herhangi bir şey",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "384",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "öznedi",
+      "anlam": "İtaatsizlik davrandı",
+      "ornek_metin": "oğul atâqa öznedi: Çocuk babasına karşı itaatsiz davrandı.",
+      "cekimler": [
+        "özner",
+        "öznemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "384",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "özük",
+      "anlam": "Kadınlara verilen bir unvan",
+      "ornek_metin": "altün özük: Ruhu altın gibi temiz olan kadın.\nertini özük: Vücudu inci gibi pürüzsüz olan kadın",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Çigil kadınları",
+      "kaynak_sayfa": "384",
+      "notlar": "Bunun kökü öz: ruh sözcüğüdür; bu sözcüğe eklenen k ef (k), “o şeyin ta kendisi\" vurgusunu yaratacak anlamı kazandırır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "özük",
+      "anlam": "Bataklık ya da sele maruz kalmış bölge, nehrin bir kolu",
+      "ornek_metin": "özük süw: nehrin bir kolu",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "385",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "özütledi",
+      "anlam": "Cimri biri olduğunu düşündü",
+      "ornek_metin": "ol anı özütledi: O, onun cimri biri olduğunu düşündü.",
+      "cekimler": [
+        "özütler",
+        "özütlemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "385",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "özütlük",
+      "anlam": "Belli bir şey konusunda cimri davranma",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "385",
+      "notlar": "",
+      "kontrol_gerekli": false
+    }
+  ]
+}

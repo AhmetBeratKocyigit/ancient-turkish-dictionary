@@ -1,0 +1,671 @@
+{
+  "chunk_no": 78,
+  "kaynak_sayfa_baslangic": 437,
+  "kaynak_sayfa_bitis": 441,
+  "kelimeler": [
+    {
+      "kelime": "qondıgu",
+      "anlam": "Evi özleten",
+      "ornek_metin": "ogui meni cwke qomıtgân ol: Oğlum bana her zaman evi [başka bir şeyi de olabilir] özletir.",
+      "cekimler": [],
+      "kelime_turu": "belirsiz",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "437",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qomıttı",
+      "anlam": "Özlem coşturdu, heyecana getirdi",
+      "ornek_metin": "Mıg meni qomıttı: (Sevgiliye ya da sılaya duyulan) özlem beni coşturdu, heyecana getirdi.",
+      "cekimler": [
+        "qomıtür",
+        "qomıtmdq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "437",
+      "notlar": "Şu dörtlükte de kullanılır, (Gazi Arslân Tegrnle savaşan Basmil birliklerini anlatıyor) basmil süsin qomıttı Basmil (bizimle savaşması için) askerini coşturdu barça kelip yomıttı Tümü gelip toplandı arslan tapa m itti Aslanı [Gazi Arslân T eğin] alt etmeye çalıştı [peşinden koştularl qorqup başı tezginür (Ancak bizi görünce şaşkına dönüler ve) korkudan gözleri karardı",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qomturdı",
+      "anlam": "Rüzgâr, suyu dalgalandırdı",
+      "ornek_metin": "yel süwug qomturdı: Rüzgâr, suyu dalgalandırdı.",
+      "cekimler": [
+        "qomturur",
+        "qomturmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "437",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qön",
+      "anlam": "Koyun",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Argu lehçesi",
+      "kaynak_sayfa": "437",
+      "notlar": "nun (n), ye’den (y) dönüşmüştür [bkz. qöyl.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qonaq",
+      "anlam": "Çavdar",
+      "ornek_metin": "qonaq başı sedreki yeg: Çavdar başağının tanesi seyrek olanriyidir - çünkü taneler seyrekse daha güzel ve büyük olurlar, sayılan arttıkça taneler zayıflar ve küçülürler. Bu atasözü, arzusuna ulaşmak ve denetleme gücüne sahip olmak için küçük bir topluluğu tercih eden kimseyi anlatmak için kullanılır.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "437",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qonat",
+      "anlam": "Birbirine bağlı kalan (sadık olan) herhangi bir insan topluluğu",
+      "ornek_metin": "ol oıcnig qoYiûtwx ol; O, bana bağlı kalanlardan biridir.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "437",
+      "notlar": "",
+      "kontrol_gerekli": true
+    },
+    {
+      "kelime": "qonattı",
+      "anlam": "Hizmetkârları ve destekçileriyle birlikte bir kavmin evinin çevresine [kendi yurduna] yerleşmesine izin verdi",
+      "ornek_metin": "ol özinge qonum qonattı: O, hizmetkârian ve destekçileriyle birlikte bir kavmin evinin çevresine [kendi yurduna] yerleşmesine izin verdi.",
+      "cekimler": [
+        "qonatür",
+        "qonatmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "437",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qöndı",
+      "anlam": "Kuş (bir şeyin üzerine) kondu veya kavim göç ettikten sonra (bir yere) yerleşti",
+      "ornek_metin": "quş qöndı: Kuş (bir şeyin üzerine) kondu. bodün qöndı: Kavim göç ettikten sonra (bir yere) yerleşti.",
+      "cekimler": [
+        "qönâr",
+        "qönmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "437",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qondidı",
+      "anlam": "Cila taşıyla kılıcı parlattı",
+      "ornek_metin": "ol qılıç qondîdı: O, cila taşıyla kılıcı parlattı.",
+      "cekimler": [
+        "qondir",
+        "qondîmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "437",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qondıgu",
+      "anlam": "Cila taşı",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "437",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qondurdı",
+      "anlam": "Kuşu kendi evine kondurdu veya altının üzerine turkuvaz kakma yaptırdı",
+      "ornek_metin": "ol ewinde quş qondurdı: O, kuşu kendi evine kondurdu. ol akün üze çeş qondurdı: O, altının üzerine turkuvaz kakma yaptırdı. Bir nesneni üzerine yapılan kakmayı anlatmak için bu sözcük kullanılır.",
+      "cekimler": [
+        "qondurur",
+        "qondurmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "437-438",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qonşı",
+      "anlam": "Komşu",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "438",
+      "notlar": "bkz. qoşnı",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qonuq",
+      "anlam": "Konuk",
+      "ornek_metin": "bardı eren qonuq bulup qutqa saqâr qaldı alıg oyuq körüp ewniyıqâr Konuk bulunca onu uğur sayan kimseler gitti Bir korkuluk görünce (onu çadırlannda kalacak bir konuk sanıp) çadırını toplayanlar kaldı",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "438",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qonuqlâdı",
+      "anlam": "Konuğu olarak ağırladı",
+      "ornek_metin": "beg meni qonuqlâdı: Bey [başka biri de olabiliri beni konuğu olarak ağırladı.",
+      "cekimler": [
+        "qunuqlâr",
+        "qonuqlamâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "438",
+      "notlar": "Oğuz lehçesinin dışındaki lehçelerde bu sözcük, bir adamın, ev sahibinin rızası olmamasına karşın bir evde gecelediğini anlatmak için kullanılır. Şu dörtlükte de kullanılır, yağı begdin udıqlâdı Beyin huzurunda uyku düşmana galip geldi körüp suni aduqlâdı (Böylesine gafilken kendilerine saldıran) orduyu görünce (Bey) şaşırdı ölüm anı qonuqlâdı Ölüm onu konuk olarak kabul etti ağız içre agu sağdı Zehir ağzından içeri akb (ve o öldü)",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qonuqlaşdı",
+      "anlam": "Birbirlerini konuk olarak kabul ettiler",
+      "ornek_metin": "olâr ekki qonuqlaşdı: O ikisi birbirlerini konuk olarak kabul ettiler.",
+      "cekimler": [
+        "qonuqlaşür",
+        "qonuqlaşmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "438",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qonuqlug",
+      "anlam": "İçinde konuklar olan",
+      "ornek_metin": "qonuqlug ew: İçinde konuklar olan ev.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "438",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qonuqluq",
+      "anlam": "Konuk evi",
+      "ornek_metin": "qonuqluq ev: Konuk evi.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "438",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qong",
+      "anlam": "Kas",
+      "ornek_metin": "qong et: Kas.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "438",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qorigrâdı",
+      "anlam": "Ses kalınlaştı, boğuklaştı veya koyun kestane rengi haline geldi",
+      "ornek_metin": "oglân üni qongrâdı: Oğlanın sesi kalınlaştı (boğuklaştı). Bu olay, çocuk ergenlik çağına geldiğinde gerçekleşir. qöy qongrâdı: Koyun kestane rengi |kızıl kahverengi] hale geldi,",
+      "cekimler": [
+        "rjongrâr",
+        "qongrâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "438",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qorigragu",
+      "anlam": "Çanlar veya kulağın arkasındaki çıkık, bombeli kemik",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "439",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qongıur",
+      "anlam": "Boğuk (kısık) ses",
+      "ornek_metin": "qongıur ün: Boğuk (kısık) ses.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "439",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qongur",
+      "anlam": "Kestane renginde (kızıl kahverengi) koyun",
+      "ornek_metin": "qongur qöy: Kestane renginde (kızıl kahverengi] koyun (başka bir şey de olabiliri.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "439",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qongurdı",
+      "anlam": "Adam ağacı kökünden söktü",
+      "ornek_metin": "ytgöç qorigurdı: Adam ağacı Ibaşka bir şeyi de olabilir] kökünden söktü. Rüzgârın bir şeyi köklerinden söküp atmasını anlatmak için de bu sözcük kullanılır.",
+      "cekimler": [
+        "qongrur",
+        "qongurmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "439",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qoriguz",
+      "anlam": "Gübre böceği",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "439",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qöp",
+      "anlam": "Keyiflendi",
+      "ornek_metin": "ol meni körüp qöp qtldı: O, beni görünce keyiflendi.",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "439",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qop",
+      "anlam": "Pekiştirme ve vurgulama bildiren ilgeç",
+      "ornek_metin": "ogu! qop bedüdi: Çocuk dikkat çekici bir biçimde büyüdü; qop edgü neng: Çok iyi nesne.",
+      "cekimler": [],
+      "kelime_turu": "edat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "439",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qopdı",
+      "anlam": "Adam yerinden kalktı, tipi çıktı veya kuş yukarı doğru yükseldi",
+      "ornek_metin": "er yoqâru qopdı : Adam yerinden kalktı. tüpi qopdı: Tipi çıktı. quş qopdi: Kuş (başka bir şey de olabilir] yukarı doğru yükseldi (uçtu).",
+      "cekimler": [
+        "qopâr",
+        "qopmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "439",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qopruşdı",
+      "anlam": "Kuşu uçmaya teşvik etmekte yardım etti",
+      "ornek_metin": "ol manga quş qopruşdı: O, bana kuşu uçmaya teşvik etmekte yardım etti. Herhangi bir şeyi yerinden kaldırmayı (yükseltmeyi) anlatmak için de bu sözcük kullanılır.",
+      "cekimler": [
+        "qopruşûr",
+        "qopruşmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "439",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qopsâdı",
+      "anlam": "Yukarı çıkmak (yükselmek) istedi",
+      "ornek_metin": "ol yoqâru qopsâdı: O, yukarı çıkmak (yükselmek) istedi.",
+      "cekimler": [
+        "qopsâr",
+        "qopsâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "439",
+      "notlar": "qopsâldı. bkz. qopzaldı.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qopturdı",
+      "anlam": "Onu yerinden kaldırdı",
+      "ornek_metin": "ol anı orundın qopturdı: O, onu yerinden kaldırdı.",
+      "cekimler": [
+        "qopturur",
+        "qopturmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "439",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qopurdı",
+      "anlam": "Beni yerimden kaldırdı",
+      "ornek_metin": "ol meni onum dın qopurdı: O, beni yerimden kaldırdı. Yerinden oynatılan lıeıhangi bir şeyi anlatmak için de bu sözcük kullanılır.",
+      "cekimler": [
+        "qopurur",
+        "qopurmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "439-440",
+      "notlar": "Şu atasözünde de geçer, iütibı qopursa ışlanûr: Dumanla oynayan islenir. Bunun anlamı, halkın itaatsizlik etmesini kışkırtan kimsenin kaçınılmaz bir biçimde bunun yarattığı şiddet nedeniyle mağdur olacağıdır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qopurgân",
+      "anlam": "Topraktan kaya çıkartan [madencilik yapan] adam",
+      "ornek_metin": "bu er ol taşıg yerden qopurgân: Bu topraktan kaya çıkartan [madencilik yapan] adamdır. Kaya dışındaki şeyler için de söylenir.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "440",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qopurltı",
+      "anlam": "Adamı yerinden kaldırdı",
+      "ornek_metin": "ol erig ornmdm qopuritt: O, adamı yerinden Ibaşka bir yerden de olabilir] kaldırdı.",
+      "cekimler": [
+        "qopurtür",
+        "qopurtmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "440",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qopuşdı",
+      "anlam": "Ayakta kalma konusunda bana meydan okudu / Ayağa kalkmama yardım etti",
+      "ornek_metin": "ol menig birle qopuşdı: O, ayakta kalma konusunda bana meydan okudu - O benim ayağa kalkmama yardım etti demek için de bu sözcük kullanılır.",
+      "cekimler": [
+        "qopuşür",
+        "qopuşmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "440",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qopuz",
+      "anlam": "Uda benzer bir çalgı",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "440",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qopuzlug",
+      "anlam": "Kopuzu olan kimse",
+      "ornek_metin": "qopuzlug kişi: Kopuzu olan kimse.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "440",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qopzâdı",
+      "anlam": "Kopuz çaldı",
+      "ornek_metin": "ol qopuz qopzâdı: O, kopuz çaldı.",
+      "cekimler": [
+        "qopzcır",
+        "qopzâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "440",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qopzaldı",
+      "anlam": "Kopuz çalındı",
+      "ornek_metin": "qopuz qopzaldı: Kopuz çalındı.",
+      "cekimler": [
+        "qopzâlur",
+        "qopzalmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "440",
+      "notlar": "sin’le (s) söylenen qop.sâldı bir değişik sesletimdir. Böylesi bir yer değiştirme tıpkı kabş rebîz ve rebis (“bütün vücuduyla çarpma”) ifadesinde olduğu gibi [Arapçada] çok yaygındır. (bkz. qopsâldı)",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qopzaşdı",
+      "anlam": "Kızlar kopuz çalmakta yarıştı",
+      "ornek_metin": "qîzldr qopzaşdı: Kızlar kopuz çalmakta yanştı.",
+      "cekimler": [
+        "qopzaşür",
+        "qopzaşmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "440",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qopzattı",
+      "anlam": "Onu kopuz çalmaya teşvik etti",
+      "ornek_metin": "ol anı qopzattı: O, onu kopuz çalmaya teşvik etti.",
+      "cekimler": [
+        "qopzatür",
+        "qopzatmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "440",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qöqdı",
+      "anlam": "Ateşte pişen etin kokusu yükseldi, su duruldu veya çalkantı dindi",
+      "ornek_metin": "et qöqdı: Ateşte pişen etin kokusu yükseldi. Söndürülen bir kandilden yükselen dumanı anlatmak için de bu sözcük kullanılır, süvv qöqdı: Su duruldu; sfş qoqdı: Çalkantı yatıştı (dindi).",
+      "cekimler": [
+        "qöqâr",
+        "qöqmaq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "440-441",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qoqıçtı",
+      "anlam": "Kokusu etrafa yayılana kadar ateşin üstünde eti kızarttı",
+      "ornek_metin": "ol angar sögiünçü qoqıttı: O, kokusu etrafa yayılana kadar ateşin üstünda ati kızarttı.",
+      "cekimler": [
+        "qoqıtür",
+        "qoqıtmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "441",
+      "notlar": "Aynı zamanda kandil söndürüldüğü zaman çıkan zararlı dumanı anlatmak için de bu sözcük kullanılır.",
+      "kontrol_gerekli": true
+    },
+    {
+      "kelime": "qoqrattı",
+      "anlam": "Suyu azalttı",
+      "ornek_metin": "ol süwug qoqratti: O, suyu [başka bir sıvıyı da olabilir] azalttı.",
+      "cekimler": [
+        "qoqratür",
+        "qoqratmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "441",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qoqruşdı",
+      "anlam": "Sular geri çekildi",
+      "ornek_metin": "süvvlâr qamug qoqruşdı: Sular geri çekildi. Miktarı azalan herhangi bir sıvıyı anlatmak için de bu sözcük kullanılır.",
+      "cekimler": [
+        "qoqruşür",
+        "qoqruşmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "441",
+      "notlar": "Vücuttaki şişliklerin inmesini anlatmak için de bu sözcük kullanılabilir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qoqtı",
+      "anlam": "Yağın dumanı yükseldi",
+      "ornek_metin": "ydgötta qoqtı: Yağın dumanı [ateşte yanınca] yükseldi. Bu olay, bir kandil söndürüldüğünde veya et ateşte pişirilip kokusu yayıldığında gerçekleşmektedir [et qoqdı\\.",
+      "cekimler": [
+        "qoqâr",
+        "qoqmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "441",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qoqun",
+      "anlam": "Kıvılcım",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "441",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qoqunlug",
+      "anlam": "Kıvılcımları yükselen",
+      "ornek_metin": "qoqunlug öt: Kıvılcımları yükselen ateş.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "441",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qör",
+      "anlam": "Yoğurt mayası",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "441",
+      "notlar": "Bu, kabın dibinde kalan yoğurt ya da mayalanmış kımız artığıdır; daha sonra bu artığın üzerine taze süt eklenir ve böylece yoğurt katılaşır ya da kımız mayalanır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qör",
+      "anlam": "Zarar",
+      "ornek_metin": "er qör qıldı: Adam zarar etti.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "441",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qordây",
+      "anlam": "Kuğu",
+      "ornek_metin": "qordây qugtı anda uçupyomgın öter quzgun tangân say rap anıg üni büter Kuğular ve diğer kuşlar sulann çevresinde uçuşur ve sayısız güzel ezgiyle şakırlar Kuzgunlar ve alacakargalar nefesleri tükenene kadar gaklarlar",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "441",
+      "notlar": "(Bir yerin hoş görüntüsünü anlatıyor)",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qorîdı",
+      "anlam": "Otlağı [başka bir şeyi de olabilir] korudu",
+      "ornek_metin": "Otlg qorîdı: Otlağı [başka bir şeyi de olabilir] korudu.",
+      "cekimler": [
+        "qorîr",
+        "qorimâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "441",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qorıg",
+      "anlam": "Beylere ve benzerlerine ait korunaklı, özel olarak tahsis edilmiş yer",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "441",
+      "notlar": "Herkese açık olmayan, çevrilmiş bir yeri anlatmak için bu sözcük kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qorıgçı",
+      "anlam": "Beylerin özel olarak ayrılmış arazilerini koruyan kimse; korucu",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "441",
+      "notlar": "",
+      "kontrol_gerekli": false
+    }
+  ]
+}

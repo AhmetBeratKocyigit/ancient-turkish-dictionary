@@ -1,0 +1,678 @@
+{
+  "chunk_no": 147,
+  "kaynak_sayfa_baslangic": 713,
+  "kaynak_sayfa_bitis": 717,
+  "kelimeler": [
+    {
+      "kelime": "yuwdı",
+      "anlam": "Harabe halindeki eski yerleşimler.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "belirsiz",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "713",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "urun",
+      "anlam": "Bir kesimlik ipek kumaş parçası, yurun yuqa da denir.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "713",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yurunlug",
+      "anlam": "İpek kumaş parçalarına sahip olan kadın.",
+      "ornek_metin": "yurunlug urâgut: İpek kumaş parçalarına sahip olan kadın.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "713",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yusıqhg",
+      "anlam": "Başına tulga giymiş, yüzünü demir zırhla örtmüş adam.",
+      "ornek_metin": "yusıqhg er: Başına tulga giymiş, yüzünü demir zırhla örtmüş adam.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "713",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ruşdı (yüşdi)",
+      "anlam": "O (testinin ağzından) birayı akıttı.",
+      "ornek_metin": "ol begni yuşdı (yüşdi): O (testinin ağzından) birayı akıttı. Bu [begni — begni], buğday, arpa ve darıdan yapılan bir içkidir,",
+      "cekimler": [
+        "yuşâr",
+        "yuşmâq",
+        "yüşer",
+        "yüşmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "713",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yuışıldı (yüşildi)",
+      "anlam": "Sirke ya da bira gibi şeylerin testiden akıtılmasını anlatmak için kullanılır.",
+      "ornek_metin": "",
+      "cekimler": [
+        "yuşılûr",
+        "yuşılmâq",
+        "yüşilür",
+        "yüşilmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "713",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yuşuldı",
+      "anlam": "Kan (yaradan ya da başka bir yerden) fışkırdı",
+      "ornek_metin": "qân yuşuldı: Kan (yaradan ya da başka bir yerden) fışkırdı,",
+      "cekimler": [
+        "yuşulür",
+        "yuşulmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "713",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yuşulgân",
+      "anlam": "Sürekli kanın aktığı yara.",
+      "ornek_metin": "bu bâş ol qâıu yuşulgân: Bu, sürekli kanın aktığı bir yaradır.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "713",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yüt",
+      "anlam": "Kışın gelen soğukla birlikte vahşi hayvanları ve çiftlik hayvanlarını öldüren felaket.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "713",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yutıqtı",
+      "anlam": "Yağan karla birlikte hayvanları soğuk ısırdı. Bu, hayvanların soğuktan donarak öldüğü anlamına gelir.",
+      "ornek_metin": "yılqı yutıqtı: Yağan karla birlikte hayvanları soğuk ısırdı. Bu, hayvanların soğuktan donarak öldüğü anlamına gelir.",
+      "cekimler": [
+        "yutıqâr",
+        "yutıqmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "713",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yuttı",
+      "anlam": "O, yumurtayı yuttu.",
+      "ornek_metin": "d yumurtgâm yuttı: O, yumurtayı [başka bir şeyi de olabilir] yuttu",
+      "cekimler": [
+        "yütâr",
+        "yütmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "Oğuz ve Qıfçâq lehçeleri",
+      "kaynak_sayfa": "713",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yuvga",
+      "anlam": "Katmerli yufka.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "713",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yuvug",
+      "anlam": "Sel suyunun yuvarladığı iri kaya parçaları.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "713",
+      "notlar": "yuwug sözcüğünün değişik sesletimi.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yuwdı",
+      "anlam": "Adam topu yuvarladı.",
+      "ornek_metin": "er topıqyuwdı: Adam topu yuvarladı,",
+      "cekimler": [
+        "yuvvdr",
+        "yuvvmdcj"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "713-714",
+      "notlar": "Şu dizelerde de kullanılır: tawar yığıp suw aqın endi saqm qorum kepi idisin qödı yuwâr (Malını yığıp zenginliğini arttıranın dağın zirvesinden bir selin geldiğini düşünmesini sağla İri kayaları yuvarladığı gibi onun malını da sürükler götürür)",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yuvvga",
+      "anlam": "Piç.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "714",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yuvvgalandı",
+      "anlam": "Çocuk yaramazlaştı, terbiyesizleşti.",
+      "ornek_metin": "oğul yuwgalandı: Çocuk yaramazlaştı, terbiyesizleşti.",
+      "cekimler": [
+        "yuwgalanür",
+        "yuwgalanmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "714",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yuvvgattı (yuvvgâdtı)",
+      "anlam": "Çocuk yaramazlık, terbiyesizlik yaptı.",
+      "ornek_metin": "ogldn yuıvgattı: Çocuk yaramazlık, terbiyesizlik yaptı.",
+      "cekimler": [
+        "yuwgatûr",
+        "yuwgatmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "714",
+      "notlar": "Kök-biçimi yuvvgâdtı’dır; benzeşime maruz kalmıştır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yuvvlundı",
+      "anlam": "Bir şey yuvarlandı.",
+      "ornek_metin": "yuıvlundı neng. Bir şey yuvarlandı,",
+      "cekimler": [
+        "yuvvlunür",
+        "yuwlunmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "714",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yuvvluşdı",
+      "anlam": "Kayalar tümden yuvarlandı.",
+      "ornek_metin": "qorumlâr qamugyuwluşdı: Kayalar [başka şeyler de olabilir] tümden yuvarlandı.",
+      "cekimler": [
+        "yuwluşür",
+        "yuwluşmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "714",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yuwqa",
+      "anlam": "Herhangi bir şeyin ince olanı.",
+      "ornek_metin": "anâsı tewlügyuwqa yapar, oglı tetig qoşa qapâr: Anası kurnaz somunu ince yapar, oğlu zeki (onları) ikişer ikişer çalar. Bu atasözü, bir araya gelen iki becerikli insanı anlatmak için kullanılır.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "714",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yuwqalandi",
+      "anlam": "O, bana yaltaklandı ve uysal davrandı.",
+      "ornek_metin": "ol manga yuwqalandı: O, bana yaltaklandı ve uysal davrandı.",
+      "cekimler": [
+        "yuwqalanür",
+        "yuwqalanmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "714",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yuvvsâdı",
+      "anlam": "O, topu yuvarlamak istedi.",
+      "ornek_metin": "61 topıq yuwsâdı: O, topu [başka bir şeyi de olabilir] yuvarlamak istedi.",
+      "cekimler": [
+        "yuvvsdr",
+        "yuwsâmdq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "714",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yuvvturdı",
+      "anlam": "O, topu yuvarlattı.",
+      "ornek_metin": "ol topiq yuwturdi: O, topu (başka bir şeyi de olabilir] yuvarlattı.",
+      "cekimler": [
+        "yuwlurur",
+        "yuwturmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "714",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yuvvug",
+      "anlam": "Sel suyunun tepelerden yuvarladığı kaya parçası.",
+      "ornek_metin": "yuvfga suvvm suwulma / Bilinmeyen bir kaynaktan gelen suyu arama / qaptı menig qâyımı / Benim Qâyimı (bu kavimden getirilmiş kölemi) aldı götürdü",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "714-715",
+      "notlar": "Tepede yürüyen bir insan ya da hayvanın vadinin tabanına yuvarladığı kaya parçalarını anlatmak için de aynı sözcük kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yüdrük",
+      "anlam": "Üzerine eşya ya da giysi yığılan yükselti (platform).",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "715",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yüdti",
+      "anlam": "O, yükü taşıdı (yüklendi).",
+      "ornek_metin": "ol yük yüdti: O, yükü taşıdı [yüklendi].",
+      "cekimler": [
+        "yûder",
+        "yüdmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "715",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yüdürdi",
+      "anlam": "O, yükü deveye yükledi.",
+      "ornek_metin": "ol teweke yük yüdürdi: O, yükü deveye (başka bir şeye de olabilir) yükledi.",
+      "cekimler": [
+        "yüdrür",
+        "yüdürmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "715",
+      "notlar": "Şu dizelerde de kullanılır: agruq ağır işingni adnâguqa yüdürme açrub özürig üşerip adnâgunı todurma (Kendi ruhunun yükünü başkasına yükleme Başkasını iyice doyururken sen aç ve gözleri kararmış kalırsın)",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yüdüşdi",
+      "anlam": "Onlar buğdayı yükleme işinde birbirlerine yardım ettiler.",
+      "ornek_metin": "ol ekki tarıg yüdüşdi: Onlar buğdayı [başka bir şeyi de olabilir] yükleme işinde birbirlerine yardım ettiler. Bu işte rekabet etmeyi anlatmak için de aynı sözcük kullanılır.",
+      "cekimler": [
+        "yüdşür",
+        "yüdüşmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "715",
+      "notlar": "Yükleşti.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yüg",
+      "anlam": "Kuş tüyü.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "715",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yügletti",
+      "anlam": "O, oka tüy taktı.",
+      "ornek_metin": "ol oq yügletti: O, oka tüy taktı.",
+      "cekimler": [
+        "yügletür",
+        "yügletmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "715",
+      "notlar": "Kök-biçimi yügletti'dir; benzeşime maruz kalmıştır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yuwuldı",
+      "anlam": "Top yuvarlandı.",
+      "ornek_metin": "topıq yumıldı: Top (başka bir şey de olabilir) yuvarlandı,",
+      "cekimler": [
+        "yuvvlür",
+        "yuwulmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "715",
+      "notlar": "Şu dörtlükte de kullanılır: aydım angar sawulma (Dedim ona aldanma) qulbâq udu yuvmlma (Qulbâq'ın peşinden yuvarlanma)",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yuvvuşdı",
+      "anlam": "Onlar birbirlerine top yuvarladılar.",
+      "ornek_metin": "olâr bîr bırke topıq yuvvuşdı: Onlar birbirlerine top yuvarladılar.",
+      "cekimler": [
+        "yuıvuşur",
+        "yuwuşmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "715",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yüğrük",
+      "anlam": "İyi koşan at - Yarış at.",
+      "ornek_metin": "yüğrük at: İyi koşan at - Yanş at.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "716",
+      "notlar": "Oğuzlar “akıllı ve feraseti bir âlirrfe yüğrük bilge der.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yügrüm",
+      "anlam": "Bir koşuda koşulacak büyüklükte alan.",
+      "ornek_metin": "bir yügrüm yer: Bir koşuda koşulacak büyüklükte alan,",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "716",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yügrüşdi",
+      "anlam": "Oğlan çocukları koşuştu.",
+      "ornek_metin": "Oglân yügrüşdi: Oğlan çocukları [başka birileri de olabilir] koşuştu.",
+      "cekimler": [
+        "yügrüşûr",
+        "yügrüşmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "716",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yügür",
+      "anlam": "Darı.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "716",
+      "notlar": "“Darı” anlamına gelen ügür sözcüğünün değişik sesletimi.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yügürdi",
+      "anlam": "Adam hızla koştu.",
+      "ornek_metin": "er yügürdi: Adam hızla koştu.",
+      "cekimler": [
+        "yügrür",
+        "yügürmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "716",
+      "notlar": "Şu dizelerde de kullanılır: ündep ulug tapâru tawraq kelip yügürgil... Bu, “başına ne değişim gelirse gelsin halkına sadık kal\" demek için kullanılan bir ifadedir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yügürdi (bez)",
+      "anlam": "O, bezin kaşlarını (boyuna dokunan iplikler) dokudu.",
+      "ornek_metin": "ol böz yügürdi: O, bezin anşlarını [boyuna dokunan iplikler] dokudu.",
+      "cekimler": [
+        "yügürür",
+        "yügürmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "716",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yügürgen",
+      "anlam": "Ulak; kurye.",
+      "ornek_metin": "yügürgen at : İyi koşan at - Yanş ab.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "716",
+      "notlar": "Çin tüccarları adına, kervan ulaşmadan önce İslam ülkesine giden ve onlardan haberler getiren, iletişimlerini sağlayan kimse.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yügürgün",
+      "anlam": "Darı gibi kırmızı taneleri bulunan bir bitki.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "716",
+      "notlar": "Türkmenler bu taneleri yer.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yügürtti",
+      "anlam": "O, onu koşturdu.",
+      "ornek_metin": "ol anı yügürtti: O, onu koşturdu.",
+      "cekimler": [
+        "yügürtür",
+        "yügürtmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "716",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yük",
+      "anlam": "Yük.",
+      "ornek_metin": "bir yük buğday : Bir yük buğday - Ağır bir yük.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "716",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yükledi",
+      "anlam": "O, yükü deveye yükledi.",
+      "ornek_metin": "ol teweke yük yükledi: O, yükü deveye (başka bir şeye de olabilir] yükledi.",
+      "cekimler": [
+        "yükler",
+        "yüklemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "716",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yükletti",
+      "anlam": "O, (ona) yükü yükletti.",
+      "ornek_metin": "ol yük yükletti: O, (ona) yükü yükletti.",
+      "cekimler": [
+        "yükletür",
+        "yükletmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "716-717",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yüksedi",
+      "anlam": "Bir şey yüksek ya da uzundu.",
+      "ornek_metin": "yüksedi neng: Bir şey yüksek ya da uzundu.",
+      "cekimler": [
+        "yükser",
+        "yüksemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "717",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yüksek",
+      "anlam": "Yüce dağ.",
+      "ornek_metin": "yüksek tâg: Yüce dağ.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "717",
+      "notlar": "“Yüksek, yüce, ulu” olan herhangi bir şeyi anlatmak için yüksek sözcüğü kullanılır. Bu sözcük yüg: kuş tüyü sözcüğünden türetilmiştir; çünkü kuş tüyünün doğasında yükselmek ve yukarılara çıkmak vardır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yüksetti",
+      "anlam": "O, bir duvar yükseltti (inşa etti).",
+      "ornek_metin": "ol tâm yüksetti: O, bir duvar yükseltti pnşa ettil.",
+      "cekimler": [
+        "yûksetur",
+        "yüksetmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "717",
+      "notlar": "Birinin yükselttiği herhangi bir şeyi anlatmak için de bu sözcük kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yüksük",
+      "anlam": "İğne batmasını önlemek için terzilerin parmak uçlarına taktıkları, pirinçten ya da deriden yapılan, okçukların parmak-koruyucularına benzeyen bir şey.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "717",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yükünç",
+      "anlam": "Namaz (salât).",
+      "ornek_metin": "tengnfee yükünç yükündi: Cenab-ı Hak için namaz kıldı.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Qıfçâq lehçesi",
+      "kaynak_sayfa": "717",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yükündi (huzurda eğilme)",
+      "anlam": "O, beyin huzurunda başını eğdi.",
+      "ornek_metin": "ol begke yükünç yükündi: O, beyin [başka birinin de olabilir] huzurunda başını eğdi,",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "717",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yükündi (secde)",
+      "anlam": "Kul, Cenab-ı Hakkın önünde secde etti.",
+      "ornek_metin": "qul tengnke yükündi: Kul, Cenab-ı Hakkın önünde secde etti.",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "717",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yükündi (puta secde)",
+      "anlam": "Kâfirlerin din büyüğü puta secde etti.",
+      "ornek_metin": "toyın burxânqa yükündi: Kâfirlerin din büyüğü puta secde etti.",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "717",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yükündi (itaat)",
+      "anlam": "O, bana itaat etti ve saygıyla önümde eğildi.",
+      "ornek_metin": "ol manga yükündi: O, bana itaat etti ve saygıyla önümde eğildi.",
+      "cekimler": [
+        "yükünür",
+        "yükünmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "717",
+      "notlar": "Şu dörtlükte de kullanılır: yüknüp manga imledi (Başını eğerek beni selamladı ve sanki 'hizmetinizdeyim' dedi) közüm yaşın yamladı ...",
+      "kontrol_gerekli": false
+    }
+  ]
+}

@@ -1,0 +1,863 @@
+{
+  "chunk_no": 69,
+  "kaynak_sayfa_baslangic": 401,
+  "kaynak_sayfa_bitis": 405,
+  "kelimeler": [
+    {
+      "kelime": "qaqışdı",
+      "anlam": "Öfkeli olmak, birbirine karşı öfkeli olmak; birbirinin başına vurmak",
+      "ornek_metin": "eren qamug qaqışdı: Adamların tamamı birbirlerine karşı öfkeliydiler. ölar ekki başra qaqışdı: Onlar birbirlerinin başına vurdular.",
+      "cekimler": [
+        "qaqışür",
+        "qaqışmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "401",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qaqıtgân",
+      "anlam": "Kızdıran, can sıkan",
+      "ornek_metin": "bu er ol meni tütçı qaqıtgân: Bu, sürekli beni kızdıran ve canımı sıkan bir adamdır.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "401",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qaqıttı",
+      "anlam": "Öfkelendirdi, rahatsız etti",
+      "ornek_metin": "ol anı qaqıttı: O, onu öylesine öfkelendirdi ve rahatsız etti ki, ondan uzak durmaya başladı.",
+      "cekimler": [
+        "qaqıtür",
+        "qaqıtmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "401",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qaqıyür",
+      "anlam": "qaqîdı ile aynı anlamda",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "401",
+      "notlar": "bkz. qaqîdı",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qaqlandı",
+      "anlam": "Kurutulmak; su toplanmak",
+      "ornek_metin": "et qaqlandı: Et kurutuldu. süw qaqlandı: Kayalann arasındaki oyuklarda sular toplandı.",
+      "cekimler": [
+        "qaqlanür",
+        "qaqlanmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "401",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qaqlattı",
+      "anlam": "Kurutulmasını emretmek",
+      "ornek_metin": "ol angar et qaqlattı: O, etin kurutulmasını emretti.",
+      "cekimler": [
+        "qaqlatür",
+        "qaqlatmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "401",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qaqrattı",
+      "anlam": "Kuşları kaçırmak için davul çaldırmak",
+      "ornek_metin": "ol qaqratgu qaqrattı: O, tohumların yeni saçıldığı tarladan serçe ve benzer kuşlan kaçırmak için bekçi davulunu çaldı.",
+      "cekimler": [
+        "qaqratur",
+        "qaqratmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "401",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qaqsıdı",
+      "anlam": "Dilimlenip kurutulmak, kuruyayazmak",
+      "ornek_metin": "et qaqsıdı: Et dilimlendi ve kurutuldu [kuruyayazdı].",
+      "cekimler": [
+        "qaqsîr",
+        "qaqsimâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "401",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qaqtı",
+      "anlam": "Hafifçe başına vurmak",
+      "ornek_metin": "anı başra qaqtı: O, hafifçe onun başına vurdu.",
+      "cekimler": [
+        "qaqâr",
+        "qaqmaq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "401",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qaqturdı",
+      "anlam": "Başkasına kafasına vurulması görevini vermek",
+      "ornek_metin": "ol anı başra qaqturdı: O, ona, başka birinin kafasına vurulması görevini verdi.",
+      "cekimler": [
+        "qaqturur",
+        "qaqturmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "401",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qâr",
+      "anlam": "Kar",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "401",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qar qur",
+      "anlam": "Karın guruldaması",
+      "ornek_metin": "qar qur etti qarın: Karın guruldadı.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "401",
+      "notlar": "Bu sözcük, ses ve anlam bakımından Arapçaya uygundur.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qara",
+      "anlam": "Herhangi bir şeyin siyah olanı",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "401",
+      "notlar": "Hâqânılerin Hanlarına verilen bir ad olarak kullanılır. Buğra Qara Xâqan gibi; bu adın alınışına ilişkin bir hikâye vardır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qara bâş",
+      "anlam": "Köle",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "402",
+      "notlar": "Köleleri anlatmak için kullanılan bir sözcük. Hem erkek hem de kadın için kullanılabilir. “Kara kafalı” demektir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qara etmek",
+      "anlam": "Bir tür ekmek",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "402",
+      "notlar": "Yapılışı şöyledir: Et lime lime olana kadar pişirilir, sonra üzerine un, yag ve şeker eklenir ve bu kanşım koyulaşana kadar kaynatılır. Dışarı alınır ve bir süre bekletilip yenir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qara orun",
+      "anlam": "Mezar",
+      "ornek_metin": "bermiş (yemiş) sen/g bil yalriguq tapar qarmqa / qalmış tawar adırmıg kirse qara orunqa: Bil ki, (yalnızca) verdiğin (yediğin) şey şenindir; çünkü insanoğlu midesinin hizmetindedir / Kişinin mezara girerken ardında bıraktığı zenginlik artık başkasınındır",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "402",
+      "notlar": "Bunun kök-anlamı “karanlık yeri”dir",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qara ot",
+      "anlam": "Kurtboğan",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "402",
+      "notlar": "Bir tür bitkisel zehir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qara qura",
+      "anlam": "Siyah",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "402",
+      "notlar": "Söz uzatımı söz konusudur.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qara quş",
+      "anlam": "Kartal",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "402",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qara quş",
+      "anlam": "Şafak sökerken ortaya çıkan bir yıldız",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "402",
+      "notlar": "Jüpiter gezegeni. Buna aynı zamanda qara quş yulduz da denir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qara quş",
+      "anlam": "Devenin toynağının kenarları",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Oğuz lehçesi",
+      "kaynak_sayfa": "402",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qara serigir",
+      "anlam": "Barsgân yakınlarında bir yer adı",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "402",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qara yâg",
+      "anlam": "Neft",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "402",
+      "notlar": "petrol",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qarâçı",
+      "anlam": "Kapı kapı dolaşan dilenci",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "402",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qarâçuq",
+      "anlam": "el-Fârâb kentine verilen bir ad",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Oğuz",
+      "kaynak_sayfa": "402",
+      "notlar": "Bu, Oğuz kentlerinden biridir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qarâgu",
+      "anlam": "Zaçyağı",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "402",
+      "notlar": "saf sülfürik asit",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qarâgu",
+      "anlam": "Kör",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "402",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qarâgunı",
+      "anlam": "Çocukların akşamları oynadığı bir oyunun adı",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "402",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qarâlâdı",
+      "anlam": "Karalamak",
+      "ornek_metin": "ol qaraladı nengni: O, bir şeyi karaladı.",
+      "cekimler": [
+        "qarâlâr",
+        "qarâlâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "402",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qarâlâdı",
+      "anlam": "Pislemek",
+      "ornek_metin": "ıt qarâlâdı: Köpek pisledi.",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "402",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qarâmuq",
+      "anlam": "Karamuk",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "402",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qararigqu",
+      "anlam": "Karalık",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "402",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qaraq",
+      "anlam": "Göz yuvarı",
+      "ornek_metin": "qara qaraq: Gözün renkli bölümü, üriing qaraq: Gözün beyazı., üt qaraq: Gözbebeği.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "402",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qaraqlâdı",
+      "anlam": "Yol keserek malları almak",
+      "ornek_metin": "ol tavdng qaraqlâdı: O, yol keserek mallan aldı.",
+      "cekimler": [
+        "qaraqldr",
+        "qaraqldmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "Yağma lehçesi",
+      "kaynak_sayfa": "402-403",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qaraqstz",
+      "anlam": "Gözü hiçbir şeyi görmez",
+      "ornek_metin": "qaraqstz teg körür: (Savaşta ya da başka bir şey de) gözü hiçbir şeyi görmez, ve onların silahlanna önem vermiyor gibidir.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "403",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qarardı",
+      "anlam": "Kararmak",
+      "ornek_metin": "tün qarardı: Gece karardı; tön qarardı: Giysi [başka bir şey de olabilir] karardı.",
+      "cekimler": [
+        "qardrur",
+        "qararmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "403",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qararttı",
+      "anlam": "Karartmak",
+      "ornek_metin": "ol anıg tönın qararttı: O, onun giysisini [başka bir şeyini de olabilir] kararttı.",
+      "cekimler": [
+        "qarartur",
+        "qarartmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "403",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qarç qurç",
+      "anlam": "Hnırtı/hışırtı sesi",
+      "ornek_metin": "er tarmuznı qarç qurç yedi: Adam hıyan böylesi bir ses çıkartacak biçimde yedi.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "403",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qârdı",
+      "anlam": "Nefesi kesilmek; su taşmak",
+      "ornek_metin": "er suwqa qârdı: Adamın suda nefesi kesildi. süvvarujtm qârdı: Su (kışın) oluktan taştı. Bu, su ve kann oluğun içinde donması durumunda gerçekleşir; akıp gelen su oluktan taşar.",
+      "cekimler": [
+        "qardr",
+        "qarmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "403",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qardu",
+      "anlam": "Fındık büyüklüğünde buz taneleri",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "403",
+      "notlar": "Aşın soğuklarda suyun üzerinde ortaya çıkan fındık büyüklüğünde buz taneleri.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qarâqân",
+      "anlam": "Bir tür dağ ağacı",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "403",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qaraqlıg",
+      "anlam": "Gözü olan herhangi bir hayvan",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "403",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qarga",
+      "anlam": "Karga",
+      "ornek_metin": "qarga qarîsm kim bilir, kişi alasın kim tapar: Yaşlı kargaları (gençliklerinden beri) bilen kimdir? Karga başına gelecek sıkıntıyı (ve çekeceği açlığı) bilse gagasıyla buzu deler / qarga qalı bilse munğm ol buz suqâr awçı yaşıp tuzaq tapa mengke baqâr: Avcı saklanmışken, içinde yemi görünce tuzağa girerken duraksamaz",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "403",
+      "notlar": "Şu dörtlükte de kullanılır: qardünı yincü saqmmârig / tuzgünı mançu sezinmeng / bulmaduq nerigke semnmeng / bilgeler anı yerer (Buz tanelerini inci sanma / Verilen armağanı (iş karşılığı ödenen) ücret sayma / Bulmadığın şey için sevinme / Bilgeler tüm bunlarla alay ederler)",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qargâdı",
+      "anlam": "Lanetlemek",
+      "ornek_metin": "tengri anı qargâdı: Allah (O’nun büyüklüğü artsın) onu lanetledi.",
+      "cekimler": [
+        "qargâr",
+        "gargâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "404",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qargâg",
+      "anlam": "Lanet, ilenç",
+      "ornek_metin": "tengri qargagmga ilinme: Cenahı Hakkin lanetine uğrama.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "404",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qargaldı",
+      "anlam": "Lanetlenmek",
+      "ornek_metin": "yek qargaldı: Şeytan [başka bir şey de olabilir] lanetlendi.",
+      "cekimler": [
+        "qargalür",
+        "qargalmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "404",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qargalıg",
+      "anlam": "Taraz [Talâs] yakınlarındaki bir kalenin adı",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "404",
+      "notlar": "Kök-biçimi qargâlıg'dır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qargandı",
+      "anlam": "Kendi kendine lanet etmek",
+      "ornek_metin": "er özin qargandı: Adam, (vicdan azabı çekerek) kendi kendine lanet etti.",
+      "cekimler": [
+        "qarganur",
+        "qarganmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "404",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qargaşdı",
+      "anlam": "Birbirini lanetlemek",
+      "ornek_metin": "olâr ekki qargaşdı: Onlar birbirlerini lanetlediler.",
+      "cekimler": [
+        "qargaşür",
+        "qargaşmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "404",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qargattı",
+      "anlam": "Lanetletmek",
+      "ornek_metin": "ol yekni qargattı: O, (birine) şeytanı [başka bir şeyi de olabilir] lanetletti.",
+      "cekimler": [
+        "qargatûr",
+        "qargatmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "404",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qargılâç",
+      "anlam": "Kırlangıç",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "404",
+      "notlar": "bkz. qarlıgaç",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qargış",
+      "anlam": "Lanet, ilenç",
+      "ornek_metin": "tengri qargışı anıg üze: Tannnın laneti onun üzerinde. qargış kişi: Lanetli kişi (mel'ûn).",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "404",
+      "notlar": "Bu sözcük sıfat olarak da kullanılabilir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qaqgu",
+      "anlam": "Dağların doruklarına yapılan minare biçimindeki yapı",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "404",
+      "notlar": "Yaklaşan bir düşmana ilişkin halkı uyarmak için bunun üzerinde büyük bir ateş yakılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qargüy",
+      "anlam": "Bir dağa ya da yüksek bir noktaya inşa edilen minare ya da kule biçimindeki yapı",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "404",
+      "notlar": "Düşmanın geldiğini bildirmek ve böylece halkın önlem almasını sağlamak için bunun üzerinde bir ateş yakılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qargüy",
+      "anlam": "Atmaca",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "404",
+      "notlar": "qırgüy olarak da geçer.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ipek qargüy",
+      "anlam": "Şahin",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "404",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qarı",
+      "anlam": "Yaşlı",
+      "ornek_metin": "qarı er: Yaşlı adam; qarı at: Tam olarak büyümüş at [başka bir şey de olabilir]",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "404",
+      "notlar": "Herhangi bir şeyin “yaşlı” olanı.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qarı",
+      "anlam": "Önkol; kolun dirsek ile el arasındaki kısmı",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "404",
+      "notlar": "dirâu’l-yed",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qarı",
+      "anlam": "Kumaş ölçmekte kullanılan arşın",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "404",
+      "notlar": "dira'. Bu kullanım sözcüğün ilk ve asıl anlamından türemiştir. Arapçaya uygundur.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qarîdı",
+      "anlam": "Yaşlanmak",
+      "ornek_metin": "er qarîdı: Adam [başka biri de olabilir] yaşlandı. arslân qansa sıçgân ütin ködezür: Aslan yaşlanırsa, (onu yakalamak için) fare deliğini gözler.",
+      "cekimler": [
+        "qarîr",
+        "qarîmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "405",
+      "notlar": "Atasözü, önemli şeyler yapamayan, bu nedenle değersiz şeylerle oyalanan yaşlı bir adamı anlatmak için kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qarîlâdı",
+      "anlam": "Toprağın büyüklüğünü arşın cinsinden ölçmek",
+      "ornek_metin": "ol yerig qarilâdı: O, yeri arşınladı - toprağın büyüklüğünü arşın cinsinden ölçtü.",
+      "cekimler": [
+        "qarilâr",
+        "qarîlâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "405",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qarilâdı",
+      "anlam": "Adamın oldukça yaşlı olduğunu düşünmek",
+      "ornek_metin": "ol erig qarilâdı: O, adamın oldukça yaşlı olduğunu düşündü.",
+      "cekimler": [
+        "qarilâr",
+        "qarîlâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "405",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qarilâdı",
+      "anlam": "Tipi hafif bir uğuldamayla esmek ve kar yağdırmak",
+      "ornek_metin": "tüpi qârıg qarîlâdı: Tipi hafif bir uğuldamayla esti ve kar yağdırdı.",
+      "cekimler": [
+        "qarilâr",
+        "qarîlâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "405",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qarıldı",
+      "anlam": "Karıştırılmak",
+      "ornek_metin": "bir neng birke qarıldı: Bir şey başka bir şeyle karıştırıldı.",
+      "cekimler": [
+        "qardur",
+        "qanlmdq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "Oğuz lehçesi",
+      "kaynak_sayfa": "405",
+      "notlar": "Diğer Türkler bunu söz uzatımıyla kullanır ve qatıldı qarıldı derler.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qarın",
+      "anlam": "Karın",
+      "ornek_metin": "qarın atmak: Hayvan kesildikten sonra midesi hedef yapılır ve ok atılır; bunu vuranlar etten bir pay almaya hak kazanırlar.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "405",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qarınça",
+      "anlam": "Karınca",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Oğuz lehçesi",
+      "kaynak_sayfa": "405",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qarınçaq",
+      "anlam": "Karınca",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Oğuz lehçesi",
+      "kaynak_sayfa": "405",
+      "notlar": "Oğuzlar buna qarmça da derler.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qarınlıg",
+      "anlam": "Göbekli",
+      "ornek_metin": "bedük qarınlıg er: Koca göbekli adam.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "405",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qarıqtı",
+      "anlam": "Gözü kamaşmak",
+      "ornek_metin": "er kozi qarıqtı: (Kar yüzünden) adamın gözü kamaştı.",
+      "cekimler": [
+        "qarıqâr",
+        "qarıqmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "405",
+      "notlar": "Eğer bu eylem qâr sözcüğünden türetilmişse qârıqtı biçiminde olmalı ve eksikli sayılmalıdır; ancak eğer eylem qaraq sözcüğünden türemişse kullanım uygundur.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qarış",
+      "anlam": "Karış",
+      "ornek_metin": "bır qarış: Bir karış.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "405",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qarışlâdı",
+      "anlam": "Karışlamak, uzunluğunu karış cinsinden ölçmek",
+      "ornek_metin": "ol barçm qarışlâdı: O, ipek kumaşı [başka bir şeyi de olabilir] karışladı - kumaşın uzunluğunu karış cinsinden ölçtü.",
+      "cekimler": [
+        "qarışlâr",
+        "qarışlâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "405",
+      "notlar": "",
+      "kontrol_gerekli": false
+    }
+  ]
+}

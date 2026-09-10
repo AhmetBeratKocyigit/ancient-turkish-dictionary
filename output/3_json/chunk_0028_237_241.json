@@ -1,0 +1,933 @@
+{
+  "chunk_no": 28,
+  "kaynak_sayfa_baslangic": 237,
+  "kaynak_sayfa_bitis": 241,
+  "kelimeler": [
+    {
+      "kelime": "ol tuğun çigtürdi",
+      "anlam": "O düğümün sıkılaştırılmasını emretti.",
+      "ornek_metin": "ol tuğun çigtürdi: O Ibohçadaki ya da bir başka yerde ki] düğümün sıkılaştııilmasını emretti.",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "237",
+      "notlar": "",
+      "kontrol_gerekli": true
+    },
+    {
+      "kelime": "çij",
+      "anlam": "Demir çivi",
+      "ornek_metin": "çij. Demir çivi - iki eklemleme noktası arasındaki ze’yle (j). Zırhın üzerindeki do­",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "237",
+      "notlar": "",
+      "kontrol_gerekli": true
+    },
+    {
+      "kelime": "doğuy attg çijtürdi",
+      "anlam": "Yükün ağırlığı nedeniyle atın beli çöktü.",
+      "ornek_metin": "doğuy attg çijtürdi: Yükün ağırlığı nedeniyle atın beli çöktü. Sırtında yağır olan bir atın üzerine bir şey yüklenmeye ya da binilmeye çalışıldığında yaptığı hareketi anlat­",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "237",
+      "notlar": "",
+      "kontrol_gerekli": true
+    },
+    {
+      "kelime": "çik çik",
+      "anlam": "Keçiyi çağırmak ya da yürütmek için kullanılan bir ifade",
+      "ornek_metin": "çik çik. Keçiyi çağırmak ya da yürütmek için kullanılan bir ifade,",
+      "cekimler": [],
+      "kelime_turu": "ünlem",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "237",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çik",
+      "anlam": "Aşık oyununda kullanılan bir ifade",
+      "ornek_metin": "çik. Aşık oyununda kullanılan bir ifade; aşığın sırtı (daha enli olan yüzlerden çukur olanı) yukan geldiğinde çik turdı denir,",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "237",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çikir çikir",
+      "anlam": "Ekmeğin içindeki küçük taş parçalarının çiğneme sırasında dişlerin arasında sıkışması ve dişlere çarpmasıyla çıkan ses.",
+      "ornek_metin": "çikir çikir. Ekmeğin içindeki küçük taş parçalarının çiğneme sırasında dişlerin arasındakı sıkışması ve dişlere çarpmasıyla çıkan ses.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "237",
+      "notlar": "",
+      "kontrol_gerekli": true
+    },
+    {
+      "kelime": "tâş çikredi",
+      "anlam": "Ekmeğin içinde bulunan taş parçaları dişleri gıcırdattı.",
+      "ornek_metin": "tâş çikredi: Ekmeğin içinde bulunan taş parçalan dişleri gıcırdattı.",
+      "cekimler": [
+        "çikrer",
+        "çikremek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "237",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çildey",
+      "anlam": "Atın göğsünün üst tarafında ortaya çıkan bir çıban.",
+      "ornek_metin": "çildey. Atın göğsünün üst tarafında ortaya çıkan bir çıban. Bu çıban irin akıtır ve",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "237",
+      "notlar": "Bu çıban irin akıtır ve dağlanarak tedavi edilir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tönug çiledi",
+      "anlam": "Giysiyi hafifçe ıslattı.",
+      "ornek_metin": "tönug çiledi: Giysiyi (başka bir şeyi de olabilir] hafifçe ıslattı. Kök-biçimi çiledi dir, söyleyişteki ye (f) düşmüştür.",
+      "cekimler": [
+        "çiler",
+        "çilemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "237",
+      "notlar": "Kök-biçimi çiledi dir, söyleyişteki ye (f) düşmüştür.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çim",
+      "anlam": "Bir şeyin çiğ ya da nemli olma durumunu pekiştirmek için kullanılan ilgeç.",
+      "ornek_metin": "çim. Bir şeyin çiğ ya da nemli olma durumunu pekiştirmek için kullanılan ilgeç.",
+      "cekimler": [],
+      "kelime_turu": "edat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "237",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çiğne",
+      "anlam": "Tırmık",
+      "ornek_metin": "çiğne. Tırmık",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Yağma lehçesi",
+      "kaynak_sayfa": "237",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qiz çikin çiğnedi",
+      "anlam": "Kız ipek kumaşı altınla işledi",
+      "ornek_metin": "qiz çikin çiğnedi: Kız ipek kumaşı altınla işledi,",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "237",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "er çiğnedi",
+      "anlam": "Adam toprağı tırmıkladı.",
+      "ornek_metin": "er (iğne çiğnedi: Adam toprağı tırmıkladı.",
+      "cekimler": [
+        "çiğner",
+        "çiğnemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "237",
+      "notlar": "",
+      "kontrol_gerekli": true
+    },
+    {
+      "kelime": "çigtürdi",
+      "anlam": "sıkılaştırdı",
+      "ornek_metin": "",
+      "cekimler": [
+        "çigtürür",
+        "çigtürmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "237",
+      "notlar": "nanımlar da bu şekilde adlandırılır",
+      "kontrol_gerekli": true
+    },
+    {
+      "kelime": "çıjtürdi",
+      "anlam": "taktı, işletti",
+      "ornek_metin": "",
+      "cekimler": [
+        "çıjtürur",
+        "çıjtürmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "237",
+      "notlar": "mak için de bu sözcük kullanılır [bkz. çıjdı].",
+      "kontrol_gerekli": true
+    },
+    {
+      "kelime": "çikten",
+      "anlam": "Eyer örtüsü",
+      "ornek_metin": "çikten. Eyer örtüsü,",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "237",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çil",
+      "anlam": "Beden üzerinde kalan darp izi.",
+      "ornek_metin": "çil. Beden üzerinde kalan darp izi.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "237",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çil",
+      "anlam": "Bir bedensel kusur",
+      "ornek_metin": "çil. Bir bedensel kusur",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Oğuz lehçesi",
+      "kaynak_sayfa": "237",
+      "notlar": "dağlanarak tedavi edilir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "Çilgü",
+      "anlam": "Doru at",
+      "ornek_metin": "çilgü at: Doru at.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "237",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çilik çilik",
+      "anlam": "Keçileri çağırmak için kullanılan bir ifade.",
+      "ornek_metin": "çilik çilik. Keçileri çağırmak için kullanılan bir ifade.",
+      "cekimler": [],
+      "kelime_turu": "ünlem",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "237",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çim",
+      "anlam": "(Oldukça) çiğ et.",
+      "ornek_metin": "(im yıg et: (Oldukça) çiğ et.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "238",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çim",
+      "anlam": "(Olabildiğince) ıslak giysi",
+      "ornek_metin": "çim öl tön: (Olabildiğince) ıslak giysi,",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "238",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çim",
+      "anlam": "Turba. Topraktan koparılmadan kuruyan ve yoğun, kömürleşmiş, sık köklü yapısıyla ateş yakarken iyi bir tutuşturucu olan bitki örtüsü.",
+      "ornek_metin": "çim. Turba. Topraktan kopanlmadan kuruyan ve yoğun, kömürleşmiş, sık köklü\nyapısıyla ateş yakarken iyi bir tutuşturucu olan bitki örtüsü.\nçim biçti: Turba biçti,",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "238",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çimgen",
+      "anlam": "Otlak, turbalık.",
+      "ornek_metin": "çimgen. Otlak, turbalık.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "238",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çinaxsi",
+      "anlam": "İşlemeli bir Çin ipeği.",
+      "ornek_metin": "çinaxsi. İşlemeli bir Çin ipeği.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "238",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çiriğ",
+      "anlam": "Tamamen suyla dolu gölcük. Ağzına kadar dolu herhangi bir şeyi anlatmak için kullanılır.",
+      "ornek_metin": "çzng tolu köl: Tamamen suyla dolu gölcük. Ağzına kadar dolu herhangi bir şeyi\nanlatmak için çiıfg tolu ifadesi kullanılır,",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "238",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çipek",
+      "anlam": "Atmacaya benzer bir kuş.",
+      "ornek_metin": "çipek. Atmacaya benzer bir kuş.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "238",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çir",
+      "anlam": "Yağ (içyağı)",
+      "ornek_metin": "çir. Yag. \neşiçte çir yöq: Tencerede yağ yok; Kök-anlamı “içyağı”dır; nitekim bu ette çir yöq: bu ette yağ yok denir.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "238",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çiririg",
+      "anlam": "Pirinçten yapılmış kâse ya da benzer şeylerden çıkan sesin yansıması",
+      "ornek_metin": "çiririg. Pirinçten yapılmış kâse ya da benzer şeylerden çıkan sesin yansıması,",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "238",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çirt",
+      "anlam": "Birinin dişlerinin arasından tükürük çıkartması",
+      "ornek_metin": "çirt. Birinin dişlerinin arasından tükürük çıkartmasını anlatmak için çirt südti denir,",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "238",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çiş çiş",
+      "anlam": "Bebeği işetmek için kadınların tekrarladığı sözcük; aynı zamanda at koşturulduktan sonra binici atı rahatlatmak için bu ifadeyi kullanır",
+      "ornek_metin": "çiş çiş. Bebeği [çocuğu da olabilir] işetmek için kadınların tekrarladığı sözcük; aynı\nzamanda at koşturulduktan sonra binici atı rahatlatmak için bu ifadeyi kullanır,",
+      "cekimler": [],
+      "kelime_turu": "ünlem",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "238",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çişedi",
+      "anlam": "Bebek hem işedi hem de kaka yaptı.",
+      "ornek_metin": "oglân çişedi: Bebek hem işedi hem de kaka yaptı. Bu sözcük yalnızca çocuklar söz ko­\nnusuysa kullanılır,",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "238",
+      "notlar": "Bu sözcük yalnızca çocuklar söz konusuysa kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çişetti",
+      "anlam": "Kadın bebeğinin bilinçsizce davranmasına ve üstüne pislemesine neden oldu.",
+      "ornek_metin": "urâgut kençirı çişetti: Kadın bebeğinin bilinçsizce davranmasına ve üstüne pislemesine neden oldu.",
+      "cekimler": [
+        "çişetür",
+        "çişetmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "238",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çit",
+      "anlam": "Kamıştan veya dikenden yapılan duvarımsı çit",
+      "ornek_metin": "çit. Kamıştan veya dikenden yapılan düvanmsı; çi{.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "238",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çit",
+      "anlam": "Üzerine desenler işlenmiş süslü bir Çin kumaşı",
+      "ornek_metin": "çit. Üzerine desenler işlenmiş süslü bir Çin kumaşı,",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "238",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çiwgin",
+      "anlam": "Doyurucu ve besleyici bir yemek.",
+      "ornek_metin": "(iwgin aş: Doyurucu ve besleyici bir yemek.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "238",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çiwğnot",
+      "anlam": "Hayvanları semirtmek için yedirilen bir ot.",
+      "ornek_metin": "çiwğnot: Hayvanları semirtmek için yedirilen bir ot. Bunun tam zıttı niteliklere sahip bir\nbesin için bkz. kewgin.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "238",
+      "notlar": "Bunun tam zıttı niteliklere sahip bir besin için bkz. kewgin.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çiwginlendi",
+      "anlam": "O, bu yemeği doyurucu ve besleyici olarak kabul etti.",
+      "ornek_metin": "ol bu aşıg çiwginlendi: O, bu yemeği doyurucu ve besleyici olarak kabul etti.",
+      "cekimler": [
+        "çiwginlenür",
+        "çiwginlerımek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "238",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çoçuq",
+      "anlam": "Domuz yavrusu.",
+      "ornek_metin": "çoçuq. Dom uz yavrusu.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "238",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çödın",
+      "anlam": "Tunç.",
+      "ornek_metin": "çödın. Tunç.\nçödtn eşiç: Tunçtan yapılmış güğüm,",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "239",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çög",
+      "anlam": "Güneşin kavuruculuğu, parlaklığı.",
+      "ornek_metin": "çög. Güneşin kavuruculuğu, parlaklığı.\nkün çögı: Güneşin parlaklığı,",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "239",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çög",
+      "anlam": "Odun kor haline geldikten sonra ateşten çıkan alev.",
+      "ornek_metin": "çög. Odun kor haline geldikten sonra ateşten çıkan alev.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "239",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çogı",
+      "anlam": "Gürültü.",
+      "ornek_metin": "çogı (çağı). Gürültü. Argu lehçesinde cim (ç) feth a ’lıdır [Arapçada a ya da e okutan\nüstün imi - çağı], geri kalan Türklerde zcımme’lidir [Arapçada o, ö, u, ü okutan\nötre imi — çogı].",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "239",
+      "notlar": "Argu lehçesinde cim (ç) feth a'lıdır, geri kalan Türklerde zümme'lidir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çogîlâdı",
+      "anlam": "Adam bağırdı.",
+      "ornek_metin": "er çogîlâdı: Adam bağırdı.",
+      "cekimler": [
+        "çogîlâr",
+        "çogîlâmâc"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "239",
+      "notlar": "bu sözcük çagilâdı biçiminde de kullanılır",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çoglâdı",
+      "anlam": "Bir filin bağırmasını anlatan çarlâdı sözcüğüyle aynı anlama gelir.",
+      "ornek_metin": "çoglâdı. Bir filin bağırmasını anlatan çarlâdı sözcüğüyle aynı anlama gelir.",
+      "cekimler": [
+        "çoglâr",
+        "çaglâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "239",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çoglân",
+      "anlam": "Bir Qarluq şefinin adı.",
+      "ornek_metin": "çoglân. Bir Qarluq şefinin adı.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Qarluq",
+      "kaynak_sayfa": "239",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çoglandı",
+      "anlam": "Ateş alevlendi. Güneşin parıldaması için de bu sözcük kullanılır.",
+      "ornek_metin": "öt çoglandı: Ateş alevlendi. Güneşin panldaması için de bu sözcük kullanılır,",
+      "cekimler": [
+        "çöglcmür",
+        "çöglanmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "239",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çöh çöh",
+      "anlam": "Atları yönlendirmek ya da gem vurmak için kullanılan bir ilgeç.",
+      "ornek_metin": "çöh çöh. Atları yönlendirmek ya da gem vurmak için kullanılan bir ilgeç.",
+      "cekimler": [],
+      "kelime_turu": "ünlem",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "239",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çolqüy",
+      "anlam": "Topuğu parçalanmış çizme. Buradan hareketle “eli sakar olan bir kimse”ye çolqûy eliglig denir.",
+      "ornek_metin": "çolqüy. çolqüy etük: Topuğu parçalanmış çizme. Buradan hareketle “eli sakar olan bir kimse”ye çolqûy eliglig denir.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "239",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çoluq",
+      "anlam": "Çolak.",
+      "ornek_metin": "çoluq. Çolak.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "239",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çomaq",
+      "anlam": "Çomak; ince dal.",
+      "ornek_metin": "çomaq. Çomak; ince dal.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "239",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çomaq",
+      "anlam": "Müslüman",
+      "ornek_metin": "çomaq. Müslüman (Uygurlar ve Müslüman olmayan diğer halklar tarafından kulla-\nnılan bir sözcük).\nçomaq eri: Müslümanların içinden bir adam,",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "239",
+      "notlar": "Uygurlar ve Müslüman olmayan diğer halklar tarafından kullanılan bir sözcük.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çomdı",
+      "anlam": "Çocuk suya daldı.",
+      "ornek_metin": "oglân suwda çomdı: Çocuksuya daldı.",
+      "cekimler": [
+        "çomâr",
+        "çommâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "239",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çomruşdı",
+      "anlam": "O, benimle suya dalma konusunda rekabet etti. Bu konuda yardımlaşmayı anlatmak için de bu sözcük kullanılır.",
+      "ornek_metin": "ol menig birle sırnda çomruşdı: O, benimle suya dalma konusunda rekabet etti. Bu konuda\nyardımlaşmayı anlatmak için de bu sözcük kullanılır,",
+      "cekimler": [
+        "çomruşür",
+        "çomruşmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "239",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çomturdı",
+      "anlam": "O, onu suya daldırdı.",
+      "ornek_metin": "ol anı suwqa çomturdı: O, onu suya daldırdı.",
+      "cekimler": [
+        "çomturur",
+        "çomturmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "239",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çomurdı",
+      "anlam": "O, onu suya daldırdı.",
+      "ornek_metin": "ol anı suwqa çomurdı: O, onu suya daldırdı.",
+      "cekimler": [
+        "çomrur",
+        "çomurmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "240",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çomuşdı",
+      "anlam": "O, benimle suya dalma konusunda rekabet etti.",
+      "ornek_metin": "ol menig birle suwqa çomuşdı: O, benimle suya dalma konusunda rekabet etti.",
+      "cekimler": [
+        "çomuşür",
+        "çomuşmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "240",
+      "notlar": "Buna benzer bir biçimde çömüşdü, çömüşmek, çomüşür denir; bu da yine dalmak anlamına gelir; ancak söz konusu olan daha derine dalmaktır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çomuşluq",
+      "anlam": "Tuvalet.",
+      "ornek_metin": "çom uşluq. Tuvalet.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "240",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "Çong",
+      "anlam": "Çong",
+      "ornek_metin": "Çong.",
+      "cekimler": [],
+      "kelime_turu": "belirsiz",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "240",
+      "notlar": "",
+      "kontrol_gerekli": true
+    },
+    {
+      "kelime": "çorig et",
+      "anlam": "Kemiksiz et.",
+      "ornek_metin": "çorig et: Kemiksiz et.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "240",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çoparttı",
+      "anlam": "Hırsız (adamı) soyup soğana çevirdi; onun malını elinden aldı.",
+      "ornek_metin": "ogn erig çoparttı: Hırsız (adamı) soyup soğana çevirdi; onun malını elinden aldı.",
+      "cekimler": [
+        "çopartur",
+        "çopartm âq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "240",
+      "notlar": "Aynı zamanda onun malını yağmaladı ve elinde avucunda ne varsa aldı anlamına gelecek biçimde copartu sidi denir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "Çöq",
+      "anlam": "Alçak, aşağılık adam",
+      "ornek_metin": "çöq er: Alçak, aşağılık adam",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Oğuz lehçesi",
+      "kaynak_sayfa": "240",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çoqdı",
+      "anlam": "Kuş (aniden yere doğru süzülerek) saldırdı.",
+      "ornek_metin": "quş çoqdı: Kuş (aniden yere doğru süzülerek) saldırdı.",
+      "cekimler": [
+        "çoqâr",
+        "çoqmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "240",
+      "notlar": "Şu dizelerde de kullanılır: eren qamug artadı nerigler udu / tawâr körüp üsleyü eske çoqâr",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çoqrâdı",
+      "anlam": "Tencere (yani içindeki koyu kıvamlı herhangi bir şey - haşlama ya da yulaf lapası) kaynadı.",
+      "ornek_metin": "eşiç çoqrâdı: Tencere (yani içindeki koyu kıvamlı herhangi bir şey - haşlama ya da yulaf lapası)\nkaynadı. Tencerenin içinde kaynayan şey daha sulu, akıcı bir şeyse çoqrâdı yerine\nqaynadı denir.",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "240",
+      "notlar": "Tencerenin içinde kaynayan şey daha sulu, akıcı bir şeyse çoqrâdı yerine qaynadı denir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çoqrâdı",
+      "anlam": "Pınardan su fışkırdı",
+      "ornek_metin": "mıngar çoqrâdı: Pınardan su fişkırdı - Pınardan dışarı çıkan su, kapta kaynayan suya\nbenzetilmiştir.",
+      "cekimler": [
+        "çoqrâr",
+        "çoqram âq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "240",
+      "notlar": "Pınardan dışarı çıkan su, kapta kaynayan suya benzetilmiştir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çoqrama",
+      "anlam": "Bereketlice akan, fışkıran kaynak.",
+      "ornek_metin": "çoqram ayul: Bereketlice akan, fışkıran kaynak.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "240",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çoqraşdı",
+      "anlam": "Batak yerler fokurdadı. Yekpare olmayan bir şeyin bütün halinde kabarıp dalgalanmasını anlatmak için de bu sözcük kullanılır.",
+      "ornek_metin": "tepizler çoqraşdı: Batak yerler fokurdadı. Yekpare olmayan bir şeyin bütün halinde\nkabarıp dalgalanmasını anlatmak için de bu sözcük kullanılır.\nkişi blrbır içinde çoqraşdı: İnsanlar hep birlikte coştular.",
+      "cekimler": [
+        "çoqraşür",
+        "çoqraşmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "241",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çoqrattı",
+      "anlam": "O, güğümü kaynattı.",
+      "ornek_metin": "ol eşiç çoqrattı: O, güğümü [başka bir şeyi de olabilir] kaynattı. Bu sözcük, kaynayan suyun\nazlığını, bununla birlikte baharat ve tahıl tanelerinin çokluğunu anlatmak için\nkullanılır.",
+      "cekimler": [
+        "çoqratûr",
+        "çoqratmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "241",
+      "notlar": "Bu sözcük, kaynayan suyun azlığını, bununla birlikte baharat ve tahıl tanelerinin çokluğunu anlatmak için kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çoqturdı",
+      "anlam": "O, doğanının, kazın üzerine aniden saldırmasını sağladı.",
+      "ornek_metin": "ol quşug qâzqa çoqturdı: O, doğanının, kazın üzerine Ibaşka bir kuşun da olabilir] aniden saldır­\nmasını sağladı.",
+      "cekimler": [
+        "çoqturur",
+        "çoqturmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "241",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çoqübarı",
+      "anlam": "Pota (maden eritme kabı) yapılan kil.",
+      "ornek_metin": "çoqübarı. Pota (maden erilme kabı) yapılan kil.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "241",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çör",
+      "anlam": "önsel organı dar olan kadın.",
+      "ornek_metin": "çdr uragut: önsel organı dar olan kadın.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "241",
+      "notlar": "Oğuzlar yoğun, iç içe geçmiş dallara veya yapraklara sahip bitkilere çör ot der. Sözcüğün kök-anlamı budur.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çotur",
+      "anlam": "Huysuz, öfkeli kimse.",
+      "ornek_metin": "çotur kişi: Huysuz, öfkeli kimse.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "241",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "Çowı",
+      "anlam": "Hoten yönetim töresince hakandan iki seviye aşağıda bulunan kimselere verilen bir unvan.",
+      "ornek_metin": "Ç o w ı. Hoten yönetim töresince hakandan iki seviye aşağıda bulunan kimselere\nverilen bir unvan. Diğer Türklerin de benzer bir yönetim töresi vardır.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "241",
+      "notlar": "Diğer Türklerin de benzer bir yönetim töresi vardır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çöwlı",
+      "anlam": "Tutmaç süzgeci.",
+      "ornek_metin": "çöwlı. Tutmaç süzgeci. Bu, bir kepçe biçiminde örülen çok ince yaş dallardan\nyapılır",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Kençek lehçesi",
+      "kaynak_sayfa": "241",
+      "notlar": "Bu, bir kepçe biçiminde örülen çok ince yaş dallardan yapılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çöğen",
+      "anlam": "Çevgen oyununda kullanılan değnek.",
+      "ornek_metin": "çöğen. Çevgen oyununda kullanılan değnek,",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "241",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çöjdi",
+      "anlam": "Kadın örgü ipini gerdi, uzattı.",
+      "ornek_metin": "urâgutyıp çöjdi: Kadın örgü ipini gerdi, uzattı.",
+      "cekimler": [
+        "çöjer",
+        "çöjmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "241",
+      "notlar": "Gererek uzatılabikecek herhangi bir şeyi, örneğin urgan ya da koyun bağırsağı gibi şeyleri anlatmak için de bu sözcük kullanılır. İki eklemleme noktası arasındaki ze'yle (j).",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çöjtürdi",
+      "anlam": "O, ipi gerdirdi.",
+      "ornek_metin": "ol yıpîg çöjtürdi: O, (gevşek) ipi gerdirdi.",
+      "cekimler": [
+        "çöjtürûr"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "241",
+      "notlar": "Koyun bağırsağının gerdirilmesini anlatmak için de kullanılır. İki eklemleme noktası arasındaki ze'yle (j).",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "Çöjüldi",
+      "anlam": "İp gerildi.",
+      "ornek_metin": "yıp çöjüldi: (Gevşek) ip gerildi.",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "241",
+      "notlar": "Sakız ve macun gibi şeylerin uzayıp sünmesini...",
+      "kontrol_gerekli": true
+    }
+  ]
+}

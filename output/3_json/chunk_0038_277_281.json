@@ -1,0 +1,506 @@
+{
+  "chunk_no": 38,
+  "kaynak_sayfa_baslangic": 277,
+  "kaynak_sayfa_bitis": 281,
+  "kelimeler": [
+    {
+      "kelime": "geşür",
+      "anlam": "bkz. turma.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "belirsiz",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "277",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "gezri",
+      "anlam": "bkz. turma.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "belirsiz",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "277",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "-gu",
+      "anlam": "Eylemlerin buyrum kipi haline [gövdeye] eklenen ve onu zamanı, mekanı ya da aracı anlatan bir ad haline getiren ek.",
+      "ornek_metin": "bargu yer. Varılan yer; turgu yer: Durulan yer.",
+      "cekimler": [],
+      "kelime_turu": "ek",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "277",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "hana",
+      "anlam": "bkz. ana.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "belirsiz",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "278",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "hata",
+      "anlam": "bkz.,ata.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "belirsiz",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "278",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "heç heç",
+      "anlam": "Atlar doludizgin, tüm hızlarıyla koşmak istedikleri zaman onları dizginlemek için kullanılan ifade.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "ünlem",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "278",
+      "notlar": "Bu ifade Arapçaya da uyar [hac]. Ancak Türkçe ses kurallarına tamamen aykırıdır, çünkü hı sesi içerir. Türk lehçelerinde hiç bir sözcükte hı sesi yoktur.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "heç heç",
+      "anlam": "Atları dizginlemek için kullanılan bir söz öbeği.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "ünlem",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "278",
+      "notlar": "Kök-biçimi eç eç’tir - e, he’ye dönüşmüştür. Bu Arapçadaki hachactû bi'l-ganem (“inat ettiği zaman [koyuna] bağırdım”) ifadesine de uygundur.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "i",
+      "anlam": "Reddetme (inkâr) bildiren bir ifade, ö’ya benzer.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "ünlem",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "279",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ıçgındı",
+      "anlam": "Kuşun ellerin arasından uçup gitmesine izin vermek / Elindekini yitirmek / Adamın bir insan topluluğu içinde kendini tutamayarak osruq çıkartması ve bu nedenle utanması.",
+      "ornek_metin": "ol quşm eligdin ıçgındı: O, kuşun ellerinin arasından uçup gitmesine izin verdi. yaqâdâqı yalgâgalı eligdeki ıçgınür: Yakasındakini (buraya düşen yemeği) yalayan elindekini ( y e m e k y e d i ğ i k abı ya d a benzerini) yitirir. er ıçgındı: Adam bir insan topluluğu içinde kendini tutamayarak osruq çıkarttı ve bu nedenle utandı.",
+      "cekimler": [
+        "ıçgınür",
+        "ıçgınmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "279",
+      "notlar": "Atasözü bir kişiye, istediğini alamıyorsa elindekiyle yetinmesini öğütlemek için kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "idildi",
+      "anlam": "Tutsak (ya da bağlanmış adam ya da benzer bir kısıtlanmış durumda bulunan kimse) serbest bırakıldı.",
+      "ornek_metin": "tutgfin idildi: Tutsak (ya da bağlanmış adam ya da benzer bir kısıtlanmış durumda bulunan kimse) serbest bırakıldı.",
+      "cekimler": [
+        "ıdılur",
+        "ıdılmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "279",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ıdınçu",
+      "anlam": "Erkeğin uzun süre toplu tutulduktan sonra çözülüp serbest bırakılan saçı / Serbest bırakılan, doğaya salınan hayvan.",
+      "ornek_metin": "ıdınçu saç: Erkeğin uzun süre toplu tutulduktan sonra çözülüp serbest bırakılan saçı. Aynı muameleye maruz kalan başka şeyler için de bu sözcük kullanılır, ıdınçu yılqı: Serbest bırakılan, doğaya salınan hayvan",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "279",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ıdışdı",
+      "anlam": "Karşılıklı hediyeleşmek, birbirine hediyeler vermek.",
+      "ornek_metin": "ol manga ertüt ıdışdı: O, benimle hediyeleşti - birbirimize hediyeler verdik.",
+      "cekimler": [
+        "ıdışur",
+        "ıdışmaq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "279",
+      "notlar": "Karşılıklı olarak yollamak ya da serbest bırakmak konusunda birisiyle rekabet ettiğimiz herhangi bir şeyi anlatmak için de bu sözcük kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ıdma",
+      "anlam": "Serbest bırakılmış hayvan.",
+      "ornek_metin": "ıdmayılqı: Serbest bırakılmış hayvan",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "279",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ıdsâdı",
+      "anlam": "Kölesini yollamak istemek.",
+      "ornek_metin": "ol qulın manga ıdsâdı : O, kölesini bana yollamak istedi",
+      "cekimler": [
+        "ıdsdr",
+        "ıdsâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "279",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "idti",
+      "anlam": "Yollamak, göndermek.",
+      "ornek_metin": "ol manga at idtı: O bana bir at [başka b ir şey de o la b ilir] yolladı. tengri yaldwaç idtı : Cenab-ı Hak peygamber yolladı.",
+      "cekimler": [
+        "idür",
+        "idmâcj"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "279",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ıduq",
+      "anlam": "Kutsanmış (mübarek) herhangi bir şey.",
+      "ornek_metin": "ıduq tâg: Geçit vermeyen ve uzayıp giden dağ.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "280",
+      "notlar": "Kök-anlamı ıduq: serbest bırakılmış herhangi bir hayvan’dır (yusayyibu). Sahibinin tanrıya ettiği bir yemin nedeniyle bu hayvana yük vurulmaz, hayvanın sütü sağılmaz ve yünü kırkılmaz.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ıglâdı",
+      "anlam": "Bebek ağladı, yıglâdı’nın değişik sesletimi.",
+      "ornek_metin": "oglân ıglâdı: Bebek ağladı",
+      "cekimler": [
+        "ıglâr",
+        "ıglâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "280",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ıglaştı",
+      "anlam": "Bebekler ağlaştı, yeli (y) biçimin [yıglaş-] değişik sesletimi.",
+      "ornek_metin": "oglân ıglaştı: Bebekler ağlaştı",
+      "cekimler": [
+        "ıglaşür",
+        "ıglaşmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "280",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ila",
+      "anlam": "Bir nehir adı [İli].",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "280",
+      "notlar": "Kıyılan boyunca iki Türk kavmi, yani Yağma ve Tuxsı, ayrıca bir taife Çigil yerleşiktir. Bu nehir Türk ülkesinin Ceyhun'udur [Amuderya].",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ılal",
+      "anlam": "“Evet” anlamına gelen bir sözcük.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "ünlem",
+      "dil_veya_lehce": "Hâqânı lehçesi",
+      "kaynak_sayfa": "280",
+      "notlar": "Beyleri ve hakanlan yanıtlarken kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ıldurdı",
+      "anlam": "Dağdan [başka bir yerden de olabilir] indirdi.",
+      "ornek_metin": "ol anı tâgdın ıldurdı: O, onu dağdan [başka bir yerden de olabilir] indirdi.",
+      "cekimler": [
+        "ıldurur",
+        "ıldurmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "280",
+      "notlar": "nun’la (n) değişik bir sesletimi vardır - endûrdi.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ılenç",
+      "anlam": "bkz. ilenç.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "belirsiz",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "280",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ılıg",
+      "anlam": "bkz. yılıg.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "belirsiz",
+      "dil_veya_lehce": "Oğuzlar ve Qıfçâqlar ılıg, diğer Türkler yılıg der.",
+      "kaynak_sayfa": "280",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ılışdı",
+      "anlam": "Dağdan aşağı inme konusunda boy ölçüştü.",
+      "ornek_metin": "ol menig birle tâgdın qodı ılışdı: O, dağdan aşağı inme konusunda benimle boy ölçüştü.",
+      "cekimler": [
+        "ılışûr",
+        "ılışmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "280",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ılsâdı",
+      "anlam": "Dağdan [başka bir yerden de olabilir] inmeye niyet etti.",
+      "ornek_metin": "er tâgdın ılsâdı: Adam dağdan [başka bir yerden de olabiliri inmeye niyet etti.",
+      "cekimler": [
+        "ılsâr",
+        "ılsâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "280",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ımga",
+      "anlam": "Hazinedar.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "280",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "inanç",
+      "anlam": "bkz. inanç.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "belirsiz",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "280",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "inandım",
+      "anlam": "Güvendi, itimat etti.",
+      "ornek_metin": "men aııgâr inandım: Ben ona güvendim, itimat ettim.",
+      "cekimler": [
+        "ınânur",
+        "ınanmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "280",
+      "notlar": "Nitekim “kendisine güvenilen bey”e inanç beg denir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ındâg (?)",
+      "anlam": "Eleğin çerçevesi.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "280",
+      "notlar": "",
+      "kontrol_gerekli": true
+    },
+    {
+      "kelime": "mga",
+      "anlam": "Süfli ve ahlaksız adam. Rezil ve aşağılık her şey mga sıfatıyla tanımlanabilir.",
+      "ornek_metin": "mga er: Süfli ve ahlaksız adam.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "280",
+      "notlar": "",
+      "kontrol_gerekli": true
+    },
+    {
+      "kelime": "ırigrandı",
+      "anlam": "Dişi deve [başka bir hayvan da olabilir] inledi.",
+      "ornek_metin": "ingen ıngrandı: Dişi deve [başka bir hayvan da olabilir] inledi.",
+      "cekimler": [
+        "ıngranür",
+        "ıngranmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "280",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ıq",
+      "anlam": "Soğuk su içilip hemen sonrasında ekmek yenildiğinde ortaya çıkan hıçkırık.",
+      "ornek_metin": "anı ıq tuttı: Onu hıçkırık tuttu.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "281",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ıqılâç",
+      "anlam": "Hızlı, çevik at.",
+      "ornek_metin": "alp erigyawntma ıqîldç arqâsın yagrıtma: Yiğit kişiye zarar verip onu zayıf düşürme, çevik atın sırtını yara yapma. ıqtlâçım erig boldı / Çevik atm tez canlılıkla doludizgin koştu / erig bolgu yeri kördi / Çünkü bunun gerekli olduğunu gördü / bulıt örüp kök örtüldi / Göğü kaplayan bulut yükseldiğinde / tuman türup tolı yağdı / (Ve) hava puslanıp, dolu boşandığında",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "281",
+      "notlar": "Bu atasözüyle beylere öğüt verilir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ır",
+      "anlam": "bkz. yır.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "belirsiz",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "281",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ırgâdı",
+      "anlam": "Ağacı salladı (meyvesini düşürmek için). Başka şeyleri sallamayı anlatmak için de kullanılabilir.",
+      "ornek_metin": "yıgdç ırgâdı: O (meyvesini düşürmek için) ağacı salladı.",
+      "cekimler": [
+        "ırgdr",
+        "ırgâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "281",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ırgâg",
+      "anlam": "Kaynağındaki buzu depoya çekip götürmek için kullanılan çengeli demir.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "281",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ırgaldı",
+      "anlam": "Ağaç sallandı. Silkelenen, sarsılan herhangi bir şeyi anlatmak için de bu sözcük kullanılır.",
+      "ornek_metin": "yıgdç ırgaldı: Ağaç sallandı.",
+      "cekimler": [
+        "ırgalur",
+        "ırgalmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "281",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ırq",
+      "anlam": "Gaipten haber vermek, kehanetlerde bulunmak, saklı olanı ifşa etmek.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "281",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ırigrattı",
+      "anlam": "Inletti.",
+      "ornek_metin": "ol anı ınğrattı: O, onu inletti.",
+      "cekimler": [
+        "ınğratür",
+        "ınğratmdcj"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "281",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ırgandı",
+      "anlam": "Ağaç silkelendi ve sallandı.",
+      "ornek_metin": "yıgâç ırgandı: Ağaç silkelendi ve sallandı.",
+      "cekimler": [
+        "ırganür",
+        "ırganmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "281",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ırgattı",
+      "anlam": "Ağacı [başka bir şeyi de olabilir] sallattı.",
+      "ornek_metin": "ol yıgdç ırgattı: O, ağacı [başka bir şeyi de olabilir] sallattı. yigitlerig ışlatu / Gençleri çalıştırarak / badram qıhp awnalım / Bayram yapıp zaman geçirelim",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "281",
+      "notlar": "Şu dörtlükte de kullanılır: (Bir şöleni anlatıyor)",
+      "kontrol_gerekli": false
+    }
+  ]
+}

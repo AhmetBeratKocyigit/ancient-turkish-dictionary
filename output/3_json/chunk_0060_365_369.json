@@ -1,0 +1,556 @@
+{
+  "chunk_no": 60,
+  "kaynak_sayfa_baslangic": 365,
+  "kaynak_sayfa_bitis": 369,
+  "kelimeler": [
+    {
+      "kelime": "oturig",
+      "anlam": "Odun",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "365",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "oturgluq",
+      "anlam": "Odunluk",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "365",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "oturdı",
+      "anlam": "Saç (ya da giysi ya da benzer bir şeyi) kesti",
+      "ornek_metin": "ol saç uturdı: O, saç (ya da giysi ya da benzer bir şeyi) kesti",
+      "cekimler": [
+        "utrur",
+        "uturmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "365",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "owrüg",
+      "anlam": "Vadinin kıvrımı; dağın kenarı, sivri çıkıntısı",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "365",
+      "notlar": "ogrûg’un değişik sesletimi",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "owrüg",
+      "anlam": "Boyundaki ilk omur",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "365",
+      "notlar": "Üç anlama gelen bu sözcüğün [owrüg], her anlamında daha doğru kullanım, bir değişik sesletim olan ogrüg’tur.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "oxâq",
+      "anlam": "Kurutulmuş kayısılardan yapılan meyve şuyu",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "365",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "oxsındı",
+      "anlam": "Yaptığı şeyden dolayı pişmanlık duydu",
+      "ornek_metin": "ol qılmış îşınga oxsmdı: O, yaptığı şeyden dolayı pişmanlık duydu.",
+      "cekimler": [
+        "oxsmür",
+        "oxsınmdq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "365",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "oxşâdım",
+      "anlam": "Teskin ettim ve okşadım",
+      "ornek_metin": "men anı oxşâdım: B e n o n u teskin ettim ve okşadım. Aynı zamanda sevecen bir biçimde çocuğuyla konuşan bir anneyi anlatmak için de bu sözcük kullanılır. Şu atasözünde de geçer, saqâq biçer, saqâl oxşâr: (Sizlice) çeneyi keser, sakalı okşarken. Bu atasözü bir yandan yaltaklanırken diğer yandan gizlice entrika çeviren bir kimseyi anlatmak için kullanılır.",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "365",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "oxşâdı",
+      "anlam": "Bir şey, başka bir şeye benzedi",
+      "ornek_metin": "bîr neng bîrke oxşâdı: Bir şey, başka bir şeye benzedi.",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "365",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "uxşâdı",
+      "anlam": "At uyudu",
+      "ornek_metin": "at uxşâdı: At uyudu. Bu sözcük yalnızca atlarla ilgilidir ve başka bir şeyi anlatırken kullanılmaz",
+      "cekimler": [
+        "uxşâr",
+        "uxşdmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "Yemek, Yabâqu ve göçebelerin çoğunun lehçeleri",
+      "kaynak_sayfa": "365",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "oxşâg",
+      "anlam": "Bir şeyin benzeri ya da aynı türden olanı",
+      "ornek_metin": "anıg oxşâgı: Ona benzeyen biri.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "365",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "oxşâgu",
+      "anlam": "Oyuncak",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "365",
+      "notlar": "Aynı zamanda bu, kadınlar için kullanılan bir lakaptır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "oxşattı",
+      "anlam": "Beni babama benzetti",
+      "ornek_metin": "ol meni atâma oxşattı: O, beni babama benzetti.",
+      "cekimler": [
+        "oxşatur",
+        "oxşatmdq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "365",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "öy",
+      "anlam": "Dik yamaçlı, derin vadi",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "365",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "oy",
+      "anlam": "Kül renginde at",
+      "ornek_metin": "oy at: Kül renginde at.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "365",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "öydı",
+      "anlam": "Kavunun (başka bir şeyin de olabilir) içini boşalttı",
+      "ornek_metin": "ol qâgûn öydı: O, kavunun [başka bir şeyin de olabilir) içini boşalttı.",
+      "cekimler": [
+        "öyâr",
+        "öymâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "365",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "oygurdı",
+      "anlam": "Beni uyandırdı",
+      "ornek_metin": "ol meni oygurdı: O, beni uyandırdı",
+      "cekimler": [
+        "oygurur",
+        "oygurmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "366",
+      "notlar": "d’li biçimin [odgurdı] değişik sesletimi.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "oynâgu",
+      "anlam": "Oyun alanı - eğlence yeri",
+      "ornek_metin": "oynâgu yer: Oyun alanı - eğlence yeri.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "366",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "oynâq",
+      "anlam": "Oynak kadın",
+      "ornek_metin": "oynâq eşler: Oynak kadın.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "366",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "oynâş",
+      "anlam": "Evlilikdışı olarak bir adamla sevişen kadın",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "366",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "oynattı",
+      "anlam": "Onun (belli bir şeyle) oynamasına izin verdi",
+      "ornek_metin": "ol anı oynattı: O, onun (belli bir şeyle) oynamasına izin verdi.",
+      "cekimler": [
+        "oynatur",
+        "oynatmaq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "366",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "oy turdı",
+      "anlam": "Bana kavunun içini boşalttırdı",
+      "ornek_metin": "ol manga qâgûn oyturdı: O, bana kavunun Ibaşka bir şeyin de olabilir) içini boşalttırdı.",
+      "cekimler": [
+        "oyturur",
+        "oyturmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "366",
+      "notlar": "Madde başı metinde 'oy turdı' olarak geçmektedir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "oyuldı",
+      "anlam": "Zemin çöktü - toprak içe göçtü / Yağmur nedeniyle çatı delindi",
+      "ornek_metin": "yer oyuldı: Zemin çöktü - toprak içe göçtü. kütü oyuldı: Yağmur nedeniyle çatı delindi.",
+      "cekimler": [
+        "oylür",
+        "oyulmâtj"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "366",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "oyun",
+      "anlam": "Oyun",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "366",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "oyuq",
+      "anlam": "Korkuluk; yolu işaret eden taş",
+      "ornek_metin": "bardı eren qonuq körüp qutqa saqâr / qaldıyawuz oyuq körüp ewniyıqâr: Konuk görünce onu uğur sayan kimseler gitti / Geriye, bir korkuluk görünce (onu gelen bir konuk sanıp) çadırını toplayan kötüler kaldı",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Oğuz lehçesi",
+      "kaynak_sayfa": "366",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "oyuşdı",
+      "anlam": "Kavunun içini boşaltma konusunda rekabet ettiler / Bu işte yardımlaşmayı anlatmak için de kullanılır",
+      "ornek_metin": "olâr ekki qâgün oyuşdı: O ikisi, kavunun içini boşaltma konusunda rekabet ettiler.",
+      "cekimler": [
+        "oyşur",
+        "oyuşmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "366",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "oza",
+      "anlam": "Eski zamanlar",
+      "ornek_metin": "ozaqı bilge ança aymış: Eski zamanlann bilgesi işte böyle dem'ış. erdi oza erenler / Eski zamanlarda adamlar vardı / erdem begi bilig tâg / Erdemin, hikmetli sözler dağının ve bilginin efendileriydiler / aydı üküş öğütler / Öğüt veren kelamlan vardı / körîglüm bolur angar sâg / Onları anmak gönlü annadınr",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "366",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "izdi",
+      "anlam": "Onun atı ileri geçti / Koşarken başka birini geçen bir insanı anlatmak için de kullanılır",
+      "ornek_metin": "anıg atı özdı: Onun atı ileri geçti.",
+      "cekimler": [
+        "özâr",
+        "özmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "367",
+      "notlar": "Madde başı kaynakta 'izdi' olarak geçmektedir.",
+      "kontrol_gerekli": true
+    },
+    {
+      "kelime": "ozıtgân",
+      "anlam": "Atını devamlı öne geçiren adam",
+      "ornek_metin": "bu er ol atm ozıtgân: Bu, atını devamlı öne geçiren adamdır.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "367",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ozuq",
+      "anlam": "Bir yarışta ya da benzerinde önde giden at",
+      "ornek_metin": "ozuq at: Bir yanşta ya da benzerinde önde giden at.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "367",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ozuşdı",
+      "anlam": "Benimle at yarışında boy ölçüştü / At yarışında bana yardım etti",
+      "ornek_metin": "ol menig birle at ozuşdı: O, benimle at yarışında boy- ölçüştü.",
+      "cekimler": [
+        "ozuşür",
+        "ozuşmdq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "367",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "öç",
+      "anlam": "Hınç; intikam almak",
+      "ornek_metin": "âç kek qamug kişining ydngüq üze alim bil r / edgulüküg ügança elgıng bile telim qıl: Şunu bil ki insanların intikam isteği bir adamın üzerine yüklenmiş bir alacak gibidir / Sahip olduğun tüm güçle yapabildiğin kadar iyilik yap",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "368",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "öçdi",
+      "anlam": "Ateşin alevi söndü / Adamın öfkesi geçti / Adamın soluğu kesildi",
+      "ornek_metin": "öt öçdi: Ateşin alevi söndü. eming öpkesi öçdi: Adamın öfkesi geçti. er tim öçdi: Adamın soluğu kesildi.",
+      "cekimler": [
+        "öçer",
+        "öçmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "368",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "öçeş",
+      "anlam": "Bahse girmek",
+      "ornek_metin": "ol menmg birle öçeşdi: O, belli bir konu üzerine benimle bahse girdi",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "368",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "öçeşdi",
+      "anlam": "Belli bir şeyde benimle boy ölçüştü",
+      "ornek_metin": "ol menig birle öçeşdi: O, belli bir şeyde benimle boy ölçüştü.",
+      "cekimler": [
+        "öçeşur",
+        "öçeşmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "368",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "öçrüşdi",
+      "anlam": "Onun öfkesini yatıştırmakta bana yardım etti / Ateşin alevini söndürmek için yardım etti",
+      "ornek_metin": "ol anıg öpkesin menig birle öçrüşdi: O, onun öfkesini yatıştırmakta bana yardım etti.",
+      "cekimler": [
+        "öçrüşür",
+        "öçrüşmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "368",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "öçükti",
+      "anlam": "(Savaşta) adamın sesi kısıldı / Adamın soluğu kesildi",
+      "ornek_metin": "er tını öçükti: (Savaşta) adamın sesi kısıldı - (Üzerine soğuk su döküldüğü ya da şiddetli bir darbe aldığı için) adamın soluğu kesildi.",
+      "cekimler": [
+        "öçüker",
+        "öçükmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "368",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "öçürdi",
+      "anlam": "Ateşi söndürdü / Onun öfkesini yatıştırdı / Onu döverek soluğunu kesti",
+      "ornek_metin": "ol otug öçürdi: O, ateşi söndürdü. anıg öpkesin öçürdi: Onun öfkesini yatıştırdı. ol anı urup tını öçürdi: O, onu döverek soluğunu kesti. ötug odguç birle öçürmes: Ateş alevle söndürülmez.",
+      "cekimler": [
+        "öçrûr",
+        "öçürmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "368-369",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "öçül",
+      "anlam": "İntikam, öç alma arzusu",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "369",
+      "notlar": "Bu sözcüğün kökü öç’tür.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "öd",
+      "anlam": "Zaman",
+      "ornek_metin": "od keçer kişi tüymâs, yalngüq ögb menggû qalmâs: Zaman geçer ve insan bunu fark etmez, âdemoğlu sonsuza dek yaşamaz",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "369",
+      "notlar": "öd ince okunur.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ödleg",
+      "anlam": "Zaman",
+      "ornek_metin": "ödleg qamug kevzredi / Zaman tümden gevşedi / t / erdem arıg sevzredi / (Ve) erdem zayıfladı / yu nçıg yavzuz tavzradı / Düşkün ve gizlenmiş olan giderek güçlendi / erdem begi çertilür / Erdemlerin beyi [Afrâsiyâb Han] göçüp gittiğinden beri",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "369",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ög",
+      "anlam": "Olgunluk çağına erişmiş her hayvan",
+      "ornek_metin": "Ög at: Dört yaşındaki bir at.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "369",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "og",
+      "anlam": "Anlayış",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "369",
+      "notlar": "Anlayışlı ve olgun, yaşlı kimselere verilen bir unvan olan öge [öge] buradan gelir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ögdi",
+      "anlam": "Beni övdü",
+      "ornek_metin": "ol meni Ögdi: O, beni övdü.",
+      "cekimler": [
+        "öger",
+        "ögmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "369",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "öge",
+      "anlam": "Akıllı, olgun ve görmüş geçirmiş, halkın arasından bir adama verilen unvan",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "369",
+      "notlar": "Tegîn’den bir derece aşağıdadır. Kökenine dair efsanevi hikaye metinde yer almaktadır.",
+      "kontrol_gerekli": false
+    }
+  ]
+}

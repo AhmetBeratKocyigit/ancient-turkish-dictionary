@@ -1,0 +1,641 @@
+{
+  "chunk_no": 97,
+  "kaynak_sayfa_baslangic": 513,
+  "kaynak_sayfa_bitis": 517,
+  "kelimeler": [
+    {
+      "kelime": "sökelke suwşâdı",
+      "anlam": "Hastayı okudu, üfledi, büyüler fısıldadı",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "513",
+      "notlar": "ş kullanılan bir değişik sesletimi vardır [bkz. şuwşattı]",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sü",
+      "anlam": "Asker veya ordu",
+      "ornek_metin": "otdgqa öpkelep süke sözlemedük: Çadın içinde (yoldaşlanna) sinirlendi (ve bundan sonra) askerlerle konuşmadı.\n\nsü keldi yer yapa \nOrdu geldi ve kapladı ülkenin ufkunu\nqazâr qarlıg tâg tapa(?) \nKart dağlan aşındırdı atlannın toynaklan\nqaçtı angar alp apa \nAlp Apa [aga] ondan kaçtı\nuvvut bolup ol yaşdr \nYaşadığı hezimet nedeniyle mahcup, utanç içinde saklanıyor",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "513",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "süçidi",
+      "anlam": "Bir şey tatlılaştı",
+      "ornek_metin": "",
+      "cekimler": [
+        "süçir",
+        "süçimek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "513",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "süçig",
+      "anlam": "Tatlı olan herhangi bir şey",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "513",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "süçig",
+      "anlam": "Şarap",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "513",
+      "notlar": "Bu sözcüğün birbirine karşıt iki anlamı vardır, İla vadisi halkları -Yağma, Tuxsı, Çigil kavimleri- qızıl süçig: kızıl içki derler.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "süçindi",
+      "anlam": "Adam, söylenen sözlerin tadına vardı ve bütünüyle onlarla meşgul olup asıl işine boş verdi",
+      "ornek_metin": "sozke süçinse bulun barîr: Sözün tatlılığına kapılıp giden kimse sonunda kelamın tutsağı olur.",
+      "cekimler": [
+        "sûçinür",
+        "süçinmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "513",
+      "notlar": "Bu atasözünün ardında yatan bir hikâye vardır. İşittiği bazı sözler uğruna işini gücünü bırakın bir kimseyi anlatmak için kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "süçirdi",
+      "anlam": "Acı şey tatlılaştı",
+      "ornek_metin": "",
+      "cekimler": [
+        "süçir er",
+        "sûçirmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "513",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "süçişdi",
+      "anlam": "Bir şey bütünüyle tatlı hale geldi",
+      "ornek_metin": "",
+      "cekimler": [
+        "süçişür",
+        "süçişmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "513",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "süçitti",
+      "anlam": "Ekşi ya da acı olan bir şeyi tatlandırdı / Çorak toprağı, ekime uygun bir toprak haline getirdi",
+      "ornek_metin": "",
+      "cekimler": [
+        "süçitür",
+        "süçitmeğe"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "513",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "süglin",
+      "anlam": "Sülün",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "513",
+      "notlar": "süwlîn bir değişim sesletimdir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "süksük",
+      "anlam": "Ilgın ağacı",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "514",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "süledi",
+      "anlam": "Bey düşmanının üzerine baskın yaptı",
+      "ornek_metin": "yagıng tapa tetrü baqıp bögdeng bile\nugrap qalı kelse sanga qarşu süle\nDüşmanının yüzüne kararlı bir biçimde bak ve hançerini bile [hazır tut]\nNe zaman senin üzerine savaşacak olsa onunla savaş",
+      "cekimler": [
+        "süler",
+        "sülemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "514",
+      "notlar": "Kök biçimi süledi’dir, vav (ü) düşmüştür.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "süm",
+      "anlam": "Çok çok tatlı bir şey",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "Oğuz lehçesi",
+      "kaynak_sayfa": "514",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sümrüşdi",
+      "anlam": "Suyu [başka bir şey de olabilir] hızla yudumlama konusunda benimle yarıştı",
+      "ornek_metin": "",
+      "cekimler": [
+        "sümrüşür",
+        "sümrüşmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "514",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sümürdi",
+      "anlam": "Sütü [başka bir şeyi de olabilir] çabucak yudumladı",
+      "ornek_metin": "",
+      "cekimler": [
+        "sümrür",
+        "sümürmek",
+        "sümürgen"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "514",
+      "notlar": "bu er ol sütüg sümürgen: Bu adam, sütü çabucak yudumlar.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sürigdi",
+      "anlam": "Ördek kendini sazların (ya da çalıların) arkasına sakladı [oraya sindi]. Bir şeyin içine, örneğin izin almadan bir adamın evine giren ve orada sinen, saklanan bir kimseyi anlatmak için de bu sözcük kullanılır.",
+      "ornek_metin": "",
+      "cekimler": [
+        "sünger",
+        "süngmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "514",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "süngdürdi",
+      "anlam": "Onun evin içine girip, orada sinip saklanmasını sağladı",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "514",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "süngü",
+      "anlam": "Mızrak; kargı; süngü",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "514",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "süngük",
+      "anlam": "Kemik",
+      "ornek_metin": "edgü er süngüki erir atı qalîr: İyi bir adamın kemikleri (toprağın altında) çürür, ama onur hatırası baki kalır.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "514",
+      "notlar": "Bu atasözü birine iyilik yapmasını öğütlemek için kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sürügüklendi",
+      "anlam": "Oğlan [başka bir şey de olabilir] kemiktendi, büyüdü",
+      "ornek_metin": "",
+      "cekimler": [
+        "süngüklenür",
+        "süngüklenmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "514",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sünguledi",
+      "anlam": "Onu mızrakladı",
+      "ornek_metin": "",
+      "cekimler": [
+        "süngüler",
+        "süngülemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "515",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sürigüş",
+      "anlam": "Savaşta saldırı; mızrak dövüşü",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "515",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sürigüş",
+      "anlam": "Bir erkek adı",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "515",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sürigüşdi",
+      "anlam": "İki adam (savaş meydanında, at üstünde) mızrak dövüşü yaptılar",
+      "ornek_metin": "",
+      "cekimler": [
+        "süngüşür",
+        "süngüşmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "515",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "süpründi",
+      "anlam": "Süprüntü",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "515",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "süprüldi",
+      "anlam": "Ev süpürüldü",
+      "ornek_metin": "",
+      "cekimler": [
+        "süprülür",
+        "süprülmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "515",
+      "notlar": "Bir adama sinirlendiğiniz zaman ona süprül: kimsenin umursamadığı süprüntüler gibi çek git dersiniz.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "süpürdi",
+      "anlam": "Evi [başka bir yeri de olabilir] süpürdü",
+      "ornek_metin": "",
+      "cekimler": [
+        "süpürür",
+        "süpürmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "515",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "süpürgü",
+      "anlam": "Süpürge",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "515",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sürçdi",
+      "anlam": "At [başka bir şeyi de olabilir] tökezledi",
+      "ornek_metin": "",
+      "cekimler": [
+        "sürçer",
+        "sürçmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "515",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sürçitti",
+      "anlam": "Atın [başka bir şeyi de olabilir] tökezlemesine neden oldu",
+      "ornek_metin": "",
+      "cekimler": [
+        "sûrçitür",
+        "sürçitmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "515",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sürdi",
+      "anlam": "At [başka bir hayvan da olabilir] sürdü / Adam köpeği [başka bir şeyi de olabilir] kovdu",
+      "ornek_metin": "",
+      "cekimler": [
+        "sürer",
+        "sürmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "515",
+      "notlar": "Beyin, herhangi birini ülkeden sürmesini anlatmak için yine bu sözcük kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sürgiledi",
+      "anlam": "Köpek, yakalamak için geyigin izlerini takip ederek onu önü ara koşturdu",
+      "ornek_metin": "",
+      "cekimler": [
+        "sürgiler",
+        "sürgilemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "515",
+      "notlar": "Bir şeyi yakalamak için kovalayan ve üzerine hamle eden herhangi birini anlatmak için bu sözcük kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sürk",
+      "anlam": "Onun ayağı buz gibi soğuk",
+      "ornek_metin": "anıg adâqı sürk büz teg: Onun ayağı buz gibi soğuk.",
+      "cekimler": [],
+      "kelime_turu": "belirsiz",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "515",
+      "notlar": "Bu sözcük yalnızca bu bağlamda kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sürsedi",
+      "anlam": "Atını [başka bir hayvanı da olabilir] sürmek istedi",
+      "ornek_metin": "",
+      "cekimler": [
+        "sürser",
+        "sürsemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "516",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sürtti",
+      "anlam": "Ekmeğe yağ sürdü / Parayı taşa sürttü",
+      "ornek_metin": "",
+      "cekimler": [
+        "sürter",
+        "sürtmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "516",
+      "notlar": "Bir yere, bir şeye sürtülen/sürülen başka şeyleri anlatmak için de bu sözcük kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sürtük",
+      "anlam": "Cinsel olarak erkeklere değil de kadınlara ilgi duyan kadın [lesbiyen]",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "516",
+      "notlar": "“Sürtünen, ovuşturulan” herhangi bir şeye de sürtük denir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sürtüldi",
+      "anlam": "Bir şey kendi kendine sürtündü ya da kendi kendini çizdi / Deriye [başka bir yere de olabilir] yağ sürüldü",
+      "ornek_metin": "",
+      "cekimler": [
+        "sürtülür",
+        "sürtülmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "516",
+      "notlar": "Başka biri bu nesneyi sürter ya da çizerse de bu sözcük kullanılır - hem geçişli hem de geçişsizdir [hem edilgen hem etken].",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sürtündi",
+      "anlam": "At, ağaca [başka bir yere de olabilir] sürtünerek kaşındı / Adam kendi üzerine yağ sürdü",
+      "ornek_metin": "",
+      "cekimler": [
+        "sürtünür",
+        "sürtünmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "516",
+      "notlar": "Herhangi bir şeyin üzerine yağ sürüyormuş gibi görünürse yine bu sözcük kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sürtürdi",
+      "anlam": "Onun bir yerden kovulmasını ve uzaklara sürgün edilmesini emretti / Ona koyun [başka bir hayvan da olabilir] sürdürdü / Ona taş sürttürdü",
+      "ornek_metin": "",
+      "cekimler": [
+        "sürtürür",
+        "sürtürmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "516",
+      "notlar": "Bunun geçişsiz hali de aynıdır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sürtüşdi",
+      "anlam": "Benimle deriye yağ sürme işinde yarıştı / Aşık kemiğini sürterek aşındırma konusunda benimle yarıştı",
+      "ornek_metin": "",
+      "cekimler": [
+        "sürtüşür",
+        "sürtüşmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "516",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sürüg",
+      "anlam": "Sürü; sığır sürüsü",
+      "ornek_metin": "öğür sürüg qöy tevve yundı bile\nyumurlayu erkenin sütin sagâr\nKendisine koyun, deve ve at sürüleri İhsan edilmiş kimse\n(Onlardan fayda sağlamak istiyorsa) hayvanlan sağmak için [erkenden] bir araya toplamalıdır",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "516-517",
+      "notlar": "bir sürüg qöy: Bir koyun sürüsü.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sürüldi",
+      "anlam": "Atlar sürüldü / Adam kovuldu / Boncuk ovalanarak parlatıldı",
+      "ornek_metin": "",
+      "cekimler": [
+        "sürlür",
+        "sürülmek",
+        "sürülgen"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "517",
+      "notlar": "Herhangi bir şey kendi kendini ovalarsa bu sözcük kullanılır - hem geçişli hem de geçişsizdir [hem edilgen hem etken]. bu er ol tegme yerdin tutçı sürülgen: Bu, her yerden kovulan bir adamdır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "süründi",
+      "anlam": "Her mekânın istenmeyen kimsesi olan, her yerden kovulan adam",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "517",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "süründi",
+      "anlam": "Adam kendi vücudunu kaşıdı",
+      "ornek_metin": "",
+      "cekimler": [
+        "sürnur",
+        "sürünmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "517",
+      "notlar": "Sert bir şeye vurulmasını, onun bir yere sürtülmesini anlatmak için de bu sözcük kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sürüşdi",
+      "anlam": "Aygır kısrağı ısırdı / Beni kovalamaya çalıştı / Onun kendisine olan borcunu zorla tahsil etti",
+      "ornek_metin": "",
+      "cekimler": [
+        "sürüşür",
+        "sürüşmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "517",
+      "notlar": "Aygır kısrağı ısırması durumunu, onun üstüne abanmak [onunla cinsel ilişkiye girmek] istediğinde yapar.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "süsdi",
+      "anlam": "Öküz [başka bir hayvan da olabilir] tos vurdu",
+      "ornek_metin": "",
+      "cekimler": [
+        "süser",
+        "süsmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "517",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "süsgirdi",
+      "anlam": "Öküz, adama tos vurayazdı [adamı neredeyse yaralıyordu]",
+      "ornek_metin": "",
+      "cekimler": [
+        "süsgirer",
+        "süsgirmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "517",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "süstürdi",
+      "anlam": "O, koçları toslattı",
+      "ornek_metin": "",
+      "cekimler": [
+        "süstürür",
+        "süstürmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "517",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "süsündi",
+      "anlam": "Adam olmayacak bir işe kalkışıyormuş gibi göründü - Adam, başını duvara vuruyormuş gibi göründü",
+      "ornek_metin": "",
+      "cekimler": [
+        "süsünür",
+        "süsünmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "517",
+      "notlar": "",
+      "kontrol_gerekli": false
+    }
+  ]
+}

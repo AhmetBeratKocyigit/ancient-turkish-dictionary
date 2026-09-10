@@ -1,0 +1,861 @@
+{
+  "chunk_no": 127,
+  "kaynak_sayfa_baslangic": 633,
+  "kaynak_sayfa_bitis": 637,
+  "kelimeler": [
+    {
+      "kelime": "üdredi",
+      "anlam": "Bir şeyden alınan ürün bol, bereketli oldu.",
+      "ornek_metin": "üdredi nerig: Bir şeyden alınan ürün bol, bereketli oldu.",
+      "cekimler": [
+        "üdrer",
+        "üdremek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "633",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "üdreg",
+      "anlam": "Gelişen, büyüyen bir şey.",
+      "ornek_metin": "üdreg nerig: Gelişen, büyüyen bir şey.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "633",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "üdretti",
+      "anlam": "Zenginliğini çoğalttı.",
+      "ornek_metin": "ol tawârıg üdretti: O, zenginliğini çoğalttı.",
+      "cekimler": [
+        "üdretûr",
+        "üdretmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "633",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "üdrüldi",
+      "anlam": "Bir şey seçildi, kenara ayrıldı.",
+      "ornek_metin": "üdrüldi nerig: Bir şey seçildi, kenara ayrıldı. Kenara ayrılan [seçilen] bir grup adamı anlatmak için de bu sözcük kullanılır. anıg ereni üdrüldi: Onun adamları ayrıldı [seçildi].",
+      "cekimler": [
+        "üdriiiür",
+        "üdrülmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "633",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "üdrüm",
+      "anlam": "Bazı şeyler içinden seçilmiş olan ya da bunların en iyisi.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "633",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "üdründi",
+      "anlam": "Seçilmiş bir şey.",
+      "ornek_metin": "üdründi nerig: Seçilmiş bir şey.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "633",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "üdrüşdi",
+      "anlam": "Şeyler arasında seçim yapmada yardım etti.",
+      "ornek_metin": "ol mariga tawâr üdrüşdi: O, malları seçmekte bana yardım etti. Bu işte rekabet etmeyi anlatmak için de bu sözcük kullanılır.",
+      "cekimler": [
+        "üdrüşür",
+        "üdıüşmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "633",
+      "notlar": "üdrüş maddesi altındaki üdrüşdi olarak geçmektedir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "üdürgen",
+      "anlam": "Daima şeyler arasında seçim yapan adam.",
+      "ornek_metin": "bu er ol tegme nctıgni üdürgen: Bu daima şeyler arasında seçim yapan bir adamdır.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "633",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ugi",
+      "anlam": "Baykuş (bkz. ühi).",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "633",
+      "notlar": "bkz. ühi.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ügmek",
+      "anlam": "Kadınların taktıkları altın veya gümüşten yapılmış küpe.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "633",
+      "notlar": "Kök-anlamında bu sözcük eylemlik biçimindedir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ügmeklendi",
+      "anlam": "Kadın küpe taktı.",
+      "ornek_metin": "urâgut ügmeklendi: Kadın küpe taktı.",
+      "cekimler": [
+        "ügmeklenür",
+        "ügmeklenmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "633",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ügre",
+      "anlam": "Şehriye (Tutmâç’a benzer; tek farkı bunun daha ince kesilmiş olmasıdır).",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "633",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ügridi",
+      "anlam": "Kadın beşiği salladı / O, sanki bir bebekmiş gibi onu salladı.",
+      "ornek_metin": "urâgut beşik ügridi: Kadın beşiği salladı. ol anı ügridi: O, sanki bir bebekmiş gibi onu salladı.",
+      "cekimler": [
+        "ûgrîr",
+        "ügrlmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "633",
+      "notlar": "Bir yandan yaltaklanırken diğer yandan kumpas çeviren birini anlatmak için de bu sözcük kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ügrildi",
+      "anlam": "Beşik sallandı.",
+      "ornek_metin": "beşik ügrildi: Beşik sallandı.",
+      "cekimler": [
+        "ügrilür",
+        "ügrilmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "634",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ügrişti",
+      "anlam": "Beşik sallamakta yardım etti.",
+      "ornek_metin": "ol angar beşik ügrişti: O, beşik sallamakta ona yardım etti.",
+      "cekimler": [
+        "ügrişür",
+        "ügrişmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "634",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ügritti",
+      "anlam": "Beşik sallattı.",
+      "ornek_metin": "ol arigdr beşik ügritti: O, ona beşik sallattı.",
+      "cekimler": [
+        "ügritür",
+        "ügritmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "634",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ügrüg",
+      "anlam": "Bebeğin beşiğini sallama.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "634",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ügür",
+      "anlam": "Darı.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "634",
+      "notlar": "Bu sözcük Türkler tarafından kullanılır; Oğuzlar bu sözcüğü bilmez.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ügür",
+      "anlam": "Susam.",
+      "ornek_metin": "yög ügüri: Susam",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Oğuz lehçesi",
+      "kaynak_sayfa": "634",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ügürgen",
+      "anlam": "Taneleri olan bir bitki.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Qarluk Türkmenleri",
+      "kaynak_sayfa": "634",
+      "notlar": "Qarluk Türkmenleri bu bitkiyi yer.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ügürlük",
+      "anlam": "Darının koyulduğu yer.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "634",
+      "notlar": "“Darısı sahip olan kimse”yi anlatmak için sözcük titreşimli k efle (ince k ef - g) söylenir [ûgûrlûg].",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ügürmek",
+      "anlam": "bkz. tegirmck.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "634",
+      "notlar": "bkz. tegirmck.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ügüş",
+      "anlam": "Huysuzlaşmış, denetimden çıkmış hayvan.",
+      "ornek_metin": "ügüşyılqı: Huysuzlaşmış, denetimden çıkmış hayvan",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "634",
+      "notlar": "ayrıca bkz. igış.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ühi",
+      "anlam": "Baykuş.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "634",
+      "notlar": "Türklerin çoğu bu sözcüğü ügi biçiminde kef (g) kullanarak söyler ve bu kullanım daha doğrudur; zira Türk dilinde hı (h) bulunmaz.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "üjme",
+      "anlam": "Dut.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "634",
+      "notlar": "iki eklemleme noktası arasındaki ze’yle (j).",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "üjmelendi",
+      "anlam": "Ağaç dut verdi.",
+      "ornek_metin": "yıgâç üjmelendi: Ağaç dut verdi.",
+      "cekimler": [
+        "üjmelenür",
+        "üjmelenmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "634",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "üjük",
+      "anlam": "Seslem (keca') / Alfabedeki her bir yazac (harf).",
+      "ornek_metin": "bitig üjükledi: Yazıyı seslemledi - seslemlerine ayırdı. bu ne üjük ol : Bu yazaç hangisidir?",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "634",
+      "notlar": "iki eklemleme noktası arasındaki ze'yle (/).",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ükdi",
+      "anlam": "Para [başka bir şey de olabilir] biriktirdi.",
+      "ornek_metin": "ol yarm âq ükdi: O, para [başka bir şey de olabilir] biriktirdi.",
+      "cekimler": [
+        "üker",
+        "ükmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "634",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ükek",
+      "anlam": "Tabut; sandık.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "634",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ükek",
+      "anlam": "Kenti çevreleyen surlardaki savaş için tahkim edilmiş burç.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "634",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ükekledi",
+      "anlam": "Kent surlarının üzerine burçlar yaptı / Herhangi bir şeyin üzerine kutu kapattı.",
+      "ornek_metin": "ol tâmıg ükekledi: O, kent surlarının üzerine burçlar yaptı.",
+      "cekimler": [
+        "ükekler",
+        "ükeklemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "635",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ükeklik",
+      "anlam": "Sandık yapmak için kullanılacak tahta parçası.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "635",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ükeklig",
+      "anlam": "Üzerinde burçlar olan sur.",
+      "ornek_metin": "ükeklig tâm: Üzerinde burçlar olan sur.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "635",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ükil",
+      "anlam": "Çok.",
+      "ornek_metin": "ûkil kişi : Çok sayıda insan",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "Qıfçâq lehçesi",
+      "kaynak_sayfa": "635",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "üklidi",
+      "anlam": "Bir şey büyüdü.",
+      "ornek_metin": "üklidi neng: Bir şey büyüdü.",
+      "cekimler": [
+        "ûklir",
+        "üklîmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "635",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "üklitti",
+      "anlam": "Zenginliğini arttırdı.",
+      "ornek_metin": "ol nengni üklitti: O, zenginliğini arttırdı.",
+      "cekimler": [
+        "üklitür",
+        "üklitmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "635",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "üklüşdi",
+      "anlam": "Kum, kamışlar üzerinde toplaşan çekirge sürüsü ya da bir halk kalabalığı gibi bir şey, başka bir şeyin üzerine yığıldı.",
+      "ornek_metin": "bîr neng bîr üze üklüşdi : Kum, kamışlar üzerinde toplaşan çekirge sürüsü ya da bir halk kalabalığı gibi bir şey, başka bir şeyin üzerine yığıldı.",
+      "cekimler": [
+        "ûfclüşür",
+        "üklüşmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "635",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ükme",
+      "anlam": "Yığma toprak; üst üste yığılmış, biriktirilmiş herhangi bir şey.",
+      "ornek_metin": "ükme toprâq: Yığma toprak.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "635",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ükmek",
+      "anlam": "Yığılmış, biriktirilmiş olan herhangi bir şey.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "635",
+      "notlar": "Tıpkı ügmek sözcüğü gibi bu da kök-anlammda eylemlik biçimindedir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "üksedi",
+      "anlam": "Toprak (ya da buğday ya da başka bir şey) yığmak istedi.",
+      "ornek_metin": "ol toprâq üksedi: O, toprak (ya da buğday ya da başka bir şey) yığmak istedi.",
+      "cekimler": [
+        "ükser",
+        "üksemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "635",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "üktürdi",
+      "anlam": "Onu para [başka bir şey de olabilir] biriktirmekle görevlendirdi.",
+      "ornek_metin": "ol mirig yarmâq anar üktürdi: O, onu para [başka bir şey de olabilir] biriktirmekle görevlendirdi.",
+      "cekimler": [
+        "üktürür",
+        "üktürmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "635",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "üküldi",
+      "anlam": "Toprak [başka bir şey de olabilir] yığıldı.",
+      "ornek_metin": "toprâq üküldi: Toprak [başka bir şey de olabilir] yığıldı.",
+      "cekimler": [
+        "üklûr",
+        "ükülmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "635",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ükülgen",
+      "anlam": "Daima yığılan şey.",
+      "ornek_metin": "bu neng ol tutçı ükülgen: Bu, daima yığılan bir şeydir.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "635",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "üküm",
+      "anlam": "Bir yığın para.",
+      "ornek_metin": "bîr üküm yarm âq: Bir yığın para",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "636",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ükün",
+      "anlam": "Para, gül ve benzer şeylerin yığını.",
+      "ornek_metin": "üfcün toprâq: Bir yere yığılmış toprak",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "636",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ükuş",
+      "anlam": "Herhangi bir şeyin çok olanı.",
+      "ornek_metin": "üküş neriğ: Herhangi bir şeyin çok olanı. ’ tîrîg esen bolsa, tdng üküş körür: Yaşayan ve sağlıklı olan kimse çokça hayret verici şey görür",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "636",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "üküşledi",
+      "anlam": "Zenginliğinin çok fazla olduğunu düşündü.",
+      "ornek_metin": "er tawârın üküşledi: Adam zenginliğinin çok fazla olduğunu düşündü.",
+      "cekimler": [
+        "ühüşler",
+        "üküşlemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "636",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "üledi",
+      "anlam": "Parayı [başka bir şeyi de olabilir] paylaştırdı [üleştirdi].",
+      "ornek_metin": "ol yarm âq üledi: O, parayı Ibaşka bir şeyi de olabilir) paylaştırdı [üleştirdi].",
+      "cekimler": [
+        "üler",
+        "ülemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "636",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "üleşdi",
+      "anlam": "O ikisi, onun mallarını bölüştü ve onun payına el koydu.",
+      "ornek_metin": "olâr ekki taıvârm üleşdi: O ikisi, onun mallarını bölüştü ve onun payına el koydu.",
+      "cekimler": [
+        "üleşür",
+        "üleşmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "636",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ületü",
+      "anlam": "Bir adamın burnunu silmek için cebinde taşıdığı ipek kumaş parçası [ipek mendil].",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "636",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ületti",
+      "anlam": "Paranın yoksullar arasında dağıtılmasını emretti.",
+      "ornek_metin": "ol çıgdyqa yarm âq ületti: O, paranın yoksullar arasında dağıtılmasını emretti.",
+      "cekimler": [
+        "ületür",
+        "ületmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "636",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ülgü",
+      "anlam": "Tedbir.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "636",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ülker",
+      "anlam": "Ülker takımyıldızı (Süreyya).",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "636",
+      "notlar": "ülker çerig olarak bilinen bir savaş taktiği vardır - Askeri birlikler taburlar halinde kaçar, daha sonra bir tabur geri dönüp saldırdığında tüm taburlar ona uyar.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ulüg",
+      "anlam": "Pay (nasîb).",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "636",
+      "notlar": "işmâm [bir yazacın asıl sesçil imini vurgulama] söz konusudur.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ülüş",
+      "anlam": "Pay (nasîb).",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "636",
+      "notlar": "Kök-biçimi şm (ş) yerine fee/lidir (g) [ülüg].",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ülüş",
+      "anlam": "Halk arasında payların dağıtılması.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "636",
+      "notlar": "şm (ş) k efle (g) yer değiştirmiştir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "üm",
+      "anlam": "Şalvar.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "636",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "üme",
+      "anlam": "Birinin evinde konaklayan konuk.",
+      "ornek_metin": "üme kelse qut belir: Konuk geldiğinde kut da gelir kelse qalı yarhg bolup yunçıg üme kel dür anuq bolmîş aşıg tutma uma: Sana harap görünümüyle ve bitap bir halde bir konuk geldiğinde Ona hazırda ne yiyecek varsa sun ve onu bekler ve umar kılma",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "637",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ümgük",
+      "anlam": "Kafatasının yumuşak kısmı - bıngıldak.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "637",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ümleşü",
+      "anlam": "Şalvarına bahse girerek çevgen oynadı.",
+      "ornek_metin": "ol anıg birle çöğen urdı ümleşü: O, onunla şalvanna bahse girerek çevgen oynadı",
+      "cekimler": [
+        "ümîeşür",
+        "ümleşmefe"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "637",
+      "notlar": "",
+      "kontrol_gerekli": true
+    },
+    {
+      "kelime": "ümzük",
+      "anlam": "Eyer-ağacının ön veya arka ucu.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "637",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ün",
+      "anlam": "Ses.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "637",
+      "notlar": "ün biçiminde de söylenir / hem uzun hem de kısa ünlüyle [ün] söylenebilir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ündedi",
+      "anlam": "Beni çağırdı [seslendi].",
+      "ornek_metin": "ol meni ündedi: O beni çağırdı [seslendi].",
+      "cekimler": [
+        "ünder",
+        "ündemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "637",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ündeşdi",
+      "anlam": "Onlar birbirlerine seslendiler.",
+      "ornek_metin": "ol anıg birle ündeşdi: Onlar birbirlerine seslendiler.",
+      "cekimler": [
+        "ündeşür",
+        "ün deşmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "637",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ürigdi",
+      "anlam": "Tahtada [başka bir şeyde de olabilir] bir delik açtı / Duvarın temelini oyarak onu zayıflattı.",
+      "ornek_metin": "ol yıgâç üııgdi: O, tahtada ibaşka bir şeyde de olabilir] bir delik açtı.",
+      "cekimler": [
+        "ünger",
+        "ürigmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "637",
+      "notlar": "Metinde OCR hatası 'üııgdi' şeklindedir.",
+      "kontrol_gerekli": true
+    },
+    {
+      "kelime": "ühgtürdi",
+      "anlam": "Ona tahtada bir delik açtırdı.",
+      "ornek_metin": "ol angar yıgâç üngtürdi: O, ona tahtada bir delik açtırdı.",
+      "cekimler": [
+        "ürigtûrür",
+        "üngtürmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "637",
+      "notlar": "Madde başı 'ühgtürdi' olarak taranmıştır.",
+      "kontrol_gerekli": true
+    },
+    {
+      "kelime": "ürigüldi",
+      "anlam": "Ağaç [başka bir şey de olabilir] oyuldu.",
+      "ornek_metin": "yıgâç Ûngüldi: Ağaç (başka bir şey de olabilir] oyuldu",
+      "cekimler": [
+        "üngülür",
+        "üngülmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "637",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ürigür",
+      "anlam": "İn; mağara.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "637",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "üp",
+      "anlam": "Renkler için kullanılan bir pekiştirme ilgeci.",
+      "ornek_metin": "üp ürüng: Bembeyaz - saf beyaz",
+      "cekimler": [],
+      "kelime_turu": "edat",
+      "dil_veya_lehce": "Çigil lehçesi",
+      "kaynak_sayfa": "637",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "üpgük",
+      "anlam": "İbibik (çavuşkuşu - hüdhüd).",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Çigil lehçesi",
+      "kaynak_sayfa": "637",
+      "notlar": "bkz. üpüp.",
+      "kontrol_gerekli": false
+    }
+  ]
+}

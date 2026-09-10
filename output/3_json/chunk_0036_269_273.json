@@ -1,0 +1,734 @@
+{
+  "chunk_no": 36,
+  "kaynak_sayfa_baslangic": 269,
+  "kaynak_sayfa_bitis": 273,
+  "kelimeler": [
+    {
+      "kelime": "eşütti",
+      "anlam": "Dörtnala gitmek",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "269",
+      "notlar": "Buradan hareketle eşkinçi: atlı haberci denir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "eşler",
+      "anlam": "Kadın",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "269",
+      "notlar": "Kök-biçimi eş'iler: soylu kadınlar'dır. Sözcük çok sık kullanıldığı için hafifletme amacıyla ye (y) düşmüştür. Bu, teki anlamda kullanılan aslında çoğul bir sözcüktür. Bu adın verilmesine ilişkin uzun bir hikâye vardır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "eştildi",
+      "anlam": "Bu sözler işitildi",
+      "ornek_metin": "bu söz eştildi: Bu sözler başka bir şey de olabilir işitildi.",
+      "cekimler": [
+        "eştilür",
+        "eştilmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "269",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "eştürdi",
+      "anlam": "O, benim iyi sözleri işitmeme izin verdi",
+      "ornek_metin": "ol manga edgü söz eştürdi: O, benim iyi sözleri işitmeme izin verdi.",
+      "cekimler": [
+        "eştürür",
+        "eştürmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "269",
+      "notlar": "Kök-biçimi katmerlenmiş te'yle (t), eşittürdi'dir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "eştürdi",
+      "anlam": "O, toprağın boşaltılmasını emretti",
+      "ornek_metin": "ol qum eştürdi: O, toprağın bir yere boşaltılmasını emretti. Çuvala un koyulmasını emretmeyi anlatmak için de bu sözcük kullanılır.",
+      "cekimler": [
+        "eştürür",
+        "eştürmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "269",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "eşüdi",
+      "anlam": "O, onun üstüne yorgan örttü",
+      "ornek_metin": "ol angar yoğuran eşudi: O, onun üstüne yorgan örttü. Herhangi bir şeyin üzerinin örtülmesini anlatmak için bu sözcük kullanılır.",
+      "cekimler": [
+        "eşûr",
+        "eşûmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "269",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "eşük",
+      "anlam": "Yatak örtüsü",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "269",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "eşük",
+      "anlam": "Bir bey ya da hakan öldüğü zaman, ona duyulan saygının bir işareti olarak mezarının üzerine örtülmesi için yollanan işlemeli kumaş",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "269",
+      "notlar": "Bu kumaşlar daha sonra fakirler arasında paylaştırılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "eşüklük",
+      "anlam": "Eşük yapmak için kullanılan kumaş",
+      "ornek_metin": "eşüklük barçm: eşük yapmak için kullanılan kumaş.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "269",
+      "notlar": "Böylesi bir kumaşa sahip olan kişiyi anlatmak için kef, titreşimli kefe (ince kef-g) dönüşür [eşüklüg].",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "eşüldi",
+      "anlam": "Onun üzerine yorgan örtüldü",
+      "ornek_metin": "anıg üze yogurqân eşüldi: Onun üzerine yorgan örtüldü.",
+      "cekimler": [
+        "eşûlür",
+        "eşülmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "269",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "eşütti",
+      "anlam": "O, başka birine benim üzerime yorgan örtülmesini emretti",
+      "ornek_metin": "ol manga yoğuran eşütti: O, başka birine benim üzerime yorgan örtülmesini emretti. Herhangi biri, başka birine, bir şeyi saklamasını emrettiğinde yine bu sözcük kullanılır.",
+      "cekimler": [
+        "eşütür",
+        "eşütmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "269-270",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "eşyek",
+      "anlam": "Eşek",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "270",
+      "notlar": "Eşgek bir değişik sesletimdir; ye'li biçim [eşyek] bozulmamıştır (fasîh).",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "et",
+      "anlam": "Et",
+      "ornek_metin": "et yer: Yumuşak yer, yumuşak toprak.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "270",
+      "notlar": "Elifte işmâm söz konusudur.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "etek",
+      "anlam": "Etek",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "270",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "eteklendi",
+      "anlam": "Giysiye etek yapıldı",
+      "ornek_metin": "ton eteklendi: Giysiye etek yapıldı.",
+      "cekimler": [
+        "eteklenür",
+        "eteklenmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "270",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "eteklik",
+      "anlam": "Etek yapmak için kullanılan kumaş",
+      "ornek_metin": "eteklik böz: Etek yapmak için kullanılan kumaş. Eger bir giysi özel olarak eteğiyle tanımlanıyorsa, eteklig tön: etekli giysi denir.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "270",
+      "notlar": "Eteklig de denir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "etiç",
+      "anlam": "Çocukların ceviz oyununda hedef olarak kullandıkları çukur",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "270",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "etiçlik",
+      "anlam": "Ceviz oyununda hedef olarak kullanılan çukurun açıldığı yer",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "270",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "etikti",
+      "anlam": "Bebek büyüdü, gelişti",
+      "ornek_metin": "oglân etikti: Bebek büyüdü, gelişti.",
+      "cekimler": [
+        "etiker",
+        "etikmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "270",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "etil",
+      "anlam": "Qıfçâq ülkesinde akan, Bulgar denizine dökülen bir nehrin adı [Volga]",
+      "ornek_metin": "etil suwı aqa turür (Etil nehri akar durur) qaya tüpi qaqa turür (Kayalann dibini döver durur) balîq telim baqa turür (Balıklar bakar durur) kölürig taqı köşemür (Onun taşmasıyla dolup taşan gölcükte)",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Qıfçâq",
+      "kaynak_sayfa": "270",
+      "notlar": "Bir kolu Rûs ülkesi boyunca akar gelir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "etilgen",
+      "anlam": "Benim işim hep iyilikle başarıya ulaşır",
+      "ornek_metin": "menig fşım edgûlükün etilgen ol: Benim işim hep iyilikle başarıya ulaşır.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "270",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "etledi",
+      "anlam": "O, koyunu kesti ve yemeklik et yaptı",
+      "ornek_metin": "ol qöyıg etledi: O, koyunu kesti ve yemeklik et yaptı.",
+      "cekimler": [
+        "etler",
+        "etlemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "270-271",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "etkidi",
+      "anlam": "Koyun kesildi ve yemeklik et yapıldı",
+      "ornek_metin": "qöy etkidi: Koyun kesildi ve yemeklik et yapıldı.",
+      "cekimler": [
+        "etlelür",
+        "etkim ek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "271",
+      "notlar": "Başka canlılar için de kullanılabilir. Kaynakta başlık 'îtleld i' şeklindedir.",
+      "kontrol_gerekli": true
+    },
+    {
+      "kelime": "etlendi",
+      "anlam": "Bebek büyüdü, gelişti",
+      "ornek_metin": "oğul etlendi: Bebek büyüdü, gelişti.",
+      "cekimler": [
+        "etlenür",
+        "etlenmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "271",
+      "notlar": "Zayıfken semiren, büyüyen her şeyi anlatmak için bu sözcük kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "etleşdi",
+      "anlam": "Savaşçılar göğüs göğüze çarpıştı",
+      "ornek_metin": "alplar etleşdi: Savaşçılar göğüs göğüze çarpıştı.",
+      "cekimler": [
+        "etleşür",
+        "elleşmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "271",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "etletti",
+      "anlam": "O, koyunu kestirip yemeklik et yaptırttı",
+      "ornek_metin": "ol qöy etletti: O, koyunu kestirip yemeklik et yaptırttı.",
+      "cekimler": [
+        "etletür",
+        "etletmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "271",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "etlik",
+      "anlam": "Et asmaya yarayan çengel",
+      "ornek_metin": "etlik qöy: etlik koyun",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "271",
+      "notlar": "Kesilmek için hazırlanan koyuna da etlik qöy denir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "etlig",
+      "anlam": "Şişman kimse",
+      "ornek_metin": "etlig kişi: Şişman kimse.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "271",
+      "notlar": "Aynı zamanda ete sahip olan kimseye de etlig kişi denir, kef yine titreşimli kefe (g) dönüşür.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "etmek",
+      "anlam": "Ekmek",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "271",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "etmeklendi",
+      "anlam": "Adamın ekmeği çoğaldı - adam zenginleşti",
+      "ornek_metin": "er etmektendi: Adamın ekmeği çoğaldı - adam zenginleşti.",
+      "cekimler": [
+        "etmeklenür",
+        "etmeklınmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "271",
+      "notlar": "Adlardan türemiş böylesi pek çok eylem vardır. Bu kullanımın Arapçada da benzerleri görülür.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "etrek",
+      "anlam": "Görünüşü sağlıklı (al yanaklı) adam",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Oğuz lehçesi",
+      "kaynak_sayfa": "271",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "etsedi",
+      "anlam": "Adamın canı et istedi",
+      "ornek_metin": "er etsedi: Adamın canı et istedi.",
+      "cekimler": [
+        "etser",
+        "etsemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "271",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "etsetti",
+      "anlam": "O benim et istememe neden oldu",
+      "ornek_metin": "ol meni etsetti: O benim et istememe neden oldu.",
+      "cekimler": [
+        "etsetür",
+        "etsetmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "271-272",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "etti",
+      "anlam": "Cenabı Hak benim işimin başarıya ulaşmasını sağladı",
+      "ornek_metin": "tengri menig işim etti: Cenabı Hak benim işimin başarıya ulaşmasını sağladı.",
+      "cekimler": [
+        "eter",
+        "etmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "272",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "etti",
+      "anlam": "O namaz kıldı",
+      "ornek_metin": "ol yûhünç etti: O namaz kıldı.",
+      "cekimler": [
+        "eter",
+        "etmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "Oğuz lehçesi",
+      "kaynak_sayfa": "272",
+      "notlar": "Oğuzlar yaptıkları herhangi bir şeyi etti: yaptı sözcüğüyle ifade ederler. Diğer Türkler qıldı kullanır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ettürdi",
+      "anlam": "O, benim meselem üzerinde karara varılmasını emretti",
+      "ornek_metin": "ol menig işim ettürdi: O, benim meselem üzerinde karara varılmasını emretti. ol etük ettürdi: O, çizmelerinin onarılmasını emretti.",
+      "cekimler": [
+        "ettürür",
+        "ettürmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "272",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "etük",
+      "anlam": "Çizme",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "272",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "etüklendi",
+      "anlam": "Adam bir çizme edindi",
+      "ornek_metin": "er etüklendi: Adam bir çizme edindi.",
+      "cekimler": [
+        "etüfclenür",
+        "etüklenmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "272",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "etüklük",
+      "anlam": "Çizme yapımında kullanılacak olan deri",
+      "ornek_metin": "etüklük sağrı: Çizme yapımında kullanılacak olan deri.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "272",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "evet",
+      "anlam": "ewet sözcüğünün eşdeğeri",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "belirsiz",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "272",
+      "notlar": "İki eklemleme noktası arasındaki her enin (w) vav’a (v) dönüşebilmesine ilişkin örnekler için bkz. uvut.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ew",
+      "anlam": "Ev",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "272",
+      "notlar": "Elifte (e) işmâm söz konusudur. Kısa biçim bozulmamıştır (ew - fasîh).",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ewdi",
+      "anlam": "Adam acele etti",
+      "ornek_metin": "er evveli: Adam acele etti.",
+      "cekimler": [
+        "ewer",
+        "ewmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "272",
+      "notlar": "Kaynakta madde başı 'er evveli' olarak geçmektedir.",
+      "kontrol_gerekli": true
+    },
+    {
+      "kelime": "ewdi",
+      "anlam": "Adam acele etti",
+      "ornek_metin": "er ewdi: Adam acele etti. udu bârıp üküş ewdim (Onu kovalarken tez davrandım) telim yönp küçi kewdim (Çok koşturup gücünü zayıflattım) atım birle tegü awdım (Ta ki atımla ona yetişene kadar) mini körüp tüsi ağdı (Beni görünce tüyleri ürperdi)",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "272",
+      "notlar": "Bir kurdu avlayışını anlatan dörtlükte de kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "evvdidi",
+      "anlam": "O, inci topladı",
+      "ornek_metin": "ol yinçü ewdidi: O, inci topladı. Aynı zamanda her türlü meyveyi toplamayı anlatmak için de bu sözcük kullanılır.",
+      "cekimler": [
+        "evvd/r",
+        "ewdırmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "272-273",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ewdildi",
+      "anlam": "O şey toplandı",
+      "ornek_metin": "ewdildi neng: O şey toplandı.",
+      "cekimler": [
+        "ewdilür",
+        "evvdilmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "273",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "evvdindi",
+      "anlam": "O, kendisi için meyve topladı",
+      "ornek_metin": "ol özirige yemiş ewdindi: O, kendisi için meyve topladı.",
+      "cekimler": [
+        "evvdinmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "273",
+      "notlar": "evvdindi neng: Bir şeyden geriye kalan kırıntılar; herhangi bir şeyin hasadı kaldırıldıktan sonra toplanan ürün.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ewe",
+      "anlam": "Oğuzların bir kolu",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Oğuz",
+      "kaynak_sayfa": "273",
+      "notlar": "Bkz. yewe ya da yeve.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ewek",
+      "anlam": "Tez canlı, aceleci adam",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "273",
+      "notlar": "Evvek en olarak da geçer.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "eweklik",
+      "anlam": "İvedilik, acele",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "273",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ewet",
+      "anlam": "Peki, tamam anlamına gelen bir ilgeç",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "edat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "273",
+      "notlar": "Bunun üç değişik sesletimi vardır. Yağma, Tuxsı, Qıfçâq ve Oğuz kavinden ewet, geriye kalan Türkler ise em el, evet ya da yemet der.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "evildi",
+      "anlam": "Meseleye dair bir telaş söz konusuydu",
+      "ornek_metin": "îşqa e\nvildi: Meseleye dair bir telaş söz konusuydu.",
+      "cekimler": [
+        "evvilür",
+        "evvilmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "273",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ewin",
+      "anlam": "Tahıl tanesi, tohum",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "273",
+      "notlar": "Evin değişik sesletimidir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ewişdi",
+      "anlam": "Halk bu konuda telaş içindeydi",
+      "ornek_metin": "kişiler işqa ewişdi: Halk bu konuda telaş içindeydi.",
+      "cekimler": [
+        "ewişfir",
+        "ewişmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "273",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "evvlendi",
+      "anlam": "Ay halelendi",
+      "ornek_metin": "ay evvlendi: Ay halelendi.",
+      "cekimler": [
+        "evvlenür",
+        "evvlenmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "273",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "evvlendi",
+      "anlam": "Adam bu evi kendine mesken edindi ve kendini evin sakinlerinden biri saydı",
+      "ornek_metin": "ol bu ewni evvlendi: Adam bu evi kendine mesken edindi ve kendini evin sakinlerinden biri saydı.",
+      "cekimler": [
+        "evvlenür",
+        "evvlenmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "273",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "evvleşti",
+      "anlam": "Bey bahis olarak ortaya bir ev koyarak onunla oynadı",
+      "ornek_metin": "beg (anıg) birle evvleşti oynâp: Bey bahis olarak ortaya bir ev koyarak onunla oynadı.",
+      "cekimler": [
+        "evvleşür",
+        "evvleşmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "273",
+      "notlar": "Bu bir temel-ilkedir; kumarda üzerine bahse girilen şey -leşti sonekiyle birlikte anılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ewren",
+      "anlam": "Demirci ocağı biçiminde yapılan ekmek fırını",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "273",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "evvrüldi",
+      "anlam": "Adam izlediği yoldan çevrildi",
+      "ornek_metin": "er evvrüldi: Adam izlediği yoldan (gittiği yönden) çevrildi.",
+      "cekimler": [
+        "ewrü!ür",
+        "evvrülmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "273",
+      "notlar": "Gittiği doğrultuyu değiştiren herkes için bu sözcük kullanılır.",
+      "kontrol_gerekli": false
+    }
+  ]
+}

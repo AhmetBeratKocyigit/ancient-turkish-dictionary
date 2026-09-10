@@ -1,0 +1,822 @@
+{
+  "chunk_no": 102,
+  "kaynak_sayfa_baslangic": 533,
+  "kaynak_sayfa_bitis": 537,
+  "kelimeler": [
+    {
+      "kelime": "târ",
+      "anlam": "Herhangi bir şeyin dar olma durumu.",
+      "ornek_metin": "târ ew: Dar ev.",
+      "cekimler": [],
+      "kelime_turu": "belirsiz",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "533",
+      "notlar": "Başka şeylerin darlığını anlatmak için de bu sözcük kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tapuzgu",
+      "anlam": "Bilmece.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "belirsiz",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "533",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tapuzgu neng",
+      "anlam": "Bilmece.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "belirsiz",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "533",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tapuzguq",
+      "anlam": "Bilmece.",
+      "ornek_metin": "tapuzguq topuzdum: Ona bir bilmece sordum.",
+      "cekimler": [],
+      "kelime_turu": "belirsiz",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "533",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tapzug",
+      "anlam": "Bilmece.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "belirsiz",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "533",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "taqâgu",
+      "anlam": "Kümes hayvanlarına verilen genel ad.",
+      "ornek_metin": "yazidaqı süvvîm edergeli ewdeki taqdgu ıçgmrna: Kırdaki sülünü avlamaya gittiğinde evdeki tavuğu kaçırma.",
+      "cekimler": [],
+      "kelime_turu": "belirsiz",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "533",
+      "notlar": "Aralarındaki ayrımı belirtmek için “horoz”a erkek taqâgu, “tavuk”a tişi taqâgu denir. Bu atasözü, birine, sahip olmadığı bir şeye ulaşmak için sahip olduğu şeyleri çarçur etmekten vazgeçmesini öğütlemek için kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "taqâgu",
+      "anlam": "Oniki yıllık Türk takviminin yıllarından birinin adı.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "belirsiz",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "533",
+      "notlar": "taqdı başlığı altında kalmış gibi görünse de taqâgu yılı maddesidir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "taqdı",
+      "anlam": "Bir ipi herhangi bir yere bağlamak.",
+      "ornek_metin": "er burunduq butluqa taqdı: Adam yulan devenin burun halkasına bağladı",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "Oğuz lehçesi",
+      "kaynak_sayfa": "533",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "taqâr, taqmdq",
+      "anlam": "Bağlamak anlamındaki taqdı fiilinin çekimleri",
+      "ornek_metin": "",
+      "cekimler": [
+        "taqâr",
+        "taqmdq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "533",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "taqı",
+      "anlam": "Daha, dahi, öteki gibi.",
+      "ornek_metin": "taqı yarm âq ber: Bana bir para daha ver. ol taqı arıda: O dahi orada onlarla birlikte.",
+      "cekimler": [],
+      "kelime_turu": "ilgeç",
+      "dil_veya_lehce": "Oğuz lehçesinde “ile” anlamı da verebilir.",
+      "kaynak_sayfa": "533",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "taqıldı",
+      "anlam": "Et şişe dizildi.",
+      "ornek_metin": "et Slşqa taqildi: Et şişe [başka bir şeye de olabilir) dizildi.",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "533",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "taqılur, taqılmdq",
+      "anlam": "taqıldı fiilinin çekimleri",
+      "ornek_metin": "",
+      "cekimler": [
+        "taqılur",
+        "taqılmdq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "533",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "taqır taqır",
+      "anlam": "Atların toynaklarının çıkardığı tıkır tıkır ses.",
+      "ornek_metin": "at adâqı taqır taqır etti: Atların toynakları [nallan] böylesi bir ses çıkarttı",
+      "cekimler": [],
+      "kelime_turu": "zarf",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "533",
+      "notlar": "Tıkır tıkır ifadesi de kullanılabilir; aynı anlama gelir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "taqturdı",
+      "anlam": "Eti şişe dizdirdi.",
+      "ornek_metin": "et sişqa taqturdı: (O) eti şişe dizdirdi.",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "533",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "taqturur, taqturmâq",
+      "anlam": "taqturdı fiilinin çekimleri",
+      "ornek_metin": "",
+      "cekimler": [
+        "taqturur",
+        "taqturmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "533",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "taquq",
+      "anlam": "Tavuk.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Türkmen lehçesi",
+      "kaynak_sayfa": "533",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "taquqlug",
+      "anlam": "Tavukları olan.",
+      "ornek_metin": "taquqlug er: Tavukları olan adam.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "533",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "taquzmaq",
+      "anlam": "bkz. taguzmaq.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "belirsiz",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "533",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "târ",
+      "anlam": "Sal. Tulumlar şişirilir ve yan yana dizilerek nehrin karşı kıyısına geçmeyi sağlayan taşıt.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Yabâqu ve Tatâr lehçelerinde",
+      "kaynak_sayfa": "534",
+      "notlar": "bkz. sâl. Kamışlardan ya da ağaç dallarından da yapılabilir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "târ",
+      "anlam": "Yağ tortusu. Arıtılmış yağ eritilip süzüldükten sonra kabın dibinde kalan pıhtılaşmış süt.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "534",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "taradı",
+      "anlam": "Saçını taradı / Askerlerini dağıttı, ayrı ayrı yönlere gönderdi.",
+      "ornek_metin": "qlz saçın taradı: Kız saçını taradı. anıg süsin taradı: O askerlerini dağıttı.",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "534",
+      "notlar": "Bunun kök-biçimi tardı [tardı]: bir şeyi ayırmak, dağıtmak, yaymak'tır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tardı",
+      "anlam": "Ayırdı; bir şeyi ayırmak, dağıtmak, yaymak.",
+      "ornek_metin": "",
+      "cekimler": [
+        "tarar",
+        "taradı"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "534",
+      "notlar": "tarar geniş zamanıdır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "taraldı",
+      "anlam": "Saç tarandı.",
+      "ornek_metin": "saç taraldı: Saç tarandı.",
+      "cekimler": [
+        "taralur",
+        "taralm âq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "534",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tarandı",
+      "anlam": "Başkasının yardımı olmaksızın saçını taradı.",
+      "ornek_metin": "ol saçın tarandı: O, başkasının yardımı olmaksızın saçını taradı.",
+      "cekimler": [
+        "tarânur",
+        "taranm âq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "534",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "taraslâdı",
+      "anlam": "Güç kullanarak bir şeyi dağıtan, parçalara ayıran.",
+      "ornek_metin": "alp çerig taraslâdı: Yiğit, düşmanın saflarını yardı, dağıttı; çağrı qözıg taraslâdı: Doğan, kaz sürüsünü dağıttı.",
+      "cekimler": [
+        "taraşlar",
+        "taraslâm âq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "534",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tarhın",
+      "anlam": "Türklerden bir halk taifesi.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Türk",
+      "kaynak_sayfa": "534",
+      "notlar": "Kendileri bir büyüğün emrindedir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tardı",
+      "anlam": "Bey askerini yaydı, dağıttı. Herhangi bir şeyi dağıtmak.",
+      "ornek_metin": "beg süsin târdı: Bey askerini yaydı, dağıttı.",
+      "cekimler": [
+        "târdr",
+        "târm âq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "534",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "targâq",
+      "anlam": "Tarak.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "535",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "targıl",
+      "anlam": "Sırtında siyah beyaz çizgiler bulunan herhangi bir alacalı hayvan.",
+      "ornek_metin": "targılyılqı",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "535",
+      "notlar": "Bu sıfat at dışındaki bütün hayvanlar için kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tarıdı",
+      "anlam": "Tarlayı ekti.",
+      "ornek_metin": "ol tarıg tarid.1: O, tarlayı [başka bir yeri de olabilir) ekti.",
+      "cekimler": [
+        "tarir",
+        "tarîmâtj"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "535",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tarıg",
+      "anlam": "Bütün tahıllara verilen genel ad. (Hemen hemen bütün Türk lehçelerinde buğday, Oğuz lehçesinde darı anlamına gelir).",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Oğuz lehçesi",
+      "kaynak_sayfa": "535",
+      "notlar": "Oğuzlar buğdaya aşhq der. İkinci kullanım yanlıştır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tarıgçı",
+      "anlam": "Çiftçi.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "535",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tarıglâg",
+      "anlam": "Ekili tarla.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "535",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tarıglıg",
+      "anlam": "Ekilmiş bir arazi; tahıl ambarı.",
+      "ornek_metin": "tanglıgyer: Ekilmiş bir arazi; tahıl ambarı.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "535",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tarıglıq",
+      "anlam": "Ambar.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "535",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tarıldı",
+      "anlam": "Tahıl [başka bir şey de olabilir] tarlaya ekildi.",
+      "ornek_metin": "tarıg tanldi: Tahıl tarlaya ekildi.",
+      "cekimler": [
+        "tardur",
+        "tarılmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "535",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tarıldı",
+      "anlam": "Bir şey ayrıldı, dağıldı.",
+      "ornek_metin": "tarıldı neng: Bir şey aynldı, dağıldı.",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "535",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tarım",
+      "anlam": "Bataklıklara ve yutan kum alanlarına dökülen nehir kolları.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "535",
+      "notlar": "Uygur sınırında, Kuça yakınlarında bir yer adı olarak da geçer (üsmi tarım).",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tarımlâdı",
+      "anlam": "Nehri, bir adadan öbür adaya, bir arktan öteki arka giderek geçmek.",
+      "ornek_metin": "ol ögüzni tanmlâdı: O, nehri, bir adadan öbür adaya, bir arktan öteki arka giderek geçti.",
+      "cekimler": [
+        "tarımlar",
+        "tarımlâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "535",
+      "notlar": "Bataklıklardan sakınarak nehrin geçildiğini anlatır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tarımsındı",
+      "anlam": "Tohumu ekiyormuş gibi görünmek, ama gerçekte bunu yapmamak.",
+      "ornek_metin": "ol tarıg tarımsındı: O, tohumu ekiyormuş gibi göründü, ama gerçekte bunu yapmadı.",
+      "cekimler": [
+        "tarımsınür",
+        "tarımsmmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "535",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tarındı",
+      "anlam": "Tarlayı ekiyormuş gibi görünmek / Tarlayı tek başına ekmek.",
+      "ornek_metin": "er tang tarındı: Adam tarlayı ekiyormuş gibi göründü.",
+      "cekimler": [
+        "tarınür",
+        "tarmmdq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "535",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tarıqtı",
+      "anlam": "Oda veya başka bir yer çok dar olmak.",
+      "ornek_metin": "yer tanqti: Oda çok dardı.",
+      "cekimler": [
+        "tarıqâr",
+        "tarıqmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "535",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tarıtgân",
+      "anlam": "Tarlaları sıklıkla ekili olan adam.",
+      "ornek_metin": "bu er ol telim tang tarıtgân: Bu, tarlaları sıklıkla ekili olan bir adamdır.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "536",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tarmaldı",
+      "anlam": "Yüzü tırmalanmak.",
+      "ornek_metin": "antgyüzi tarmaldı: Onun yüzü tırmalandı.",
+      "cekimler": [
+        "tarmoiür",
+        "tarmalmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "536",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tarmâq",
+      "anlam": "Pençe.",
+      "ornek_metin": "qargâq tarmâqı: karga ayağı",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "536",
+      "notlar": "Bir bitkiye de karga ayağı denir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tarmaqlandı",
+      "anlam": "Çadırlarını yan yana kurarak konaklamak / Civcivin tırnakları belirmek / Su kollara ayrılmak.",
+      "ornek_metin": "boy tarmaqlandı: Altkavimler çadırlarını yan yana kurarak konakladılar. bala tarmaqlandı: Civcivin tırnakları belirdi. süw tarmaqlandı: Su kollara ayrıldı.",
+      "cekimler": [
+        "tarmaqlanür",
+        "tarmaqlanmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "536",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tarmaşdı",
+      "anlam": "Birbirlerini tırmalamak.",
+      "ornek_metin": "olar ekki tarmaşdı: Onlar birbirlerini tırmaladılar.",
+      "cekimler": [
+        "tarmaşür",
+        "tarmaşmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "536",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tarmattı",
+      "anlam": "Birinin yüzünün tırmalanmasına neden olmak.",
+      "ornek_metin": "ol anıg yüzin tarmattı: O, onun yüzünü tırmalanmasına neden oldu.",
+      "cekimler": [
+        "tarmatür",
+        "tarmatm âq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "536",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tarmuz",
+      "anlam": "Küçük salatalık.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "536",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tarm ut",
+      "anlam": "Dağlardaki dereler ve vadiler.",
+      "ornek_metin": "tâg tarmut keçtim: Vadileri ve dereleri geçtim.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "536",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tarmutlandı",
+      "anlam": "Su kollara ayrılmak.",
+      "ornek_metin": "sûw tarmutlandı: Su kollara aynldı.",
+      "cekimler": [
+        "tarmutlanür",
+        "tarmutlanmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "536",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tarqa",
+      "anlam": "Koruk. talqa’nın değişik sesletimi.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "536",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tars",
+      "anlam": "bkz. çars çars.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "belirsiz",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "536",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tartar",
+      "anlam": "Kumruya benzeyen bir kuş.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "536",
+      "notlar": "Metinde (turtur [?]) şeklinde şüpheli notu vardır.",
+      "kontrol_gerekli": true
+    },
+    {
+      "kelime": "tartıg",
+      "anlam": "Eyer bağı.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "536",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tartıg",
+      "anlam": "Belli bir meselenin ortaya çıkması nedeniyle Hakanın, toplanması için maiyetine yolladığı çağrı.",
+      "ornek_metin": "begden tartıgçı keldi: Beyden davetçi geldi",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "536",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tartıldı",
+      "anlam": "Para veya başka bir şey tartılmak / İp ya da benzer şeylerin gerilmesi.",
+      "ornek_metin": "yarm âq tartıldı: Para tartıldı.",
+      "cekimler": [
+        "tartılûr",
+        "tartılmdq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "536",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tartın",
+      "anlam": "Bir şefin emri altında bulunan halk kitlesi, maiyet.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "536",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tartın",
+      "anlam": "Erzak.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "537",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tartındı",
+      "anlam": "Çocuğuna aşırı özen göstermek / Evine buğday götürmeye kalkışmak (göçebelerin yerleşik halktan erzak alması).",
+      "ornek_metin": "er oglmga tartındı: Adam çocuğuna aşırı özen gösteriyordu. ol ewhe tang tartındı: O, evine buğday götürmeye kalkıştı.",
+      "cekimler": [
+        "tartınür",
+        "tartınmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "537",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tartışdı",
+      "anlam": "İp germekte yardım etmek / Bir şeyin parçaları birbirini çekmek / Yayın ipini gerip çekmekte boy ölçüşmek / Altın tartmakta yardım etmek.",
+      "ornek_metin": "ol manga uruq tartışdı: O, bana ip germekte yardım etti. ol menig birle y a tartışdı: O, benimle yayın ipini gerip çekmekte boy ölçüştü. ol manga altün tartışdı: O bana altın tartmakta yardım etti.",
+      "cekimler": [
+        "tartışür",
+        "tartışmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "537",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tarttı",
+      "anlam": "Para tartmak / İpi çekmek, germek / Kendine erzak edinmek / Çizmelerini çıkartmak.",
+      "ornek_metin": "ol yarm âq tarttı: O, para tarttı. ol yip tarttı: O, ipi çekti, gerdi. ol tartın tarttı: O, kendine erzak edindi. ol etükin tarttı: O, çizmelerini çıkarttı. sûvv körmeginçe etük tartm a: Suyu görmeden çizmelerini çıkartma.",
+      "cekimler": [
+        "tartar",
+        "tartmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "537",
+      "notlar": "Suyu görmeden çizmelerini çıkartma atasözü birine acelecilikten kaçınmasını ve dikkatli davranmasını öğütlemek için kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tartuq",
+      "anlam": "Yağma ülkesindeki bir kentin adı.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "537",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tarüdı",
+      "anlam": "Ev çok dar olmak / Canı sıkkın ve kederli olmak.",
+      "ornek_metin": "evv tarüdı: Ev çok dardı. er buşdı tarüdı: Adamın canı sıkkındı ve kederliydi.",
+      "cekimler": [
+        "tarür",
+        "tarümâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "537",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tarundı",
+      "anlam": "Bu mesele nedeniyle kederli ve kızgın olmak.",
+      "ornek_metin": "er işta buştı tarundı: Adam bu mesele nedeniyle kederli ve kızgındı.",
+      "cekimler": [
+        "tarünur",
+        "tarunmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "537",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tarus",
+      "anlam": "Çatı.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "537",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "taruslâdı",
+      "anlam": "Evine çatı yapmak.",
+      "ornek_metin": "ol evv in taruslâdı: O, evine çatı yaptı.",
+      "cekimler": [
+        "tarusldr",
+        "taruslâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "537",
+      "notlar": "",
+      "kontrol_gerekli": false
+    }
+  ]
+}

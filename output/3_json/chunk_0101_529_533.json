@@ -1,0 +1,788 @@
+{
+  "chunk_no": 101,
+  "kaynak_sayfa_baslangic": 529,
+  "kaynak_sayfa_bitis": 533,
+  "kelimeler": [
+    {
+      "kelime": "tarig",
+      "anlam": "Esas kısmı yıkılmış, ama temelleri hâlâ duran, kadim zamanlardan kalmış her türlü yapı; örneğin bir höyük ya da orada bir kalenin temelleri olduğu anlaşılan toprak yığınları, yükseltiler",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "529",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tarig etti",
+      "anlam": "Ağır bir nesne katı bir şeyin üzerine düştüğünde böylesi bir ses çıkarttı",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "529",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tarigıl keyik",
+      "anlam": "Önayaklarında çizgiler bulunan ceylan",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "529",
+      "notlar": "Başka bir hayvan da olabilir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tarigıldı baş",
+      "anlam": "Adam kuşakla başını sardı - Baş bağlandı. İple bağlanan herhangi bir şeyi anlatmak için bu sözcük kullanılır.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "529",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "öpke tarigızdı",
+      "anlam": "Ciğer şişti",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "529",
+      "notlar": "Ciğer pişirilirken üzerine sirke ve hardal dökülür ve ciğer şişer.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tarig neng",
+      "anlam": "Şaşılacak, olağanüstü bir şey",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "529",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "târig kördüm",
+      "anlam": "Bir mucizeye şahit oldum",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "529",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tarig",
+      "anlam": "Tan; şafak",
+      "ornek_metin": "tarig ata yortalım / budraç qamn irtelim / Basmil beyini yakalım / basmil begin örtelim / amdı yiğit yumdsurı / tarig. Şafak söktüğünde yola koyulalım / Budraç’ın [Yabâqu kavminin şefi] kanının hesabını soralım / Şimdi yiğitler taburlannda toplaşsın",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "529",
+      "notlar": "Şu dörtlükte de kullanılır",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tarig attı",
+      "anlam": "Şafak söktü",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "529",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tarig torig",
+      "anlam": "Toprak yığınları, yükseltiler",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "529",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tarigân",
+      "anlam": "Başı beyaz bir karga",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "529",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tarigdı",
+      "anlam": "O, onun başına kuşak bağladı",
+      "ornek_metin": "ol anıg başın tarigdı: O, onun başına kuşak bağladı.",
+      "cekimler": [
+        "tarigâr",
+        "tarigmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "529",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tarigıl",
+      "anlam": "İple ya da başka bir şeyle sıkıca bağlanan herhangi bir şeyi anlatmak",
+      "ornek_metin": "",
+      "cekimler": [
+        "tarigılür",
+        "tarigılmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "529",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tarigmdı",
+      "anlam": "Adam kendi başına kuşak bağladı",
+      "ornek_metin": "er başın tarigmdı: Adam kendi başına kuşak bağladı.",
+      "cekimler": [
+        "tarigınür",
+        "tangınmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "529",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tarigızdı",
+      "anlam": "Adam öfkeyle kabardı",
+      "ornek_metin": "er öpkesinde tangızdı: Adam öfkeyle kabardı.",
+      "cekimler": [
+        "tangızar",
+        "tangızmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "529",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tariglâdı",
+      "anlam": "Adam (belli bir) meselede şaşkınlık içinde kaldı",
+      "ornek_metin": "er işıg tariglâdı: Adam (belli bir) meselede şaşkınlık içinde kaldı.",
+      "cekimler": [
+        "tariglâr",
+        "tariglâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "530",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tanglaşdı",
+      "anlam": "Halk bu işe şaşırdı",
+      "ornek_metin": "kişiler bu işıg tanglaşdı: Halk bu işe şaşırdı. ördi bulıt ırigraşu / Bulut yükseldi gürleyerek / aqtı aqm mürigreşü / Aktı seller çağıldayarak ve inleyerek / qaldı bodun tanglaşu / Halk kala kaldı hayret ederek / kökrər taqı manraşür / O, şimşekler çaktırıp gürültüler koparırken",
+      "cekimler": [
+        "tariglaşür",
+        "tariğlaşmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "530",
+      "notlar": "Yağmuru anlatıyor",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tanglattı",
+      "anlam": "O, beni şaşırttı",
+      "ornek_metin": "ol meni tariglattı: O, beni şaşırttı.",
+      "cekimler": [
+        "tanglatür",
+        "tariglatmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "530",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tangsuq",
+      "anlam": "Hayret verici ya da alışılmışın dışında olan herhangi bir şey",
+      "ornek_metin": "tangsuq neng: Hayret verici ya da alışılmışın dışında olan herhangi bir şey.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "530",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tarigsuq aş",
+      "anlam": "Ender bulunan bir lezzete sahip yiyecek",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "530",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tariguq",
+      "anlam": "Sefere ya da benzer bir akma çıkan Hakan’a takdim edilen, süslü ipek kumaşlar ya da yiyeceklerden oluşan armağan",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "530",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tarfguq",
+      "anlam": "Çevgen oyununda bir sayı kaydeden kimseye verilen ipek kumaş parçası",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "530",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tanguq",
+      "anlam": "Savaş sırasında mızrakların uçlarına ve sancaklara kakılan ipek kumaş",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "530",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tarigut",
+      "anlam": "Bir Türk kavminin adı",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "530",
+      "notlar": "Çin yakınlarında otururlar, ancak kökenlerinin Arap olduğunu iddia ederler [metindeki bu cümle ve kökenimiz (yani Türklerin kökeni) Arap derler” biçiminde de okunabilir -çn ]",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tap",
+      "anlam": "Yeterli, kâfi",
+      "ornek_metin": "bu aş manga tap: Bu yemek benim için yeterli. tap boldt: Kâfi.",
+      "cekimler": [],
+      "kelime_turu": "ilgeç",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "530",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tap",
+      "anlam": "Bir yaranın ya da sert bir darbenin deride bıraktığı hasarın izi",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "530",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tâp tüp",
+      "anlam": "Her yandan, hızla vurma durumu",
+      "ornek_metin": "ol anı tâp tüp urdı: O, ona her yandan, hızla vurdu",
+      "cekimler": [],
+      "kelime_turu": "zarf",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "530",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tapa",
+      "anlam": "\"-e doğru\"",
+      "ornek_metin": "menig tapa keldi: O, bana doğru geldi",
+      "cekimler": [],
+      "kelime_turu": "ilgeç",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "530",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tapası",
+      "anlam": "Bir eylemi “onun inadına, ona rağmen” gerçekleştirmek",
+      "ornek_metin": "ol anıg tapâsı qıldı: O, ona rağmen [onun inadına, bir şey] yaptı.",
+      "cekimler": [],
+      "kelime_turu": "ilgeç",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "530",
+      "notlar": "Onun sevmediği bir şey yaptı anlamına gelir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tapaladı",
+      "anlam": "O, ona sitem etti ve onun hezimetinden keyif aldı",
+      "ornek_metin": "ol an tapaladı : O, ona sitem etti ve onun hezimetinden keyif aldı.",
+      "cekimler": [
+        "tapalar",
+        "tapâlâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "531",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tapar",
+      "anlam": "Qıfçâq Hakanlarından inâl öz’ün iki oğluna verilen ad",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "531",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tapâru",
+      "anlam": "Bana yaklaştı / benim yanıma doğru geldi",
+      "ornek_metin": "ol menig tapâru keldi: O, bana yaklaştı - O, benim yanıma doğru geldi; d anıg tapâru bardı: O, onun yanına doğru gitti.",
+      "cekimler": [],
+      "kelime_turu": "ilgeç",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "531",
+      "notlar": "tapa, “-e doğru” anlamına gelen bir ilgeçtir. re (r) ve vav (u) yazaç artarımı sonucu eklenmiştir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tapçân",
+      "anlam": "Üzerinde ayakta durulan, şeklen sofraya benzeyen, üç ayaklı bir nesne",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "531",
+      "notlar": "Başka türlü erişilemeyen üzüm salkımlarına ulaşıp, onları toplamak için kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tapçang",
+      "anlam": "Sofra biçiminde, üç ayaklı bir nesne",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "531",
+      "notlar": "Bağ bekçisi üzümleri toplarken yukarıdaki salkımlara ulaşmak için bunun üzerine çıkar. Ana madde olarak bu sözcük, sözlükte iki kez yer almaktadır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tapçurdum (tapşurdum)",
+      "anlam": "Ben, çocuğu anasına bıraktım [teslim ettim]",
+      "ornek_metin": "men ogulnı anâsınga tapçurdum: Ben, çocuğu anasına bırakbm [teslim ettim].",
+      "cekimler": [
+        "tapçurur",
+        "tapçurmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "531",
+      "notlar": "Buradaki cim'in (ç) kökü şın’dır [tapşur-]. Başka birini anlatmak için de kullanılabilir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tapdı",
+      "anlam": "Kul, Cenab-ı Hakk'a taptı",
+      "ornek_metin": "qul tengrike tapdı: Kul, Cenab-ı Makk'a taptı. ol xânqa tapdı: O, Hakana [başka birine de olabilir] hizmet etti. ol nengni tapdı: O, kayıp olan bir şeyi buldu.",
+      "cekimler": [
+        "tapar",
+        "tapmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "531",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tapı",
+      "anlam": "Rıza; memnuniyet; ikna olma",
+      "ornek_metin": "bu îşta angıg tapısı kerek : Bu işte onun nzası gerek. bâdı tapı er: Orta boylu bir adam",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "531",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tapıldı",
+      "anlam": "Saklı olan nesne bulundu",
+      "ornek_metin": "tapıldı neng: Saklı olan nesne bulundu.",
+      "cekimler": [
+        "taplür",
+        "tapılmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "531",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tapındı",
+      "anlam": "Cenab-ı Hakka tapındım ve O'nun emirlerine uydum / beye hizmet etti",
+      "ornek_metin": "men tengrike tapındım: Cenab-ı Hakka tapındım ve O'nun emirlerine uydum. ol begke tapındı: O, beye hizmet etti. öğren anıg biligin künde angâr bâru / qotqılıqm tapmgıl qodgıl küwez nâru / Her gün yanına giderek ondan bilgelik öğren / Gururu bir yana bırak ve alçakgönüllülükle ona hizmet et",
+      "cekimler": [
+        "tapmûr",
+        "tapmmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "531-532",
+      "notlar": "Oğluna hafifçe çıkışarak diyor ki, eger bilge ve bilgili bir adamla tanışırsan...",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tapış",
+      "anlam": "İki adam arasındaki karşılıklı güven (bu güvenin bir neticesi olan birbirlerine vekâlet etme durumu)",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "532",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "taplâdı",
+      "anlam": "O, giysiyi [başka bir şeyi de olabilir] kabul etti ve giymeye razı oldu",
+      "ornek_metin": "ol tönug taplâdı : O, giysiyi [başka bir şeyi de olabilir] kabul etti ve giymeye razı oldu.",
+      "cekimler": [
+        "taplâr",
+        "taplâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "532",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "taplâg",
+      "anlam": "Bir şeye razı olmak",
+      "ornek_metin": "bu işda senig taplâgırig bâr mu: Bu işte senin rızan var rriı?",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "532",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "taplaşdılâr",
+      "anlam": "Hepsi bu işe razı oldu",
+      "ornek_metin": "olâr bu işıg qamug taplaşdılâr: Hepsi bu işe razı oldu.",
+      "cekimler": [
+        "taplaşür",
+        "taplaşmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "532",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "taplattım",
+      "anlam": "Ben onu bu işe razı ettim",
+      "ornek_metin": "men anı bu işqa taplattım: Ben onu bu işe razı ettim.",
+      "cekimler": [
+        "taplatür men",
+        "taplatmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "532",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tapridı",
+      "anlam": "Deve sıçradı",
+      "ornek_metin": "tewe tapridı: Deve sıçradı.",
+      "cekimler": [
+        "taprir",
+        "taprimâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "532",
+      "notlar": "Bu sözcük yalnızca devenin sıçramasını anlatmak için kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "taprışdı",
+      "anlam": "Develer sıçradı",
+      "ornek_metin": "tewe qamug taprışdı: Develer sıçradı.",
+      "cekimler": [
+        "taprışür",
+        "taprışmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "532",
+      "notlar": "Bu sözcük özellikle develer için kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "taprıttı",
+      "anlam": "Adam [başka biri de olabilir] devesini sıçrattı",
+      "ornek_metin": "er tewesin taprıttı: Adam [başka biri de olabilir] devesini sıçrattı.",
+      "cekimler": [
+        "taprıtür",
+        "taprıtmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "532",
+      "notlar": "Bu sözcük yalnızca develer için kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tapşurdum",
+      "anlam": "bkz. tapçurdum",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "belirsiz",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "532",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tapug",
+      "anlam": "Hizmet / Tapma / İbadet etme",
+      "ornek_metin": "tengri tapugı: Allah’a (Onun büyüklüğü artsın) ibadet etme",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "532",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tapuglug",
+      "anlam": "Bir kişiye uzun zamandır hizmet eden adam",
+      "ornek_metin": "tapuğlug er: Bir kişiye uzun zamandır hizmet eden adam",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "532",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tapuzdı",
+      "anlam": "O, bana bir bilmece sordu",
+      "ornek_metin": "ol manga söz tapuzdı: O, bana bir bilmece sordu.",
+      "cekimler": [
+        "tapuzur",
+        "tapuzmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "532",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tapuzgu",
+      "anlam": "Bilmece",
+      "ornek_metin": "tapuzgu neng: Bilmece.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "533",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tapuzguq",
+      "anlam": "Bilmece",
+      "ornek_metin": "tapuzguq topuzdum: Ona bir bilmece sordum.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "533",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tapzug",
+      "anlam": "Bilmece",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "533",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "taqâgu",
+      "anlam": "Kümes hayvanlarına verilen genel ad",
+      "ornek_metin": "yazidaqı süvvîm edergeli ewdeki taqdgu ıçgmrna: Kırdaki sülünü avlamaya gittiğinde evdeki tavuğu kaçırma.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "533",
+      "notlar": "Aralarındaki ayrımı belirtmek için “horoz”a erkek taqâgu, “tavuk”a tişi taqâgu denir. Bu atasözü, birine, sahip olmadığı bir şeye ulaşmak için sahip olduğu şeyleri çarçur etmekten vazgeçmesini öğütlemek için kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "taqâgu yılı",
+      "anlam": "Oniki yıllık Türk takviminin yıllarından birinin adı",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "533",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "taqdı",
+      "anlam": "Adam yulan devenin burun halkasına bağladı",
+      "ornek_metin": "er burunduq butluqa taqdı: Adam yulan devenin burun halkasına bağladı (Oğuz lehçesi).",
+      "cekimler": [
+        "taqâr",
+        "taqmdq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "Oğuz",
+      "kaynak_sayfa": "533",
+      "notlar": "Bir ipi herhangi bir yere bağlamayı anlatmak için bu sözcük kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "taqı",
+      "anlam": "“Daha, dahi, öteki gibi (eyzan)\" anlamları veren bir ilgeç",
+      "ornek_metin": "taqı yarm âq ber: Bana [öteki gibi] bir para daha ver. ol taqı arıda: O dahi orada onlarla birlikte.",
+      "cekimler": [],
+      "kelime_turu": "ilgeç",
+      "dil_veya_lehce": "Oğuz",
+      "kaynak_sayfa": "533",
+      "notlar": "Oğuz lehçesinde “ile” anlamı da verebilir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "taqıldı",
+      "anlam": "Et şişe [başka bir şeye de olabilir] dizildi",
+      "ornek_metin": "et Slşqa taqildi: Et şişe [başka bir şeye de olabilir) dizildi.",
+      "cekimler": [
+        "taqılur",
+        "taqılmdq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "533",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "taqır taqır",
+      "anlam": "Atların toynakları [nalları] böylesi bir ses çıkarttı",
+      "ornek_metin": "at adâqı taqır taqır etti: Atların toynakları [nallan] böylesi bir ses çıkarttı",
+      "cekimler": [],
+      "kelime_turu": "zarf",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "533",
+      "notlar": "tıkır tıkır ifadesi de kullanılabilir; aynı anlama gelir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "taqturdı",
+      "anlam": "(O) eti şişe dizdirdi",
+      "ornek_metin": "et sişqa taqturdı: (O) eti şişe dizdirdi.",
+      "cekimler": [
+        "taqturur",
+        "taqturmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "533",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "taquq",
+      "anlam": "Tavuk",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Türkmen",
+      "kaynak_sayfa": "533",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "taquqlug",
+      "anlam": "Tavukları olan adam",
+      "ornek_metin": "taquqlug er: Tavukları olan adam.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "533",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "taquzmaq",
+      "anlam": "bkz. taguzmaq",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "belirsiz",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "533",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "târ",
+      "anlam": "Herhangi bir şeyin dar olma durumu",
+      "ornek_metin": "târ ew: Dar ev.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "533",
+      "notlar": "Başka şeylerin darlığını anlatmak için de bu sözcük kullanılır.",
+      "kontrol_gerekli": false
+    }
+  ]
+}

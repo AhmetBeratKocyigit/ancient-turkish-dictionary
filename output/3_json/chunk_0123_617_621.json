@@ -1,0 +1,675 @@
+{
+  "chunk_no": 123,
+  "kaynak_sayfa_baslangic": 617,
+  "kaynak_sayfa_bitis": 621,
+  "kelimeler": [
+    {
+      "kelime": "ugurlug",
+      "anlam": "Uğratmak, yönlendirmek.",
+      "ornek_metin": "ol meni işqa uğrattı: O, beni işe yönlendirdi.",
+      "cekimler": [
+        "ugratur",
+        "uğratmâq"
+      ],
+      "kelime_turu": "belirsiz",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "617",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "uguq",
+      "anlam": "Çizme.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "617",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "uğur",
+      "anlam": "İmkân; fırsat; bir işin gerçekleşmesinin olanaklı olması.",
+      "ornek_metin": "bu iş ugurlug boldı: Bu işin gerçekleşmesi mümkün hale geldi",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "617",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "uğur",
+      "anlam": "Bir şeye karşılık olarak alınan armağan (ivâz).",
+      "ornek_metin": "atqa uğur aldım: Ata karşılık (bir şey) aldım",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Oğuz lehçesi",
+      "kaynak_sayfa": "617",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "uğur",
+      "anlam": "Zaman; vakit.",
+      "ornek_metin": "ne uğurda keldıng: Ne zaman geldin?",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "617",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "uğur",
+      "anlam": "Saltanat, devlet.",
+      "ornek_metin": "beg ugurinda menig işim etildi: Benim işlerim beyin saltanatı sırasında refaha kavuştu",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "617",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "uğur",
+      "anlam": "Hayır ve bereket.",
+      "ornek_metin": "yöl uğur bolsün: yolun uğurlu olsun denir.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Oğuz lehçesi",
+      "kaynak_sayfa": "617",
+      "notlar": "Bu ifade yalnızca bir yolculuk söz konusu olduğunda kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "uğurladı",
+      "anlam": "Adam işi erteleyip hemen icra etmeyip bekledi ve sonra tam zamanında gerçekleştirdi. Malları çaldı.",
+      "ornek_metin": "er işin uğurladı: Adam işi erteledi [hemen icra etmeyip bekledi] ve sonra tam zamanında gerçekleştirildi. er tawâr ogurlâdı: adam mallan çaldı",
+      "cekimler": [
+        "uğurlar",
+        "ugurlâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "617",
+      "notlar": "Buradan hareketle er tawâr ogurlâdı denir, çünkü bu eylemi icra etmek için doğru zaman beklenmiş ve fırsat kollanmıştır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "uğurlandı",
+      "anlam": "Bir şeyin vakti geldi, icra edilmesi için doğru zaman geldi. Yol uğurlu oldu. Ata karşılık olarak bir şey verildi.",
+      "ornek_metin": "uğurlandı neng: Bir şeyin vakti geldi - icra edilmesi için doğru zaman geldi. yöl uğurlandı: Yol uğurlu [mübarek] oldu. at uğurlandı: (Armağan edilen) ata karşılık olarak bir şey verildi",
+      "cekimler": [
+        "ugurlanur",
+        "ugurlanmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "617",
+      "notlar": "at uğurlandı maddesi için Oğuz lehçesi belirtilmiştir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ugurlug",
+      "anlam": "Tam zamanında yapılan, münasip iş.",
+      "ornek_metin": "ugurlug iş: Tam zamanında yapılan [münasip] iş.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "617",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ugut",
+      "anlam": "Bira yapımında kullanılan bir maya.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "618",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ül",
+      "anlam": "Her türlü duvarın temeli.",
+      "ornek_metin": "tâm ülı: Duvar temeli.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "618",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ula",
+      "anlam": "Bozkırda yol bulmayı sağlayan bir işaret.",
+      "ornek_metin": "ula bolsa yöl azmâs bilig bolsa söz yazmâs: Bozkırda işaret (İrem) varsa yol şaşırtmaz, kişi de akıl varsa sözünde yanılmaz",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "618",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ulâdı",
+      "anlam": "İpin iki ucunu birleştirdi. Hısımlık, akrabalık bağlarını güçlendirdi.",
+      "ornek_metin": "ol yıp ulâdı: O, ipin iki ucunu birleştirdi. ol yaguq ulâdı: O, hısımlık, akrabalık bağlarını güçlendirdi.",
+      "cekimler": [
+        "ulâr",
+        "ulâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "618",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ulâg",
+      "anlam": "Beyin emriyle bir habercinin hizmetine koşulan ve habercinin böylesi başka bir ata ulaşana kadar bindiği at.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "618",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ulâg",
+      "anlam": "Giysi yaması.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "618",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ulâgu",
+      "anlam": "Bir şeyi onarmakta kullanılan herhangi bir şey, örneğin giysi yaması.",
+      "ornek_metin": "ulâgu nerig: Bir şeyi onarmakta kullanılan herhangi bir şey, örneğin giysi yaması",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "618",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ulandı",
+      "anlam": "Bir şey, başka bir şeyle birleştirildi.",
+      "ornek_metin": "ulandı neng: Bir şey, başka bir şeyle birleştirildi",
+      "cekimler": [
+        "ulânur",
+        "ulanmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "618",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ulâr",
+      "anlam": "Keklik.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "618",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ularlıg",
+      "anlam": "Kekliği çok olan dağ.",
+      "ornek_metin": "ularlıg tâg: Kekliği çok olan dağ.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "618",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ulaşdı",
+      "anlam": "Bir şey başka bir şeyle birleşti, buluştu.",
+      "ornek_metin": "bir neng bırke ulaşdı: Bir şey başka bir şeyle birleşti, buluştu.",
+      "cekimler": [
+        "ulaşür",
+        "ulaşmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "618",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ülattı",
+      "anlam": "Kendisine ip bağlattı.",
+      "ornek_metin": "ol yıp ulattı: O, kendisine ip bağlattı.",
+      "cekimler": [
+        "ülatur",
+        "ülatmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "618",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "uldang",
+      "anlam": "Çarık tabanı.",
+      "ornek_metin": "ıtqa uvvut ifsa uldarig yemes: Köpeğe edepli olma döve döve öğretilse, çarığın tabanını ısırmaz.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "618",
+      "notlar": "Bu atasözü, birine tevazu göstermesini öğütlemek için kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ulgattı",
+      "anlam": "Bebek büyüdü.",
+      "ornek_metin": "oğlan ulgattı: Bebek büyüdü.",
+      "cekimler": [
+        "ulgatur",
+        "ulgatmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "618-619",
+      "notlar": "Kök-biçimi ulgâdtı’dır; benzeşime maruz kalmıştır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ulîdı",
+      "anlam": "Kurt uludu. Geceleyin korkunç bir biçimde havlayan köpeği ya da şiddetli bir acıya katlanan ve kurt uluması gibi inleyen bir adamı anlatmak için de kullanılır.",
+      "ornek_metin": "böri ulîdı: Kurt uludu. böri ulfsa ewde ıt bağrı tartışûr: Bozkırda kurt ulusa, evde köpeğin ciğeri sızlar.",
+      "cekimler": [
+        "ulîr",
+        "ulîmaq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "619",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ulîgu",
+      "anlam": "Kurdun uluyacağı zaman.",
+      "ornek_metin": "bu uğur ol böri ulîgu: Bu, kurdun uluyacağı zamandır",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "619",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ulınç",
+      "anlam": "Dolambaçlı yol, kıvrımlı yol.",
+      "ornek_metin": "ulınçyöl: Dolambaçlı yol.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "619",
+      "notlar": "Ana madde olarak bu sözcük sözlükte iki kez yer almaktadır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ulındı",
+      "anlam": "Yol kıvrıldı. Ağaca dolanan ip ya da kıvrılan yılan gibi sarılan ve bükülen herhangi bir şey.",
+      "ornek_metin": "yol ulındı: Yol kıvrıldı. ulındı nerig: Ağaca dolanan ip ya da kıvrılan yılan gibi sarılan ve bükülen herhangi bir şey.",
+      "cekimler": [
+        "ulnur",
+        "ulınmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "619",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ulışdı",
+      "anlam": "Bütün kurtlar (başka hayvanlar da olabilir) uludu.",
+      "ornek_metin": "böri barça ulışdı: Bütün kurtlar uludu.",
+      "cekimler": [
+        "ulışur",
+        "ulışmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "619",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ulıtgân",
+      "anlam": "Sık sık köpeğini havlatan adam.",
+      "ornek_metin": "bu er ol ıtın ulıtgân: Bu sık sık köpeğini havlatan bir adamdır.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "619",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ülıttı",
+      "anlam": "Onu, yediği dayak nedeniyle inleyene dek dövdü.",
+      "ornek_metin": "ol anı urup ülıttı: O, onu, yediği dayak nedeniyle (kurt uluması gibi) inleyene dek dövdü.",
+      "cekimler": [
+        "ûlıtur",
+        "ülttmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "619-620",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ülıttı",
+      "anlam": "Onun boynunu büktürdü.",
+      "ornek_metin": "ol anıg boynm ülıttı: O, onun boynunu [başka bir şeyi de olabilir] büktürdü",
+      "cekimler": [
+        "ûlıtur",
+        "ûlıtmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "620",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ulnattı",
+      "anlam": "Okunun gövdesinin eğriliğini, oku ters çevirerek giderdi.",
+      "ornek_metin": "ol oqın ulnattı: O, okunun gövdesinin eğriliğini, oku ters çevirerek [başı ile çentiğinin yerini değiştirerek] giderdi.",
+      "cekimler": [
+        "ulnatur",
+        "ulnatmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "620",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ulug",
+      "anlam": "Büyük olan herhangi bir şey.",
+      "ornek_metin": "uluglüqug bulsa sen edgü qılm / bolgil kişig begler katınyaxşı ülân: Büyük itibar ve etki sahibi olduğunda doğru davran",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "620",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "uluglâdı",
+      "anlam": "Cenab-ı Hak bana şan vererek beni mübarek kıldı. Bey beni ulu saydı.",
+      "ornek_metin": "tengri meni uluglâdı: Cenab-ı Hak bana şan vererek beni mübarek kıldı. beg meni uluglâdı: Bey beni ulu saydı.",
+      "cekimler": [
+        "uluglâr",
+        "uluglâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "620",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ulugluq",
+      "anlam": "Büyüklük; şeref.",
+      "ornek_metin": "ulugluq tengrike: Büyüklük Allah’a mahsustur.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "620",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ulugluq",
+      "anlam": "Yaşça büyük olma durumu.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "620",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ulugsâdı",
+      "anlam": "Adam atın büyük olanını istedi. Büyük olan herhangi bir şey için kullanılır.",
+      "ornek_metin": "er atta ulugsâdı: Adam atın büyük olanını istedi.",
+      "cekimler": [
+        "ulugsâr",
+        "ulugsâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "620",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ulun",
+      "anlam": "Okun gövdesi, temrensiz kısmı.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "620",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ulunlug",
+      "anlam": "Ok gövdesine sahip olan kimse.",
+      "ornek_metin": "ulunlug er: Ok gövdesine sahip olan kimse.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "620",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "uluq",
+      "anlam": "Yağır; atın iki omzu arasındaki bölge.",
+      "ornek_metin": "uluq yagn ogülqa qalîr: Yağırdaki yara oğula (miras olarak) kalır.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "620",
+      "notlar": "Bu söz konusu bölge kirişlerin ve eklemlerin birleşme yeri olduğu için böylesi bir yaranın kolay iyileşmeyeceği anlamına gelir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "uluş",
+      "anlam": "Köy.",
+      "ornek_metin": "Balâsâgün kentine qüz ülüş denir.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Çigil lehçesi",
+      "kaynak_sayfa": "620-621",
+      "notlar": "Balâsâgün ve komşusu olan Argu ülkesinin halkının lehçesinde \"kent\" demektir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ulyân",
+      "anlam": "Bir bitkinin güzel kokan ve yenebilen kökü.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "621",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "uma",
+      "anlam": "Anne.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Tübüt lehçesi",
+      "kaynak_sayfa": "621",
+      "notlar": "Bu, onların dilindeki Arapçadan kalma sözcüklerden biridir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "umây",
+      "anlam": "Doğum yaptıktan sonra kadının rahminden çıkan şey, plasenta, çocuğun rahimdeki eşi.",
+      "ornek_metin": "umâyqa tapınsa oğul bulür: umâya tapan kimse çocuk sahibi olur.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "621",
+      "notlar": "Kadınlar bunu iyi bir alamet olarak kabul eder.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "umdı",
+      "anlam": "O, benden bir şey istedi.",
+      "ornek_metin": "ol mendin neng umdı: O, benden bir şey istedi.",
+      "cekimler": [
+        "umar",
+        "ummöq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "621",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "umdu",
+      "anlam": "İmrenmek; yalvararak istemek.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "621",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "umdücı",
+      "anlam": "Dilenci.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "621",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "umunç",
+      "anlam": "Umut.",
+      "ornek_metin": "umunç tengrıke tut: Umudun Allah'tan olsun.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "621",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "umundum",
+      "anlam": "Ben umudumu Allah'a bağladım.",
+      "ornek_metin": "men tengridin umundum: Ben umudumu Allah'a bağladım.",
+      "cekimler": [
+        "umnur",
+        "umunmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "621",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ün",
+      "anlam": "Un.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "621",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "unâdı",
+      "anlam": "O, bu işe razı oldu; kabul etti ve rıza gösterdi.",
+      "ornek_metin": "ol bu işıg unâdı: O, bu işe razı oldu; sen unâdıng mu: Sen kabul ettin ve rıza gösterdin mi?",
+      "cekimler": [
+        "unâr",
+        "unâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "621",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "unaşdilâr",
+      "anlam": "Onlar bu meselede uzlaştı.",
+      "ornek_metin": "bu ışıg olâr qamug unaşdilâr: Onlar bu meselede uzlaştı.",
+      "cekimler": [
+        "unâşürlâr",
+        "unaşmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "621",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "unattı",
+      "anlam": "Memnun olmadı, ama o beni işe razı etti.",
+      "ornek_metin": "men unâmâs erdim ol mini unattı: Ben bu işten memnun olmadım, ama o beni işe razı etti.",
+      "cekimler": [
+        "unâtur",
+        "unatmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "621",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "unıtgân",
+      "anlam": "Bu adam sık sık sözünü unutur.",
+      "ornek_metin": "bu er ol söz unıtgân: Bu adam sık sık sözünü unutur.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "621",
+      "notlar": "",
+      "kontrol_gerekli": false
+    }
+  ]
+}

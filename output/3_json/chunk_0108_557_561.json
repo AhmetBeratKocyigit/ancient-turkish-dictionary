@@ -1,0 +1,697 @@
+{
+  "chunk_no": 108,
+  "kaynak_sayfa_baslangic": 557,
+  "kaynak_sayfa_bitis": 561,
+  "kelimeler": [
+    {
+      "kelime": "teşik",
+      "anlam": "Obur; karnı doymasına karşın gözü doymayan kimse",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "557",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "teşildi",
+      "anlam": "Şarap tulumu yarıldı",
+      "ornek_metin": "qâp teşildi: Şarap tulumu yarıldı.",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "557",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "teşilmek",
+      "anlam": "Delinmek, yarılmak",
+      "ornek_metin": "qânı aqıp yuşuldı / Kanı akıp döküldü / qâpı qamug teşildi / Sanki yanlan bir şarap tulumunda saklanıyormuş gibi / ölüg bile qoşuldı / (Şimdi) ölümle birleşti / ' / tugmış küni uş batar / Doğan güneşi şimdi batıyor jbahtı ve yaşamı bitiyor)",
+      "cekimler": [
+        "teşilür",
+        "teşilmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "557",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "teşük",
+      "anlam": "Erbezi torbasındaki yarık",
+      "ornek_metin": "teşûle sumla belgürer: Erkeğin yangı suda belli olur. Bu atasözü, aşırı övündüğü bir iş yapan kimseye “bunu bize gösterdiğin zaman iyi mi, kötü mü göreceğiz dernek için kul­ lanılır.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "557",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "teşükledi",
+      "anlam": "O, onun obur olduğunu düşündü",
+      "ornek_metin": "ol anı teşükledi: O, onun obur olduğunu düşündü.",
+      "cekimler": [
+        "teşükîer",
+        "teşüklemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "557",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tetildi",
+      "anlam": "Çocuk akıllandı",
+      "ornek_metin": "oglân tetildi: Çocuk akıllandı.",
+      "cekimler": [
+        "tetlür",
+        "teîtlmele"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "557",
+      "notlar": "Çekimler kısmında OCR hatası ('teîtlmele') mevcuttur.",
+      "kontrol_gerekli": true
+    },
+    {
+      "kelime": "tetindi",
+      "anlam": "O, onunla cesurca yüzleşti",
+      "ornek_metin": "ol angar tetindi: O, onunla cesurca yüzleşti Şu atasözünde de geçer, anıgyüzinğe tetini'ı baqsa bolmâs: Onun yüzüne [güzelliği nedeniyle] doğrudan bakamazsınız.",
+      "cekimler": [
+        "tetnür",
+        "tetinmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "557",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tetrü",
+      "anlam": "Herhangi bir şeyin tersine dönmüş hali",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "557",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tetrüldi",
+      "anlam": "Rüzgâr yön değiştirdi, nesne kendi etrafında döndürüldü ve tersine çevrildi, adamın huyu kötüleşti",
+      "ornek_metin": "yel tetrüldi: Rüzgâr yön değiştirdi (güney rüzgân kuzeye, kuzey rüzgârı güneye doğru esmeye başladı]. tetrüldi nerig: Nesne kendi etrafında döndürüldü ve tersine çevrildi. er qılqı tetrüldi: Adamın huyu (başka bir şeyi de olabiliri kötüleşti",
+      "cekimler": [
+        "tetrülür",
+        "tetrülmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "557",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tetti",
+      "anlam": "Köle, beye karşı koydu; dik dik baktı",
+      "ornek_metin": "qu! begke tetti: Köle ]kul], beye Ibaşka birine dc olabilir! karşı koydu. ol angâr tetrü baqdı: O, ona dik dik baktı [sabit bakışlarla onun yüzüne baktı]. Güzel bir insan için angar tetrü baqsa bolmâs: İnsan ona bakarken bakışlarını sabitleyemez denir. Bu aynı zamanda “yan yan bakmak” anlamı da verebilir.",
+      "cekimler": [
+        "teter",
+        "tetmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "557-558",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tetürdi",
+      "anlam": "O, bunun, bu şekilde söylenmesine neden oldu",
+      "ornek_metin": "ol andag tetürdi: O, bunun, bu şekilde söylenmesine neden oldu.",
+      "cekimler": [
+        "tetürür",
+        "tetürmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "558",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tew",
+      "anlam": "Hile; dalavere",
+      "ornek_metin": "awçı neçe âl [burada bir hata söz konusudur, doğru sözcük tew olacak] bilse, adıg ança yöl bilir: Avcı ne kadar hile bilirse, ayı da o kadar yol [kaçış yolu] bilir.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "558",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tewçidi",
+      "anlam": "O, giysiyi seyrek bir biçimde dikti",
+      "ornek_metin": "ol tönug tewçıdi: O, giysiyi seyrek bir biçimde dikti.",
+      "cekimler": [
+        "tewçir",
+        "tewçlmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "558",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tewçitti",
+      "anlam": "O, giysinin seyrek bir biçimde dikilmesini emretti",
+      "ornek_metin": "ol tönın tewçitti: O, giysinin seyrek bir biçimde dikilmesini emretti.",
+      "cekimler": [
+        "tewçitür",
+        "tewçitmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "558",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tewdi",
+      "anlam": "O, eti şişe dizdi",
+      "ornek_metin": "ol etig sişqa tewdi: O, eti şişe [başka bir yere de olabilir] dizdi.",
+      "cekimler": [
+        "tewer",
+        "tewmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "558",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tewe",
+      "anlam": "Deve — hem tek bir deve hem de deve sürüsü anlamında",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Oğuzca",
+      "kaynak_sayfa": "558",
+      "notlar": "bkz. tewe.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tewindi",
+      "anlam": "Adam, yumruklarını sıktı",
+      "ornek_metin": "er eliğin uwundı tewindi: Adam, (bir mesele üzerine kaygılanarak üzüntü ya da utançtan) yumruklannı sıktı.",
+      "cekimler": [
+        "tewinür",
+        "tewinmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "558",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tewişdi",
+      "anlam": "O, şişe et dizmekte benimle yarıştı ve bu işte yardımlaştı",
+      "ornek_metin": "ol menig birle et tewişdi: O, şişe et dizmekte benimle yanşb. Bu işte yardımlaşmayı anlatmak için de bu ifadeye başvurulur. “Dizilen, düzenlenen” başka şeyleri anlatmak için de kullanılır.",
+      "cekimler": [
+        "tewişür",
+        "tewişmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "558",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tewlüg",
+      "anlam": "Hilebaz; dalavereci",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "558",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tewlüglendi",
+      "anlam": "Adam kendini hilebaz saydı ve onların yolunu tuttu",
+      "ornek_metin": "er tervlüglendi: Adam kendini hilebaz saydı ve onların yolunu tuttu.",
+      "cekimler": [
+        "tewlüglenür",
+        "tewlüglenmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "558",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tewren",
+      "anlam": "Uçkur bağı ya da silah askısı yapmak için bir araya getirilerek örülmüş iplikler",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "558-559",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tewsi",
+      "anlam": "Tepsi",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "559",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tewşedi",
+      "anlam": "İp, iki ucu bulunamayacak biçimde karıştı",
+      "ornek_metin": "yıp qamug tewşedi: İp, iki ucu bulunamayacak biçimde karışb.",
+      "cekimler": [
+        "tewşer",
+        "tewşemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "559",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tewşeldi",
+      "anlam": "Ekmek ufalandı",
+      "ornek_metin": "etmek uşaldı tewşeldi: Ekmek Ibaşka bir şey de olabilir] ufalandı. Bunun kökü olan sözcük uşaldı’dır.",
+      "cekimler": [
+        "tevvşelür",
+        "tewşelmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "559",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tewşetti",
+      "anlam": "O, ipi karıştırdı; o, onu boncuk boncuk terlemesine neden olacak kadar yordu",
+      "ornek_metin": "ol yipıg tewşetti: O, ipi karıştırdı, bu nedenle uçlan bulunamadı. ol amg terin tewşetti (tüwşetti): O, onu, boncuk boncuk terlemesine neden olacak kadar yordu.",
+      "cekimler": [
+        "tewşetür",
+        "tewşetmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "559",
+      "notlar": "tüwşetti şekli de verilmiştir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tewşindi",
+      "anlam": "Adam bu işte çok aktifti/etkindi",
+      "ornek_metin": "er işta telim tewşindi: Adam bu işte çok etkindi,",
+      "cekimler": [
+        "tevvşinür",
+        "tewşinmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "559",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tewürdi",
+      "anlam": "bkz. ewûrdi tewürdi",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "belirsiz",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "559",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tewürgen",
+      "anlam": "bkz. evvürgen tevürgen",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "belirsiz",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "559",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tez",
+      "anlam": "Her türlü yüksek yer; Kaşgar'a ait bir yayla; bir diğer yaylanın adı; Barsgân yakınlarındaki bir yayla",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "559",
+      "notlar": "Farsîlerin bu sözcüğü alıp kalelerine 'dez' dediği belirtilmiştir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tezdi",
+      "anlam": "Vahşi hayvan kaçtı",
+      "ornek_metin": "keyik tezdi: Vahşi hayvan [başka bir şey de olabilir] kaçtı.",
+      "cekimler": [
+        "tezer",
+        "tezmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "559",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tezek",
+      "anlam": "At gübresi",
+      "ornek_metin": "tezek qârdayatm âs edgü esiz qatmâs: Tezek kann altında durmaz (çünkü sıcaklığı onu eritir), (benzer bir şekilde) iyi ile kötü birbirine karıştırılmamalıdır (çünkü birbirlerine benzemezler).",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "559",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tezekledi",
+      "anlam": "At pisledi",
+      "ornek_metin": "at tezekledi: At Ibaşka bir şey de olabilir] pisledi.",
+      "cekimler": [
+        "tezekler",
+        "tezeklemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "559",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tezgek",
+      "anlam": "İşten ya da benzeri şeylerden kaçan adam",
+      "ornek_metin": "tezgek er: İşten ya da benzeri şeylerden kaçan adam",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "559",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tezgi",
+      "anlam": "Düşmanın belirmesiyle birlikte halkın içine düşen ve kaçmalarına neden olan korku ve dehşet",
+      "ornek_metin": "tezgi boldı",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "559",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tezginç",
+      "anlam": "Dağların ya da başka şeylerin kıvrımları ve büklümleri; dolambaçlı yol",
+      "ornek_metin": "tezginç yöl: Dolambaçlı yol.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "559-560",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tezgindi",
+      "anlam": "Çıkrık döndü; o, ülkenin her yanını dolaştı",
+      "ornek_metin": "(Ign tezgindi: Çıkrık Ibaşka bir şey de olabilir] döndü. ol yerig tezgindi: O, ülkenin her yanını dolaştı.",
+      "cekimler": [
+        "tezginür",
+        "tezginmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "560",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tezig",
+      "anlam": "Korku ve dehşet (ve ardından gelen kaçış); bir şeyden kaçan kimse",
+      "ornek_metin": "tezig kişi: Bir şeyden kaçan kimse",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "560",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tezindi",
+      "anlam": "O, kaçıyormuş gibi göründü",
+      "ornek_metin": "o! tezindi: O, kaçıyormuş gibi göründü.",
+      "cekimler": [
+        "teznür",
+        "tezinmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "560",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tezişdi",
+      "anlam": "Onlar birbirlerinden kaçtı",
+      "ornek_metin": "olâr ekki tezişdi: Onlar birbirlerinden kaçtı.",
+      "cekimler": [
+        "tezişür",
+        "tezişmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "560",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tezitti",
+      "anlam": "Köpek, vahşi hayvanı kaçırdı",
+      "ornek_metin": "ıt keyikni tezitti: Köpek, vahşi hayvanı kaçırdı,",
+      "cekimler": [
+        "tezirör",
+        "tezitmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "560",
+      "notlar": "Çekimler kısmında OCR hatası ('tezirör') mevcuttur.",
+      "kontrol_gerekli": true
+    },
+    {
+      "kelime": "tıdıg",
+      "anlam": "Bir şeyden alıkoyma; engelleme",
+      "ornek_metin": "tıdıglıg neng: Kendisine ulaşmanın engellendiği bir şey.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "560",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tıdıldı",
+      "anlam": "Adam çalışmaktan kaçındı / alıkonuldu (hem edilgen hem etken)",
+      "ornek_metin": "er işten tıdıldı: Adam çalışmaktan kaçındı. Birinin onu işten alıkoymasını anlatmak için de bu sözcük kullanılır - bu eylem hem geçişli hem de geçişsizdir [hem edilgen hem de etken].",
+      "cekimler": [
+        "tıdılür",
+        "tıdılmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "560",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tıdmdı",
+      "anlam": "Kendisine ulaşılamayan şey",
+      "ornek_metin": "tıdmdı neng: Kendisine ulaşılamayan bir şey.",
+      "cekimler": [
+        "tıdmür",
+        "tıdmmâq"
+      ],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "560",
+      "notlar": "Madde başı ve çekimlerinde OCR hataları ('tıdmdı', 'tıdmür', 'tıdmmâq') olabilir.",
+      "kontrol_gerekli": true
+    },
+    {
+      "kelime": "tıdındı",
+      "anlam": "Adam çalışmaktan kaçındı",
+      "ornek_metin": "er iştin tıdmdı: Adam çalışmaktan kaçındı.",
+      "cekimler": [
+        "tıdmür",
+        "tıdmmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "560",
+      "notlar": "OCR hatası barındırmaktadır.",
+      "kontrol_gerekli": true
+    },
+    {
+      "kelime": "tıdış",
+      "anlam": "Engelleme; alıkoyma",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "560",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tıdışdı",
+      "anlam": "Onlar birbirlerini engellediler",
+      "ornek_metin": "olâr bir b'irig tıdışdı: Onlar (belli bir meselede) birbirlerini engellediler.",
+      "cekimler": [
+        "tıdışâr",
+        "tıdışmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "560",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "adlındı",
+      "anlam": "Adam işten kaçındı / imtina etti; konuşurken tereddüt etti",
+      "ornek_metin": "er Iştırı tıdbndı: Adam işten [başka bir şeyden de olabiliri kaçındı [imtina etti]. Konuşurken tereddüt etmesini anlatmak için de bu sözcük kullanılır.",
+      "cekimler": [
+        "tıdlmür",
+        "tıdlınmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "560-561",
+      "notlar": "Metinde başlık 'adlındı' şeklinde geçmektedir, muhtemelen tıdındı kelimesinin devamı veya OCR hatasıdır.",
+      "kontrol_gerekli": true
+    },
+    {
+      "kelime": "tıdtı",
+      "anlam": "O, onu yemekten alıkoydu",
+      "ornek_metin": "ol atıı aşqa tidtı: O, onu yemekten alıkoydu. Herhangi bir engelleme ya da bir şeyden alıkoymayı anlatmak için bu sözcük kullanılır.",
+      "cekimler": [
+        "tidâr",
+        "tldmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "561",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tîg",
+      "anlam": "Rengi kırmızı ile kahverengi arasında olan at",
+      "ornek_metin": "tıg at: Rengi kırmızı ile kahverengi olan at.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "561",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tığdı",
+      "anlam": "Taş, temreni körleştirdi",
+      "ornek_metin": "oq başaqm tâş tığdı: Taş, (kendisine çarpan) temreni körleştirdi,",
+      "cekimler": [
+        "tıgâr",
+        "tıgmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "561",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tıgrâdı",
+      "anlam": "Adam dayanıklılaştı, bedeni sağlamlaştı",
+      "ornek_metin": "er tıgrâdı: Adam dayanıklılaştı, bedeni sağlamlaştı.",
+      "cekimler": [
+        "tıgrâr",
+        "tıgrâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "561",
+      "notlar": "bkz. tawrâdı",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tıgrâq",
+      "anlam": "Dayanıklı, güçlü adam",
+      "ornek_metin": "tıgrâq er: Dayanıklı, güçlü adam. ogrâq eri tıgrâq / Ogrâk kavmi dayanıklıdır / yemi anıg oglâq / Yedikleri oğlaktır / süti üze sagrâq / Kımızlannın üstünde her daim kadeh bulunur / yeri taqı aglâq / Üstelik ülkeleri de çoraktır",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "561",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tıgraqlandı",
+      "anlam": "Adam direngen davrandı",
+      "ornek_metin": "er tıgraqlandı: Adam direngen davrandı. tıgraqlanıp sekirtti / Sebat edip bize saldırdı / erin atın yilgürtti / Askerlerini ve atlarını ileri sürdü / bizni qamug engitti / (Bu hareketiyle) hepimizi şaşırttı / andag sîıhe kim teter / Böyle (saldıran) ordunun karşısında kim durabilir",
+      "cekimler": [
+        "tıgraqlanür",
+        "tıgraqlanmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "561",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tıgraşdı",
+      "anlam": "Bebekler gürbüzleşti / dayanıklılaştı",
+      "ornek_metin": "oglân tıgraşdı: Bebekler gürbüzleşti [dayanıklılaştı].",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "561",
+      "notlar": "Bu sözcük tıgrâq: dayanıklı sözcüğünden türetilmiştir.",
+      "kontrol_gerekli": false
+    }
+  ]
+}

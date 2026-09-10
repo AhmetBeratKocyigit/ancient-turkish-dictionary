@@ -1,0 +1,891 @@
+{
+  "chunk_no": 25,
+  "kaynak_sayfa_baslangic": 225,
+  "kaynak_sayfa_bitis": 229,
+  "kelimeler": [
+    {
+      "kelime": "çaxşâdı",
+      "anlam": "Çakıl taşları takırdadı. Süslerin ya da takıların tıkırtısı.",
+      "ornek_metin": "taş çaxşâdı: Çakıl taşları takırdadı. Süslerin ya da takıların tıkırtısını anlatmak için de bu sözcük kullanılır.",
+      "cekimler": [
+        "çaxşâr",
+        "çaxşâm âq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "225",
+      "notlar": "Yüksek dağı yurt tutarak oğlak birleştirme bağlamı önceki kelimeden kalmış olabilir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çatuq",
+      "anlam": "bkz. xutu.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "belirsiz",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "225",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çawa",
+      "anlam": "Genç erkekleri anlatmakta kullanılan bir ad.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "225",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çawâr",
+      "anlam": "Ateş yakmak için kullanılan çalı çırpı.",
+      "ornek_metin": "çawâr çuvvdr biçiminde ikileme olarak da kullanılır.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "225",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çawârlıg",
+      "anlam": "Çalı çırpısı bol yer.",
+      "ornek_metin": "çawdrhg yer: Çalı çırpısı bol yer.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "225",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çawıg",
+      "anlam": "Kamçı ucu, kamçı darbesi.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "225",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çawıqtı",
+      "anlam": "Adam ünlendi, ün sahibi oldu.",
+      "ornek_metin": "er çawıqtı: Adam ünlendi, ün sahibi oldu.",
+      "cekimler": [
+        "çawıqâr",
+        "çam qm âq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "225",
+      "notlar": "Geniş zaman ve mastar formlarının OCR çıktısında 'çam qm âq' şeklinde bozukluklar bulunuyor.",
+      "kontrol_gerekli": true
+    },
+    {
+      "kelime": "çawju",
+      "anlam": "Gövdesi ve dalları kırmızı olan ve dağlarda büyüyen bir ağaç; kızıl, acı meyveleri vardır.",
+      "ornek_metin": "Bu, kızların parmak uçlannın kırmızılığı kendisine benzetilen ’anem ağacıdır.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "225",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çawlâdı",
+      "anlam": "Et hafifçe pişti.",
+      "ornek_metin": "et çawlâdı: Et hafifçe pişti.",
+      "cekimler": [
+        "çawlâr",
+        "çawlâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "225",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çawlandı",
+      "anlam": "Et hafifçe pişirildi.",
+      "ornek_metin": "et çawlarıdı : Et hafifçe pişirildi.",
+      "cekimler": [
+        "çawlanür",
+        "çawlanmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "225",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çavdandı",
+      "anlam": "Adam ünlendi, ün sahibi oldu.",
+      "ornek_metin": "er çawlandı: Adam ünlendi, ün sahibi oldu.",
+      "cekimler": [
+        "çawlanür",
+        "çawlanmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "225",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çawlı",
+      "anlam": "Şahin.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "225",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çâwlı",
+      "anlam": "Ateş yakmakta kullanılan şeftali çekirdekleri ve ceviz kabukları.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Kençek lehçesi",
+      "kaynak_sayfa": "225",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çavvşâng",
+      "anlam": "Koyunun yününü kırkmakta kullanılan makas.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Çigil lehçesi",
+      "kaynak_sayfa": "225",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çavvşârig",
+      "anlam": "Gözü kızarmış, sulanmış kimse.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "225",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çawuş",
+      "anlam": "Savaşta birliklerin düzen içinde durmasını sağlayan ve onların gereksiz şiddet uygulamalarını önleyen yönetici.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "225",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çaxşâdı",
+      "anlam": "Çakıl taşları takırdadı.",
+      "ornek_metin": "taş çaxşâdı: Çakıl taşları takırdadı. Süslerin ya da takıların tıkırtısını anlatmak için de bu sözcük kullanılır.",
+      "cekimler": [
+        "çaxşâr",
+        "çaxşâm âq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "225",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çaxşâq",
+      "anlam": "Dağın zirvesindeki taşlık yer.",
+      "ornek_metin": "çaxşâq üze ot bolmâs, çaqraq bile uvvut bolmâs: Taşlık dağda ot, kelde utanç olmaz.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "226",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çaxşâq",
+      "anlam": "Kurutulmuş kayısı veya üzüm.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Qarluq lehçesi",
+      "kaynak_sayfa": "226",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çaxşu",
+      "anlam": "Şimşir-çalısı. Gözle ilgili rahatsızlıkları tedavi etmek için kullanılır.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "226",
+      "notlar": "Özgün dile ait değildir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çaydam",
+      "anlam": "Kaban yapmakta ya da döşeğin içini doldurmakta kullanılan ince keçe.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "226",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çeçek",
+      "anlam": "Çiçek.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "226",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çeçek",
+      "anlam": "Kızamık ya da çiçek hastalığına verilen ad.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Çigil lehçesi",
+      "kaynak_sayfa": "226",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çeçeklendi",
+      "anlam": "Ağaç çiçeklendi.",
+      "ornek_metin": "yıgâç çeçeklendi: Ağaç [başka bir şey de olabilir] çiçeklendi.",
+      "cekimler": [
+        "çeçeklenür",
+        "çeçeklenmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "226",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çeçeklik",
+      "anlam": "Çiçek yetiştirilen yer.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "226",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çeçge",
+      "anlam": "Dokumacı tarağı.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "226",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çek çük",
+      "anlam": "Ivır zıvır, eski eşyalar.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "226",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çek",
+      "anlam": "Arapların bürd’üne (çizgili kumaş) benzeyen bir pamuklu dokuma.",
+      "ornek_metin": "Atkı, şal gibi şeylerin yapımında kullanılır ve Yemekler tarafından giyilir.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "226",
+      "notlar": "'Yemekler' ifadesi muhtemelen OCR hatasıdır.",
+      "kontrol_gerekli": true
+    },
+    {
+      "kelime": "çekdi",
+      "anlam": "Kitabı noktaladı veya atını hacamat etti.",
+      "ornek_metin": "ol bitig çekdi: O, kitabı noktaladı; ol atın çekdi: O, atını hacamat etti.",
+      "cekimler": [
+        "çeker",
+        "çekm ek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "226",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çekek",
+      "anlam": "Çekiç.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Oğuz lehçesi",
+      "kaynak_sayfa": "226",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çekig",
+      "anlam": "Bir yazıdaki yardımcı imler.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "226",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çekik",
+      "anlam": "Küçük erkek çocuğunun cinsel organı.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "226",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çekik",
+      "anlam": "Serçeye benzer benekli bir kuş, kayalık yerlerde yaşar.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "226",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çekildi",
+      "anlam": "Kitap noktalandı.",
+      "ornek_metin": "bitig çekildi: Kitap [başka bir şey de olabilir] noktalandı.",
+      "cekimler": [
+        "çekilür",
+        "çekilmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "226",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çekindi",
+      "anlam": "Adam metnin yardımcı imlerini koyma (noktalama) işini üzerine aldı.",
+      "ornek_metin": "er bitigke çekig çekindi: Adam metnin yardımcı imlerini koyma [noktalama] işini üzerine aldı.",
+      "cekimler": [
+        "çekinür",
+        "çekinmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "226",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çekişdi",
+      "anlam": "Metni noktalamakta yardım etti veya bu işte rekabet etti.",
+      "ornek_metin": "ol manga çekig çekişdi: O, bana metni noktalamakta yardım etti. Bu işte rekabet etmeyi anlatmak için de bu sözcük kullanılır.",
+      "cekimler": [
+        "çekiştir",
+        "çekişmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "226",
+      "notlar": "Geniş zaman çekiminde 'çekiştir' yazımında OCR hatası olabilir.",
+      "kontrol_gerekli": true
+    },
+    {
+      "kelime": "çekleşdi",
+      "anlam": "Kura çekti.",
+      "ornek_metin": "ol menig birle çekleşdi: O, benimle birlikte kura çekti.",
+      "cekimler": [
+        "çekleşür",
+        "çekleşmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "226",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çekrek",
+      "anlam": "Tek kat yünden yapılan ince bir kaftan.",
+      "ornek_metin": "çekrek qapa: Tek kat yünden yapılan ince bir kaftan; köleler tarafindan giyilir.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "227",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çekreklendi",
+      "anlam": "Köle yün giysi giydi.",
+      "ornek_metin": "qul çekreklendi: Köle yün giysi giydi.",
+      "cekimler": [
+        "çekreklenür",
+        "çekreklenmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "227",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çektürdi",
+      "anlam": "Kitabı noktalattı veya atını hacamat ettirdi.",
+      "ornek_metin": "aıigar çekig çektürdi: O, ona kitabı noktalattı, ol atın çektürdi: O (toynağındaki ya da başka bir yerdeki iltihap nedeniyle) atını hacamat etti.",
+      "cekimler": [
+        "çektürür",
+        "çektürmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "227",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çekün",
+      "anlam": "Gelincik yavrusu.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "227",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çekürge",
+      "anlam": "Çekirge.",
+      "ornek_metin": "Kalabalık evler ve ordular çekirge sürüsüne benzetilir ve çekürge teg sü denir.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Oğuz lehçesi",
+      "kaynak_sayfa": "227",
+      "notlar": "Diğer Türkler çekirgenin uçmadan önceki halini bu şekilde adlandırır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çelpek",
+      "anlam": "Göz çapağı.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "227",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çelpeklendi",
+      "anlam": "Göz çapaklandı.",
+      "ornek_metin": "köz çelpeklendi: Gözçapaklandı.",
+      "cekimler": [
+        "çelpeklenur",
+        "çelpeklenmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "227",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çeniştürük",
+      "anlam": "Yazın başında olgunlaşan, beyaz-kırmızı renkte, fındığa benzeyen ve yenilebilen bir meyve.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "227",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çenggek er",
+      "anlam": "Aşağılık adam.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "227",
+      "notlar": "Madde başı metinde 'çeriggek' altında 'çenggek er' olarak geçmektedir.",
+      "kontrol_gerekli": true
+    },
+    {
+      "kelime": "çeriglik",
+      "anlam": "Sarmaşık.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "227",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çepiş",
+      "anlam": "Altı aylık keçi yavrusu.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "227",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çepişlendi",
+      "anlam": "Oğlak altı aylık oldu.",
+      "ornek_metin": "oglâq çepişlendi: Oğlak altı aylık oldu.",
+      "cekimler": [
+        "çepişlenür",
+        "çepişlenmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "227",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çer",
+      "anlam": "Bedenin (hastalık derecesinde) ağırlaşması.",
+      "ornek_metin": "er çerlendi: Adamın vücudu ağırlaştı.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Hâqânî lehçesi",
+      "kaynak_sayfa": "227",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çer",
+      "anlam": "Zaman.",
+      "ornek_metin": "bü çerlikde kel: Bu vakitte gel.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Oğuz lehçesi",
+      "kaynak_sayfa": "227",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çer",
+      "anlam": "Bir şeyin karşı tarafı.",
+      "ornek_metin": "amgevvi bu çerlikde: Onun evi karşı tarafta. Bu sözcükten hareketle savaşta karşılıklı duran saflara çerig denir.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Oğuz lehçesi",
+      "kaynak_sayfa": "227",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çergeşti",
+      "anlam": "(Savaşta) iki saf karşı karşıya geldi.",
+      "ornek_metin": "ekki sü çergeşti: (Savaşta) iki saf karşı karşıya geldi.",
+      "cekimler": [
+        "çergeşür",
+        "çergeşmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "227",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çerig",
+      "anlam": "Savaştaki karşılıklı saflar.",
+      "ornek_metin": "alp çerigde, bilge terigde: Yiğit savaşta (savaşın öfkesi onu tahrik ettiğinde), bilge kurultayda (sınanır)",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "228",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çerig",
+      "anlam": "Herhangi bir şeyin karşı tarafı veya zamanı.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Oğuz lehçesi",
+      "kaynak_sayfa": "228",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çerlendi",
+      "anlam": "Adam hastalandı ve vücudu ağırlaştı, gözü kanlandı, sulandı.",
+      "ornek_metin": "er özi çerlendi: Adam hastalandı ve vücudu ağırlaştı, anıg közi çerlendi: Onun gözü kanlandı, sulandı.",
+      "cekimler": [
+        "çerlenûr",
+        "çerlenmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "228",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çerletti",
+      "anlam": "İlaç gözün iltihaplanmasına neden oldu / insan üzerine çöken ağırlık veya hastalık hali.",
+      "ornek_metin": "ot anıg közin çerletti: İlaç onun gözünün iltihaplanmasına neden oldu.",
+      "cekimler": [
+        "çerletür",
+        "çerletmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "228",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çerlig",
+      "anlam": "Görüşü zayıf kimse.",
+      "ornek_metin": "közi çerlig: Görüşü zayıf kimse.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "228",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çermeldi",
+      "anlam": "Kamçının ucu kıvrıldı ve örüldü.",
+      "ornek_metin": "çawıg çermeldi: Kamçının ucu [benzer bir şey de olabilir] kıvrıldı ve örüldü.",
+      "cekimler": [
+        "çermelür",
+        "çermelmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "228",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çermeşdi",
+      "anlam": "Kamçının ucunu örmekte yardım etti.",
+      "ornek_metin": "ol manga çawıg çermeşdi: O, bana kamçının ucunu [benzer bir şey de olabilir] örmekte yardım etti.",
+      "cekimler": [
+        "çermeşür",
+        "çermeşmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "228",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çermetti",
+      "anlam": "Atının kuyruğunu ipekle ördürdü / örülen herhangi bir şey (kamçının ucunu deri kayışla örmek).",
+      "ornek_metin": "alp er atm çermetti: Yiğit savaşçı atının kuyruğunu ipekle ördürdü. Bu, yiğitlik ifade eden işaretlerden biridir.",
+      "cekimler": [
+        "çermetur",
+        "çermetmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "228",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çert",
+      "anlam": "Parça.",
+      "ornek_metin": "bizing anda bir çert algumız bâr: Bizim onda bir parça alacağımız var.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "228",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çert çürt",
+      "anlam": "Herhangi bir şeyin parçaları veya kırıntıları.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "228",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çertildi",
+      "anlam": "Nesne ortadan kayboldu, uzaklaştı / uğur çekildi.",
+      "ornek_metin": "çertildi neng: Nesne ortadan kayboldu, uzaklaştı. erdemsizden qut çertilür: Erdeme ve iyi tavra sahip olmayan kimseden uğur çekilir",
+      "cekimler": [
+        "çertilür",
+        "çertilmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "228-229",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çertti",
+      "anlam": "Nesneyi serbest bıraktı / paranın kenarını kırdı.",
+      "ornek_metin": "ol çertti nengni: O, nesneyi serbest bıraktı. ol yarmâq ûçın çertti: O, paranın kenannı kırdı.",
+      "cekimler": [
+        "çerter",
+        "çertmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "229",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çeş",
+      "anlam": "Türkuvaz.",
+      "ornek_metin": "yarattı yaşıl çeş: (Ulu tann) yeşilliği içindeki türkuvaz gibi olan göğü yarattı",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "229",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çeşkel",
+      "anlam": "Çanak, çömlek ya da çanak çömlek parçaları.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "229",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çetgen",
+      "anlam": "Atı yöneltmeye yarayan, geme bağlı kayış; dizgin.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "229",
+      "notlar": "Metinde 'çigen [?]' alternatifi de verilmiştir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çetük",
+      "anlam": "Dişi kedi.",
+      "ornek_metin": "fcüvüfc çetük: Erkek kedi.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Oğuz lehçesi",
+      "kaynak_sayfa": "229",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çewrüldi",
+      "anlam": "Çıkrık çevrildi.",
+      "ornek_metin": "çıgrı çewrüldi: Çıknk çevrildi. Çevrilen herhangi bir şey için bu sözcük kullanılır.",
+      "cekimler": [
+        "çewrülür",
+        "çewrülmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "229",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çewrüşdi",
+      "anlam": "Oku döndürerek denemesini sınama konusunda boy ölçüştü.",
+      "ornek_metin": "ol menig birle oq çevvrüşdi: O, benimle oku döndürerek [dengesin^ sınama konusunda boy ölçüştü.",
+      "cekimler": [
+        "çewrüşür",
+        "çewrüşmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "229",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çewürdi",
+      "anlam": "Tomağı üzerinde döndürerek oku sınadı / çıkrığı çevirdi.",
+      "ornek_metin": "er oq çewürdi: Adam tomağı üzerinde döndürerek oku sınadı. ol çıgrint çewürdi: O, çıkrığı çevirdi.",
+      "cekimler": [
+        "çevvürer",
+        "çewürmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "229",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çewürgen",
+      "anlam": "Oklar sınayan adam.",
+      "ornek_metin": "bu er ol telim oq çewürgen: Bu, oklar sınayan adamdır",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "229",
+      "notlar": "Bu sınama tırnağın üzerinde okun döndürülmesiyle yapılır.",
+      "kontrol_gerekli": false
+    }
+  ]
+}

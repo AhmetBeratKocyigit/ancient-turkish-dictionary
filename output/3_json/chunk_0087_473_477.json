@@ -1,0 +1,756 @@
+{
+  "chunk_no": 87,
+  "kaynak_sayfa_baslangic": 473,
+  "kaynak_sayfa_bitis": 477,
+  "kelimeler": [
+    {
+      "kelime": "sarqurdı",
+      "anlam": "sarmattı",
+      "ornek_metin": "ol yışıgm yıgâçqa sarmattı: O, ipi ağaca sardırdı.",
+      "cekimler": [
+        "sarmatûr",
+        "sarmatmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "473",
+      "notlar": "Metinde başka bir yere de olabileceği belirtilmiştir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sarmusaq",
+      "anlam": "Sarımsak",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "473",
+      "notlar": "samursaq bir değişik sesletimdir; göçüşmeye maruz kalmıştır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sarnıç",
+      "anlam": "İçine süt sağılan deri bir kap",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "473",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sarnülâdı",
+      "anlam": "Adam (buz ya da benzer bir kaygan şeyin üzerinde) kaydı",
+      "ornek_metin": "er sarnülâdı: Adam (buz ya da benzer bir kaygan şeyin üzerinde) kaydı.",
+      "cekimler": [
+        "sarnüldr",
+        "sarnülâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "473",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sarqdı",
+      "anlam": "Su sızdı, sıvı damladı / (At binmekten dolayı) ayağı uyuşuk bir biçimde sarkık kaldı",
+      "ornek_metin": "süw sarqdı: Su sızdı. Herhangi bir sıvının bir şeyden sızmasını ya da damlamasını anlatmak için de bu sözcük kullanılır. adâqım şargdı: (At binmekten dolayı) ayağım uyuşuk bir biçimde sarkık kaldı.",
+      "cekimler": [
+        "sarqâr",
+        "sarqmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "473",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "gargıç",
+      "anlam": "Akhindiba",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "473",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sarqıçlandı",
+      "anlam": "Toprak akhindiba otuyla kaplandı",
+      "ornek_metin": "yer sargıçlandı: Toprak akhindiba otuyla kaplandı.",
+      "cekimler": [
+        "sargıçlanür",
+        "sarqıçlanmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "473",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sarqım",
+      "anlam": "Kırağı",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "473",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sarqındı",
+      "anlam": "Damlayan su",
+      "ornek_metin": "sarqmdı süw: Damlayan su.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "473",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sarqm uq",
+      "anlam": "Geviş getiren hayvanlardaki üçüncü mide, kırkbayır",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "473",
+      "notlar": "bkz. sarqıyuq. nün la (n) söylenen biçimi [sarqınuq] bir değişik sesletimdir; bu değişime Arapçadaki mîzâb, minzâb veya mişâr, minşâr sözcüklerinde de rastlanır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sarqışdı",
+      "anlam": "Buzdan çokça su damladı",
+      "ornek_metin": "bâzdın süw şargışdı: Buzdan çokça su damladı.",
+      "cekimler": [
+        "sargışür",
+        "sargışmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "473",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sarqıttı",
+      "anlam": "Giysiden su damlamasına izin verdi",
+      "ornek_metin": "ol töndın süw sargıttı: O, giysiden su damlamasına izin verdi.",
+      "cekimler": [
+        "sarqıtûr",
+        "sarqıtmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "473",
+      "notlar": "Metinde başka bir şeyden de olabileceği belirtilmiştir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sarqıyuq",
+      "anlam": "Geviş getiren hayvanlardaki üçüncü mide, kırkbayır",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "473",
+      "notlar": "sarqınuq biçimi de vardır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sarqurdı",
+      "anlam": "Yağı tulumdan damlattı",
+      "ornek_metin": "ol yâgnı qâptm sarqurdı: O, yağı tulumdan damlattı. Herhangi bir sıvı bir kaptan başka bir kaba boşaltıldıktan sonra geriye kalan bir miktar sıvının kaba damla damla akmasını anlatmak için bu sözcük kullanılır.",
+      "cekimler": [
+        "sarcjurür",
+        "sarqurmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "473",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sarsâl",
+      "anlam": "Gelincik",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "474",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sarsıg",
+      "anlam": "Kaba saba konuşma, kaba saba yürüyüş biçimi, bayağı mesele",
+      "ornek_metin": "sarsıg söz: Kaba saba konuşma. Bayağı bir meseleyi ya da kaba saba bir yürüyüş biçimini anlatmak için de aynı sözcük kullanılır.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "474",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sarsıttı",
+      "anlam": "Sert bir biçimde azarladı ve sövüp saydı",
+      "ornek_metin": "ol anı sarsıttı: O, onu sert bir biçimde azarladı ve sövüp saydı.",
+      "cekimler": [
+        "sarsıtür",
+        "sarsıtmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "474",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sart surt",
+      "anlam": "Ayağın bol gelen bir çarık içinde çıkarttığı ses",
+      "ornek_metin": "anıg adaqı sart surt qıldı: Onun ayağı böylesi bir ses çıkarttı - bu ses ayağın bol gelen bir çarık içinde çıkarttığı sese benzer.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "474",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sart",
+      "anlam": "Tüccar",
+      "ornek_metin": "sart azuqı ang bolsa yolda yer: Tüccarın azığı temiz olsa, yol üzerinde yer.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "474",
+      "notlar": "Atasözünde de geçer.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "şartladı",
+      "anlam": "Tüccar olduğunu düşündü",
+      "ornek_metin": "ol anı şartladı: O, onun tüccar olduğunu düşündü.",
+      "cekimler": [
+        "şartlar",
+        "sartlâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "474",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sarüdı",
+      "anlam": "Sarıksı sardı, başka bir şey üzerine sardı",
+      "ornek_metin": "ol suwluq samdı: O, (başına) sarık sardı. Herhangi bir şey, başka bir şey üzerine sarılırsa yine bu sözcük kullanılır.",
+      "cekimler": [
+        "sarümâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "474",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "saruldı",
+      "anlam": "Ağaca sarıldı",
+      "ornek_metin": "yışıgyigâçqa saruldı: İp ağaca sarıldı.",
+      "cekimler": [
+        "sarulur",
+        "sarulmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "474",
+      "notlar": "Metinde başka bir şey de olabileceği belirtilmiştir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "saruşdı",
+      "anlam": "Sarık sarmakta yardım etti, sarmayı ve bu konuda yarıştı",
+      "ornek_metin": "ol manga suwluq saruşdı (sarışdı): O, bana sarık sarmakta yardım etti. Herhangi bir şeyi sarmayı ve bu konuda yarışmayı anlatmak için de bu sözcük kullanılır.",
+      "cekimler": [
+        "saruşür",
+        "saruşmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "474",
+      "notlar": "sarışdı biçimi de vardır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "saruttı",
+      "anlam": "Sarığı sarmaya zorladı, sarılmasını emretti",
+      "ornek_metin": "ol angar suw!uq samttı: O, onu sarığı sarmaya zorladı.",
+      "cekimler": [
+        "sarutür",
+        "sarutmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "474",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sasıdı",
+      "anlam": "Pis koktu",
+      "ornek_metin": "sasıdı neng: Bir şey pis koktu.",
+      "cekimler": [
+        "sasır",
+        "sasîmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "474",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sasıq",
+      "anlam": "Çanak çömlek",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Uç lehçesi",
+      "kaynak_sayfa": "474",
+      "notlar": "Uç kenti civarında yaşayanların lehçelerinde kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sâş at",
+      "anlam": "Ürkek at",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "475",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "saşurdı",
+      "anlam": "Aralarına turkuvazlar konmuş olan incileri ipe dizdi",
+      "ornek_metin": "ol yinçüni çeş bile saşurdı: O, aralarına turkuvazlar (ya da başka mücevherler) konmuş olan incileri ipe dizdi.",
+      "cekimler": [
+        "saşurur",
+        "saşurmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "475",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sata",
+      "anlam": "Mercan",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "475",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "satgâdı",
+      "anlam": "Boynunu çiğnedi, yolu kesti, borcunu alacağıyla karşıladı",
+      "ornek_metin": "ol anig boynın satgâdı: O, onun boynunu çiğnedi. bir yol bırig satgâdı: Güneyden gelen yol, batıdan gelen yolla kesişti. alım berimni satgâdı: Onun alacağı ile borcu birbirini eşitledi - O, borcunu alacağıyla karşıladı.",
+      "cekimler": [
+        "satgâr",
+        "satgâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "475",
+      "notlar": "Borç ve yola ilişkin olan cümleler Oğuz lehçesindedir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "satgaldı",
+      "anlam": "Boynu çiğnendi, bir borç onu telafi edebilecek bir şeyle dengelendi",
+      "ornek_metin": "er boynı satgaldı: Adamın boynu çiğnendi.",
+      "cekimler": [
+        "satgalûr",
+        "satgalmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "475",
+      "notlar": "Metinde başka bir şeyin de olabileceği belirtilmiştir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "satgaşdı",
+      "anlam": "Birbirlerinin boyunlarını ezdiler, yolda karşılaştı, alacaklarını borçlarının yerine sayarak hesabı dengelediler",
+      "ornek_metin": "olür bir ekindi bile satgaşdı: O ikisi birbirlerinin boyunlarını ezdiler. ol manga yolda satgaşdı: O, benimle yolda karşılaştı. oldr alım berim bile satgaşdı: Onlar alacaklarını borçlarının yerine sayarak aralarındaki hesabı dengelediler.",
+      "cekimler": [
+        "satgaşûr",
+        "satgaşmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "Oğuz lehçesi",
+      "kaynak_sayfa": "475",
+      "notlar": "Birbirlerinin boyunlarını ezmek aynı zamanda kibirlilik anlatır. Alacak hesaplaşması Oğuz lehçesindedir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "satıg",
+      "anlam": "Satış",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "475",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "satıglâdı",
+      "anlam": "Ticaret yaptı, mal alıp sattı",
+      "ornek_metin": "ol anig birle satıglâdı: O, onunla ticaret yaptı - mal alıp sattı.",
+      "cekimler": [
+        "satıglâr",
+        "satıglâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "475",
+      "notlar": "Daha doğru olan biçimi satıglaşdı’dır, ancak ikisi de kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "satıglıq",
+      "anlam": "Satılık, satış için hazır herhangi bir şey",
+      "ornek_metin": "satıglıq neng: Satılık herhangi bir şey.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "475",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "satıgsâdı",
+      "anlam": "Atını neredeyse satıyordu, satayazdı",
+      "ornek_metin": "er atın satıgsâdı: Adam atını neredeyse satıyordu.",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "476",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "satıldı",
+      "anlam": "Mal satıldı",
+      "ornek_metin": "tawâr satıldı: Mal satıldı.",
+      "cekimler": [
+        "satılür",
+        "satılmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "476",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "salındı",
+      "anlam": "Adam atını satıyormuş gibi göründü",
+      "ornek_metin": "er atın satındı: Adam atını satıyormuş gibi göründü.",
+      "cekimler": [
+        "satınür",
+        "satınmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "476",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sâtır",
+      "anlam": "Piç; hergele",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "476",
+      "notlar": "Bir küfür anlamında kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "satışdı",
+      "anlam": "Malı satma konusunda yardım etti",
+      "ornek_metin": "ol manga tawâr satışdı: O, bana malı satma konusunda yardım etti.",
+      "cekimler": [
+        "satışür",
+        "satışmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "476",
+      "notlar": "Bu işte rekabet etmeyi anlatmak için de aynı sözcük kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "satışgân alışgân",
+      "anlam": "Her zaman birbirlerinden mal alır ve birbirlerine mal satarlar, her zaman alışveriş içindedirler",
+      "ornek_metin": "olâr ekki tawâr satışgân alışgânlâr ol: Onlar her zaman birbirlerinden mal alır ve birbirlerine mal satarlar.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "476",
+      "notlar": "Bunun başka bir söyleyişi de satısgân tawısgân'dır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "satma",
+      "anlam": "Bağ bekçisinin geceleri etrafı gözlemek ve barınmak için kullandığı, ağaç üzerine yapılan bir tür kulübe",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "476",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "satsâdı",
+      "anlam": "Atını satmak istedi",
+      "ornek_metin": "ol atın satsâdı: O, atını satmak istedi.",
+      "cekimler": [
+        "satsâr",
+        "satsâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "476",
+      "notlar": "At yerine başka bir şey de olabilir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sattı",
+      "anlam": "Mal sattı",
+      "ornek_metin": "ol tawâr sattı: O, mal sattı.",
+      "cekimler": [
+        "satâr",
+        "satmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "476",
+      "notlar": "Mal yerine başka bir şey de olabilir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "satturdı",
+      "anlam": "Mallarının satılmasını sağladı",
+      "ornek_metin": "ol menig tawârıg satturdı: O, benim mallarımın satılmasını sağladı.",
+      "cekimler": [
+        "satturur",
+        "satturmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "476",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "satülâdı",
+      "anlam": "Bir sürü yararsız söz söyledi",
+      "ornek_metin": "ol telim satülâdı: O, bir sürü yararsız söz söyledi.",
+      "cekimler": [
+        "satülâr",
+        "satûlamâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "476",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sâw",
+      "anlam": "Kelam",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "477",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sâw",
+      "anlam": "Hadis, haberler, sözler",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "477",
+      "notlar": "Buradan hareketle peygambere sâwçı denir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sâwçı",
+      "anlam": "Cenab-ı Hakk’ın resulü",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "477",
+      "notlar": "Kökü hadis, kelam, mesel anlamına gelen sâw sözcüğüdür.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sâwçı",
+      "anlam": "Gelin ve güveyin aileleri arasında gidip gelen, haber taşıyan kimse",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Oğuz lehçesi",
+      "kaynak_sayfa": "477",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sawdıç",
+      "anlam": "Ağaç dallarından örülen, meyve ve benzer şeyleri taşımaya yarayan nesne, sepet",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "477",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sâturdı",
+      "anlam": "Koyun saydırdı",
+      "ornek_metin": "ol angar qöy sâturdı: O, ona koyun saydırdı.",
+      "cekimler": [
+        "sâturur",
+        "sâturmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "477",
+      "notlar": "Koyun yerine başka bir şey de olabilir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sâw",
+      "anlam": "Mesel, atasözü",
+      "ornek_metin": "sâwda mundag kelir: Meselde böyle denir.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "477",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sâw",
+      "anlam": "Kıssa",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "477",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sâw",
+      "anlam": "Hikâye, anlatı",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "477",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sâw",
+      "anlam": "Risâle, mesaj",
+      "ornek_metin": "bilge eren savuların algıl öğüt edgü savvıg edlese Özke singer: Bilge adamın kelamını öğüt olarak al, içinde yaşatmayı bilirsen güzel kelam gönlüne kök salar.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "477",
+      "notlar": "Şiir örnekleri içermektedir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sawaşdı",
+      "anlam": "Savaştı, çarpıştı",
+      "ornek_metin": "olâr ekki sawaşdı: O ikisi savaştı, çarpıştı.",
+      "cekimler": [
+        "sawaşür",
+        "sawaşmdq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "Oğuz lehçesi",
+      "kaynak_sayfa": "477",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sawdıçlandı",
+      "anlam": "Sepet sahibi oldu",
+      "ornek_metin": "er sawdıçlandı: Adam sepet sahibi oldu.",
+      "cekimler": [
+        "sawdi(lanûr",
+        "sawdıçlanmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "477",
+      "notlar": "OCR çıktısındaki 'sawdi(lanûr' ibaresi kaynaklı kontrol gerekebilir.",
+      "kontrol_gerekli": true
+    },
+    {
+      "kelime": "sawlâdı",
+      "anlam": "Çok fazla konuştu, atasözü söyledi",
+      "ornek_metin": "telim sawlâdı: O, çok fazla konuştu.",
+      "cekimler": [
+        "saw!âr",
+        "sawlâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "477",
+      "notlar": "Bir adam atasözü söylerse yine bu sözcük kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sawlaşdı",
+      "anlam": "Birbirimize meseller söyledik",
+      "ornek_metin": "ol menig birle sawlaşdı: O ve ben birbirimize meseller söyledik.",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "477",
+      "notlar": "",
+      "kontrol_gerekli": false
+    }
+  ]
+}

@@ -1,0 +1,754 @@
+{
+  "chunk_no": 63,
+  "kaynak_sayfa_baslangic": 377,
+  "kaynak_sayfa_bitis": 381,
+  "kelimeler": [
+    {
+      "kelime": "örrkledi",
+      "anlam": "Örklemek, hayvanı bağlamak",
+      "ornek_metin": "ol atıg örkledi: O, ab kazığa bağladı",
+      "cekimler": [
+        "örkler",
+        "örklemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "377",
+      "notlar": "Madde başı metinde 'örkledi' olarak geçmektedir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "öpşür",
+      "anlam": "Öpüşmek",
+      "ornek_metin": "",
+      "cekimler": [
+        "öpşür",
+        "öpüşmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "377",
+      "notlar": "Metinde 'örkle di' başlığının hemen altında yer almaktadır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "örçüg",
+      "anlam": "Saç örgüsü, belik",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Oğuz lehçesi",
+      "kaynak_sayfa": "377",
+      "notlar": "Örgüç sözcüğünün göçüşmeye maruz kalmış biçimidir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ördek",
+      "anlam": "Ördek",
+      "ornek_metin": "qâz qopsa ördek kölüg ellenür: Kaz (gölden) uçup giderse ördek gölü sahiplenir. Bu atasözü, gerçek efendileri gittikten sonra yalnız kalan halka liderlik taslayan taranmamış bir adamı anlatmak için kullanılır.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "377",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ördi",
+      "anlam": "Örmek (saç veya başka bir şeyi)",
+      "ornek_metin": "ol saç ördi: O, saç (başka bir şey de olabilir) ördü.",
+      "cekimler": [
+        "örer",
+        "örmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "377",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ördi",
+      "anlam": "Yükselmek (bulut için)",
+      "ornek_metin": "bulıt ördi: Bulut yükseldi.",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "377",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ördi",
+      "anlam": "Ağıldan çıkmak, otlamak için çayıra salınmak",
+      "ornek_metin": "qöy ördi: Koyunlar ağıldan çıktı, otlamak için çayıra salındı. Koyunlann gece otlamasını anlatmak için de bu sözcük kullanılır.",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "377",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ördi",
+      "anlam": "Sepet örmek",
+      "ornek_metin": "ol sawdıç ördi: O, sepet ördü. Elle örülen herhangi bir malzemeyi, örneğin ipliği ya da hurma yapraklannı anlatmak için bu sözcük kullanılır.",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "377",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ören",
+      "anlam": "Her şeyin kötü sü",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Oğuz lehçesi",
+      "kaynak_sayfa": "377",
+      "notlar": "Farsça viran sözcüğünden türediği belirtilmiştir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "örgen",
+      "anlam": "Urgan",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Oğuz lehçesi",
+      "kaynak_sayfa": "377",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "örgü",
+      "anlam": "Hörgüç",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "377",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "örgüç",
+      "anlam": "Kadınların saç örgüsü",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "377",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "örgüç",
+      "anlam": "Sacayağı",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "377",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "örgüçlendi",
+      "anlam": "Örülü saça sahip olmak",
+      "ornek_metin": "qız örgüçlendi: Kız örülü saça sahip oldu",
+      "cekimler": [
+        "örgüçlenür",
+        "örgüçlenmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "377",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "örgüçlendi",
+      "anlam": "Tencere sacayağına sahip olmak",
+      "ornek_metin": "eşiç örgüçlendi: Tencere bir sacayağa sahip oldu",
+      "cekimler": [
+        "örgüçlenür",
+        "örgüçlenmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "377",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "örk",
+      "anlam": "Yular; hayvanı bağlamaya yarayan ip",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "377",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "örlendi",
+      "anlam": "Bulut yükselmek",
+      "ornek_metin": "bulıt örlendi: Bulut yükseldi. ay qopup ewlenüp / Ay, onu çevreleyen halesiyle yükseldiğinde aq bulıt örlenüp / Yağmur bulutlan da belirir bir bir üze ûklenüp / Birbiri üzerine yığılırlar saçlup süwı angraşür / Sulannı (yeryüzüne) saçana, (ve bu sular) uğuldayarak akana kadar",
+      "cekimler": [
+        "örlenür",
+        "örlenmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "377-378",
+      "notlar": "Aynı anlama gelen ördi sözcüğünü kullanmanın daha doğru olduğu belirtilmiştir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "örme",
+      "anlam": "Saç örgüsü; belik",
+      "ornek_metin": "örme saç: Saç örgüsü; belik",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "378",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ört",
+      "anlam": "Alev alev yanan ateş",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "378",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "örtedi",
+      "anlam": "Yakmak",
+      "ornek_metin": "ol Otung örtedi: O , Odunu [başka bir şeyi de olabilir] yaktı.",
+      "cekimler": [
+        "örter",
+        "örtemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "378",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "örteldi",
+      "anlam": "Yakılmak",
+      "ornek_metin": "bük örteldi: Fundalık [başka bir şey de olabiliri yakıldı.",
+      "cekimler": [
+        "örteîür",
+        "örtelmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "378",
+      "notlar": "OCR hatası olarak 'örteîür' şeklinde geçmektedir.",
+      "kontrol_gerekli": true
+    },
+    {
+      "kelime": "örtendi",
+      "anlam": "Alev alev yanmak",
+      "ornek_metin": "örtendi nerig: Nesne alev alev yandı.",
+      "cekimler": [
+        "örtenür",
+        "örtenmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "378",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "örtendi",
+      "anlam": "Bulutların kızarması",
+      "ornek_metin": "bulıt örtendi: Bulutlar (güneşin batışından sonra) kızardı. tünle bulıt örtense ewlük un keldürmişçe bolür, tangda bulıt örtense ewke yağı kirmişçe bolûr: Bulutlar geceleyin kızıla dönerse bu kadının erkek bir çocuk doğuracağı anlamına gelir, eğer bulutlar şafak vakti alev alevse bu baskın yapan düşman eve girdi demektir.",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "378",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "örteşdi",
+      "anlam": "Birbirinin evini yakmak",
+      "ornek_metin": "bödun bir ekindinig ewlerin örteşdi: Halk birbirinin evini yaktı.",
+      "cekimler": [
+        "örteşür",
+        "örteşmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "378",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "örtetti",
+      "anlam": "Yaktırmak",
+      "ornek_metin": "ol bük örtetti: 0,çalılğı [başka bir şeyi de olabiliri yaktırdı.",
+      "cekimler": [
+        "örtetür",
+        "örtetmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "378",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "örtgün",
+      "anlam": "Hasat edilmiş tahıl yığını",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "378",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "örtmen",
+      "anlam": "Çatı",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "379",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "örtti",
+      "anlam": "Örtmek",
+      "ornek_metin": "ol örtti nerigni: O, bir şeyi örttü.",
+      "cekimler": [
+        "örter",
+        "örtmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "379",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "örtüg",
+      "anlam": "Herhangi bir şeyin üzerindeki örtü veya kap",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "379",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "örtüldi",
+      "anlam": "Üstü örtülmek, belirsiz kalmak",
+      "ornek_metin": "iş ev itz.c övtüldi. Mesele 3d9ir\tanlamı: İçin belirsiz kâldı - meselenin üstü örtüldü.",
+      "cekimler": [
+        "örtülür",
+        "örtülmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "379",
+      "notlar": "Metinde OCR bozuklukları bulunmaktadır.",
+      "kontrol_gerekli": true
+    },
+    {
+      "kelime": "örtüldi",
+      "anlam": "Gök kapanmak, bulutlanmak",
+      "ornek_metin": "kök örtüldi: Gök kapandı, bulutlandı.",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "379",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "örtündi",
+      "anlam": "Peçesini açmak ya da örtmek",
+      "ornek_metin": "urâgut yüzin örtündi: Kadın peçesini açtı ya da peçesini örttü",
+      "cekimler": [
+        "örtünür",
+        "örtünmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "379",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "örtüşdi",
+      "anlam": "Meselenin üzerini örtmeyi tasarlamak, örtmeye yardım etmek",
+      "ornek_metin": "olâr bu îşıg örtüşdi: Onlar bu meselenin üzerini örtmeyi tasarladı.",
+      "cekimler": [
+        "örtüşür",
+        "örtüşmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "379",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "örüg",
+      "anlam": "Belli bir yerde bir süre kalmak, beklemek",
+      "ornek_metin": "sü ön kûn örüg boldı: Ordu bulunduğu yerden ayrılmayarak ya da (düşmana) baskın yapmayarak on gün bekledi.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "379",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "örük",
+      "anlam": "Örülmüş herhangi bir şey",
+      "ornek_metin": "örük saç: Belik; saç örgüsü",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "379",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "örüldi",
+      "anlam": "Örülmek",
+      "ornek_metin": "örgen örüldi: Devenin eyer bağının sırımı (başka bir şey de olabilir) örüldü",
+      "cekimler": [
+        "örlür",
+        "örülmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "379",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "örüledi",
+      "anlam": "Koyunu dikleştirerek (bacaklarından asarak) kesmek",
+      "ornek_metin": "ol t^önug örüledi: O, koyunu dikleştirerek (bacaklarından asarak (?)) kesti",
+      "cekimler": [
+        "örüler",
+        "örülemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "379",
+      "notlar": "Soru işareti içeren belirsiz bir ifade vardır.",
+      "kontrol_gerekli": true
+    },
+    {
+      "kelime": "örümçek",
+      "anlam": "Örümcek",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "379",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "öründi",
+      "anlam": "Siki kalkmak, dikleşmek",
+      "ornek_metin": "er siki öründi: Adamın siki kalktı (dikleşti).",
+      "cekimler": [
+        "öm ür",
+        "örünmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "379",
+      "notlar": "Çekim kısmında OCR hatası ('öm ür') bulunabilir.",
+      "kontrol_gerekli": true
+    },
+    {
+      "kelime": "örüşdi",
+      "anlam": "İpi örmekte yardım etmek, örme konusunda rekabet etmek",
+      "ornek_metin": "d manga yışıg örüşdi: O, bana ipi örmekte yardım etti.",
+      "cekimler": [
+        "örşür",
+        "örüşmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "380",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ösnedi",
+      "anlam": "Bir nesne başka bir nesneye benzedi",
+      "ornek_metin": "bir neng bir nerigke ösnedi: Bir nesne başka bir nesneye benzedi",
+      "cekimler": [
+        "ösner",
+        "ösnemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "380",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "östikti",
+      "anlam": "Özlemek, şiddetle arzulamak",
+      "ornek_metin": "ol bu işqa östikti: O, bu şeyi özledi, şiddetle arzuladı.",
+      "cekimler": [
+        "östiker",
+        "östikmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "380",
+      "notlar": "Kök-biçimi öz tikti dir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ösügledi",
+      "anlam": "Kilidi anahtar kullanmadan marifetle açmak",
+      "ornek_metin": "ol kiritlik ösügledi: O, kilidi anahtar kullanmadan (kendine özgü bir) marifetle açtı",
+      "cekimler": [
+        "ösügler",
+        "ösüglemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "Kençek lehçesi",
+      "kaynak_sayfa": "380",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "öş",
+      "anlam": "Ağaç, dal, boynuz gibi şeylerin özü, içi",
+      "ornek_metin": "müngüz öşi: Boynuz özü. Kuşların ya da atlann kuyruk kemiğine de öş denir",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "380",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "öşün",
+      "anlam": "Kürekkemiği",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "380",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "öt",
+      "anlam": "Safra",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "380",
+      "notlar": "Vav (ö) bir öncekinden daha ince okunur.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ötedi",
+      "anlam": "Borcunu ödemek",
+      "ornek_metin": "ol anıg almın ötedi: O, onun borcunu ödedi. boba kimnig altun kümüş ayla eter / anda bolup tengrikerû tapgm öter / Altına ve gümüşe sahip olan kimse böylece evini düzene sokar / (Ve) mekânında güvende olan kişi daha sonra Cenab-ı Hakka karşı olan vazifelerini yerine getirir [ona olan borcunu öder)",
+      "cekimler": [
+        "öter",
+        "ötemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "380",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "öteldi",
+      "anlam": "Bu işte çok çaba sarf etmek, büyük sıkıntılar çekmek",
+      "ornek_metin": "ol bu tşta oteldi: O, bu işte çok çaba sarf etti ve büyük sıkıntılar çekti",
+      "cekimler": [
+        "ötelür",
+        "ötelmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "380",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ötetti",
+      "anlam": "Sıkıntıya sokmak",
+      "ornek_metin": "ol anı ötetti: O, onu sıkıntıya soktu.",
+      "cekimler": [
+        "ötetür",
+        "ötetmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "380",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ötgünç",
+      "anlam": "Öykü anlatma ya da taklit etme",
+      "ornek_metin": "ötûgünç ötgündi: (O) öykü anlattı.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "380",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ötgündi",
+      "anlam": "Belli bir işte boy ölçüşmek",
+      "ornek_metin": "ol manga ötgündi: O, belli bir işte benimle boy ölçüştü. qarga qazga ötgünse butı sınür: Karga (güç ve uçma yeteneği anlamında) kazla aşık atsa ayağı kırılır. Bu atasözü bir kimseye haddini aşmamasını öğütlemek için kullanılır.",
+      "cekimler": [
+        "ötgünür",
+        "ötgünmlk"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "381",
+      "notlar": "Başka bir anlamı için bkz. ötündi -çn.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ötgürdi",
+      "anlam": "Bağırsakları yumuşatmak (müshil için)",
+      "ornek_metin": "ötrüm qarın ötgürdi: Müshil bağırsakları yumuşattı.",
+      "cekimler": [
+        "ötgürür",
+        "ötgürmlk"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "381",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ötgürdi",
+      "anlam": "Mektup almak, bir şeyi başka bir şeyin içinden geçirmek",
+      "ornek_metin": "ol ewke bitig ötgürdi: O, evinden gelen bir mektup aldı. Bir şeyi başka bir şeyin içinden geçirmeyi anlatmak için de bu sözcük kullanılır.",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "381",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ötki",
+      "anlam": "Bir şeyin bedeli, karşılığı olarak verilen hediye",
+      "ornek_metin": "bu atqa ötki birdim: Bu atın bedelini verdim",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Çigil lehçesi",
+      "kaynak_sayfa": "381",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ötlük",
+      "anlam": "Öğüt",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "381",
+      "notlar": "Bu anlama gelecek biçimde övüt sözcüğü de kullanılır. Kök-biçimi ögût'tür.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ötnü",
+      "anlam": "Ödünç verilen şeyle bağlantılı olarak kullanılan bir ilgeç",
+      "ornek_metin": "men yarm âq ötnü birdim: Ben (ona) ödünç para verdim",
+      "cekimler": [],
+      "kelime_turu": "edat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "381",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ötrük",
+      "anlam": "Hileci, dolap çeviren adam",
+      "ornek_metin": "ötrük utun ogrılayu yüzke baqâr / elgin tüşüp birmiş aştg başra qaqâr / Düzenbaz ve adi olan kimse (konuğunun) yüzüne sanki hırsızmış gibi bakar (böylece insanlar arasında ayırt edileblir) / Konuğunu över ama verdiği yemeği onun başına kakar",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Oğuz lehçesi",
+      "kaynak_sayfa": "381",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ötrüldi",
+      "anlam": "Düdük vb. öttürülmek",
+      "ornek_metin": "SlblZgU ötrüldi: Düdük [başka bir şey de olabiliri öttürüldü.",
+      "cekimler": [
+        "ötrülür",
+        "ötrülm lk"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "381",
+      "notlar": "Metinde OCR hataları mevcuttur.",
+      "kontrol_gerekli": true
+    },
+    {
+      "kelime": "ötrüm",
+      "anlam": "Müshil",
+      "ornek_metin": "sut ötrüm: Sütotu.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "381",
+      "notlar": "Bu sözcük ses ve anlam olarak Arapçaya yakındır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ötrüşdi",
+      "anlam": "Birbirlerine mektupla veya başka bir şeyle ulaşmak",
+      "ornek_metin": "olâr bir blrke bitig ötrüşdi: Onlar birbirlerine mektupla [başka bir şeyle de olabiliri ulaştı,",
+      "cekimler": [
+        "ötrüşür",
+        "ötrüşmlk"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "381",
+      "notlar": "Bunun kök-biçimi ötgürüşdi'dir. Herhangi bir şeyin varlığını sürdürmek için yardımlaşmayı ya da rekabet etmeyi anlatmak için de bu sözcük kullanılır.",
+      "kontrol_gerekli": false
+    }
+  ]
+}

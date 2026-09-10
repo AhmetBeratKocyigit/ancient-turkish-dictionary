@@ -1,0 +1,688 @@
+{
+  "chunk_no": 4,
+  "kaynak_sayfa_baslangic": 141,
+  "kaynak_sayfa_bitis": 145,
+  "kelimeler": [
+    {
+      "kelime": "alturdum",
+      "anlam": "Paranın alınmasını emretmek.",
+      "ornek_metin": "men andan yarm âq alturdum: Ben ondan paranın alınmasını emrettim.",
+      "cekimler": [
+        "alturur men",
+        "alturmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "141",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "alüç",
+      "anlam": "Sarı erik, alıç.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "141",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "alüçin",
+      "anlam": "Yumruları olan yenilebilir bir ot.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "141",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "aluş",
+      "anlam": "Kâşgar’a bağlı bir köy adı.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "141",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "alwırdı",
+      "anlam": "Bir tartışma başlatmak isteyerek terslemek, sözcükleri yüzüne fırlatmak.",
+      "ornek_metin": "ol amgyüzlnge alwırdı: O sanki bir tartışma başlatmak istiyormuş gibi onu tersledi [sözcükleri onun yüzüne firlattı].",
+      "cekimler": [
+        "alwırâr",
+        "alm rm âq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "141",
+      "notlar": "Metinde 'ehvirmek' açıklaması geçmektedir.",
+      "kontrol_gerekli": true
+    },
+    {
+      "kelime": "am",
+      "anlam": "Kadın cinsel organı.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Oğuz ve Qıfçâq lehçeleri",
+      "kaynak_sayfa": "141",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "amaç",
+      "anlam": "Amaç, hedef.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "141",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "amaç",
+      "anlam": "Saban, pulluk.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "141",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "amaçladı",
+      "anlam": "Nişan almak.",
+      "ornek_metin": "er quşug amaçladı: Adam kuşa nişan aldı.",
+      "cekimler": [
+        "amaçlar",
+        "amaçlâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "141",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "amaçlıq",
+      "anlam": "Atış yapmak için nişangâh olarak kullanılabilecek yer.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "141",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "amdı",
+      "anlam": "Şimdi.",
+      "ornek_metin": "amdı keldim: Şimdi geldim. Öpkem kelip uğradım / Öfkem geldi uğradım (düşmanın üzerine yürüdüm) / arslanlayu kükredim / Aslan gibi kükredim / alplar başın togradım / Yiğitlerin başını doğradım / amdı meni kim tutar / (Kalabalığın ortasında) şimdi beni kim tutar? (diye bağırdım)",
+      "cekimler": [],
+      "kelime_turu": "ilgeç",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "141",
+      "notlar": "Oğuzlar elifi kesre’li söyler ve imdi der.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "amraq",
+      "anlam": "An gönül, sıcak yürek.",
+      "ornek_metin": "amraq köngül: An gönül, sıcak yürek.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "141",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "amruldı",
+      "anlam": "Durulmak, sakinleşmek, soluğu kesilmek.",
+      "ornek_metin": "qaynâr eşiç amruldı: Kaynayan tencere (üzerine soğuk su döküldüğü için) duruldu. er tînı amruldı: Adamın soluğu kesildi (ve öldü).",
+      "cekimler": [
+        "amrulur",
+        "amrulmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "141",
+      "notlar": "Coşkunluktan sonra dinen her şey için bu sözcük kullanılabilir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "amşan",
+      "anlam": "Kürk yapılan deri.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "141",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "amşüy",
+      "anlam": "Bir erik türü, sarı renktedir.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "141",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "amuç",
+      "anlam": "Armağan.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "141",
+      "notlar": "bkz. armağan",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "amul",
+      "anlam": "Hareketsiz, sakin, yumuşak huylu.",
+      "ornek_metin": "qança bardıhğ ay oğul / Nereye gittin ey oğul? / erdirig mende enç amul / Sen burada rahat idin / attın amdı sen tüngûî / Attan şimdi sen geçtin / qildihg erse qtlmâgu / Yapacağını yaptın",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "141-142",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "amurttı",
+      "anlam": "Yatıştırmak, sakinleştirmek, durultmak.",
+      "ornek_metin": "ol beg öpkesin amurttı: O, beyin öfkesini yatıştırdı. tosun münüp sekirtsün / (Bırakın onu) itaatsiz taya binip koştursun / esizlikin amurtsun / Onun asi doğasını sakinleştirsin (ve böylece onu sürebilsin) / ıtqa keyik qaytartsun / Köpeğini salıp avı bize doğru çevirsin / tutmış sânı umnalım / Onu artık yakalınmış sayalım",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "142",
+      "notlar": "İnatçı bir tayın sakinleştirilmesini, kaynayan bir suyun durulmasını ya da benzer durumları anlatmak için de bu sözcük kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "amuşdı",
+      "anlam": "Azarlandığı veya suçlandığı için sessiz bir biçimde başını öne eğmek.",
+      "ornek_metin": "amuşdı er: Adam [başka biri de olabilir] azarlandığı ya da suçlandığı için sessiz bir biçimde başını öne eğdi.",
+      "cekimler": [
+        "amuşür",
+        "amuşmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "142",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ana",
+      "anlam": "Ana.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "142",
+      "notlar": "Türkler der - Hoten halkı ve Kençekler hana der.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "anaç",
+      "anlam": "\"Halkın annesi\"ymiş gibi bilgece davranan küçük kız çocuğu.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "142",
+      "notlar": "Bu ad bir sevgi göstergesi olarak verilir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "anâlâdı",
+      "anlam": "Anne demek.",
+      "ornek_metin": "ol anı anâlâdı: O, ona anne dedi.",
+      "cekimler": [
+        "anâlâr",
+        "anâlâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "142",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "and",
+      "anlam": "Ant, yemin.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "142",
+      "notlar": "Buradan hareketle 'yemin et!' anlamına gelecek biçimde andıq denir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "anda",
+      "anlam": "Orada.",
+      "ornek_metin": "men anda erdim: Ben oradaydım.",
+      "cekimler": [],
+      "kelime_turu": "ilgeç",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "142-143",
+      "notlar": "Oğuzlar 'sonra' anlamında kullandıktan zaman sondaki elifi nun'a dönüştürür [andan der]; ancak 'orada' anlamında kullandıkları zaman diğer Türklere uyarlar.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "andâg",
+      "anlam": "Öyle.",
+      "ornek_metin": "andâg aydım: Öyle söyledim.",
+      "cekimler": [],
+      "kelime_turu": "ilgeç",
+      "dil_veya_lehce": "Çigil lehçesi",
+      "kaynak_sayfa": "143",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "andan",
+      "anlam": "Ondan sonra.",
+      "ornek_metin": "andan aydım: Ondan sonra söyledim.",
+      "cekimler": [],
+      "kelime_turu": "ilgeç",
+      "dil_veya_lehce": "Oğuz lehçesi",
+      "kaynak_sayfa": "143",
+      "notlar": "Türkler bu sözcüğü elifle anda biçiminde söyler, ancak bu orada anlamındadır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "andgardı",
+      "anlam": "Yemin ettirmek.",
+      "ornek_metin": "ol anı andgardı: O, ona yemin ettirdi.",
+      "cekimler": [
+        "andgarur",
+        "andgarmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "143",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "andgardım",
+      "anlam": "Yemin ettirmek.",
+      "ornek_metin": "men anı andgardım: Ben ona yemin ettirdim.",
+      "cekimler": [
+        "andgarur men",
+        "andgarmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "143",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "andıqtı",
+      "anlam": "Ant içmek.",
+      "ornek_metin": "er andıqtı: Adam ant içti. qoygaşıp yatsa anıg yuzınge / Koynuna girip yüzüne baksa / alsıqar Ögin anıg sözınğe / Onun sözleriyle aklını yitirir / ming kişi yulugı bölüp özhge / Bin kişi kendini ona feda eder [onun için fidyedir] / bergeler özin anıgközınge / Onun gözlerinin bir bakışı için ruhlarından vazgeçer",
+      "cekimler": [
+        "andıqâr",
+        "andıqmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "143",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "angardı",
+      "anlam": "Yemin ettirmek.",
+      "ornek_metin": "ol anı angardı: O, ona yemin ettirdi.",
+      "cekimler": [
+        "andgarur",
+        "andgarmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "143",
+      "notlar": "Kök-biçimi andgardı'dır - dal (d) hafifletme amacıyla atılmıştır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "anüdı",
+      "anlam": "Hazır olmak.",
+      "ornek_metin": "anüdı nerig: Nesne hazırdı.",
+      "cekimler": [
+        "anür",
+        "anümâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "144",
+      "notlar": "Bu geçişsiz bir biçimdir ve Arapçadaki n'adda'ya tekabül eder.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "anûmı",
+      "anlam": "Cüzam hastalığı.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "144",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "anundı",
+      "anlam": "Hazırlanmak.",
+      "ornek_metin": "olyâgıcja anundı: O, düşmana (başka bir şeye de olabilir] hazırlandı.",
+      "cekimler": [
+        "annur",
+        "anunmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "144",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "anuq",
+      "anlam": "Hazır olan herhangi bir şey.",
+      "ornek_metin": "anuq neng: Hazır olan herhangi bir şey. anuq utru tu tsa yöqqa sanmâs: Hazır olan öne konsa yok sayılmaz - hazırda olan yemek konuğun önüne konursa yemek verilmemiş sayılmaz.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "144",
+      "notlar": "Bu atasözü bir insana ev sahibi olarak verebileceği her şeyi vermesini öğütlemek için kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "anuqlâdı",
+      "anlam": "Hazır bulup almak.",
+      "ornek_metin": "ol anuqlâdı nerigni: O, nesneyi hazır bulup aldı.",
+      "cekimler": [
+        "anuqlâr",
+        "anuqlâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "144",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "anuqluq",
+      "anlam": "Hazır olma.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "144",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "anutgân",
+      "anlam": "Her zaman bir şeyler için hazır olan kimse.",
+      "ornek_metin": "bu er ol işıg anutgân: Bu, her zaman bir şeyler için hazır olan bir adamdır.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "144",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "anuttı",
+      "anlam": "Silah veya herhangi bir şeyi hazırlamak.",
+      "ornek_metin": "olyagıqa tulum anuttı: O, silahı düşman için hazırladı. tulum anutsa qulun bulur, tulum anutsa bulun bolûr: Silahlannı hazırlayan kişi (düşmanın üzerine yürümek için) tay da bulur, silahlarını hazırlamayı unutan kişi tutsak olur.",
+      "cekimler": [
+        "anutür",
+        "anutmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "144",
+      "notlar": "Bu atasözü her an hazır olmanın gerekliliğini dile getirir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ang",
+      "anlam": "Yağı ilaç olarak kullanılan bir kuş adı.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "144",
+      "notlar": "Yağı avuç içine sürülürse arkaya geçer.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ang",
+      "anlam": "Hayır.",
+      "ornek_metin": "ang ang: yok, yok.",
+      "cekimler": [],
+      "kelime_turu": "ilgeç",
+      "dil_veya_lehce": "Oğuz lehçesi",
+      "kaynak_sayfa": "144",
+      "notlar": "Kendisine bir şeyi yapması emredilen kimse ang ang: yok, yok der.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "angar",
+      "anlam": "Ona.",
+      "ornek_metin": "angar aydım: Ona söyledim. aydım angar sewük / Dedim ona sevgilim / bizni tapa nelük / Bizim yana yüksek (dağlan) / keçting yazı kerik / Seçerek yazıyı / qırlâr ediz bedük / Kulan geçerek nasıl geldin?",
+      "cekimler": [],
+      "kelime_turu": "ilgeç",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "144",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "angdîdı",
+      "anlam": "Kapan hazırlamak, tuzak kurmak.",
+      "ornek_metin": "awçı keyikni angdîdı: Avcı geyik için bir kapan hazırladı; ol anı angdîdı: O, onu yakalamak için tuzak kurdu.",
+      "cekimler": [
+        "arigdîr",
+        "angdimâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "145",
+      "notlar": "OCR metninde 'arigdîr' şeklinde geçmektedir.",
+      "kontrol_gerekli": true
+    },
+    {
+      "kelime": "angduz",
+      "anlam": "Anduzotunun yerden kazılıp çıkarılan ve atların karın ağrısına ilaç yapılan kökü.",
+      "ornek_metin": "arigduz bolsa at ölmes: Anduz olsa, at ölmez.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "145",
+      "notlar": "İlaç içirilir ve at iyileşir. Bu atasözü yolculara her an hazır olmalarını tavsiye etmek için kullanılır. (Metinde angduz / arigduz)",
+      "kontrol_gerekli": true
+    },
+    {
+      "kelime": "angıl",
+      "anlam": "Tamamen açık.",
+      "ornek_metin": "angıl açuq qapug: Tamamen açık kapı.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "145",
+      "notlar": "Metinde angıl / arigıl",
+      "kontrol_gerekli": true
+    },
+    {
+      "kelime": "angılâdı",
+      "anlam": "Anırmak.",
+      "ornek_metin": "eşyek anglladı: Eşek anırdı.",
+      "cekimler": [
+        "angfldr",
+        "angilâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "145",
+      "notlar": "",
+      "kontrol_gerekli": true
+    },
+    {
+      "kelime": "angıt",
+      "anlam": "Ördeğe benzer kızıl renkli bir kuş.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "145",
+      "notlar": "Metinde arigıt",
+      "kontrol_gerekli": true
+    },
+    {
+      "kelime": "angız",
+      "anlam": "Anız, hububat biçildikten sonra tarlada kalan köke yakın saplar.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "145",
+      "notlar": "Metinde arigız",
+      "kontrol_gerekli": true
+    },
+    {
+      "kelime": "ariğlâdı",
+      "anlam": "Anlamak.",
+      "ornek_metin": "ol SÖZÜg anglâdi: O, sözü [başka bir şeyi de olabiliri anladı.",
+      "cekimler": [
+        "anglâr",
+        "angldmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "Oğuz lehçesi",
+      "kaynak_sayfa": "145",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "angra-",
+      "anlam": "İnfilak etmek, inlemek (bkz. ınğra-).",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "145",
+      "notlar": "bkz. ınğra-",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ariğraşdı",
+      "anlam": "Acı içinde olmak.",
+      "ornek_metin": "oglân angraşdı: Bebekler [başka bir şey de olabilir] acı içindeydi.",
+      "cekimler": [
+        "angraşür",
+        "angraşmâcj"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "145",
+      "notlar": "",
+      "kontrol_gerekli": true
+    },
+    {
+      "kelime": "angut",
+      "anlam": "Şarap tıpası.",
+      "ornek_metin": "kart kiçig bolsa angut bedük ür: Delik küçük olsa da tıpayı büyük vur.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "145",
+      "notlar": "Bu atasözü bir kimseye, insanlara küçük bir işi sözüm ona büyükmüş gibi göstermesini tavsiye etmek için söylenir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ap",
+      "anlam": "Hayır, değil.",
+      "ornek_metin": "ap bu ap ol: Bu değil, o değil - ne bu, ne o.",
+      "cekimler": [],
+      "kelime_turu": "ilgeç",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "145",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ap ak",
+      "anlam": "Çok saf bir beyaz.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "145",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "apa",
+      "anlam": "Ayı.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Qıfçâq lehçesi",
+      "kaynak_sayfa": "145",
+      "notlar": "elif (a) işba‘lıdır [vezin gerektirdiği için sözcüğe bir yazaç ekleyerek ya da yazacı eğerek uzatmak].",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "apa başı",
+      "anlam": "Tannûm bitkisi, salatalığa benzer ve dikenli bir gövdesi vardır, dağlarda yenilir.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "145",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "apang",
+      "anlam": "Eğer.",
+      "ornek_metin": "aparig sen barsa sen: Eğersen vanrsan.",
+      "cekimler": [],
+      "kelime_turu": "ilgeç",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "145",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "aplân",
+      "anlam": "Sıçan türünden küçük bir hayvan.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "145",
+      "notlar": "",
+      "kontrol_gerekli": false
+    }
+  ]
+}

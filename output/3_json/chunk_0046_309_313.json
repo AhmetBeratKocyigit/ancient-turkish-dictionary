@@ -1,0 +1,781 @@
+{
+  "chunk_no": 46,
+  "kaynak_sayfa_baslangic": 309,
+  "kaynak_sayfa_bitis": 313,
+  "kelimeler": [
+    {
+      "kelime": "kesleşür",
+      "anlam": "Önceden sözleşmeden, aniden konuk olarak gelenler için verilen ziyafet",
+      "ornek_metin": "mınglâq erin bıçtımız öldürdük Mırigldcfın (bir yer adı] bütün erkeklerini kestem",
+      "cekimler": [
+        "kesleşür",
+        "kesleşmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "309",
+      "notlar": "",
+      "kontrol_gerekli": true
+    },
+    {
+      "kelime": "kestürdi",
+      "anlam": "Ağacı (başka bir şeyi de olabilir) kesme vazifesi vermek",
+      "ornek_metin": "ol angaryıgâç kestürdi: O, ona ağacı (başka bir şeyi de olabilir) kesme vazifesi verdi.",
+      "cekimler": [
+        "kestürür",
+        "kestürmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "309",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "keş",
+      "anlam": "Sadak",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Oğuzlar ve Qıfçâq",
+      "kaynak_sayfa": "309",
+      "notlar": "Oğuzlar ve onların Qıfçâq kardeşleri bu sözcüğü bilmez.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "keşmîr",
+      "anlam": "Türk ülkesindeki bir kentin adı",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "309",
+      "notlar": "Hz. Süleyman (Allah’ın salat ve selamı onun üzerine olsun) tarafından kurulmuştur.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "keten",
+      "anlam": "Zahmet, sıkıntı",
+      "ornek_metin": "keten kördi kerekiı yüdti: (O kadar çok) sıkıntıyla karşı karşıya kaldı ki, (kişisel eşyalarının azlığı nedeniyle) çadırını (tek başına) yüklendi (taşıyabildi) denir.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "309",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "keterdi",
+      "anlam": "Taşı yoldan kaldırmak, herhangi bir şeyi kaldırıp yerini değiştirmek",
+      "ornek_metin": "ol tâşıg yoldan keterdi: O, taşı yoldan kaldırdı.",
+      "cekimler": [
+        "keterür",
+        "ketermek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "309-310",
+      "notlar": "Değiştirmeyi anlatmak için de bu sözcük kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kesledi",
+      "anlam": "Kil parçaları atarak köpeği kovmak",
+      "ornek_metin": "ol ıtıg kesledi: O, kil parçalan atarak köpeği kovdu.",
+      "cekimler": [
+        "kesler",
+        "keslemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "309",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kesleşdi",
+      "anlam": "Nesnenin çıkıntıları kesildi; nesne parçalara ayrıldı",
+      "ornek_metin": "kesleşdi neng: Nesnenin çıkıntılan kesildi; nesne parçalara aynldı.",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "309",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "keslinçü",
+      "anlam": "Büyük kertenkele",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "309",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "keslindi",
+      "anlam": "Nesne kesildi",
+      "ornek_metin": "keslindi neng: Nesne kesildi.",
+      "cekimler": [
+        "keslinür",
+        "keslinmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "309",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kesme",
+      "anlam": "Demirden yapılmış, geniş bir temren",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "309",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kesme",
+      "anlam": "Perçem",
+      "ornek_metin": "tünle bile bastımız / Onlara gece saldırdık / tegme yangaq bustımız / Her yanda pusuya yattık / kesmelerin kestimiz / Atlarının perçemlerini kestik",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "309",
+      "notlar": "Uygurlar üzerine yapılan akını anlatıyor",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kesmelendi",
+      "anlam": "Kız zülüftendi, perçemi uzadı",
+      "ornek_metin": "qîZ kesmelendi: Kız zülüftendi, perçemi uzadı.",
+      "cekimler": [
+        "kesmelenür",
+        "kesmelenmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "309",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kester",
+      "anlam": "Çanak çömlek",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Uç lehçesi",
+      "kaynak_sayfa": "309",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kesürgü",
+      "anlam": "Deri heybe; dağarcık",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "309",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ketişdi",
+      "anlam": "İki kişi birbirinden ayrıldı",
+      "ornek_metin": "olâr bir ekitıdldln ketişdi: O ikisi birbirinden ayrıldı.",
+      "cekimler": [
+        "ketişür",
+        "ketişmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "310",
+      "notlar": "Kazanç elde ettikten sonra kendisinden bir şeyler gizleyen ortağını anlatan dörtlükte de kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ketki",
+      "anlam": "Sırtı çökük, göğüs bölgesi geniş at",
+      "ornek_metin": "ketki at: Sırtı çökük, göğüs bölgesi geniş at.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "310",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ketmen",
+      "anlam": "Toprağı parça parça yapmakta kullanılan şey; çapa",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "310",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ketti",
+      "anlam": "Adam giysisini giydi",
+      "ornek_metin": "er torun ketti: Adam giysisini giydi.",
+      "cekimler": [
+        "keder",
+        "kedmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "310",
+      "notlar": "Kök-biçimi kedti’dir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ketti",
+      "anlam": "Adam yerinden uzaklaştı",
+      "ornek_metin": "er yerindin ketti: Adam yerinden uzaklaştı.",
+      "cekimler": [
+        "keter",
+        "ketmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "310",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ketü",
+      "anlam": "Çolak",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "Qıfçâq lehçesi",
+      "kaynak_sayfa": "310",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ketüt",
+      "anlam": "Aksi ve huysuz yaşlı adam",
+      "ornek_metin": "ketût kişi: Aksi ve huysuz yaşlı adam.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "310",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kewçi",
+      "anlam": "Uygur’dan Kâşgar'a kadar kullanılan bir ağırlık ölçüsü. On rıtl’a denk gelir.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "310",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kewdi",
+      "anlam": "Adam kekeledi",
+      "ornek_metin": "er sözüg kewdi: Adam kekeledi.",
+      "cekimler": [
+        "kewer",
+        "kewmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "310",
+      "notlar": "Bunun kök-anlamı tançünı kewdi: lokmayı (ağzında) çiğneyip durdu, ama yutmadı ifadesinde verilen anlamdır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kewel",
+      "anlam": "Hızlı ve çevik at",
+      "ornek_metin": "kewel at: Hızlı ve çevik at.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "310",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kewgek",
+      "anlam": "Konuşurken kekeleyen kişi",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "310",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kewgin",
+      "anlam": "Doyurucu, besleyici olmayan bir yemek [ya da ot]",
+      "ornek_metin": "kewgin aş: Doyurucu, besleyici olmayan bir yemek [ya da ot].",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "310",
+      "notlar": "Bu çivvgiıı’in zıttıdır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kewig",
+      "anlam": "Burundaki kıkırdak",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "310",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kewredi",
+      "anlam": "Onun gücü zayıfladı. Gevşeyen, yumuşayan herhangi bir sert şeyi anlatmak için de bu sözcük kullanılır.",
+      "ornek_metin": "anıg küçi kewredi: Onun gücü zayıfladı.",
+      "cekimler": [
+        "kewrer",
+        "kewremek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "310-311",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kewşek",
+      "anlam": "Yumuşak ve esnek herhangi bir şey, örneğin ince bir giysi",
+      "ornek_metin": "kewşek neng: Yumuşak ve esnek herhangi bir şey, örneğin ince bir giysi.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "311",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kewşeng",
+      "anlam": "Harman temizlendikten sonra tahılın yığılmasına yardım eden kişiye verilen yemek cinsinden armağan",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "311",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kewildi",
+      "anlam": "Adam güçten düştü",
+      "ornek_metin": "er küçi kewildi: Adam güçten düştü.",
+      "cekimler": [
+        "kewilür",
+        "kewilmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "311",
+      "notlar": "Düşmanın etrafını çevirelim... dörtlükte de kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kewli",
+      "anlam": "Sulama arkının ağzı",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Kençek lehçesi",
+      "kaynak_sayfa": "311",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kewrek",
+      "anlam": "Herhangi bir esnek, yumuşak bitki, örneğin keneotu",
+      "ornek_metin": "kewrek neng: Herhangi bir esnek, yumuşak bitki, örneğin keneotu.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "311",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kewretti",
+      "anlam": "O, onun gücünü zayıflattı",
+      "ornek_metin": "ol anıg küçin kewretti: O, onun gücünü zayıflattı.",
+      "cekimler": [
+        "kewretür",
+        "kewretmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "311",
+      "notlar": "ödleg küni tawratür... dörtlükte de kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kewrik",
+      "anlam": "Dikenli bir ağaç",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "311",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kewşedi",
+      "anlam": "Deve geviş getirdi / Sert şey yumuşadı",
+      "ornek_metin": "tewe ot kewşedi: Deve geviş getirdi. qurç neng kewşedi: Sert şey yumuşadı.",
+      "cekimler": [
+        "kewşer",
+        "kewşemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "311",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kewşek",
+      "anlam": "Güzel mayalanmış, iyi pişmiş ve besleyici ekmek",
+      "ornek_metin": "kewşek etmek: Güzel mayalanmış, iyi pişmiş ve besleyici ekmek.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "311-312",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kewşendi",
+      "anlam": "Deve geviş getirdi",
+      "ornek_metin": "tewe kewşendi: Deve geviş getirdi.",
+      "cekimler": [
+        "kewşenür",
+        "kewşenmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "312",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kewşeşdi",
+      "anlam": "Develer birbirlerine bakarak geviş getirdi",
+      "ornek_metin": "tewe ot kewşeşdi: Develer birbirlerine bakarak geviş getirdi.",
+      "cekimler": [
+        "kewşeşür",
+        "kewşeşmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "312",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kewşetti",
+      "anlam": "O, sert şeyi gevşetti - katı bir nesneyi yumuşattı / O, devesine geviş getirtti",
+      "ornek_metin": "ol qatıg nengni kewşetti: O, sert şeyi gevşetti - katı bir nesneyi yumuşattı. ol tewesin kewşetti: O, devesine geviş getirtti.",
+      "cekimler": [
+        "kewşetür",
+        "kewşetmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "312",
+      "notlar": "Eylemlik [ve geniş zaman] kullanımı aynıdır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kewtürdi",
+      "anlam": "O, herhangi birine onun gücünü zayıflatma görevi verdi",
+      "ornek_metin": "ol anıg kâçin kewtürdi: O, herhangi birine onun gücünü zayıflatma görevi verdi.",
+      "cekimler": [
+        "kew turür",
+        "kewtürmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "312",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "keygen",
+      "anlam": "Qayâs’tan ila vadisine akan iki nehrin adı",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "312",
+      "notlar": "Küçüğüne kiçig keygen, büyüğüne ulug keygen denir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "keyik",
+      "anlam": "Herhangi bir şeyin vahşisi / Özellikle geyik ailesine mensup hayvanlar ya da eti yenilebilir avlar",
+      "ornek_metin": "keyik kişi: Vahşi (ilkel) adam. keyik söğüt: Yaban söğüdü.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "312",
+      "notlar": "Benzer bir biçimde herhangi bir evcil bitkinin yabani hali de keyik sözcüğüyle anlatılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "keylik",
+      "anlam": "Vahşi adam",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "312",
+      "notlar": "Buna benzetilerek bir o yana bir bu yana dönerek deliymiş ya da yabaniymiş gibi hareket eden kişiye de keylig kişi denir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "keyük",
+      "anlam": "Keçeden yapılmış başlık",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "zel'i (4) ye'yle. (y) değiştirenlerin lehçeleri",
+      "kaynak_sayfa": "312",
+      "notlar": "bkz. kedük [kedûk].",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kez",
+      "anlam": "Okun üzerindeki çentik; gez",
+      "ornek_metin": "oq kezi: Okun üzerindeki çentik; gez.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "312",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kez",
+      "anlam": "Bir yiyecekten geriye kalanlar",
+      "ornek_metin": "eşiç kezi: Süt ve un gibi şeylerin, kazanın dibine yapışan ve kazınarak alınması gereken kalıntıları.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "312",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kez",
+      "anlam": "Süslü bir Çin kumaşı türü",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "312",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kezdi",
+      "anlam": "O, ülkeyi gezdi, dolaştı",
+      "ornek_metin": "ol yerig kezdi: O, ülkeyi gezdi, dolaştı.",
+      "cekimler": [
+        "kezer",
+        "kezmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "312",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kezgerdi",
+      "anlam": "Adam, oku çentikledi - oku yaya uygun hale getirdi",
+      "ornek_metin": "er oq kezgerdi: Adam, oku çentikledi - oku yaya uygun hale getirdi.",
+      "cekimler": [
+        "kezgerür",
+        "kezgermek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "312-313",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kezig",
+      "anlam": "Dönüşümlü olarak yapılan bir işte sıra",
+      "ornek_metin": "serag kezıgtng keldi: Senin sıran geldi.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "313",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kezig",
+      "anlam": "Cesaret",
+      "ornek_metin": "bu fşta sariga kezig kerek: Bu işte sana cesaret gerek.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "313",
+      "notlar": "Aslında bunun anlamı da ilk anlamdan gelmektedir - “senin sıran geldi, cesur olman gerek.\"",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kezik",
+      "anlam": "Ateş ve titreme",
+      "ornek_metin": "sang kezik: Sarılık hastalığı.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "313",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kezişdi",
+      "anlam": "O, bana dünyayı dolaşma konusunda meydan okudu",
+      "ornek_metin": "ol manga yer kezişdi: O, bana dünyayı dolaşma konulunda meydan okudu.",
+      "cekimler": [
+        "kezişür",
+        "kezişmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "313",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kezitti",
+      "anlam": "O, beni ülkede gezdirdi",
+      "ornek_metin": "ol meni yer kezitti: O, beni ülkede gezdirdi.",
+      "cekimler": [
+        "kezitür",
+        "kezitmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "313",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kezledi",
+      "anlam": "O, okunun gezini düzeltti, ayarladı",
+      "ornek_metin": "ol oqın kezledi: O, okunun gezini düzeltti, ayarladı.",
+      "cekimler": [
+        "bezler",
+        "kezlemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "313",
+      "notlar": "Birinin tencerede kalan yemek artığını temizlemesini anlatmak için de bu sözcük kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kezlendi",
+      "anlam": "Ok gezlendi / Yiyecek artığı tencerenin dibine yapıştı",
+      "ornek_metin": "oq kezlendi: Ok gezlendi. eşiç kezlendi: Yiyecek artığı tencerenin dibine yapıştı.",
+      "cekimler": [
+        "kezlenür",
+        "kezlenmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "313",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kezleşdi",
+      "anlam": "O, oku gezlemekte ona meydan okudu",
+      "ornek_metin": "ol angar oq kezleşdi: O, oku gezlemekte ona meydan okudu.",
+      "cekimler": [
+        "kezleşür",
+        "kezleşmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "313",
+      "notlar": "Bu konuda yardımlaşmayı anlatmak için de bu sözcük kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kezletti",
+      "anlam": "O, okun gezinin onarılmasını, ayarlanmasını emretti",
+      "ornek_metin": "ol oq kezletti: O, okun gezinin onarılmasını, ayarlanmasını emretti.",
+      "cekimler": [
+        "kezletür",
+        "kezletmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "313",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kezlik",
+      "anlam": "Kadınların kaftanlarına tutturulmuş olarak sakladıkları küçük bir bıçak",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "313",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kibe",
+      "anlam": "Az sayıda gün",
+      "ornek_metin": "kibe boldı: Kısa bir süre geçti.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Oğuz lehçesi",
+      "kaynak_sayfa": "313",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kiçidi",
+      "anlam": "Vücudum kaşındı",
+      "ornek_metin": "etim kiçidi: Vücudum kaşındı.",
+      "cekimler": [
+        "kiçıry",
+        "kiçimek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "313",
+      "notlar": "Başka hayvanların kaşınmasını anlatmak için de bu sözcük kullanılır.",
+      "kontrol_gerekli": false
+    }
+  ]
+}

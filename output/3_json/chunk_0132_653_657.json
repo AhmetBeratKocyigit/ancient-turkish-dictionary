@@ -1,0 +1,720 @@
+{
+  "chunk_no": 132,
+  "kaynak_sayfa_baslangic": 653,
+  "kaynak_sayfa_bitis": 657,
+  "kelimeler": [
+    {
+      "kelime": "yalgandurdı",
+      "anlam": "Adam (birini) yalan söylemekle suçladı.",
+      "ornek_metin": "er yalgandurdı: Adam (birini) yalan söylemekle suçladı.",
+      "cekimler": [
+        "yalgandurür",
+        "yalgandurmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "653",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yalgaşdı",
+      "anlam": "Onlar balı birlikte yaladı.",
+      "ornek_metin": "olâr bâl yalgaşdı: Onlar balı [başka bir şeyi de olabilir] birlikte yaladı.",
+      "cekimler": [
+        "yalgaşür",
+        "yalgaşmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "653",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yalgattı",
+      "anlam": "O, ona bal yalattı.",
+      "ornek_metin": "ol arigar bâl yalgattı: O, ona bal yalattı.",
+      "cekimler": [
+        "yalgatür",
+        "yalgatmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "653",
+      "notlar": "bkz. yalwattı.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yalgu",
+      "anlam": "Dedikoducu, rezil bir adam",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Oğuz lehçesi",
+      "kaynak_sayfa": "653",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yalıg",
+      "anlam": "Horoz ibiği.",
+      "ornek_metin": "taquq yalgı: Horoz ibiği.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "653",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yalıg",
+      "anlam": "At yelesi",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "653",
+      "notlar": "yâl’ın değişik sesletimi. yel biçiminde kullanımıher iki kullanımdan da daha doğrudur",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yalıg",
+      "anlam": "Eyer-ağacının ön ve arkasındaki çıkıntılı bölüm; eyer kaşı.",
+      "ornek_metin": "Bu iki kaşı, birbirinden ayırt etmek için birine öngdünki yalıg: öndeki kaş ve diğerine kedinki yalıg: arkadaki kaş denir,",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "653",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yalıglandı",
+      "anlam": "Horoz ibiklendi - horozun ibiği büyüdü. Atın yelesinin uzaması.",
+      "ornek_metin": "taquq yahglandı: Horoz ibiklendi - horozun ibiği büyüdü. Atın yelesinin uzamasını anlatmak için de bu sözcük kullanılır.",
+      "cekimler": [
+        "yalıglanûr",
+        "yalıglanmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "653",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yalım",
+      "anlam": "Yalçın kayalıklı ve çıplak dağ.",
+      "ornek_metin": "yalım qaya: Yalçın kayalıklı ve çıplak dağ. Şu atasözünde de geçer, telim sözüg uqsa bolmâs, yalım qaya yıqsa bolmâs: (İnsan) kalabalık sözleri anlamaz, (tıpkı) sarp kayayı yıkamayacağı gibi.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "653",
+      "notlar": "Bu atasözü, birine, konuşmasının uzunluğunda ölçülülüğü elden bırakmamasını öğütlemek için kullanılır,",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yalın",
+      "anlam": "Alev.",
+      "ornek_metin": "öt yalını: Alev.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "653",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yalındaq",
+      "anlam": "Çıplak adam",
+      "ornek_metin": "yalındaq er: Çıplak adam,",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "653",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yalındı",
+      "anlam": "Adam soyundu.",
+      "ornek_metin": "er yalındı: Adam [başka biri de olabilir] soyundu.",
+      "cekimler": [
+        "yalınür",
+        "yalmmâı]"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "653",
+      "notlar": "",
+      "kontrol_gerekli": true
+    },
+    {
+      "kelime": "yalıng",
+      "anlam": "Yalın [kınından çıkarılmış] kılıç.",
+      "ornek_metin": "yalmg qılıç: Yalın [kınından çıkanlmış] kılıç.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "653",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yalıng",
+      "anlam": "Çıplak adam.",
+      "ornek_metin": "yalıng er: Çıplak (uryân) adam. Çıplak olan (cin) herhangi bir şeyi anlatmak için de yalıng sözcüğü kullanılır,",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "654",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yalma",
+      "anlam": "Kaim kaftan, yağmurluk.",
+      "ornek_metin": "ke-ennehu muteqabbî yalmaqin (“sanki yalmak giymiş gibiydi”).",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "654",
+      "notlar": "Farsîler bu sözcüğü Türklerden alarak yalm ah demiş, daha sonra Araplar da bunu Farsîlerden alıp...",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yalrigu",
+      "anlam": "Kızların oynadığı bir oyun [salıncak].",
+      "ornek_metin": "İpin iki ucunu bir ağaca ya da direğe bağlarlar; daha sonra bir kız ipin tam ortasına oturur ve yeri ayağıyla itmek suretiyle yukarı ve aşağı doğru sallanır,",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "654",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yalngüladı",
+      "anlam": "Kız salıncakta oynadı.",
+      "ornek_metin": "qlZ yalnğülddı: Kız [başka biri de olabiliri salıncakta oynadı.",
+      "cekimler": [
+        "yalngülâr",
+        "yalngülâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "654",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yalrîguq",
+      "anlam": "Allah'ın selamı üzerine olsun Âdem’e verilen bir ad.",
+      "ornek_metin": "yaltîguq oglı yöqâdür edgü atı qalîr: Âdemoğlu (ölümle birlikte) yiter gider, (eger hayırlı ameller yapmışsa) ardında iyi adı kalır.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "654",
+      "notlar": "Bu atasözü, birine, erdemli davranmasını öğütlemek için kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yalnguq",
+      "anlam": "İnsanoğlu.",
+      "ornek_metin": "yağı erür yalnguqnıg nengi tawâr / bilig eri yağısın nelük sewer / İnsanoğlunun zenginliği onun düşmanıdır / Bilge bir adam neden düşmanını sevsin ki",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "654",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yalriguq",
+      "anlam": "Cariye",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Oğuz, Qıfçâq ve Suvar lehçeleri",
+      "kaynak_sayfa": "654",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yalngüs",
+      "anlam": "Yalnız bir adam.",
+      "ornek_metin": "yalngüs qâz ötmes: Yalnız kaz ötmez. Bu atasözü, birine, başkalarının yardımım istemeşini öğütlemek için kullanılır.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "654",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yalpı",
+      "anlam": "Tıpkı derinliği olmayan bir tabak gibi ağaçtan oyulmuş her türlü geniş nesne.",
+      "ornek_metin": "yalpı neng: Tıpkı derinliği olmayan bir tabak gibi ağaçtan oyulmuş her türlü geniş nesne.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "655",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yalqdı",
+      "anlam": "O, sıvı yağ yüzünden midesini hasta etti.",
+      "ornek_metin": "ol yâgqa yalqdt: O, sıvı yag yüzünden midesini hasta etti. Şu atasözünde de geçer, yalqsa yeme yâg edgü, köyse yeme kûn edgü: Tereyağı hazımsızlığa neden olsa da (yavan ve tuzlu yiyecekten) yeğdir; güneş yaksa da (bulutlu ve puslu havadan) yeğdir,",
+      "cekimler": [
+        "yalqâr",
+        "yalqmdq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "655",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yalrıttı",
+      "anlam": "Beyaz boya onun yüzünü parlattı. Bir nesneyi parlatan, ışıldatan herhangi bir şey.",
+      "ornek_metin": "kirşen anıg yüzin yakıttı: Beyaz boya onun yüzünü parlattı. ol qumgânıg yakıttı: O, güğümü cilalayarak üzerindeki pası yok etti, ta ki güğüm parıldayana dek.",
+      "cekimler": [
+        "yalntür",
+        "yalrıtmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "655",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yalt",
+      "anlam": "Çıplak bir dağ ya da yalçın bir kaya. “Sert” olan herhangi bir şey.",
+      "ornek_metin": "yalt qaya: Çıplak bir dağ ya da yalçın bir kaya.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "655",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yaltga",
+      "anlam": "Bir şeyle alay etme.",
+      "ornek_metin": "ol anı yaltga qıldı: O, onunla alay etti,",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "655",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yalturdı",
+      "anlam": "Rüzgâr ateşi alevlendirdi.",
+      "ornek_metin": "tüpi ötug yalturdı : Rüzgâr ateşi alevlendirdi.",
+      "cekimler": [
+        "yalturur",
+        "yalturmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "655",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yalwâdı",
+      "anlam": "Adam yağı yaladı.",
+      "ornek_metin": "er yâg yalvı/âdı: Adam yağı Ibaşka bir şeyi de olabiliri yaladı.",
+      "cekimler": [
+        "yalwâr",
+        "yalwdmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "655",
+      "notlar": "Bu sözcük aynı anlama gelen yalgâdı sözcüğünden daha çok kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yahvandı",
+      "anlam": "Adam dilini çıkardı ve dudaklarını yaladı.",
+      "ornek_metin": "er ağzın yalwandı: Adam dilini çıkardı ve dudaklannı yaladı.",
+      "cekimler": [
+        "yalwanür",
+        "yalwanmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "655",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yahvardı",
+      "anlam": "O, benden, arzusunu gerçekleştirmesi için yardım etmemi istedi - o, bana yalvardı.",
+      "ornek_metin": "ol manga yalwardı: O, benden, arzusunu gerçekleştirmesi için yardım etmemi istedi - o, bana yalvardı.",
+      "cekimler": [
+        "yalw arur",
+        "yalwarmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "655",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yalwattı",
+      "anlam": "O, ona yağ yalattı.",
+      "ornek_metin": "d angar yâgyalw attı: O, ona yağ yalattı",
+      "cekimler": [
+        "yalwatûr",
+        "yalwatmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "656",
+      "notlar": "gayn’h (g) olan biçimin [yalgattı] değişik sesletimi.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yam",
+      "anlam": "Toz tanesi; çerçöp.",
+      "ornek_metin": "közkeyam tüşti: Göze toz kaçtı,",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "656",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yâm",
+      "anlam": "Göze ya da başka bir şeye kaçan toz tanesi ya da çerçöp.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "656",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yamadı",
+      "anlam": "O, giysiyi yamadı.",
+      "ornek_metin": "ol tön yamadı: O, giysiyi [başka bir şeyi de olabilir] yamadı,",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "656",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yamâg",
+      "anlam": "Yama.",
+      "ornek_metin": "barem yamağı barçmqa, qars yamağı qarsqa: İpek yama ipeğe (daha uygundur), yün yama yüne (daha uygundur).",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "656",
+      "notlar": "Bu atasözü “her şey kendi cinsinden olanla güzel\" anlamında kullanılır",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yamaglıg",
+      "anlam": "Yamalı giysi.",
+      "ornek_metin": "yamaglıg tön: Yamalı [onanlmış] giysi.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "656",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yamaglıq",
+      "anlam": "Yama olarak kullanılmak üzere hazırlanmış kumaş parçası.",
+      "ornek_metin": "yamagltq boz: Yama olarak kullanılmak üzere hazırlanmış kumaş parçası.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "656",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yamâgu",
+      "anlam": "Bu giysi onarılmalı - bu giysiye yama yapılmalı.",
+      "ornek_metin": "bu tön ol yamâgu: Bu grysi onanlmalı - bu giysiye yama yapılmalı,",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "656",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yamaldı",
+      "anlam": "Giysiye yama yapıldı.",
+      "ornek_metin": "tön yamaldı: Giysiye [başka bir şeye de olabiliri yama yapıldı.",
+      "cekimler": [
+        "yamalür",
+        "yamalmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "656",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yaman",
+      "anlam": "Herhangi bir şeyin rezil, çok kötü olanı.",
+      "ornek_metin": "yamân İg: Fil hastalığı.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "656",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yamandı",
+      "anlam": "Adam kendi giysisini yamama işini üzerine aldı.",
+      "ornek_metin": "er tönın yamandı: Adam kendi giysisini yamama işini üzerine aldı.",
+      "cekimler": [
+        "yamânür",
+        "yamânmâcj"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "656",
+      "notlar": "",
+      "kontrol_gerekli": true
+    },
+    {
+      "kelime": "yamar",
+      "anlam": "Yamar süvvı’nm geçtiği yerin adı (Yabâqu bozkırlarında akan büyük bir nehir).",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "656",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yamaşdı",
+      "anlam": "O, ona giysiye yama yapmakta yardım etti.",
+      "ornek_metin": "ol angar tön yamaşdı: O, ona giysiye [başka bir şeye de olabiliri yama yapmakta yardım etti.",
+      "cekimler": [
+        "yamashür",
+        "yamaşmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "656",
+      "notlar": "Bu işte çekişmeyi anlatmak için de bu sözcük kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yamaşdı",
+      "anlam": "mayışdı sözcüğünün değişik sesletimi; sözcük göçüşmeye maruz kalarak yamaşdı olur.",
+      "ornek_metin": "",
+      "cekimler": [
+        "yamâşür",
+        "yamaşmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "656",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yamgur",
+      "anlam": "Yağmur.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "656",
+      "notlar": "bkz. yağmur.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yamız",
+      "anlam": "Cinsel organın her iki yanında, uyluğun içten en üst kesiminde yer alan bölge [kasık].",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "657",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yamlâdı",
+      "anlam": "O, evini süpürdü.",
+      "ornek_metin": "ol ewin yamlâdı: O, evini süpürdü.",
+      "cekimler": [
+        "yamlâr",
+        "yamlâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "657",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yamlân",
+      "anlam": "Bir tür sıçan.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "657",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yamlaşdı",
+      "anlam": "O, ona evi süpürme işinde yardım etti.",
+      "ornek_metin": "ol angar ew yamlaşdı : O, ona evi [başka bir yeri de olabilir] süpürme işinde yardım etti.",
+      "cekimler": [
+        "yamlaşür",
+        "yamlaşmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "657",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yamlattı",
+      "anlam": "O, evinin süpürülmesini emretti.",
+      "ornek_metin": "ol evsin yamlattı: O, evinin süpürülmesini emretti.",
+      "cekimler": [
+        "yamlatür",
+        "yamlatmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "657",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yamlıg",
+      "anlam": "Toz kaçmış göz.",
+      "ornek_metin": "yamlıg köz: Toz kaçmış göz.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "657",
+      "notlar": "Kök-biçimi yâm lıgm.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yamraşdı",
+      "anlam": "Kuzular dişi koyunlarla karıştığı (kaynaştığı) durum.",
+      "ornek_metin": "qözı yamraşdı: Kuzular dişi koyunlarta kanştı (kaynaştı). Şu dörtlükte de kullanılır, (Yazı anlatıyor) qoçrigâr teke seşildi / (Yazın gelişiyle) koç ve tekeler (dişi ve koyun ve keçilerden) ayrıldı / saglıq sürüg qoşuldt / Sağılmak için dişi koyun sürüleri birleştirildi / sütler qamug yuşuldı / (Memelerden) bolca süt aktı / oglaq qözı yamraşür / Oğlaklar ve kuzular (süt emmek için) anneleriyle kaynaşır",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "657",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yamu",
+      "anlam": "“Bu sözleri kabul ettin ve sana söylenen şeyi yapmak için bunları iyice anladın mı?” anlamına gelen bir ilgeç.",
+      "ornek_metin": "sen bargıl yamu: Gideceksin, değil mi?",
+      "cekimler": [],
+      "kelime_turu": "edgat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "657",
+      "notlar": "Bunun kökü, “evet” anlamına gelen bir ilgeç olan yah sözcüğüdür. Sondaki mîm (m) ve vav (u) [ya (yah)-mu] soru ekidir,",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yân",
+      "anlam": "Kalça kemiğinin uçları. Kalça kemiğinin kendisi.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "657",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yana",
+      "anlam": "“Yine; ikinci kez” anlamına gelen bir ilgeç.",
+      "ornek_metin": "yana keldi: Yine [ikinci kez] geldi,",
+      "cekimler": [],
+      "kelime_turu": "edat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "657",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yana",
+      "anlam": "“Geri dönme” bildiren bir ilgeç.",
+      "ornek_metin": "yana keldim: Geri döndüm, ikinci kez geldim,",
+      "cekimler": [],
+      "kelime_turu": "edat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "657",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yançıldı (yençildi)",
+      "anlam": "Kavun (ya da benzer bir şey) ezildi.",
+      "ornek_metin": "qâgün yançıldı (yençildi): Kavun (ya da benzer bir şey) ezildi.",
+      "cekimler": [
+        "yançılür",
+        "yançılmâq (yençilür",
+        "yençilmek)"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "657",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yançuq",
+      "anlam": "Kese.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "657",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yandaq tiken",
+      "anlam": "Kitre ağacı [geven].",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "657",
+      "notlar": "",
+      "kontrol_gerekli": false
+    }
+  ]
+}

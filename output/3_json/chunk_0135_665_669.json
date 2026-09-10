@@ -1,0 +1,755 @@
+{
+  "chunk_no": 135,
+  "kaynak_sayfa_baslangic": 665,
+  "kaynak_sayfa_bitis": 669,
+  "kelimeler": [
+    {
+      "kelime": "yaraşdı",
+      "anlam": "yaradı, uydu, yaraştı",
+      "ornek_metin": "ol neng angar yarâdı: O şey ona uydu |yaraştı]. ata töm ogulqa yarasa atasın tilemes: Babanın .giysileri ogula olduğunda babasını istemez. / Bu, babasının giysileri kendisine uygun geldikten sonra ogulun artık babasının yaşamasını istemediği ve böylece mirası alabileceğini düşündüğü anlamına gelir. Bir başka yorum da artık yaşamak için babasına ihtiyaç duymadığı, çünkü kendi ihtiyaçlarını giderebildiğidir. Oğuzlar, y â yarâsun: yol yarasın - seyahatinde amacına ulaş derler.",
+      "cekimler": [
+        "yarar",
+        "yarâm âq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "Oğuz",
+      "kaynak_sayfa": "665",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yarag",
+      "anlam": "Fırsat; imkân; bir işin gerçekleşmesi için doğru zaman ve mekân",
+      "ornek_metin": "iş yarağında, sart aşığında: Olaylar (gerçekleşmeleri için) firsatı, tüccar kârını gözler - eğer kâr elde edeceğini biliyorsa sevdiği bir şeyi satmaktan bile çekinmez. fş yarağı (kör): İş için doğru zamanı ve seyri gör. yarag sözcüğünün değişik sesletimı.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "665",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yarâg",
+      "anlam": "Fırsat; imkân; bir işin gerçekleşmesi için doğru zaman ve mekân",
+      "ornek_metin": "fş yarağı (kör): İş için doğru zamanı ve seyri gör.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "665",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yaraglıg",
+      "anlam": "(Gerçekleşmesi) mümkün olan bir iş",
+      "ornek_metin": "yaraglıg fş: (Gerçekleşmesi) mümkün olan bir iş.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "665",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yaranışındı",
+      "anlam": "yaltaklandı",
+      "ornek_metin": "ol manga yaranışındı: O bana yaltaklandı.",
+      "cekimler": [
+        "yaramsınür",
+        "yaram smm âq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "665",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yarandı",
+      "anlam": "at, yarışa alışması için bir yolda koşturuldu; yaltaklandı",
+      "ornek_metin": "at yarandı: At, yanşa alışması için bir yolda koşturuldu. ol manga yarandı: O, bana yaltaklandı.",
+      "cekimler": [
+        "yaranür",
+        "yaranm âı}"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "665",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yarasa",
+      "anlam": "yersgû kelimesine bakınız",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "belirsiz",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "665",
+      "notlar": "bkz. yersgû.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yaraşdı",
+      "anlam": "Onlar meselede birbirleriyle uyuştu, anlaştı",
+      "ornek_metin": "olâr ekki yaraşdı: Onlar meselede birbirleriyle uyuştu, anlaştı. Şu dörtlükte de kullanılır, ortuq bolup bilişdi / O benimle ortak oldu ve birbirimizi bildik menig tawâr satışdı / Malımı satmama yardım etti biste bile yaraştı / (Ancak) bisteVle anlaştı kizlep tutar tâyımı / (And) tayımı benden sakladı",
+      "cekimler": [
+        "yaraşûr",
+        "yaraşm âq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "665-666",
+      "notlar": "biste sözcüğü ile ilgili uzun açıklama mevcuttur.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yaratgân",
+      "anlam": "yaratıcı",
+      "ornek_metin": "terigri ol yerig yaratgân: Cenabı Hak dünyanın (başka şeylerin de olabilir) yaratıcısıdır.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "666",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yarattı",
+      "anlam": "yarattı; uydurdu",
+      "ornek_metin": "terigri yalnguq yarattı: Allah, Âdem’i (ve diğer mahluklan) yarattı. Oğuzlar, ol tönug yarattı: O, giysiyi uydurdu |tam ölçüsünde ve şeklinde yaptı] der. bu etükni manga yarat: Bu çizmeyi bana uydur. ol özindin söz yarattı: O, kendi kendine yalan uydurdu.",
+      "cekimler": [
+        "yaratûr",
+        "yaratm âq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "Oğuz",
+      "kaynak_sayfa": "666",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yardı",
+      "anlam": "yardı; sınırların belirlenip toprağın paylaştırılması",
+      "ornek_metin": "er yıgâç yardı: Adam odunu (başka bir şeyi de olabilir] yardı.",
+      "cekimler": [
+        "yarar",
+        "yarm âq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "666",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yarıldı",
+      "anlam": "yarılıp açıldı",
+      "ornek_metin": "qâp yarıldı: Şarap tulumu [başka bir şey de olabiliri yarılıp açıldı.",
+      "cekimler": [
+        "yarılür",
+        "yarılmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "666",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yarım",
+      "anlam": "Herhangi bir şeyin yarısı",
+      "ornek_metin": "almılayarımı: Elmanın (başka bir şeyin de olabilir] yansı.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "666",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yarımlâdı",
+      "anlam": "yolu yarıladı",
+      "ornek_metin": "ol yölug yarımlâdı: O, yolu yarıladı.",
+      "cekimler": [
+        "yarımlar",
+        "yarımlâmaq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "666",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yarındandı",
+      "anlam": "Nesne yarımlar şeklinde paylaştırıldı",
+      "ornek_metin": "yanmlandı nerig: Nesne yanmlar şeklinde paylaştırıldı.",
+      "cekimler": [
+        "yarımlanür",
+        "yarımlanmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "666",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yarın",
+      "anlam": "Kürekkemiği",
+      "ornek_metin": "yarın bulgansa el bulganûr: Kürekkemiği zayıflarsa |güçten düşerse] ülke de zayıflar.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "666",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yarındaq",
+      "anlam": "Keçi derisinden kesilen bir Türk kayışı",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "666",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yarınlâdı",
+      "anlam": "onun kürekkemiğine vurdu",
+      "ornek_metin": "ol anı yarınlâdı: O, onun kürekkemiğine vurdu.",
+      "cekimler": [
+        "yarınlâr",
+        "yarınlâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "666",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yarıq",
+      "anlam": "Zırhlı giysiye ve vücuda giyilen zırha verilen genel bir ad",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "666",
+      "notlar": "Bunları ayırt etmek için “zırhlı giysi”ye kûpeyanq, “zırh”a sâyyarıq denir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yarıq",
+      "anlam": "İnsanın uyluklarının sonlandığı ve kalçasının şekillenmeye başladığı bölge",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "666-667",
+      "notlar": "Bu sözcük yarıldı neng: bir şey yarıldı, ikiye ayrıldı ifadesinden türetilmiştir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yarıqlandı",
+      "anlam": "zırhlı giysi giydi, zırh kuşandı",
+      "ornek_metin": "er yarıqlandı: Adam zırhlı giysi giydi - Adam zırh kuşandı.",
+      "cekimler": [
+        "yarıqlanûr",
+        "yarıqlanmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "667",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yarıqlıg",
+      "anlam": "Zırhla kaplanmış adam",
+      "ornek_metin": "yarıqlıg er: Zırhla kaplanmış adam.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "667",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yarış",
+      "anlam": "At yarışı",
+      "ornek_metin": "ol at yarıştı: O, atlan yarıştırdı.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "667",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yarış",
+      "anlam": "Malın iki adam arasında bölünmesi, paylaştırılması",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "667",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yarışdı",
+      "anlam": "at yarıştırdı; malı paylaştı",
+      "ornek_metin": "ol anıg birle at yarışdı: O, benimle at yarıştırdı. ol anıg birle tawâr yarışdı: O, onunla malı paylaştı.",
+      "cekimler": [
+        "yarışür",
+        "yarışmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "667",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yarlâdı",
+      "anlam": "onun yüzüne tükürdü",
+      "ornek_metin": "ol angıgyüzinge yarlâdı: O, onun yüzüne tükürdü.",
+      "cekimler": [
+        "yarlar",
+        "yarlâm âq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "667",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yarlıg",
+      "anlam": "Biçare; yoksul",
+      "ornek_metin": "yarlıg er: Biçare adam.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "667",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yarlıg",
+      "anlam": "Hakanın hükmü ya da buyruğu",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Çigil",
+      "kaynak_sayfa": "667",
+      "notlar": "Oğuzlar bu sözcüğü bilmez.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yarma",
+      "anlam": "Bir tür katlanmış ekmek [katmer]. Uzunlamasına yanlan herhangi bir şey",
+      "ornek_metin": "yarma yuvga: Bir tür katlanmış ekmek [katmer].",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "667",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yarmandı",
+      "anlam": "duvara tırmandı",
+      "ornek_metin": "er tâmqa yarmandı: Adam duvara [başka bir şeye de olabilir] tırmandı.",
+      "cekimler": [
+        "yarmanür",
+        "yarmanm â q"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "667",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yarmaq",
+      "anlam": "Para",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Uygur",
+      "kaynak_sayfa": "667",
+      "notlar": "Uygur lehçesinde yartmâq.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yarmaqlandı",
+      "anlam": "para sahibi oldu",
+      "ornek_metin": "er yarmaqlandı: Adam para sahibi oldu.",
+      "cekimler": [
+        "yarmaqlanûr",
+        "yarmaqlanm âq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "667",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yarmaş",
+      "anlam": "Kötü öğütülmüş, kalın taneli un",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "667-668",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yarm aş",
+      "anlam": "İyi öğütülmüş un",
+      "ornek_metin": "yarm aş ün: İyi öğütülmüş un.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "668",
+      "notlar": "Bu da iki zıt anlama sahip olan sözcüklerden biridir; ancak gerçekte bu sözcüklerin kök-anlamlan aynıdır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yarp",
+      "anlam": "Sağlam bir şey (muhkem)",
+      "ornek_metin": "yarp neng: Sağlam bir şey (muhkem).",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "668",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yarp",
+      "anlam": "Biri neşe içinde olduğu zaman yüzünü kaplayan ışıldama",
+      "ornek_metin": "anıgyarpı yazıldı: Sevinç duyduğu için yüzünün kırışıklan açıldı [yüzü ışıldadı).",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "668",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yarpattı",
+      "anlam": "iyileşti; bebek emekledi",
+      "ornek_metin": "iglig yarpattı: Hasta iyileşti. oğlan yarpattı: Bebek emekledi.",
+      "cekimler": [
+        "yarpatür",
+        "yarpatm dq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "668",
+      "notlar": "Kök-biçimi yarpâdtı'dır, benzeşime maruz kalmıştır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yarpuz",
+      "anlam": "Fesleğen; bir bitki",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "668",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yarpuz",
+      "anlam": "Firavun faresi. Yılanları öldüren bir hayvan",
+      "ornek_metin": "yılan yarpuzdın qaçâr, qança barsa yarpuz utru kelür: Yılan (daima) firavun faresinden kaçar, (ama) nereye giderse gitsin fare onun karşısına çıkar.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "668",
+      "notlar": "Bu atasözü sevmediği bir şeyden uzaklaşmaya çalışan, ancak sürekli onunla karşı karşıya gelen biri için kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yarsgâg",
+      "anlam": "Dağdaki ya da başka bir yerdeki kaygan bir kesim",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "668",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yarsıdı",
+      "anlam": "bir şeyi iğrenç buldu; onun tiksindirici olduğunu düşündü",
+      "ornek_metin": "ol yarsıdı nengni: O, bir şeyi iğrenç buldu; onun tiksindirici olduğunu düşündü.",
+      "cekimler": [
+        "yarsir",
+        "yarsimâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "668",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yarsınçıg",
+      "anlam": "Tiksindirici bir şey",
+      "ornek_metin": "yarsınçıg neng: Tiksindirici bir şey.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "668",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yarsıqdı",
+      "anlam": "oğlundan ayrı düştü",
+      "ornek_metin": "er oglındın yarsıqdı: Adam oğlundan ayn düştü.",
+      "cekimler": [
+        "yarsıqâr",
+        "yarsıqmdq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "668",
+      "notlar": "Bu durum içlerinden biri çölde kaybolur ve biri bir yere, diğeri başka bir yere ulaşırsa ya da biri düşmana tutsak olursa gerçekleşir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yarsıttı",
+      "anlam": "bir şeyin ona iğrenç görünmesini sağladı",
+      "ornek_metin": "ol anı yarsıttı: O, bir şeyin ona iğrenç görünmesini sağladı ve o tiksindiği için bunu yiyemedi.",
+      "cekimler": [
+        "yarsıtür",
+        "yarsıtmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "668",
+      "notlar": "Kökü yâr südtı: (İğrenç bulduğu bir şeyi ağzından dışan) tükürdü ifadesidir; benzeşime maruz kalmıştır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yarşı",
+      "anlam": "Bir şeyi yanya bölen kimse ya da bir şeyin yarısı",
+      "ornek_metin": "anıgyarşîsı bu: O, onunla bölüşen, yarısını paylaşan kimsedir. ol menig birle tdm yarşı: O, benimle bir evi yan yanya paylaşan bir komşudur",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "668",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yarşım",
+      "anlam": "Bir at yarışı parkuru büyüklüğündeki arazi",
+      "ornek_metin": "bir yarşım yer. Bir at yarışı parkuru büyüklüğündeki arazi.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "668-669",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yartım",
+      "anlam": "Kitleden ayrılmış bir grup insan",
+      "ornek_metin": "bıryartım bodün: Kitleden (halkın bütününden] aynlmış bir grup insan.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "669",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yartmâq",
+      "anlam": "Para",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Uygur",
+      "kaynak_sayfa": "669",
+      "notlar": "“Para” anlamına gelen yarmâq sözcüğünün Uygur lehçesindeki karşılığı.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yartu",
+      "anlam": "Yonga; talaş. Üzerinde yazı yazılan tahta",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "669",
+      "notlar": "Buna benzetilerek “üzerinde yazı yazılan tahta”ya da yartu denir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yarturdı",
+      "anlam": "odunu yarmasını emretti",
+      "ornek_metin": "ol angar yıgâç yarturdı: O, ona odunu [başka bir şeyi de olabiliri yarmasını emretti.",
+      "cekimler": [
+        "yarturur",
+        "yarturm âq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "669",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yaru",
+      "anlam": "Balık tutkalı",
+      "ornek_metin": "yaruyelim: Balık tutkalı.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "669",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yarüdı",
+      "anlam": "Güneş doğdu, ışıldadı; karanlık bir yer aydınlandı",
+      "ornek_metin": "kün yaradı; Güneş doğdu [ışıldadı].",
+      "cekimler": [
+        "yarûr",
+        "yarüm âq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "669",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yarüdı yaşüdı",
+      "anlam": "yaşüdı maddesine bakınız",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "belirsiz",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "669",
+      "notlar": "bkz. yaşüdı.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yaruq",
+      "anlam": "Aydınlık yer",
+      "ornek_metin": "yaruq yer. Aydınlık bir yer. yap yaruq neng: Çok parlak bir şey.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "669",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yaruq",
+      "anlam": "Yarık; topraktaki, duvardaki, dağdaki, camdaki bir çatlak",
+      "ornek_metin": "bu ayaqnıg yaruqı b â r Bu kabın çatlağı var.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "669",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yaruqluq",
+      "anlam": "Işık (nûr); aydınlık",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "669",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yarutgân",
+      "anlam": "aydınlatan",
+      "ornek_metin": "kün ol ajunugyarutgân: Güneş her zaman dünyayı aydınlatır.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "669",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yâs",
+      "anlam": "Kayıp; hüsran",
+      "ornek_metin": "anğıg telim yâsı tegdi: O çok fazla kayıp yaşayarak aa çekti.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "669",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yâs",
+      "anlam": "Ölüm; yıkım (mevt; helâk)",
+      "ornek_metin": "anıg oglı yâs boldı: Onun oğlu öldü.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Oğuz",
+      "kaynak_sayfa": "669",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yasdı",
+      "anlam": "askerlerini dağıttı, evlerine yolladı; çadırı çözdü",
+      "ornek_metin": "beg silsin yasdı: Bey askerlerini dağıttı [evlerine yolladı]. xân çuvâç yasdı: Han başı üzre yükselen hanlık çadınnı çözdü.",
+      "cekimler": [
+        "yasar",
+        "yasm âq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "669",
+      "notlar": "Bunun kök-anlamı er yâsm yasdı: Adam yayın telini çözdü, çıkarttı ifadesindeki anlamdır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yasgâç",
+      "anlam": "Hamur tahtası",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "669",
+      "notlar": "Kökü yası yıgâç: yassı ağaç’tır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yası",
+      "anlam": "Geniş, enli bir şey; yassı",
+      "ornek_metin": "yası neng: Geniş, enli bir şey; yassı.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "669",
+      "notlar": "",
+      "kontrol_gerekli": false
+    }
+  ]
+}

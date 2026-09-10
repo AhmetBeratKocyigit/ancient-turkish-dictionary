@@ -1,0 +1,615 @@
+{
+  "chunk_no": 131,
+  "kaynak_sayfa_baslangic": 649,
+  "kaynak_sayfa_bitis": 653,
+  "kelimeler": [
+    {
+      "kelime": "yağız",
+      "anlam": "Koyu kahverengi; kızıl ile siyah arasındaki bir renk. Dünya buna benzetilir ve yağız yer denir.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "649",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yağız at",
+      "anlam": "Yağız at",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "649",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yaglâdı",
+      "anlam": "Adam deriyi yağladı.",
+      "ornek_metin": "er qoguş yaglâdı: Adam deriyi [başka bir şeyi de olabilir] yağladı.",
+      "cekimler": [
+        "yağlar",
+        "yaglâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "649",
+      "notlar": "Kök-biçimi yâglâdı’dır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yağlandı",
+      "anlam": "Bir şey yağlandı [üzerine yağ sürüldü].",
+      "ornek_metin": "yağlandı neng: Bir şey yağlandı [üzerine yağ sürüldü].",
+      "cekimler": [
+        "yaglanûr",
+        "yaglanmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "649",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yağlattı",
+      "anlam": "O, derinin yağlanmasını emretti.",
+      "ornek_metin": "ol qoguşnı yağlattı: O, derinin [başka bir şeyin de olabiliri yağlanmasını emretti.",
+      "cekimler": [
+        "yaglatûr",
+        "yağlatmaq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "649",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yağma",
+      "anlam": "Bir Türk kavmi. Bunlara qara yağma da denir.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "649",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yağma",
+      "anlam": "Taraz [talâs] kenti yakınlarındaki bir köyün adı.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "649",
+      "notlar": "Bu kullanım ilk kullanımdan [bkz. yağma'] hareketle söz konusu olmuştur.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yağmalandı",
+      "anlam": "Adam Yağma üslubunda giyindi ve onlar gibi davrandı.",
+      "ornek_metin": "er yağmalandı: Adam Yağma üslubunda giyindi ve onlar gibi davrandı.",
+      "cekimler": [
+        "yagmalanür",
+        "yagmalanmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "649",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yağmur",
+      "anlam": "Yağmur, yamgur bir değişik sesletimdir.",
+      "ornek_metin": "neçe me opraq kedük erse yagmurqa yarâr: Kepenek ne kadar eskimiş olursa olsun, yağmurda işe yarar.\nquydı bulıt yagmurm / Bulut yağmurunu koyuverdi\nkerip tutar aq torîn / Sererek beyaz ağını gökyüzüne\nqırqa qodtı öl qarın / Bırakb kannı dağın üzerinde\naqın aqar angraşûr / Oradan akar sel inleyerek ve gürleyerek",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "649",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yagmurçıl",
+      "anlam": "Çok fazla yağmur alan yer - yağmurlu yer.",
+      "ornek_metin": "yagmurçıl yer: Çok fazla yağmur alan yer - yağmurlu yer.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "649-650",
+      "notlar": "Bu bir kuraldır; bir şey başka bir şey üzerindeki etkisini hiç durmadan sürdürürse, söz konusu etkiyi yaratan eylemin türediği ada sonek olarak cim (ç, c) ve lam (l) getirilir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yagrıttı",
+      "anlam": "O, atımda yağır oluşmasına neden oldu.",
+      "ornek_metin": "ol menig atıg yagrıttı: O, atımda Ibaşka bir hayvanımda da olabilir] yağır oluşmasına neden oldu.",
+      "cekimler": [
+        "yagrîtür",
+        "yagrıtmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "650",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yagru",
+      "anlam": "Yakın.",
+      "ornek_metin": "ol angar yagru yorîmös: O, onun yakınına gitmez.",
+      "cekimler": [],
+      "kelime_turu": "zarf",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "650",
+      "notlar": "Bunun kök-biçimi -kafla (q) söylenen- yaqru'dur; yakınlık nedeniyle kaf (q) gayn'la (g) yer değiştirir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yagsâdı",
+      "anlam": "Adam tereyağı ya da sıvı yağ istedi.",
+      "ornek_metin": "er yagsâdı: Adam tereyağı ya da sıvı yag istedi.",
+      "cekimler": [
+        "yagsâr",
+        "yagsâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "650",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yagsidı",
+      "anlam": "Bir şey sıvı yağın tadını aldı.",
+      "ornek_metin": "yagsîdl neng: Bir şey sıvı yağın tadını aldı.\nyaqrı yâgı yagsimâs: İçyagını döken kimse sıvı yag gibi aktığını göremez - içyağı sıvı yag gibi akmaz.",
+      "cekimler": [
+        "yagsîr",
+        "yagsimâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "650",
+      "notlar": "Kök-biçimi yûgsâdı’dır - benzeşime maruz kalmıştır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yagturdı",
+      "anlam": "Cenab-ı Hak yağmur yağdırdı.",
+      "ornek_metin": "terigri yağmur yagturdı: Cenab-ı Hak yağmur yağdırdı.",
+      "cekimler": [
+        "yagturur",
+        "yagturmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "650",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yagüdı",
+      "anlam": "Beyin gelişi yaklaştı.",
+      "ornek_metin": "beg kelmeki yagüdı: Beyin gelişi yaklaştı.",
+      "cekimler": [
+        "yagür",
+        "yagûmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "650",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yagüq",
+      "anlam": "Yakın bir yer.",
+      "ornek_metin": "yagüq yer: Yakın bir yer.\nyaq yagüq: Hısımlar; akrabalar.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "650",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yaguşdı",
+      "anlam": "Bir şey, başka bir şeye yaklaştı.",
+      "ornek_metin": "bir neng birke yaguşdı: Bir şey, başka bir şeye yaklaştı.",
+      "cekimler": [
+        "yaguşür",
+        "yaguşmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "650",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yagutgân",
+      "anlam": "O, iyilikleriyle kendisini daima insanlara yaklaştıran bir adamdır.",
+      "ornek_metin": "ol kişi ol özin yagutgân: O, iyilikleriyle kendisini daima insanlara yaklaştıran bir adamdır.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "650-651",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yaguttı",
+      "anlam": "O, atı benim yakınıma getirdi [yaklaştırdı].",
+      "ornek_metin": "ol atıg manga yaguttı: O, atı benim yakınıma getirdi.\nkelse üme tüşürgil tınsun anıg aruqluq / arpa saman yagutgıl bulsunatı yaruqluq: Sana konuk gelirse onun inmesine yardım et ki dinlenebilsin / Ve onun yanına saman ve arpa götür ki at istirahatın aydınlığını hissetsin",
+      "cekimler": [
+        "yagutür",
+        "yagutmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "650-651",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yâh",
+      "anlam": "Evet, peki",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "ünlem",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "651",
+      "notlar": "Atı tut diyen birini yanıtlamak için kullanılır ve yâh biçiminde karşılık verilir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yâl",
+      "anlam": "Atın yelesi; yelenin uzadığı bölge.",
+      "ornek_metin": "at yalı: Atın yelesinin olduğu bölge - üzerinde yelenin uzadığı deri.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Bütün lehçelerde",
+      "kaynak_sayfa": "651",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yala",
+      "anlam": "Belli bir meseleye dair suçlama, töhmet altında bırakma.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "651",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yalâçı",
+      "anlam": "Birini, bir şey nedeniyle, suçlama konusunda aceleci davranan adam.",
+      "ornek_metin": "yalâçı yuga (yuvgd): katlanmış ekmek [katmer] denir. Bu hamur işi çok ince olması nedeniyle en ufak bir dokunuşta bile kırılır, insanlarda fırıncıyı suçlar ve \"bunu sen kırdın!\" derler.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "651",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yaladı",
+      "anlam": "O, onun hırsızlık yaptığından şüphelendi ya da onu hırsızlıkla itham etti.",
+      "ornek_metin": "ol angar ogn yalâch: O, onun hırsızlık yapbğından şüphelendi ya da onu hırsızlıkla itham etti.",
+      "cekimler": [
+        "yalar",
+        "yalâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "651",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yalaldı",
+      "anlam": "O, yapmadığı bir şeyle [kuru iftirayla] suçlandı.",
+      "ornek_metin": "arîgar qurugyala yalaldı: O, yapmadığı bir şeyle [kuru iftirayla] suçlandı.",
+      "cekimler": [
+        "yalalür",
+        "yelalmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "651",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yalaşdı",
+      "anlam": "Onlar karşılıklı olarak birbirlerinin hırsızlık yaptığında şüphelendi ya da birbirlerini bununla itham ettiler.",
+      "ornek_metin": "olâr bir ekindîke ogn yalaşdı: Onlar karşılıklı olarak birbirlerinin hırsızlık yaptığında şüphelendi ya da birbirlerini bununla itham ettiler.",
+      "cekimler": [
+        "yalaşûr",
+        "yalaşmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "651",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yalâwaç",
+      "anlam": "Peygamber (resul).",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "651",
+      "notlar": "Yalâvaç bir değişik sesletimdir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yalâwar",
+      "anlam": "Hakanın yolladığı elçilere verilen ad.",
+      "ornek_metin": "yaş ot kûymes, yalâw ar ölmes: Yaş ot yanmaz, elçi ölmez.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Uygur lehçesi",
+      "kaynak_sayfa": "651-652",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yaldı",
+      "anlam": "Ateş alevlendi / Yara yandı / Güneş yüzünü yaktı.",
+      "ornek_metin": "öt yaldı: Ateş alevlendi.\nbâş yaldı: Yarayandı.\nkürı yüzügyaldı: Güneş yüzünü yaktı.",
+      "cekimler": [
+        "yalar",
+        "yalmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "652",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yaldridı",
+      "anlam": "Güneş donuk, belli belirsiz bir biçimde parıldadı.",
+      "ornek_metin": "künyaldrîdı: Güneş donuk, belli belirsiz bir biçimde panldadı.",
+      "cekimler": [
+        "yaldrir",
+        "yaldrîmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "652",
+      "notlar": "Kök-biçimi yaldrıdı'dır. Şimşeğin ya da ateşin zayıf bir biçimde parlamasını anlatmak için de bu sözcük kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yaldrıq",
+      "anlam": "Tıpkı cilalanmış bir kâse ya da benzer bir şey gibi ışıldayan nesne.",
+      "ornek_metin": "yaldnq neng: Tıpkı cilalanmış bir kâse ya da benzer bir şey gibi ışıldayan bir nesne.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "652",
+      "notlar": "\"Süslenip püslenmiş bir kadın\"a da yaldnq eşler denir. Yoldrıq olarak da söylenir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yalga",
+      "anlam": "Fergâna ile Türk ülkesi arasındaki aşılamaz bir dağ geçidi.",
+      "ornek_metin": "qara müıig kelmeginçe qara yalga keçme: Kara bela üzerine gelmediği sürece, qara yalga'yı geçme.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "652",
+      "notlar": "qara yalga olarak geçer.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yalgâdı",
+      "anlam": "Kâseyi yaladı.",
+      "ornek_metin": "ayâqyalgâdı: Kâseyi yaladı.\nyaqâdâqı yalgâgâh eligdeki ıçgmür: Yakasındakini yalamaya çalışan, elindekinden olur.",
+      "cekimler": [
+        "yalgâr",
+        "yalgâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "652",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yalgân",
+      "anlam": "Yalan.",
+      "ornek_metin": "yalgân kişi: Yalancı.\nyalgân söz: Yalan söz.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "652",
+      "notlar": "Bu sözcük aynı zamanda sıfat olarak da kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yalgandı",
+      "anlam": "Adam kendini çanak yalamaya verdi.",
+      "ornek_metin": "er çanâq yalgandı: Adam kendini çanak yalamaya verdi.",
+      "cekimler": [
+        "yalganür",
+        "yalganmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "652",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yalgandurdı",
+      "anlam": "Adam birini yalan söylemekle suçladı.",
+      "ornek_metin": "er yalgandurdı: Adam birini yalan söylemekle suçladı.",
+      "cekimler": [
+        "yalgandurür",
+        "yalgandurmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "652-653",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yalgaşdı",
+      "anlam": "Onlar balı birlikte yaladı.",
+      "ornek_metin": "olâr bâl yalgaşdı: Onlar balı birlikte yaladı.",
+      "cekimler": [
+        "yalgaşür",
+        "yalgaşmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "653",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yalgattı",
+      "anlam": "O, ona bal yalattı.",
+      "ornek_metin": "ol arigar bâl yalgattı: O, ona bal yalattı.",
+      "cekimler": [
+        "yalgatür",
+        "yalgatmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "653",
+      "notlar": "Bkz. yalwattı.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yalgu",
+      "anlam": "Dedikoducu, rezil bir adam.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Oğuz lehçesi",
+      "kaynak_sayfa": "653",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yalıg",
+      "anlam": "Horoz ibiği.",
+      "ornek_metin": "taquq yalgı: Horoz ibiği.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "653",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yalıg",
+      "anlam": "At yelesi, yâl’ın değişik sesletimi.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "653",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yalıg",
+      "anlam": "Eyer-ağacının ön ve arkasındaki çıkıntılı bölüm; eyer kaşı.",
+      "ornek_metin": "öngdünki yalıg: öndeki kaş\nkedinki yalıg: arkadaki kaş",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "653",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yalıglandı",
+      "anlam": "Horozun ibiği büyüdü / Atın yelesi uzadı.",
+      "ornek_metin": "taquq yahglandı: Horoz ibiklendi - horozun ibiği büyüdü.",
+      "cekimler": [
+        "yalıglanûr",
+        "yalıglanmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "653",
+      "notlar": "Atın yelesinin uzamasını anlatmak için de bu sözcük kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yalım",
+      "anlam": "Yalçın kayalıklı ve çıplak dağ.",
+      "ornek_metin": "yalım qaya: Yalçın kayalıklı ve çıplak dağ.\ntelim sözüg uqsa bolmâs, yalım qaya yıqsa bolmâs: (İnsan) kalabalık sözleri anlamaz, (tıpkı) sarp kayayı yıkamayacağı gibi.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "653",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yalın",
+      "anlam": "Alev.",
+      "ornek_metin": "öt yalını: Alev.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "653",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yalındaq",
+      "anlam": "Çıplak adam.",
+      "ornek_metin": "yalındaq er: Çıplak adam.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "653",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yalındı",
+      "anlam": "Adam soyundu.",
+      "ornek_metin": "er yalındı: Adam soyundu.",
+      "cekimler": [
+        "yalınür",
+        "yalınmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "653",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yalıng",
+      "anlam": "Yalın [kınından çıkarılmış] kılıç.",
+      "ornek_metin": "yalmg qılıç: Yalın [kınından çıkarılmış] kılıç.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "653",
+      "notlar": "",
+      "kontrol_gerekli": false
+    }
+  ]
+}

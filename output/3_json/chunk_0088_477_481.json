@@ -1,0 +1,698 @@
+{
+  "chunk_no": 88,
+  "kaynak_sayfa_baslangic": 477,
+  "kaynak_sayfa_bitis": 481,
+  "kelimeler": [
+    {
+      "kelime": "sâw",
+      "anlam": "Kelam, hadis, haber, söz",
+      "ornek_metin": "sâw. Hadis [haberler, sözler]. Buradan hareketle bir peygambere sâwçı denir...",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "477",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sâwçı",
+      "anlam": "Cenab-ı Hakk’ın resulü, peygamber; gelin ve güveyin aileleri arasında gidip gelen, haber taşıyan kimse",
+      "ornek_metin": "Sâwçı. Cenab-ı Hakk’ın resulü. Kökü “hadis, kelam, mesel” anlamına gelen sâw sözcüğüne dayanır; nitekim Peygamber bunlan aktaran kişidir.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Oğuz lehçesi",
+      "kaynak_sayfa": "477",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sawdıç",
+      "anlam": "Ağaç dallarından örülen, meyve ve benzer şeyleri taşımaya yarayan bir nesne, sepet",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "477",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sawdıçlandı",
+      "anlam": "Adam sepet sahibi oldu",
+      "ornek_metin": "er sawdıçlandı: Adam sepet sahibi oldu.",
+      "cekimler": [
+        "sawdıçlanûr",
+        "sawdıçlanmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "477",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sawlâdı",
+      "anlam": "O, çok fazla konuştu",
+      "ornek_metin": "telim sawlâdı: O, çok fazla konuştu.",
+      "cekimler": [
+        "sawlâr",
+        "sawlâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "477",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sâturdı",
+      "anlam": "O, ona koyun [başka bir şey de olabilir] saydırdı",
+      "ornek_metin": "ol angar qöy sâturdı: O, ona koyun [başka bir şey de olabilir] saydırdı,",
+      "cekimler": [
+        "sâturur",
+        "sâturmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "477",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sâw",
+      "anlam": "Mesel, atasözü",
+      "ornek_metin": "sâwda mundag kelir: Meselde böyle denir.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "477",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sâw",
+      "anlam": "Kıssa",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "477",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sâw",
+      "anlam": "Hikâye, anlatı",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "477",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sâw",
+      "anlam": "Risâle, mesaj",
+      "ornek_metin": "bilge eren savuların algıl öğüt / edgü savvıg edlese Özke singer",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "477",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sawaşdı",
+      "anlam": "O ikisi savaştı, çarpıştı",
+      "ornek_metin": "olâr ekki sawaşdı: O ikisi savaştı, çarpıştı (Oğuz lehçesi).",
+      "cekimler": [
+        "sawaşür",
+        "sawaşmdq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "Oğuz lehçesi",
+      "kaynak_sayfa": "477",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sawlaşdı",
+      "anlam": "O ve ben birbirimize meseller söyledik",
+      "ornek_metin": "ol menig birle sawlaşdı : O ve ben birbirimize meseller söyledik.",
+      "cekimler": [
+        "sawlaşûr",
+        "sawlaşmaq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "477-478",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sawruldı",
+      "anlam": "Nehir dalgalarla kabardı; tencerede kaynayan çorbanın taşmaması için kepçeyle alınıp tekrar dökülerek yatıştırılması; buğdayın savrulup tanelerinin ayrılması; gözyaşının damlaması",
+      "ornek_metin": "süvv sawruldı: Nehir dalgalarla kabardı. tarıg sawruldı: Buğday savruldu [ve taneleri ayrıldı], yaş kozdirı sawruldı: Gözyaşı, gözden damladı",
+      "cekimler": [
+        "savvrulür",
+        "sawrulmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "478",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sawruqtı",
+      "anlam": "Gözden gözyaşı damladı, nehirlerde akan su dalgalanıp kabardı",
+      "ornek_metin": "közden yâş sawruqtı: Gözden gözyaşı damladı. Nehirlerde akan su dalgalanıp kabardı­ğı zaman da bu sözcük kullanılır.",
+      "cekimler": [
+        "sawruqâr",
+        "sawruqmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "478",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sawruşdı",
+      "anlam": "O, buğdayı savurup tanelerini ayıklamakta bana yardım etti",
+      "ornek_metin": "ol manga tarıg savvrujdı: O, buğdayı [başka bir şeyi de olabilir] savurup tanelerini ayıklamakta bana yardım etti.",
+      "cekimler": [
+        "savjruşûr",
+        "sawruşmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "478",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sawuldı",
+      "anlam": "Güneş batmaya başladı; gönlüm ona meyletti; bir konumdan aşağı inen veya eğilen şey",
+      "ornek_metin": "kün sawuldı: Güneş batmaya başladı. könglüm angâr sawuldı: Gönlüm ona meyletti.",
+      "cekimler": [
+        "saıvulur",
+        "sawulmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "478-479",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sawurdı",
+      "anlam": "Adam buğdayı savurdu ve tanelerini ayırdı",
+      "ornek_metin": "er tang samırdt: Adam buğdayı savurdu [ve tanelerini ayırdı].",
+      "cekimler": [
+        "sawurâr",
+        "sawurmöq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "479",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sawurttı",
+      "anlam": "O, ona buğday savurttu",
+      "ornek_metin": "ol anğar tang sawurttı: O, ona buğday [başka bir şey de olabilir] savurttu.",
+      "cekimler": [
+        "sawurtur",
+        "sawurtmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "479",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "saxsm",
+      "anlam": "Bulgar’a yakın bir kent (Suvar kenti)",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "479",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "say",
+      "anlam": "Taşlık zemin",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "479",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sây yarıq",
+      "anlam": "Vücuda giyilen zırh",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "479",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "saygırdı",
+      "anlam": "Toprak neredeyse taşlık bir arazi haline geliyordu",
+      "ornek_metin": "yer saygırdı: Toprak neredeyse taşlık bir arazi haline geliyordu [zemin, taşlık olayazdı].",
+      "cekimler": [
+        "saygırdr",
+        "saygırmâa"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "479",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sayıqtı",
+      "anlam": "Toprak taşlık bir arazi haline geldi",
+      "ornek_metin": "yer sayıqtı: Toprak taşlık bir arazi haline geldi.",
+      "cekimler": [
+        "sayıqâr",
+        "sayıqmdq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "479",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "saypâdı",
+      "anlam": "O, zenginliğini çarçur etti",
+      "ornek_metin": "ol tavârın saypâdı: O, zenginliğini çarçur etti.",
+      "cekimler": [
+        "saypâr",
+        "saypâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "479",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "saypattı",
+      "anlam": "O, onun zenginliğini çarçur etmesine neden oldu",
+      "ornek_metin": "ol tawânn saypattı: O, onun zenginliğini çarçur etmesine neden oldu.",
+      "cekimler": [
+        "saypalür",
+        "saypatmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "479",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sayrâdı",
+      "anlam": "Bülbül güzel bir ezgiyle şakıdı",
+      "ornek_metin": "sanduvâç sayrâdı: Bulbü[gûzel bir ezgiyle şakıdı.",
+      "cekimler": [
+        "sayrâr",
+        "sayrâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "479",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sayrâdı",
+      "anlam": "Adam abuk sabuk konuştu, saçmaladı",
+      "ornek_metin": "er telim sayrâdı: Adam abuk sabuk konuştu, saçmaladı - Bu sözcüğün ik i zıt anlamı vardır.",
+      "cekimler": [
+        "sayrâr",
+        "sayrâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "479",
+      "notlar": "Bu sözcüğün iki zıt anlamı vardır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sayram",
+      "anlam": "Sipencâb (Kale-i Sejid) da denilen Beyaz Kent’in (Medine-i Beyza) adı",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "479",
+      "notlar": "Değişik sesletimi saryam'dır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sayram suvv",
+      "anlam": "Sığ su",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "479",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sayramlandı",
+      "anlam": "Su bir parça çekildi, sığlaştı",
+      "ornek_metin": "sûvv sayramlandı: Su bir parça çekildi, sığlaştı.",
+      "cekimler": [
+        "sayramlanür",
+        "sayramlanmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "479",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sayraşdı",
+      "anlam": "Onlar sanki sayıklıyormuş gibi çokça konuştular; kuşlar ötüştü",
+      "ornek_metin": "olâr telim sayraşdılâr: Onlar sanki sayıklıyormuş gibi çokça konuştular. quşlâr sayraşdı: Kuşlar ötüştü.",
+      "cekimler": [
+        "sayraşür",
+        "sayraşmâcj"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "479-480",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sayrattı",
+      "anlam": "O, ona çok söz söyletti",
+      "ornek_metin": "ol angar sayrattı sözüg: O, ona çok söz söyletti.",
+      "cekimler": [
+        "sayratür",
+        "sayratmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "480",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "seçe",
+      "anlam": "Serçe",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Oğuz lehçesi",
+      "kaynak_sayfa": "480",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sedretti",
+      "anlam": "O, giysiyi ince bir biçimde dokudu; halkı dağıttı, yaydı",
+      "ornek_metin": "ol tönug sedretti: O, giysiyi ince bir biçimde dokudu. d ikişini sedretti: O, halkı dağıttı [yaydı].",
+      "cekimler": [
+        "sedretür",
+        "sedretmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "480",
+      "notlar": "Tıka basa dolu, sıkışık herhangi bir şeyin öğelerini azaltmayı onu seyrekleştirmeyi anlatmak için de bu sözcük kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sedredi",
+      "anlam": "Halk dağıldı, seyrekleşti; giysi inceldi, yıprandı",
+      "ornek_metin": "kişi sedredi: Halk dağıldı [seyrekleşti], tön sedredi: Giysi jnceldi, yıprandı",
+      "cekimler": [
+        "sedrer",
+        "sedrem ek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "480",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sedrek böz",
+      "anlam": "Gevşek dokunmuş kumaş",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "480",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sedrek qapug",
+      "anlam": "Üzerinde bir ızgara ya da kafes olan kapı",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "480",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sedreşdi",
+      "anlam": "Giysi kalınlığını ve dokusunun yoğunluğunu kaybetti; halk dağıldı, yayıldı",
+      "ornek_metin": "tön sedreşdi: Giysi kalınlığını ve dokusunun voüunluöunu kaybetti. bodûn sedreşdi: Halk dağıldı [yayıldı].",
+      "cekimler": [
+        "sedreşür",
+        "sedreşmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "480",
+      "notlar": "Herhangi bir şey yoğun ya da kaimken incelir, seyrekleşir ya da gevşerse yine bu sözcük kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sekirme",
+      "anlam": "Hoten yolunda bulunan küçük bir kentin adı",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "480",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sekirtti",
+      "anlam": "O, atı doludizgin koşturdu",
+      "ornek_metin": "ol at sekirtti: O, atı Ibaşka bir şeyi de olabilir] doludizgin koşturdu.",
+      "cekimler": [
+        "sekirtür",
+        "sekirtmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "480",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sekiz",
+      "anlam": "Sekiz sayısı",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "480",
+      "notlar": "Bu, sekkız sözcüğünün hafifletilmiş biçimidir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sekrıdi",
+      "anlam": "Adam suyun içine atladı",
+      "ornek_metin": "er sııwqa sekridı: Adam suyun içine [başka bir yere de olabiliri atladı.",
+      "cekimler": [
+        "seknr",
+        "seknmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "480",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sekrik",
+      "anlam": "Dağda atlanarak geçilen herhangi bir yer",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "481",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sekritti",
+      "anlam": "O, atını arkın üzerinden atlattı; o, kitap okurken bir satır atladı",
+      "ornek_metin": "ol atın arıqtm sekritti: O, atını arkın [başka bir şeyin de olabilir] üzerinden atlattı. ol bitig oqır erken sekritti: O, kitap (ya da Kur'an-ı Kerim) okurken bir satın atladı.",
+      "cekimler": [
+        "sekritmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "481",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "seksön",
+      "anlam": "Seksen sayısı",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "481",
+      "notlar": "Kökü sekiz ön: sekiz kere on ifadesidir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sekü",
+      "anlam": "Kanepe, seki",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "481",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "selçük",
+      "anlam": "Günümüz Sultanlarının büyükbabasının adı",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "481",
+      "notlar": "Ona selçük sü başı da denirdi.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sem",
+      "anlam": "bkz. em",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "belirsiz",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "481",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "semiz",
+      "anlam": "Herhangi bir hayvanın şişman, yağlı olanı; semiz",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "481",
+      "notlar": "Bu sözcük Arapçaya da uygundur...",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "semizlik",
+      "anlam": "Semizlik",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "481",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "semridi",
+      "anlam": "Koyun semirdi",
+      "ornek_metin": "qÖy semridi: Koyun [başka bir şey de olabilir] semirdi.",
+      "cekimler": [
+        "semrir",
+        "semrimek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "481",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "semrişdi",
+      "anlam": "Atlar semirdi",
+      "ornek_metin": "atlar qamug semrişdi: Atlar [başkası da olabilir] semirdi.",
+      "cekimler": [
+        "semrişür",
+        "semrişmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "481",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "semritti",
+      "anlam": "Adam, atını semirtti",
+      "ornek_metin": "er atın semritti: Adam, atını (başkasını da olabiliri semirtti,",
+      "cekimler": [
+        "semritûr",
+        "semritmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "481",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "semürgük",
+      "anlam": "Bülbüle benzeyen bir kuş",
+      "ornek_metin": "buç buç öter semürgük / boggı üçün menglenür",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Balâsagün lehçesi",
+      "kaynak_sayfa": "481",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sen",
+      "anlam": "Sen",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "zamir",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "481",
+      "notlar": "Türkler bu sözcüğü çocuklar, uşaklar ya da sözcüğü kullanan kişiden yaşça veya mevki olarak daha aşağıda olanlar için kullanırlar...",
+      "kontrol_gerekli": false
+    }
+  ]
+}

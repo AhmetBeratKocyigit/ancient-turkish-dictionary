@@ -1,0 +1,792 @@
+{
+  "chunk_no": 27,
+  "kaynak_sayfa_baslangic": 233,
+  "kaynak_sayfa_bitis": 237,
+  "kelimeler": [
+    {
+      "kelime": "çıngıl çıngıl",
+      "anlam": "Sem böylesi bir ses çıkarttı.",
+      "ornek_metin": "yügün çıngıl çıngıl etti: Sem böylesi bir ses çıkarttı. Bu sesi çıkartan herhangi bir şeyi anlatmak için bu ifade kullanılır.",
+      "cekimler": [],
+      "kelime_turu": "yansıma",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "233",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çırigradı",
+      "anlam": "O, çanları çaldı ve gemi tıkırdattı.",
+      "ornek_metin": "ol qorigrâgu çırigradı: O, çanları çaldı ve gemi tıkırdattı.",
+      "cekimler": [
+        "çırigrâr",
+        "çırigrâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "233",
+      "notlar": "Buna benzer herhangi bir sesi anlatmak için bu sözcük kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çıngraq",
+      "anlam": "Sür ve pürüzsüz ses.",
+      "ornek_metin": "çıriğraq ün: Sür ve pürüzsüz ses.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "233",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çırigrattı",
+      "anlam": "O çanları çaldı ve gemi tıkırdattı.",
+      "ornek_metin": "ol qoriğrâgu çırigrattı: O çanları çaldı ve gemi tıkırdattı.",
+      "cekimler": [
+        "çırigratûr",
+        "çırigratmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "233",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çıp",
+      "anlam": "İnce dal, ağacın sürgünü.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "233",
+      "notlar": "Bu, çıpıq sözcüğünün kısaltılmış halidir. Tıpkı töp: top sözcüğünün topıq’ın kısaltılmış hali olması gibi.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çıp çıqa",
+      "anlam": "Serçe.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "233",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çıpıq",
+      "anlam": "Yaş bir dal; ağacın sürgünü.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "233",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çıpıqlâdı",
+      "anlam": "O, atına yaş bir dalla vurdu.",
+      "ornek_metin": "ol atın çıpıqlâdı: O, atına yaş bir dalla vurdu.",
+      "cekimler": [
+        "çıpıqlâr",
+        "çıpıqlâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "233",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çıpırttı",
+      "anlam": "O, oğlunu yaş bir dalla dövdü.",
+      "ornek_metin": "ol oglın çıpırttı: O, oğlunu yaş bir dalla dövdü.",
+      "cekimler": [
+        "çıpırtür",
+        "çıpırtmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "233",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çıq",
+      "anlam": "O ona vurdu, ancak o ne acı hissetti ne de inledi.",
+      "ornek_metin": "ol anı urdı, çıq etmedi: O ona vurdu, ancak o ne acı hissetti ne de inledi.",
+      "cekimler": [],
+      "kelime_turu": "yansıma",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "233",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çîq",
+      "anlam": "Çıtını çıkart da zayıf bir sesle feryat et de, böylece metanetini görelim anlamında tehdit ifadesi.",
+      "ornek_metin": "çiq et küreyin: Çıtını çıkart da [zayıf bir sesle feryat et de, böylece metanetini] görelim der.",
+      "cekimler": [],
+      "kelime_turu": "ünlem",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "233",
+      "notlar": "Biri, başka birini tehdit etmek için kullanılır. Bu, düşmanına karşı durmakta zayıflık gösteren kişiye söylenir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çıqan",
+      "anlam": "Teyze oğlu.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "233",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çıqardım",
+      "anlam": "Ben onu evden çıkarttım.",
+      "ornek_metin": "men anı ewden çıqardım: Ben onu evden [başka bir yerden de olabilir] çıkarttım.",
+      "cekimler": [
+        "çıqârur",
+        "çıqarmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "233",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çıqtı",
+      "anlam": "Adam evden çıktı.",
+      "ornek_metin": "er ewdin çıqtı: Adam evden (başka bir yerden de olabilir) çıktı. Şu atasözünde de geçer, küç eldin kirse törü tünlükten çıqâr: Zulüm kapıdan girince, töre (yasa ve adalet) bacadan (pencereden) çıkar.",
+      "cekimler": [
+        "çıqar",
+        "çıqmaq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "233",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çîqdı",
+      "anlam": "Giysi nemlendi. Herhangi bir şeyin kendi kendine havadaki nemi soğurması.",
+      "ornek_metin": "ton çîqdı. Giysi nemlendi.",
+      "cekimler": [
+        "çîqâr",
+        "çiqmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "234",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çıqıldı",
+      "anlam": "Evden çıkıldı.",
+      "ornek_metin": "ewdin çıqıldı: Evden [başka bir yerden de olabilir] çıkıldı.",
+      "cekimler": [
+        "çıqılur",
+        "çıqılmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "234",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çıqış",
+      "anlam": "Kazanç, fayda.",
+      "ornek_metin": "ol işta çıqış yöq: O işte hiç kazanç yok.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "234",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çıqışdı",
+      "anlam": "O ikisi evden çıkarken birbirleriyle yarıştı.",
+      "ornek_metin": "olâr ekki ewdin çıqışdı: O ikisi evden çıkarken birbirleriyle yarıştı.",
+      "cekimler": [
+        "çıqışûr",
+        "çıqışmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "234",
+      "notlar": "Bu konuda yardımlaşmayı anlatmak için de bu sözcük kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çıqrâdı",
+      "anlam": "Diş gıcırdadı; kapı gıcırdadı.",
+      "ornek_metin": "tiş çıqrâdı: Diş gıcırdadı; qapug çıqrâdı: Kapı gıcırdadı.",
+      "cekimler": [
+        "çıqrâr",
+        "çıqrâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "234",
+      "notlar": "Aynı zamanda bir adamın bir tartışmada ya da benzer durumlarda bağırıp çağırmaya başlamasını anlatmak için de bu sözcük kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çıqraştı",
+      "anlam": "Diş gıcırdadı.",
+      "ornek_metin": "tiş çıqraştı: Diş gıcırdadı.",
+      "cekimler": [
+        "çıqraşur",
+        "çıqraşmaq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "234",
+      "notlar": "Gıcırdayan çok parçalı bir şey için bu sözcük kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çıqrattı",
+      "anlam": "O, dişini gıcırdattı.",
+      "ornek_metin": "ol tişin çıqrattı: O, dişini gıcırdattı; buğra tişin çıqrattı: Damızlık deve azıdişlerini gıcırdattı.",
+      "cekimler": [
+        "çıqratür",
+        "çıqratmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "234",
+      "notlar": "Kapının ya da kalemin gıcırtısını anlatmak için de bu sözcük kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çıqrışdı",
+      "anlam": "Her biri bir diğerinin arazlığını ortaya çıkartmaya çalıştı.",
+      "ornek_metin": "bir birning oglıqın çıqrışdı: Her biri bir diğerinin arazlığını ortaya çıkartmaya çalıştı.",
+      "cekimler": [
+        "çıqrışûr",
+        "çıqrışmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "234",
+      "notlar": "Herhangi bir şeyi ortaya çıkartma konusunda rekabet etmeyi ya da yardımlaşmayı anlatmak için de bu sözcük kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çıqturdı",
+      "anlam": "O, onun evden çıkartılmasını emretti.",
+      "ornek_metin": "ol anı ewdin çıqturdı: O, onun evden çıkartılmasını emretti.",
+      "cekimler": [
+        "çıqturur",
+        "çıqturmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "234",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çıqturdı",
+      "anlam": "O, onun giysisini ıslak bir yere koydu, böylece giysi nemlendi.",
+      "ornek_metin": "ol tonın çıqturdı: O, onun giysisini ıslak bir yere koydu, böylece giysi nemlendi.",
+      "cekimler": [
+        "çıqturur",
+        "çıqturmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "234",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çır",
+      "anlam": "Giysinin yırtılma sesinin yansıması.",
+      "ornek_metin": "anıg tönin çır yırttı: Onun giysilerini art arda yırttı.",
+      "cekimler": [],
+      "kelime_turu": "yansıma",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "235",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çırgüy",
+      "anlam": "Bir ok ucunun sivri noktası.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "235",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çırgüy",
+      "anlam": "Kaftanın iki yanında bulunan, içinden kuşağın geçtiği ilmekler.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "235",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çıw",
+      "anlam": "Büyük bir kabın içinde kaynayan şerbetin çıkarttığı sesin yansıması.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "yansıma",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "235",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çıwı",
+      "anlam": "Bir cin topluluğu.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "235",
+      "notlar": "Türkler, bir savaş durumu söz konusu olduğunda, savaşın iki tarafının ülkelerinde yaşayan cinlerin, elbette bu tarafların hakanlarının lehine, insanların savaşından önce kavgaya tutuştuğunu iddia eder...",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çıwılâdı",
+      "anlam": "Küptten gıcırdama sesi çıktı.",
+      "ornek_metin": "küp çawılâdı: Küpten gıcırdama sesi çıktı. Meyve suyunun kaynarken çıkarttığı sesi anlatmak için de bu sözcük kullanılır.",
+      "cekimler": [
+        "çawılâr",
+        "çawılâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "235",
+      "notlar": "Metinde 'çmılâdı', 'çmılâr', 'çmılâmâq' şeklinde geçen kelimeler 'çawılâdı' vb. olmalıdır, OCR hatası riski nedeniyle kontrol edilmiştir.",
+      "kontrol_gerekli": true
+    },
+    {
+      "kelime": "çıwşâdı",
+      "anlam": "Şıra mayalandı ve üzerinde köpük tabakası oluştu / Yemek mideyi yaktı ve ekşitti.",
+      "ornek_metin": "çağır çawşâdı: Şıra mayalandı ve üzerinde köpük tabakası oluştu; qarın çawşâdı: Yemek mideyi yaktı ve ekşitti.",
+      "cekimler": [
+        "çıwşâr",
+        "çıwşâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "235",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çıwşârıg",
+      "anlam": "Ekşi şıra (ya da herhangi bir meyve suyu).",
+      "ornek_metin": "çıwşârıg çağır: Ekşi şıra (ya da herhangi bir meyve suyu).",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "235",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çıwşattı",
+      "anlam": "Adam şırayı mayalanmaya bıraktı / Sirke mideyi ekşitti.",
+      "ornek_metin": "ol çağır çıwşattı: Adam [bir başkası da olabilir] şırayı mayalanmaya bıraktı; sirke qarın çıwşattı: Sirke mideyi ekşitti.",
+      "cekimler": [
+        "çıwşatür",
+        "çıwşatmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "235",
+      "notlar": "Aynı zamanda toprağa dökülen sirkenin, döküldüğü yerde kabarmaya neden olmasını anlatmak için de bu sözcük kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çi",
+      "anlam": "Nem, rutubet.",
+      "ornek_metin": "çi yer: Rutubetli zemin.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "235",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çiğdi",
+      "anlam": "O bohçanın bağını bağladı.",
+      "ornek_metin": "ol türgek bağın çiğdi: O bohçanın [başka bir şeyin de olabilir] bağını bağladı.",
+      "cekimler": [
+        "çiger",
+        "çigmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "235",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çigen",
+      "anlam": "bkz. çetgen",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "235",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çigil tigil",
+      "anlam": "Ok sadakta ses çıkarttı.",
+      "ornek_metin": "oq keş içre çigil tigil qıldı: Ok sadakta [böylesi bir] ses çıkarttı.",
+      "cekimler": [],
+      "kelime_turu": "yansıma",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "235",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çigil",
+      "anlam": "Üç Türk taifesinin adı.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "236",
+      "notlar": "Bu taifeler hakkında ayrıntılı coğrafi ve tarihi açıklamalar bulunmaktadır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çigildi",
+      "anlam": "Düğüm sıkıldı.",
+      "ornek_metin": "tügün çigildi: Düğüm sıkıldı.",
+      "cekimler": [
+        "çigilür",
+        "çigilmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "236",
+      "notlar": "İpin düğümlenmesini anlatmak için de bu sözcük kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çigilledi",
+      "anlam": "O, onu Çigil saydı ve onlarla ilişkilendirdi.",
+      "ornek_metin": "ol anı çigilledi: O, onu Çigil saydı ve onlarla ilişkilendirdi.",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "236",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çigillendi",
+      "anlam": "Adam Çigil gibi giyindi.",
+      "ornek_metin": "er çigillendi: Adam Çigil gibi giyindi.",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "236",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çiğin",
+      "anlam": "Üzüm bağlarında biten başaklı bir ottur, hayvanlara yem olarak verilir.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "236",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çiğin",
+      "anlam": "İpek.",
+      "ornek_metin": "çiğin yıpı: İpek teli.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "236",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çiğin",
+      "anlam": "Altın işlemeli, süslü bir kumaşı dikme üslubu.",
+      "ornek_metin": "çigîn çiğnedi: Süslü kumaşa desenler işledi.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "236",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çiğindi",
+      "anlam": "O, yükünü bohçalama ve bağlama işini kendi üzerine aldı.",
+      "ornek_metin": "ol yükün çiğindi: O, yükünü bohçalama ve bağlama işini kendi üzerine aldı.",
+      "cekimler": [
+        "çiğinür",
+        "çiğinmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "236",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çiğit",
+      "anlam": "Pamuk tohumu.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Argu lehçesi",
+      "kaynak_sayfa": "236",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çiglişdi",
+      "anlam": "Düğüm olabildiğince sıkıldı.",
+      "ornek_metin": "tügün qamug çiglişdi: Düğüm olabildiğince sıkıldı.",
+      "cekimler": [
+        "çiglişür",
+        "çiglişmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "236",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çijtürdi",
+      "anlam": "Yükün ağırlığı nedeniyle atın beli çöktü.",
+      "ornek_metin": "dobu yük attg çijtürdi: Yükün ağırlığı nedeniyle atın beli çöktü.",
+      "cekimler": [
+        "çıjtürur",
+        "çıjtürmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "237",
+      "notlar": "Sırtında yağır olan bir atın üzerine bir şey yüklenmeye ya da binilmeye çalışıldığında yaptığı hareketi anlatmak için de bu sözcük kullanılır [bkz. çıjdı].",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çik çik",
+      "anlam": "Keçiyi çağırmak ya da yürütmek için kullanılan bir ifade.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "ünlem",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "237",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çik",
+      "anlam": "Aşık oyununda kullanılan bir ifade; aşığın sırtı (daha enli olan yüzlerden çukur olanı) yukarı geldiğinde çik turdı denir.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "237",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çikir çikir",
+      "anlam": "Ekmeğin içindeki küçük taş parçalarının çiğneme sırasında dişlerin arasında sıkışması ve dişlere çarpmasıyla çıkan ses.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "yansıma",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "237",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çikredi",
+      "anlam": "Ekmeğin içinde bulunan taş parçaları dişleri gıcırdattı.",
+      "ornek_metin": "aş içra tâş çikredi: Ekmeğin içinde bulunan taş parçaları dişleri gıcırdattı.",
+      "cekimler": [
+        "çikrer",
+        "çikremek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "237",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çikten",
+      "anlam": "Eyer örtüsü.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "237",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çil",
+      "anlam": "Beden üzerinde kalan darp izi.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "237",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çil",
+      "anlam": "Bir bedensel kusur.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Oğuz lehçesi",
+      "kaynak_sayfa": "237",
+      "notlar": "Dağlanarak tedavi edilir, nanımlar da bu şekilde adlandırılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çiledi",
+      "anlam": "Giysiyi (başka bir şeyi de olabilir) hafifçe ıslattı.",
+      "ornek_metin": "tönüg çiledi: Giysiyi (başka bir şeyi de olabilir) hafifçe ıslattı.",
+      "cekimler": [
+        "çiler",
+        "çilemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "237",
+      "notlar": "Kök-biçimi çiledi dir, söyleyişteki ye (j) düşmüştür.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çilgü",
+      "anlam": "Doru at.",
+      "ornek_metin": "çilgü at: Doru at.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "237",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çilik çilik",
+      "anlam": "Keçileri çağırmak için kullanılan bir ifade.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "ünlem",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "237",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çim",
+      "anlam": "Bir şeyin çiğ ya da nemli olma durumunu pekiştirmek için kullanılan ilgeç.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "edat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "237",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çiğne",
+      "anlam": "Tırmık.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Yağma lehçesi",
+      "kaynak_sayfa": "237",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çiğnedi",
+      "anlam": "Kız ipek kumaşı altınla işledi / Adam toprağı tırmıkladı.",
+      "ornek_metin": "qiz çiğin çiğnedi: Kız ipek kumaşı altınla işledi; er çiğne çiğnedi: Adam toprağı tırmıkladı.",
+      "cekimler": [
+        "çiğner",
+        "çiğnemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "237",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çigtürdi",
+      "anlam": "O bohçadaki ya da bir başka yerdeki düğümün sıkılaştırılmasını emretti.",
+      "ornek_metin": "ol tuğun çigtürdi: O [bohçadaki ya da bir başka yerdeki] düğümün sıkılaştırılmasını emretti.",
+      "cekimler": [
+        "çigtürür",
+        "çigtürmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "237",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çildey",
+      "anlam": "Atın göğsünün üst tarafında ortaya çıkan bir çıban.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "237",
+      "notlar": "Bu çıban irin akıtır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çij",
+      "anlam": "Demir çivi - iki eklemleme noktası arasındaki ze’yle (j). Zırhın üzerindeki donanımlar da bu şekilde adlandırılır.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "237",
+      "notlar": "",
+      "kontrol_gerekli": false
+    }
+  ]
+}

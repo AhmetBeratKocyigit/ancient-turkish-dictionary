@@ -1,0 +1,768 @@
+{
+  "chunk_no": 5,
+  "kaynak_sayfa_baslangic": 145,
+  "kaynak_sayfa_bitis": 149,
+  "kelimeler": [
+    {
+      "kelime": "angdîdı",
+      "anlam": "Avcı geyik için bir kapan hazırladı; tuzak kurdu.",
+      "ornek_metin": "awçı keyikni angdîdı: Avcı geyik için bir kapan hazırladı; ol anı angdîdı: O, onu yakalamak için tuzak kurdu.",
+      "cekimler": [
+        "arigdîr",
+        "angdimâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "145",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "arigduz",
+      "anlam": "Anduz otunun yerden kazılıp çıkarılan ve atların karın ağrısına ilaç yapılan kökü.",
+      "ornek_metin": "arigduz bolsa at ölmes: Anduz olsa, at ölmez. İlaç içirilir ve at iyileşir. Bu atasözü yolculara her an hazır olmalarını tavsiye etmek için kullanılır.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "145",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ariğıl",
+      "anlam": "Tamamen açık kapı.",
+      "ornek_metin": "angıl açuq qapug: Tamamen açık kapı",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "145",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "arigılâdı",
+      "anlam": "Eşek anırdı.",
+      "ornek_metin": "eşyek anglladı: Eşek anırdı",
+      "cekimler": [
+        "angfldr",
+        "angilâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "145",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "arigıt",
+      "anlam": "Ördeğe benzer kızıl renkli bir kuş.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "145",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "arigız",
+      "anlam": "Anız - hububat biçildikten sonra tarlada kalan köke yakın saplar.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "145",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ariğlâdı",
+      "anlam": "O, sözü anladı.",
+      "ornek_metin": "ol SÖZÜg anglâdi: O, sözü [başka bir şeyi de olabiliri anladı",
+      "cekimler": [
+        "anglâr",
+        "angldmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "Oğuz lehçesi",
+      "kaynak_sayfa": "145",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "angra-",
+      "anlam": "Bkz. ınğra-.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "145",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ariğraşdı",
+      "anlam": "Bebekler acı içindeydi.",
+      "ornek_metin": "oglân angraşdı: Bebekler [başka bir şey de olabilir] acı içindeydi.",
+      "cekimler": [
+        "angraşür",
+        "angraşmâcj"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "145",
+      "notlar": "",
+      "kontrol_gerekli": true
+    },
+    {
+      "kelime": "angut",
+      "anlam": "Şarap tıpası.",
+      "ornek_metin": "kart kiçig bolsa angut bedük ür: Delik küçük olsa da tıpayı büyük vur. Bu atasözü bir kimseye, insanlara küçük bir işi sözüm ona büyükmüş gibi göstermesini tavsiye etmek için söylenir.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "145",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ap",
+      "anlam": "Hayır, değil anlamında kullanılan bir ilgeç.",
+      "ornek_metin": "ap bu ap ol: Bu değil, o değil - ne bu, ne o. / ap ak: Çok saf bir beyaz.",
+      "cekimler": [],
+      "kelime_turu": "edat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "145",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "apa",
+      "anlam": "Ayı.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Qıfçâq lehçesi",
+      "kaynak_sayfa": "145",
+      "notlar": "elif (a) işba‘lıdır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "apa başı",
+      "anlam": "Tannûm bitkisi - salatalığa benzer ve dikenli bir gövdesi vardır, dağlarda yenilir.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "145",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "apang",
+      "anlam": "Eğer anlamına gelen bir ilgeç.",
+      "ornek_metin": "aparig sen barsa sen: Eğersen vanrsan.",
+      "cekimler": [],
+      "kelime_turu": "edat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "145",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "aplân",
+      "anlam": "Sıçan türünden küçük bir hayvan.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "145",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "âq",
+      "anlam": "Herhangi bir şeyin beyaz olanı.",
+      "ornek_metin": "âq at: Ak at. / âq saqdl er: Saçı sakalı ağarmış kimse.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "Oğuz lehçesi",
+      "kaynak_sayfa": "146",
+      "notlar": "Türkler arasında atın rengini anlatmak için kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "âq sây",
+      "anlam": "Bir yer adı.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "146",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "âq terek",
+      "anlam": "Yağma ülkesindeki ila nehri üzerinde bulunan bir geçit.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "146",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "aqdı",
+      "anlam": "Su aktı; düşman ilerledi.",
+      "ornek_metin": "suvv aqdv: Su aktı. / yağı aqdı: Düşman ilerledi.",
+      "cekimler": [
+        "aqâr",
+        "aqmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "146",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "aqı",
+      "anlam": "Eli açık; cömert.",
+      "ornek_metin": "Cevizin iyisine aqı yagaq denir.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "146",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "aqılâdı",
+      "anlam": "O, benim cömert olduğumu düşündü.",
+      "ornek_metin": "ol meni aqîlâdı: O, benim cömert olduğumu düşündü.",
+      "cekimler": [
+        "aqilar",
+        "aqîlâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "146",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "aqım",
+      "anlam": "Akışlık su.",
+      "ornek_metin": "bir aqım süw: Bir akışlık su.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "146",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "aqın",
+      "anlam": "Sel.",
+      "ornek_metin": "Beklenmeyen, ansızın gelen sele munduz aqm denir. Geceleyin birdenbire, sel gibi bastıran asker için de aqınçı keldi denir.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "146",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "aqm çı",
+      "anlam": "Geceleyin gidip düşmanı basan asker.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "146",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "aqm dı",
+      "anlam": "Akan su.",
+      "ornek_metin": "aqındı süw: Akan su.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "146",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "aqışdı",
+      "anlam": "Sular akıştı.",
+      "ornek_metin": "suwlâr aqışdt: Sular akıştı. Şu dörtlükte de kullanılır: qâr büz qamug erüşdi (Kar, buz tümden eridi) taglâr suvvı aq:şdı (Dağlar suyu akıttı) kökşin bulıt örüşdi (Mavi bulut belirdi) qayguq bolup ügrişür (Kayık gibi dolanır)",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "146",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "aqıtgân",
+      "anlam": "Çabuk akıtan.",
+      "ornek_metin": "bu tâg ol tawrâq aqm aqıtgân: Bu dağ yağmuru çabuk akıtır.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "146",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "aqıttı",
+      "anlam": "Allah sel akıttı / O, su akıttı / Bey akıncı yolladı.",
+      "ornek_metin": "tengri aqın aqıttı: Allah sel akıttı. ol süvv aqıttı: O, su akıttı. beg aqınçı aqtttı da: Bey akıncı yolladı.",
+      "cekimler": [
+        "aqıtur",
+        "aqıtmöq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "146",
+      "notlar": "",
+      "kontrol_gerekli": true
+    },
+    {
+      "kelime": "aqlışdı",
+      "anlam": "Halk her yandan akın etti.",
+      "ornek_metin": "tegme yangâqtm bödun aqlışdı: Halk her yandan akın etti. Pek çok yerden gelip birleşerek vadi boyunca akan su için de bu sözcük kullanılır.",
+      "cekimler": [
+        "aqlışür",
+        "aqlışmdq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "147",
+      "notlar": "",
+      "kontrol_gerekli": true
+    },
+    {
+      "kelime": "aqru",
+      "anlam": "Yavaşça anlamına gelen bir ilgeç.",
+      "ornek_metin": "aqru aqru: Yavaş yavaş!",
+      "cekimler": [],
+      "kelime_turu": "edat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "147",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "aqturdı",
+      "anlam": "O, suyun akıtılmasını emretti.",
+      "ornek_metin": "ol süw aqturdı: O, suyun akıtılmasını emretti. Şu dizelerde de kullanılır: aqturur közüm yulâq / tüşlenür ördek yugâq (Gözüm pınar gibi akar / Konar ördekler ve kuşlar)",
+      "cekimler": [
+        "aqturur",
+        "aqturmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "147",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "aqur",
+      "anlam": "Ahır.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "147",
+      "notlar": "Bkz. sıpâqur.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "âr",
+      "anlam": "Kestane renginde herhangi bir şey.",
+      "ornek_metin": "dr nerig: Kestane renginde herhangi bir şey. / dr böri: Sırtlan.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "147",
+      "notlar": "Yazaç arttırımıyla arsal da denir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ara",
+      "anlam": "Bir şeyin arası, ortası.",
+      "ornek_metin": "kişi ara kirdim: Halk arasına girdim",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "147",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "araladı",
+      "anlam": "O, iki kişinin arasını buldu (barıştırdı).",
+      "ornek_metin": "ol ekki kişi otra arâlâdı: O, iki kişinin arasını buldu (barıştırdı).",
+      "cekimler": [
+        "ardlâr",
+        "arâlâm âq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "147",
+      "notlar": "Aynı zamanda iki kişinin ya da iki şeyin arasından geçmeyi anlatmak için de kullanılır. Barış sağlamak'ı anlatmak için anladı da denebilir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "arâmüt",
+      "anlam": "Uygur ülkesinin yakınındaki bir Türk kavmi.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "147",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "arâm üt",
+      "anlam": "Bir yer adı.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "147",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "aran",
+      "anlam": "At ahırı.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "147",
+      "notlar": "elif (a) işba‘lıdır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "aranlıg",
+      "anlam": "Ahırı olan.",
+      "ornek_metin": "aranlıg ew: Ahin olan ev.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "148",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "arçı",
+      "anlam": "Heybe.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "148",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ardı",
+      "anlam": "Adam yoruldu, bitkin düştü / O, onu aldattı.",
+      "ornek_metin": "er ârdı: Adam yoruldu, bitkin düştü. / ol anı ârdı: O, onu aldattı.",
+      "cekimler": [
+        "ârâr",
+        "ârmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "148",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ardütâl",
+      "anlam": "Hamamotu.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "148",
+      "notlar": "Bkz. ordu tâl. Tüy dökücü bir maddenin yapımında kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "argâg",
+      "anlam": "Balık avlamak için kullanılan kanca.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "148",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "argu",
+      "anlam": "İki dağ arası.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "148",
+      "notlar": "Buradan hareketle Tirâz ile Balâsâgün arasındaki ülkeye argu denir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "arguç",
+      "anlam": "İnsanın aldandığı herhangi bir şey.",
+      "ornek_metin": "arguç ajun: Yalan dünya.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "148",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "argülâdı",
+      "anlam": "O, iki kişinin arasından geçti.",
+      "ornek_metin": "ol eliki kişi ara argülâdı: O, iki kişinin arasından geçti.",
+      "cekimler": [
+        "argülâr",
+        "argülâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "148",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "argün",
+      "anlam": "Sıçan türünden küçük bir hayvan.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "148",
+      "notlar": "Yarım arşın uzunluğundadır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "argurdı",
+      "anlam": "O, atını yordu.",
+      "ornek_metin": "oî atın argurdı: O, atını yordu. Yorulana kadar işe koşulan her türlü hayvanı anlatmak için de bu sözcük kullanılır. Şu dörtlükte de kullanılır: könglüm arigar qaynayu / içtin angar oynayu / keldi manga boynayu / oynap meni argurür",
+      "cekimler": [
+        "argurur",
+        "argurmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "148",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "arı",
+      "anlam": "Arı (bal yapan hayvan).",
+      "ornek_metin": "Çigil Türkleri bala an yağı der.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "148",
+      "notlar": "Bu Arapçaya da uygun düşer, zira bu dilde el-ari bal demektir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "aridı",
+      "anlam": "Nesne temizdi.",
+      "ornek_metin": "andı nenğ: Nesne temizdi.",
+      "cekimler": [
+        "arîr",
+        "arimâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "148",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "arıg",
+      "anlam": "Çadır örtüsü.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Barsgân lehçesi",
+      "kaynak_sayfa": "148",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "arıg nerig",
+      "anlam": "Temiz olan bir şey.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "148",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "arış",
+      "anlam": "Eriş.",
+      "ornek_metin": "arış arqâg: Eriş argaç",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "149",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "arışdı",
+      "anlam": "Onlar birbirini aldattı.",
+      "ornek_metin": "olâr ekki anşdt: Onlar birbirini aldattı",
+      "cekimler": [
+        "arışür",
+        "anşmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "149",
+      "notlar": "",
+      "kontrol_gerekli": true
+    },
+    {
+      "kelime": "antgân",
+      "anlam": "Ayıklayan.",
+      "ornek_metin": "ol kişi ol tarıg antgân: O adam her zaman buğday ayıklar",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "149",
+      "notlar": "",
+      "kontrol_gerekli": true
+    },
+    {
+      "kelime": "arıttı",
+      "anlam": "O, buğdayı ayıkladı.",
+      "ornek_metin": "ol tarıg arıttı: O, buğdayı ayıkladı.",
+      "cekimler": [
+        "arıtur",
+        "antmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "149",
+      "notlar": "",
+      "kontrol_gerekli": true
+    },
+    {
+      "kelime": "arju",
+      "anlam": "Çakal.",
+      "ornek_metin": "İnsanlar bir şeyin etrafında toplandıktan zaman kişi arjülayu turdı denir; bu, çakalların bir insanı yemek için toplanmaları gibi halk onun etrafında toplandı demektir.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "149",
+      "notlar": "iki eklemleme noktası arasındaki ze ile (j). Bkz. amuç.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "armağan",
+      "anlam": "Başarılı bir seferden dönen birisinin yakınlarına verdiği hediye, ödül.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Oğuz lehçesi",
+      "kaynak_sayfa": "149",
+      "notlar": "yarm agân biçiminde bir değişik sesletimi vardır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "arıglâdı",
+      "anlam": "O, kuzuyu iğdiş etti.",
+      "ornek_metin": "qoZl anglâdı: O, kuzuyu iğdiş etti.",
+      "cekimler": [
+        "arıglâr",
+        "anglamâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "149",
+      "notlar": "Bir çocuğun sünnet edilmesini anlatmak için de kullanılır.",
+      "kontrol_gerekli": true
+    },
+    {
+      "kelime": "arıglıq",
+      "anlam": "Temizlik; arılık.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "149",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "arındı",
+      "anlam": "Adam yıkandı; adam tüy dökücü maddelerle eteklerini tıraş etti.",
+      "ornek_metin": "er arındı: Adam yıkandı; er arındı: Adam tüy dökücü maddelerle eteklerim tıraş etti.",
+      "cekimler": [
+        "arınür",
+        "arınmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "149",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "arıq",
+      "anlam": "Irmak; ark; nehir.",
+      "ornek_metin": "agilda oglâq tuğsa anqda ötı öner: Ağılda oğlak doğsa nehirde otu biter. Bu atasözü yaşamsal ihtiyaçlar için kaygı duymamayı öğütlemek için kullanılır.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "149",
+      "notlar": "",
+      "kontrol_gerekli": true
+    },
+    {
+      "kelime": "arıqlandı",
+      "anlam": "Su yol açtı, ark yaptı.",
+      "ornek_metin": "sûw anqlandı: Su yol açtı, ark yaptı. Suyun yerde yarlar ve hendekler açmasını anlatmak için de kullanılır.",
+      "cekimler": [
+        "anqlanur",
+        "arıqlanmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "149",
+      "notlar": "",
+      "kontrol_gerekli": true
+    },
+    {
+      "kelime": "arıqlıg",
+      "anlam": "Üzerinde arklar olan yer.",
+      "ornek_metin": "anqlıgyer: Üzerinde arklar olan yer.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "149",
+      "notlar": "",
+      "kontrol_gerekli": true
+    }
+  ]
+}

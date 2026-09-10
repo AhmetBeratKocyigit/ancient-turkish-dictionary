@@ -1,0 +1,837 @@
+{
+  "chunk_no": 95,
+  "kaynak_sayfa_baslangic": 505,
+  "kaynak_sayfa_bitis": 509,
+  "kelimeler": [
+    {
+      "kelime": "söküşdi",
+      "anlam": "Onlar birbirlerine sövdüler.",
+      "ornek_metin": "olâr ekki söküşdi: Onlar birbirlerine sövdüler.",
+      "cekimler": [
+        "söküşür",
+        "söküşmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "505",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "söküşdi",
+      "anlam": "Bir evin ya da benzer bir şeyin yıkımında veya bu işte karşılıklı meydan okumada yardım etmek.",
+      "ornek_metin": "ol manga tön söküşdi: O, bana giysinin dikişlerini sökmekte yardım etti.",
+      "cekimler": [
+        "söküşür",
+        "söküşmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "505",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "söl",
+      "anlam": "Ağacın nemliliği ya da etin tazeliği.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "505",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "söllüg et",
+      "anlam": "İyice pişmemiş olan, hâlâ içinde kan pıhtısı bulunan et.",
+      "ornek_metin": "söğüt sölinge qadmg qasmğa: Söğüt için tazelik, kayın için sert kabuk uygundur",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "505",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sörçek",
+      "anlam": "Akşam sohbeti, toplantısı.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "505",
+      "notlar": "bkz. sörçük",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sörçük",
+      "anlam": "Akşam sohbeti, toplantısı.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Oğuz",
+      "kaynak_sayfa": "505",
+      "notlar": "Oğuzlar cim’i (ç) feth a’lı okur ve sörçek derler.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "söz",
+      "anlam": "Söz; kelam; konuşma.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "505",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sözledi",
+      "anlam": "Söz söyledi, kelam etti.",
+      "ornek_metin": "ol manga söz sözledi: O, bana söz söyledi [kelam etti].",
+      "cekimler": [
+        "sözler",
+        "sözlemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "505",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sözlendi",
+      "anlam": "Bazı sözlerini söyledi, kelamını sundu.",
+      "ornek_metin": "ol sözin manga sözlendi: O, bazı sözlerini bana söyledi, kelamını bana sundu",
+      "cekimler": [
+        "sözienür",
+        "sözlenmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "505",
+      "notlar": "",
+      "kontrol_gerekli": true
+    },
+    {
+      "kelime": "sözleşdi",
+      "anlam": "Konuştu.",
+      "ornek_metin": "ol menig birle sözleşdi: O, benimle konuştu.",
+      "cekimler": [
+        "sözleşûr",
+        "sözleşmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "505",
+      "notlar": "Kök-biçimi sözleşdi dir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sözletti",
+      "anlam": "Konuşturdu.",
+      "ornek_metin": "ol meni sözletti: O, beni konuşturdu",
+      "cekimler": [
+        "sözletür",
+        "sözletmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "505",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sözngri kişi",
+      "anlam": "Heyecanlı bir biçimde saçma sapan konuşan kimse.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "505",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "subı",
+      "anlam": "Uzun ve sivri olan herhangi bir şey.",
+      "ornek_metin": "Bir adamın başı yuvarlak değilse ona subı bâş denir",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "505",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "subidı",
+      "anlam": "Uzun ve sivri bir şey.",
+      "ornek_metin": "subidı neng: Uzun ve sivri bir şey.",
+      "cekimler": [
+        "subir",
+        "subımdcj"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "505",
+      "notlar": "",
+      "kontrol_gerekli": true
+    },
+    {
+      "kelime": "subilâdı",
+      "anlam": "(Enli olan) bir şeyin boyunu uzattı ve onun kenarlarını sivrileştirdi.",
+      "ornek_metin": "subilâdı nengni: O, (enli olan) bir şeyin boyunu uzattı ve onun kenarlarını sivrileştirdi.",
+      "cekimler": [
+        "subilâr",
+        "subilâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "505-506",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "subıttı",
+      "anlam": "Bir şeyin tepesini sivrileştirdi ve onun boyunu uzattı.",
+      "ornek_metin": "ol nengni subıttı: O, bir şeyin tepesini sivrileştirdi ve onun boyunu uzattı - tıpkı bir çivi gibi.",
+      "cekimler": [
+        "subıtür",
+        "subıtmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "506",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "subran",
+      "anlam": "Uzun ya da yüksek olan herhangi bir şey; örneğin bir minare ya da benzerleri.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Oğuz lehçesi",
+      "kaynak_sayfa": "506",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "suburgân",
+      "anlam": "Gömüt, mezar odası; kâfirlerin kabirleri.",
+      "ornek_metin": "suburgânda ev bolmâs topurgânda aw bolmâs: Mezar odasından ev olmaz, çıplak topraklı yerde av barınmaz",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "506",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "suç",
+      "anlam": "Bir yere çarpıp geri dönen bir şeyin çıkarttığı sesin yansıması.",
+      "ornek_metin": "qılıç suç qıldı: Kılıç sıyırıp geçti",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "506",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "suçgurdı",
+      "anlam": "Sıçrayayazdı.",
+      "ornek_metin": "at suçgurdı: At sıçrayayazdı.",
+      "cekimler": [
+        "suçgurdr",
+        "suçgurmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "506",
+      "notlar": "",
+      "kontrol_gerekli": true
+    },
+    {
+      "kelime": "suçıdı",
+      "anlam": "Şaha kalktı.",
+      "ornek_metin": "at suçîdı: At şaha kalktı",
+      "cekimler": [
+        "suçfr",
+        "suçimdrj"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "506",
+      "notlar": "",
+      "kontrol_gerekli": true
+    },
+    {
+      "kelime": "suçişdı",
+      "anlam": "Hep birlikte sıçradı, şaha kalktı, tepindi.",
+      "ornek_metin": "atlâr qamug suçişdı: Atlar hep birlikte sıçradı, şaha kalktı, tepindi.",
+      "cekimler": [
+        "suçışûr",
+        "suçışmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "506",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "suçıttı",
+      "anlam": "Şaha kaldırdı.",
+      "ornek_metin": "ol atlg SUÇltti: O, atı şaha kaldırdı.",
+      "cekimler": [
+        "suçıtür",
+        "suçıtmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "506",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "suçlundı",
+      "anlam": "Kılıç kınından sıyrıldı - kılıç çekildi. Herhangi bir şeyin yerinden çekilip çıkartılması.",
+      "ornek_metin": "cjılfç qîndm suçlundı: Kılıç kınından sıyrıldı",
+      "cekimler": [
+        "suçlunûr",
+        "suçlunmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "506",
+      "notlar": "",
+      "kontrol_gerekli": true
+    },
+    {
+      "kelime": "suçluşdı",
+      "anlam": "Ayağından diken çıkarmakta yardım etti; kılıcı kınından çıkarmakta yardım etme veya çekişme.",
+      "ornek_metin": "ol menig adâqtm tiken suçluşdı: O, ayağımdan diken çıkarmakta bana yardım etti.",
+      "cekimler": [
+        "suçluşür",
+        "suçluşmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "506-507",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "suçuldı",
+      "anlam": "Giysisini çıkardı veya koyun yüzüldü.",
+      "ornek_metin": "er tönm suçuldı: Adam giysisini çıkardı.",
+      "cekimler": [
+        "suçlür",
+        "suçulmdq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "507",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "südı",
+      "anlam": "Boyun eğdi, itaat etti.",
+      "ornek_metin": "ol angar boyun südı: O, ona boyun eğdi",
+      "cekimler": [
+        "sür",
+        "sümâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "507",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "südı",
+      "anlam": "Eğrilmek için yün gönderdi.",
+      "ornek_metin": "ol manga yüng südı: O, bana eğrilmek için yün gönderdi",
+      "cekimler": [
+        "sür",
+        "sümâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "507",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "südtı",
+      "anlam": "Tükürdü.",
+      "ornek_metin": "er südtı: Adam tükürdü.",
+      "cekimler": [
+        "südâr",
+        "südmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "507",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "südturdı",
+      "anlam": "Tükürtmek.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "belirsiz",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "507",
+      "notlar": "bkz. sutturdı.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "suduq",
+      "anlam": "Tükürük.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "507",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sugdı",
+      "anlam": "Koyunun sütünden çökelek yaptı.",
+      "ornek_metin": "ol qöydan qurut sugdı: O, koyunun sütünden çökelek yaptı",
+      "cekimler": [
+        "sugâr",
+        "sugmdq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "507",
+      "notlar": "Kökü sugurdı’dır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "suglıdı",
+      "anlam": "Bir şey aramak veya el sokmak için elini koynuna soktu.",
+      "ornek_metin": "er qöyunga suglıdı: Adam bir şey aramak için elini koynuna soktu.",
+      "cekimler": [
+        "suglfr",
+        "suglîmdq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "507",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "suglıttı",
+      "anlam": "Bir şeyin aranması için birine onun koynuna elini sokmasını emretti.",
+      "ornek_metin": "ol anıg qöymga elig suglıttı: O, bir şeyin aranması için birine onun koynuna elini sokmasını emretti.",
+      "cekimler": [
+        "suglıtür",
+        "sughtmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "507",
+      "notlar": "",
+      "kontrol_gerekli": true
+    },
+    {
+      "kelime": "sugnâq",
+      "anlam": "Bir Oğuz kenti.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Oğuz",
+      "kaynak_sayfa": "507",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sugruşdı",
+      "anlam": "Kumlar suyu emdi.",
+      "ornek_metin": "qumlâr süwug sugruşdı: Kumlar suyu emdi.",
+      "cekimler": [
+        "sugruşür",
+        "sugruşmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "507-508",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sugruttı",
+      "anlam": "Onun evini arattı ve evin içinde olan her şeyi gördü.",
+      "ornek_metin": "ol aru ewin sugruttı: O, onun evini arattı ve evin içinde olan her şeyi gördü.",
+      "cekimler": [
+        "sugrutür",
+        "sugrutmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "508",
+      "notlar": "sugrattı biçiminde de geçer.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "suguldı",
+      "anlam": "Su çekildi; memede süt kesildi.",
+      "ornek_metin": "süw suguldı: Su çekildi.",
+      "cekimler": [
+        "suglûr",
+        "sugulmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "508",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sugulgân",
+      "anlam": "Toprağın her zaman hızla emdiği su veya pınarın suyunun hızla kuruması.",
+      "ornek_metin": "bu süw ol tawrâq sugulgân: Bu, toprağın her zaman hızla emdiği bir sudur.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "508",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sugur",
+      "anlam": "Gelincik (kertenkeleyi andıran küçük bir hayvan, derisinden yağmurluk yapılır).",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "508",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sugurdı",
+      "anlam": "Adam suyu yudumladı; kum suyu emdi.",
+      "ornek_metin": "er süw sugurdı: Adam suyu yudumladı.",
+      "cekimler": [
+        "sugrur",
+        "sugurmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "508",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sugurdı",
+      "anlam": "Çökeleğin suyunu çektirdi.",
+      "ornek_metin": "ol qurut sugurdı: O, çökeleğin suyut çektirdi",
+      "cekimler": [
+        "sugrur",
+        "sugurmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "Qarluk lehçesi",
+      "kaynak_sayfa": "508",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sugurdı",
+      "anlam": "Göğe doğru tükürdü.",
+      "ornek_metin": "ol yoqdru yârın sugurdı: O, göğe doğru tükürdü",
+      "cekimler": [
+        "sugrur",
+        "sugurmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "Barsgân lehçesi",
+      "kaynak_sayfa": "508",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sugurlug",
+      "anlam": "Gelincikler tarafından istila edilmiş dağ.",
+      "ornek_metin": "sugurlug tâg: Gelincikler tarafından istila edilmiş dağ.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "508",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sugut",
+      "anlam": "Çökelek.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Qarluk lehçesi",
+      "kaynak_sayfa": "508",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sugut",
+      "anlam": "Baharat, pirinç ve etin bağırsağa doldurulmasıyla yapılan sucuk.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "508",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sulı",
+      "anlam": "Kölelere verilen adlardan (Süleyman sözcüğünün kısaltılmış biçimi olabilir).",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "508",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "suma",
+      "anlam": "Filizdeki buğday tanesinin kurutulup öğütülmesiyle bulamaç/ekmek yapımında kullanılan veya bira mayası yapımında kullanılan filiz halindeki arpa.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "508",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sün",
+      "anlam": "Uysal ve iyi huylu kimse.",
+      "ornek_metin": "sün kişi: Uysal ve iyi huylu kimse.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "508-509",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sün dtun",
+      "anlam": "Som altın parçası.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "509",
+      "notlar": "Bu, bir parmaktan bir arşına kadar değişen uzunluklarda olabilir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sun",
+      "anlam": "Sunmak.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "belirsiz",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "509",
+      "notlar": "",
+      "kontrol_gerekli": true
+    },
+    {
+      "kelime": "sundı",
+      "anlam": "Bana ekmek (başka bir şey de olabilir) sundu.",
+      "ornek_metin": "ol manga etmek sundı: O, bana ekmek sundu",
+      "cekimler": [
+        "sunar",
+        "sumâcj"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "509",
+      "notlar": "",
+      "kontrol_gerekli": true
+    },
+    {
+      "kelime": "sunı",
+      "anlam": "Evin kirişleri.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "509",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sünu",
+      "anlam": "Kişniş tohumu.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "509",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sunuşdı",
+      "anlam": "Birbirlerine ekmek (veya bir şey) sundular / yarışmayı anlatmak için de kullanılır.",
+      "ornek_metin": "olâr ekki etmek sunuşdı: Onlar birbirlerine ekmek sundular.",
+      "cekimler": [
+        "sunuşür",
+        "sunuşmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "509",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sunzı",
+      "anlam": "Bir tür pireye verilen ad (bit olduğunu düşünüyorum).",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "509",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "surigqur",
+      "anlam": "Yırtıcı kuşlardan birinin adı.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "509",
+      "notlar": "Bu togrıl kuşundan daha küçüktür.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "surj yalngüs er",
+      "anlam": "Münzevi; bir dosttan ve destekten yoksun olan adam.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "509",
+      "notlar": "",
+      "kontrol_gerekli": true
+    },
+    {
+      "kelime": "süq",
+      "anlam": "Açgözlü kimse.",
+      "ornek_metin": "süq er: Açgözlü kimse.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "509",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "süq em gek",
+      "anlam": "İşaret parmağı.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "509",
+      "notlar": "Bu ifadenin gerçek anlamı “açgözlü parmak”tır, çünkü bu parmak yemeğe ilk önce ulaşır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "suqdum",
+      "anlam": "Zor kullanarak, güç harcayarak bir şeyi başka bir şeyin içine sokmak.",
+      "ornek_metin": "men anı ewke suqdum: Ben, onu eve soktum.",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "509",
+      "notlar": "Sapı baltaya sokmayı anlatmak için de kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "suqım",
+      "anlam": "Çam kozalağı biçiminde kesilerek içi oyulan, üç yanından delinerek oka takılan ve oktan ıslık sesi çıkmasını sağlayan ağaç parçası.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "509",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "suqaq",
+      "anlam": "Beyaz ceylan.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "509",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "suqaq",
+      "anlam": "Oğuzların Farsîleri ima etmek için kullandıkları ad.",
+      "ornek_metin": "bu suqaq ne ter: Bu Farsî ne diyor?",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Oğuz",
+      "kaynak_sayfa": "509",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "suqaqlıg",
+      "anlam": "Ceylanı çok olan dağ.",
+      "ornek_metin": "suqaqlıg tâg: Ceylanı çok olan dağ.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "509",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "suqıdı",
+      "anlam": "Parmağıyla dürtükledi.",
+      "ornek_metin": "ol anı suqldı: O, onu parmağıyla dürtükledi.",
+      "cekimler": [
+        "suqîr",
+        "suqîmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "509",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "baqır suqım",
+      "anlam": "Mars gezegeninin adı.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "509",
+      "notlar": "",
+      "kontrol_gerekli": false
+    }
+  ]
+}

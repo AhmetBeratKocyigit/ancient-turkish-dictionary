@@ -1,0 +1,748 @@
+{
+  "chunk_no": 2,
+  "kaynak_sayfa_baslangic": 133,
+  "kaynak_sayfa_bitis": 137,
+  "kelimeler": [
+    {
+      "kelime": "aduqlâdı",
+      "anlam": "Bilinmeyen bir şey olduğu için nadide kabul etti.",
+      "ornek_metin": "ol anı aduqlâdı: Bilinmeyen bir şey olduğu için o, onu nadide kabul etti.",
+      "cekimler": [
+        "aduqlâr",
+        "adaqlâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "133",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "adnâdı",
+      "anlam": "Yer değişti, bozuldu.",
+      "ornek_metin": "yer adnâdı: Yer [başka bir şey de olabiliri değişti, bozuldu.",
+      "cekimler": [
+        "adnâr",
+        "adnâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "133",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "adnattı",
+      "anlam": "Adam değişti.",
+      "ornek_metin": "er adnattı: Adam değişti. Olduğu durumdan başka bir duruma geçen herhangi bir şey için de bu sözcük kullanılır.",
+      "cekimler": [
+        "adnatur",
+        "adnatmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "133",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "adn",
+      "anlam": "Buğdayın tanelerini kabuklarından ayırmakta kullanılan araç. Çatallı olan herhangi bir şey.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "133",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "adn butlug",
+      "anlam": "Baldırlarının arası açık olan kimse; paytak.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "133",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "adrıldı",
+      "anlam": "İki yol ayrıldı.",
+      "ornek_metin": "yol adrıldı: İki yol aynide İki yoldaşın birbirinden ayrılmasını ya da araları açık ıkı dişi anlatmak için de bu sözcük kullanılır.",
+      "cekimler": [
+        "adnlur",
+        "adrılmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "133",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "adrıq",
+      "anlam": "Ayrıkotu.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "133",
+      "notlar": "bkz. aynq",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "adrış",
+      "anlam": "İkiye ayrılan yolun başı.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "133",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "adrışdı",
+      "anlam": "Onlar birbirlerinden ayrıldı.",
+      "ornek_metin": "olâr eki adrışdı: Onlar birbirlerinden aynldı. (Yaz mevsimini anlatıyor) tümen çeçek tizi idi Onbin çiçek dizildi tügünden ol yazıldı Tomurcuktan yayıldı uküş yatıp özeldi Çok yatıp sıkıldı yerde qopa adrışür Yerden kopup ayrışır",
+      "cekimler": [
+        "adrışür",
+        "adnşmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "133",
+      "notlar": "bkz. aynşdı.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "adruq",
+      "anlam": "Başka (gayr).",
+      "ornek_metin": "adın kişi nengi nengsinmes: Başkasının malı mal sayılmaz - bu mal senin elinde olsa bile, gen alınabilir",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "Oğuz lehçesi",
+      "kaynak_sayfa": "133",
+      "notlar": "Türkler bu anlama gelecek biçimde adın der. bkz. ayruq.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "aduq",
+      "anlam": "Bilinmeyen herhangi bir şey.",
+      "ornek_metin": "aduq neng: Bilinmeyen herhangi bir şey. Kök-biçim i “bozulmuş, değişmiş, belırse anlamına gelen agdurj’tur. Bu sözcük anig (anmg [?]) mengzi ağdı: onun rengi değştı ifadesinden türetilmiştir. Hafifletme (tahfif) amacıyla gayn (g) atılmıştır.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "133",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "adut",
+      "anlam": "Bir avuç şey.",
+      "ornek_metin": "bir adut nerig: Bir avuç şey [bkz. avut].",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "134",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "adutlâdı",
+      "anlam": "Adam parayı avuçladı.",
+      "ornek_metin": "eryarm âq adutlâdı: Adam parayı avuçladı. Suyun avuçlanmasını anlatmak için de bu sözcük kullanılır.",
+      "cekimler": [
+        "adutlâr",
+        "adutlâmâc"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "134",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "âg",
+      "anlam": "Bacak arasındaki boşluk.",
+      "ornek_metin": "yüz at menig ağdın keçti: Yüz at menig bacaklanmın arasından geçti. Parmaklar arasındaki boşluğa benzer.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "134",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "âgartgu",
+      "anlam": "Öğütülmüş buğdaydan yapılan, biraya benzeyen bir içki.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "134",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "âgdı",
+      "anlam": "Dağa tırmandı.",
+      "ornek_metin": "ol tâgqa âgdı: O, dağa [başka bir şeye de olabiliri tırmandı. buht âğdı: Bulut yükseldi. amgyüzi âğdı: Onun rengi değişti.",
+      "cekimler": [
+        "âgâr",
+        "agmâcj"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "134",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "agduq",
+      "anlam": "Bir yabana, kimliği bilinmeyen kişi.",
+      "ornek_metin": "agduq kişi: Bir yabana, kimliği bilinmeyen kişi. Değişik sesletimi adguq'tur, göçüşmeye maruz kalmıştır.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "134",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "agı",
+      "anlam": "Genellikle ipekli, süslü bir kumaş.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "134",
+      "notlar": "Buradan hareketle hazinedara agıçı denir, çünkü bu kumaşı korur.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "agıçı",
+      "anlam": "İpekli kumaşı koruyan kimse.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "134",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ağıl",
+      "anlam": "Koyun ağılı.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Oğuzlar",
+      "kaynak_sayfa": "134",
+      "notlar": "Oğuzlar arasında bu sözcük “koyun pisliği” anlamına gelir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ağım",
+      "anlam": "Bir adımda üzerine çıkılabilecek yükselti.",
+      "ornek_metin": "bir ağım yer: Bir adımda üzerine çıkılabilecek yükselti",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "134",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ağın",
+      "anlam": "Genizden konuşan kimse.",
+      "ornek_metin": "ağın er: Genizden konuşan kimse. Bu sözcük ses ve anlam bakımından Arapçaya uygundur.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "134",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ağır",
+      "anlam": "Ağır olan herhangi bir şey.",
+      "ornek_metin": "ağirlig kişi: Halk ya da bey tarafından onurlandırılan adam. tengri meni ağırladı: Allah beni onurlandırdı. afr adâq amruldi. Ağır ayak yatıştı. Bu, “yavaş yürüyen kimse varacağı yere vardı” anlamına gelir, ağır nerig. Yüksek fiyatlı nesne.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "134-135",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ağırladı",
+      "anlam": "Cenab-ı Hak beni onurlandırdı.",
+      "ornek_metin": "tengri meni ağırladı: Cenab-ı Hak beni onurlandırdı. Başkasını onurlandıran herhangi biri için de kullanılır.",
+      "cekimler": [
+        "agırldr",
+        "agırlâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "135",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ağırlandı",
+      "anlam": "Adam onurlandırıldı.",
+      "ornek_metin": "er ağırlandı: Adam onurlandırıldı, nurı (n) itini elan (I) dönüşmüştür. ol bu atnı ağırlandı: O, bu atı pahalı buldu.",
+      "cekimler": [
+        "agtrlanur",
+        "agırlanmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "135",
+      "notlar": "Bir şeyi ağır bulmayı anlatmak için de bu sözcük kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "agırlıg",
+      "anlam": "Herkesin saygı gösterdiği adam.",
+      "ornek_metin": "agırlıg er: Herkesin saygı gösterdiği adam.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "135",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "agırşuq",
+      "anlam": "İğ sarmalı; ağırşak.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "135",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ağış",
+      "anlam": "Yükseliş, çıkış.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "135",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "agışdı",
+      "anlam": "Dağa çıkma konusunda benimle yarıştı.",
+      "ornek_metin": "ol menig birle tdgqa agışdı: O, dağa [başka bir yere de olabilir] çıkma konusunda benimle yarıştı. ol menig birle bir altünda agışdı: O, fiyatı bir altın yükseltti. begler bir ekindi birle agışdı: Beyler [başka birileri de olabilir] birbirlerini karşı hamle etti,",
+      "cekimler": [
+        "agışür",
+        "agışmdq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "135",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "agıtgân",
+      "anlam": "Köpeği sürekli dağa tırmandıran vahşi hayvan.",
+      "ornek_metin": "bu keyik ol ıtıg tdgqa agıtgân: Bu, köpeği sürekli (peşinden) dağa tırmandıran vahşi hayvandır",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "135",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ağıttı",
+      "anlam": "Dağa çıkarttı.",
+      "ornek_metin": "ol anı tâgqa ağıttı: O, onu dağa çıkarttı; tengri bulıt ağıttı: Tann bulutu yükseltti.",
+      "cekimler": [
+        "agıtur",
+        "agıtmdq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "135",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ağız",
+      "anlam": "Nehrin, su tulumunun, testinin, şarap küpünün ya da kuyunun ağzı.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "135",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ağız",
+      "anlam": "İnsan ya da hayvanın ağzı.",
+      "ornek_metin": "agıZ yğse köz uyadür: Ağız yese, göz utanır. Birinin “armağan ım yiyerek karşılığını veremeyeceği bir şey yaptığı için utanan kişi için söylenir",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "135",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "agızladı",
+      "anlam": "Ark için bir çıkış (ağız) açtı.",
+      "ornek_metin": "ol arıqnt ağızladı: O, ark için bir çıkış (ağız) açtı. ol qulın agızlâdı: O kölesinin [başka birinin de olabilir] ağzına vurdu.",
+      "cekimler": [
+        "agızlâr",
+        "agızldmdq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "135",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "aglâq",
+      "anlam": "Issız yer.",
+      "ornek_metin": "aglâqyer: Issız yer.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "135",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ağlattı",
+      "anlam": "İstediği şey yalnızca kendisinin olabilsin diye insanları çevresinden uzaklaştırdı.",
+      "ornek_metin": "ol kişini ağlattı: İstediği şey yalnızca kendisinin olabilsin diye insanlan çevresinden uzaklaştırdı.",
+      "cekimler": [
+        "aglatur",
+        "aglatmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "135",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "agnâdı",
+      "anlam": "At tozun ya da başka bir şeyin içinde yuvarlandı.",
+      "ornek_metin": "at agnâdı: At (tozun ya da başka bir şeyin içinde) yuvarlandı [ağnadı]. Birinin dili tutulduğunda, kekeme olduğunda er agnâdı denir.",
+      "cekimler": [
+        "agnâr",
+        "agnâmdq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "136",
+      "notlar": "Kök-anlamı “burundan konuşmak”tır (gunne).",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "agnattı",
+      "anlam": "Atının tozun içinde yuvarlanmasına izin verdi.",
+      "ornek_metin": "ol atın toprâqqa agnattı: O, atının tozun içinde yuvarlanmasına izin verdi [ağnattı], ol yagâq anıg tılın agnattı: Ceviz (yemekten) dili şişti ve konuşması bozuldu.",
+      "cekimler": [
+        "agnatur",
+        "agnatmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "136",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ağrıdı",
+      "anlam": "Onun başı ağrıdı.",
+      "ornek_metin": "anıg bası ağrıdı: Onun başı ağrıdı, insanın bedenindeki herhangi bir ağrı için de bu sözcük kullanılır. bir toyın bası agnsa qamug toym bası agrımas: (Müslüman olmayan) bir din büyüğünün başı ağnsa, bütün (Müslüman olmayan) din büyüklerinin başı ağrımaz.",
+      "cekimler": [
+        "agrır",
+        "agrımaq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "136",
+      "notlar": "Bu atasözü, arkadaşlarının arzu ettiği, yediği ve kabullendiği bir şeyi reddeden biri için söylenir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ağrıg",
+      "anlam": "Genel anlamda ağrı.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "136",
+      "notlar": "her bir organın agnsı ise bu organın adıyla söylenir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ağrındı",
+      "anlam": "Yaralı adam acılar içindeydi.",
+      "ornek_metin": "bâlıg ağrındı. Yaralı adam [başka biri de olabiliri acılar içindeydi.",
+      "cekimler": [
+        "agrınur",
+        "agrınmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "136",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "agrıqandı",
+      "anlam": "Adam acısından yakındı.",
+      "ornek_metin": "er agrıqandı: Adam acısından yakındı.",
+      "cekimler": [
+        "agrıqanur",
+        "agrıqanmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "136",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "agrıştılâr",
+      "anlam": "Onlar bu konu üzerine sızlandılar.",
+      "ornek_metin": "olâr bu ışqa agrıştılâr: Onlar bu konu üzerine sızlandılar.",
+      "cekimler": [
+        "agrışür",
+        "agrışmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "136",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ağrıttı",
+      "anlam": "O, onu yaraladı.",
+      "ornek_metin": "ol anı ağrıttı: O, onu yaraladı.",
+      "cekimler": [
+        "agrıtur",
+        "agrıtmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "136",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "agrüdı",
+      "anlam": "Nesne ağırdı / Rahatsız adam ciddi bir biçimde hastalandı.",
+      "ornek_metin": "agrûdı neng: Nesne ağırdı. iglig agrüdı: Rahatsız adam ciddi bir biçimde hastalandı.",
+      "cekimler": [
+        "agrür",
+        "agrümâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "136",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "agruq",
+      "anlam": "Ağır ticari eşya; mal.",
+      "ornek_metin": "aSîr ai raq qayüda qaldı: Mal nerede kaldı?",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "136",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "agruqlandı",
+      "anlam": "O, bu işi külfetli buldu.",
+      "ornek_metin": "ol bu işıg agruqlandı: O, bu işi külfetli buldu. Bir yükün çok ağır olduğunu anlatmak için de bu sözcük kullanılır.",
+      "cekimler": [
+        "agruqlanur",
+        "agruqlanmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "137",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "agsâdı",
+      "anlam": "O, dağa tırmanmak istedi.",
+      "ornek_metin": "ol tâgqa agsâdı: O, dağa [başka bir yere de olabilir] tırmanmak istedi,",
+      "cekimler": [
+        "agsâr",
+        "agsamâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "137",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "agtardı",
+      "anlam": "Axtardı (aktardı).",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "137",
+      "notlar": "bkz. axtardı.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "agtıldı",
+      "anlam": "Adam yere yıkıldı.",
+      "ornek_metin": "er agtıldı: Adam yere yıkıldı. Kök-biçimi agtarıldı dır.",
+      "cekimler": [
+        "agtılur",
+        "agtılmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "137",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "agu",
+      "anlam": "Zehir.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "137",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "aguj",
+      "anlam": "Doğurduktan sonra inek ya da koyundan gelen ilk süt.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "137",
+      "notlar": "Ayrıca aguz şeklinde normal ze ile de söylenir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "agujlug",
+      "anlam": "İlk sütü içen kişi.",
+      "ornek_metin": "agujlug er: İlk sütü içen kişi,",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "137",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "agülâdı",
+      "anlam": "O, onun yemeğini zehirledi.",
+      "ornek_metin": "ol aşm agülâdı: O, onun yemeğini [başka bir şeyini de olabilir] zehirledi.",
+      "cekimler": [
+        "agûlâr",
+        "agülâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "137",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "aguqtı",
+      "anlam": "Adam zehirlendi.",
+      "ornek_metin": "er aguqtı: Adam zehirlendi. Bu Arapçadaki el-hummâ dan [ yüksek ateş ] gelen hum m a’r-racul [“adam ateşlendi\") ifadesi gibi geçişsizdir.",
+      "cekimler": [
+        "aguqâr",
+        "aguqmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "137",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ajlan",
+      "anlam": "Bir sürüngen; bukalemun.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Oğuz lehçesi",
+      "kaynak_sayfa": "137",
+      "notlar": "iki eklemleme noktası arasındaki ze’yle yazılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ajmuq",
+      "anlam": "Beyaz şap.",
+      "ornek_metin": "ajmuq tâz: başı şapla sıvanmış kel",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "137",
+      "notlar": "iki eklemleme noktası arasındaki ze’yle yazılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ajmuqlandı",
+      "anlam": "Kelin kelliği arttı / Topraktaki şap arttı.",
+      "ornek_metin": "tâz başı ajmuqlandı: Kelin kelliği arttı. yer ajmuqlandi: Topraktaki [başka.bir yerdeki de olabilir] şap arttı.",
+      "cekimler": [
+        "ajmuqlanur",
+        "ajmuqlanmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "137",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ajun",
+      "anlam": "Dünya; cihan.",
+      "ornek_metin": "bu ajun: Bu dünya; ol ajun: Öbür dünya",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Çigil lehçesi",
+      "kaynak_sayfa": "137",
+      "notlar": "iki eklemleme noktası arasındaki ze’yle yazılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "âl",
+      "anlam": "Hanların sancaklarını yapmak için kullanılan ya da onların atlarının eyer örtüsü olan turuncu renkte, ipekli süslü kumaş / Turuncu renk.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "137",
+      "notlar": "",
+      "kontrol_gerekli": false
+    }
+  ]
+}

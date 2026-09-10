@@ -1,0 +1,765 @@
+{
+  "chunk_no": 100,
+  "kaynak_sayfa_baslangic": 525,
+  "kaynak_sayfa_bitis": 529,
+  "kelimeler": [
+    {
+      "kelime": "talqıg",
+      "anlam": "Sıradağların çakıştığı yer.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "525",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "talqıg",
+      "anlam": "İşlerin gerçekleşmesini engelleyen bir şey.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "525",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "talqıldı",
+      "anlam": "Nesne itildi, sürüklendi.",
+      "ornek_metin": "ol talqıldı nerig: Nesne itildi, sürüklendi.",
+      "cekimler": [
+        "talqılür",
+        "talqdmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "525",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "talqışdı",
+      "anlam": "Birine çizme yapımında kullanılan keçeyi dürmekte yardım etti.",
+      "ornek_metin": "ol manga uyma talqışdı: O, bana çizme yapımında kullanılan keçeyi dürmekte yardım etti.",
+      "cekimler": [
+        "talqışür",
+        "talqışmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "525",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "talqıttı",
+      "anlam": "Birinin yükü sıkıştırmasını sağladı.",
+      "ornek_metin": "ol yükni talqıttı: O, birinin yükü sıkıştırmasını sağladı",
+      "cekimler": [
+        "talqıtür",
+        "talqıtmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "525",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "talqu",
+      "anlam": "Dürülmüş, eğrilmiş herhangi bir şey.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "525",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "talquyışıg",
+      "anlam": "Bükülmüş ip.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "525",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "talturdı",
+      "anlam": "Birini neredeyse bayıltana kadar dövdü.",
+      "ornek_metin": "anı urup talturdı: O, onu neredeyse bayıltana kadar dövdü.",
+      "cekimler": [
+        "talturur",
+        "talturmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "525",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "talu",
+      "anlam": "Seçilmiş bir şey.",
+      "ornek_metin": "talu neng: Seçilmiş bir şey.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "525",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "talülâdı",
+      "anlam": "Bir şeyi seçti.",
+      "ornek_metin": "ol talülâdı nengni: O, bir şeyi seçti.",
+      "cekimler": [
+        "talülâr",
+        "talüldmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "525",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tâm",
+      "anlam": "Duvar",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "525",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tam",
+      "anlam": "Kapının sürgüsü",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "525",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "taman",
+      "anlam": "Kâşgarlı'nın içinden akan bir nehir",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "525",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tamar",
+      "anlam": "Vücuttaki damar",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Oğuz",
+      "kaynak_sayfa": "525-527",
+      "notlar": "bkz. tamur. Oğuzlar mîm’i (m) fetha’lı kullanarak tamar der.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tamâta",
+      "anlam": "Pişerken suyunu muhafaza etmesi için yağlı tavukların ya da etin üzerine yayılan, kadayıf hamuru kıvamında ince bir hamur",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "526",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tamçurdı",
+      "anlam": "Yağmur çiseledi.",
+      "ornek_metin": "yağmur tamçurdı: Yağmur çiseledi,",
+      "cekimler": [
+        "tamçurür",
+        "tamçurmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "526",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tamdı",
+      "anlam": "Su damladı.",
+      "ornek_metin": "Süvv tamdı : Su damladı.",
+      "cekimler": [
+        "tamâr",
+        "tammâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "526",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tamdu",
+      "anlam": "Ateş yakmak için kullanılan çalı çırpı.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "526",
+      "notlar": "Tamduq da denir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tamga",
+      "anlam": "Hakanın ya da benzer birinin mührü.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "526",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tamga",
+      "anlam": "Herhangi bir denize, göle ya da nehre akan su kolu, nehir ağzı (haliç).",
+      "ornek_metin": "tamga süvvt taşra çıqıp tâgıg öter / artuçları tegre önüp tizgin yeter: Bu nehrin suyu dağı delerek gelir / Kıyılarında at dizgini gibi sıra sıra ardıç biter",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "526",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tamgâlâdı",
+      "anlam": "Hakanın mührünü mektuba vurdu.",
+      "ornek_metin": "ol bitig tamgâlâdı: O, hakanın mührünü mektuba vurdu,",
+      "cekimler": [
+        "tamgâlâr",
+        "tamgâlâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "526",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tamgalıq",
+      "anlam": "Küçük bir ibrik.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "526",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tamgalıq",
+      "anlam": "Bir kişiye tahsis edilmiş küçük sofra.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "526",
+      "notlar": "Kökü tamgâlıq: mühürlenmiş'tir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tamgâq",
+      "anlam": "Boğaz; gırtlak.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "526",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tamgaqlâdı",
+      "anlam": "Onun boğazına vurdu.",
+      "ornek_metin": "ol anı tamgaqlâdı: O, onun boğazına vurdu.",
+      "cekimler": [
+        "tamgaqlâr",
+        "tamgaqlâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "526",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tamgırdı",
+      "anlam": "(Buzdan ya da başka bir şeyden) su damlayayazdı.",
+      "ornek_metin": "süvv tamgırdı: (Buzdan ya da başka bir şeyden) su damlayayazdı.",
+      "cekimler": [
+        "tamgırâr",
+        "tamgırmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "526",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tamındı",
+      "anlam": "Su damlası.",
+      "ornek_metin": "tam ındı süw: Su damlası,",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "527",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tamındı",
+      "anlam": "Kendisi için ve kendi kendine (bir şeyden) yağ sızdırdı.",
+      "ornek_metin": "ol dzinge yâg tamındı: O, kendisi için ve kendi kendine (bir şeyden) yağ sızdırdı.",
+      "cekimler": [
+        "tamınûr",
+        "tamınmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "527",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tamışdı",
+      "anlam": "(Buzdan ya da başka bir şeyden) su damladı.",
+      "ornek_metin": "süw tamışdı: (Buzdan ya da başka bir şeyden) su damladı.",
+      "cekimler": [
+        "tamışür",
+        "tamışmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "527",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tamıttı",
+      "anlam": "Suyu damlattı.",
+      "ornek_metin": "ol süwnı tamıttı: O, suyu [başka bir şeyi de olabilir] damlattı.",
+      "cekimler": [
+        "tamıtür",
+        "tamıtmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "527",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tamturdı",
+      "anlam": "Suyun ağzına damlatılmasını emretti.",
+      "ornek_metin": "ol anıg agzmga süw tamturdı: O, suyun ağzına damlatılmasını emretti.",
+      "cekimler": [
+        "tamturur",
+        "tamturmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "527",
+      "notlar": "Bu illetli bir sözcüktür.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tam turdı",
+      "anlam": "Ateşi yaktı (kandil yakmayı anlatmak için de kullanılır).",
+      "ornek_metin": "ol öt tamturdı: O, ateşi yaktı.",
+      "cekimler": [
+        "tamdurur",
+        "tamdurmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "527",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tamu",
+      "anlam": "Cehennem.",
+      "ornek_metin": "tamu qapgm açârtcm âr: Rüşvet cehennemin kapısını bile açar",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "527",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tamülâdı",
+      "anlam": "Önüne set kurarak suyu bir yerde topladı.",
+      "ornek_metin": "ol süwug tamülâdı: O, önüne set kurarak suyu bir yerde topladı.",
+      "cekimler": [
+        "tamular",
+        "tamülâmaq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "527",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tamurlug",
+      "anlam": "İçinde damarlar bulunan sert et.",
+      "ornek_metin": "tamurlug et: İçinde damarlar bulunan sert et.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "527",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tamuzdı",
+      "anlam": "Suyun damlamasına izin verdi.",
+      "ornek_metin": "oi süw tamuzdı: O, suyun damlamasına izin verdi.",
+      "cekimler": [
+        "tamuzur",
+        "tamuzmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "527",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tân",
+      "anlam": "Sabahın erken saatleri ve akşamın ilk vakitlerinde esen serin bir rüzgâr.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "527",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tana",
+      "anlam": "Kişniş tanesi, tohumu.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Uç ve Argu",
+      "kaynak_sayfa": "527-528",
+      "notlar": "Farsçadaki dâne: tohum, tane sözcüğünden Türkçeleştirilmiştir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tançu",
+      "anlam": "Lokma.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "528",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tançülâdı",
+      "anlam": "Adam ekmeği çiğnedi.",
+      "ornek_metin": "er etmek tançülâdı: Adam ekmeği çiğnedi.",
+      "cekimler": [
+        "tançülâr",
+        "tançülâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "528",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tandı",
+      "anlam": "Borcunu inkar etti.",
+      "ornek_metin": "ol alımnı tandı: O, borcunu inkar etti.",
+      "cekimler": [
+        "tânar",
+        "tânm âq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "528",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tanışdı",
+      "anlam": "Karşılıklı olarak birbirlerinin borcunu inkar etti.",
+      "ornek_metin": "olâr ekki alımnı tanışdı: Onlar, karşılıklı olarak birbirlerinin borcunu inkar etti.",
+      "cekimler": [
+        "tanışür",
+        "tanışmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "528",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tanturdı",
+      "anlam": "Borcu inkar ettirdi.",
+      "ornek_metin": "ol manga alımn tanturdı: O, bana borcu inkar ettirdi.",
+      "cekimler": [
+        "tanturur",
+        "tanturmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "528",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tanu",
+      "anlam": "Söz konusu eylem gerçekleşecek, göreceksin anlamına gelen iki ilgeç.",
+      "ornek_metin": "men bargây men yamu: Gideceğim göreceksin",
+      "cekimler": [],
+      "kelime_turu": "edat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "528",
+      "notlar": "yamu da denir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tanüdı",
+      "anlam": "Bana söz buyurdu, tavsiye etti.",
+      "ornek_metin": "ol manga söz tanüdı: O, bana söz buyurdu.",
+      "cekimler": [
+        "tanür",
+        "tanümâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "528",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tanuldı",
+      "anlam": "Ona söz buyuruldu.",
+      "ornek_metin": "angar söz tanuldı: Ona söz buyuruldu.",
+      "cekimler": [
+        "tanulür",
+        "tanulmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "528",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tanuq",
+      "anlam": "Tanık; şahit.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "528",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tanuqluq",
+      "anlam": "Tanıklık; şahitlik.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "528",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tanuştı",
+      "anlam": "Birbirlerine söz buyurdu.",
+      "ornek_metin": "olâr ekki söz tanuştı: Onlar birbirlerine söz buyurdu.",
+      "cekimler": [
+        "tanuşür",
+        "tanuşmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "528",
+      "notlar": "Kökü tanüdı’dır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tanuttı",
+      "anlam": "Bana başkasına söz buyurmamı emretti.",
+      "ornek_metin": "ol manga söz tanuttı: O, bana, başkasına söz buyurmamı emretti.",
+      "cekimler": [
+        "tanutür",
+        "tanutmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "528",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tang",
+      "anlam": "Elek",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Argu",
+      "kaynak_sayfa": "528",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tarig",
+      "anlam": "Esas kısmı yıkılmış, ama temelleri hâlâ duran, kadim zamanlardan kalmış her türlü yapı, höyük veya kale temelleri",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "529",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tarig",
+      "anlam": "Şaşılacak, olağanüstü bir şey.",
+      "ornek_metin": "tarig neng: Şaşılacak, olağanüstü bir şey. / târig kördüm : Bir mucizeye şahit oldum",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "529",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tarig",
+      "anlam": "Tan; şafak.",
+      "ornek_metin": "tarig attı: Şafak söktü.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "529",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tarig torig",
+      "anlam": "Ağır bir nesne katı bir şeyin üzerine düştüğünde çıkardığı ses.",
+      "ornek_metin": "tarig tong etti: Ağır bir nesne katı bir şeyin üzerine düştüğünde böylesi bir ses çıkarttı",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "529",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tarigân",
+      "anlam": "Başı beyaz bir karga.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "529",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tarigdı",
+      "anlam": "Onun başına kuşak bağladı.",
+      "ornek_metin": "ol anıg başın tarigdı: O, onun başına kuşak bağladı.",
+      "cekimler": [
+        "tarigâr",
+        "tarigmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "529",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tarigıl",
+      "anlam": "Önayaklannda çizgiler bulunan ceylan.",
+      "ornek_metin": "tarigıl keyik: Önayaklannda çizgiler bulunan ceylan",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "529",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tarigıldı",
+      "anlam": "Adam kuşakla başını sardı.",
+      "ornek_metin": "tarigıldı baş: Adam kuşakla başını sardı - Baş bağlandı.",
+      "cekimler": [
+        "tarigılür",
+        "tarigılmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "529",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tarigmdı",
+      "anlam": "Adam kendi başına kuşak bağladı.",
+      "ornek_metin": "er başın tarigmdı: Adam kendi başına kuşak bağladı.",
+      "cekimler": [
+        "tarigınür",
+        "tangınmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "529",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tarigızdı",
+      "anlam": "Adam öfkeyle kabardı (ciğer şişti).",
+      "ornek_metin": "er öpkesinde tangızdı: Adam öfkeyle kabardı.",
+      "cekimler": [
+        "tangızar",
+        "tangızmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "529",
+      "notlar": "Ciğer pişirilirken üzerine sirke ve hardal dökülüp şişmesini anlatmak için de kullanılır.",
+      "kontrol_gerekli": false
+    }
+  ]
+}

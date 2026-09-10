@@ -1,0 +1,761 @@
+{
+  "chunk_no": 107,
+  "kaynak_sayfa_baslangic": 553,
+  "kaynak_sayfa_bitis": 557,
+  "kelimeler": [
+    {
+      "kelime": "tepsedi",
+      "anlam": "O, onu kıskandı [ona haset etti].",
+      "ornek_metin": "olanı tepsedi: O, onu kıskandı [ona haset etti].",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "553",
+      "notlar": "Sözcüğün z'yle söylenen biçimi de vardır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tepsetti",
+      "anlam": "O, beni haset etmem için kışkırttı.",
+      "ornek_metin": "ol meni tepsetti: O, beni haset etmem için kışkırttı.",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "553",
+      "notlar": "Sözcüğün z'yle söylenen biçimi de vardır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tepük",
+      "anlam": "Eritilmiş kurşundan ağırşak biçiminde dökülen ve etrafına keçi tüyü ya da benzer şeyler sarılan, oğlan çocuklarının ayaklarıyla vurarak oynadığı oyuncağı.",
+      "ornek_metin": "Eritilmiş kurşundan ağırşak biçiminde dökülen ve etrafına keçi tüyü ya da benzer şeyler sarılan bir şey. Oğlan çocukları buna ayaklarıyla vurarak bir oyun oynar [ayaktopu].",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "553",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tepreşmek",
+      "anlam": "Depreşmek, hareket etmek.",
+      "ornek_metin": "(Yaz ile Kış arasındaki çekişmeyi anlatıyor; Kış, Yaz'a sesleniyor) ol qar qamug qîşm ener : Kar ve nem kışın iner, aşbq tarıg anın öner : Yazın tahıl böylece biter, yawlaq yağı mende tınâr : Zalim düşmanın öfkesi bende diner, sen keliben tepreşür : Sen keliben tepreşür ' Sen gelince (ey Yaz) o yine depreşir",
+      "cekimler": [
+        "tepreşür",
+        "tepreşmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "553",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tepretti",
+      "anlam": "O, bir şeyi hareket ettirdi.",
+      "ornek_metin": "ol tepretti nerigni: O, bir şeyi hareket ettirdi.",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "553",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tepretmek",
+      "anlam": "Harekete geçirmek, saldırmak.",
+      "ornek_metin": "eryagîqa tepretti: Adam düşmana saldırdı,",
+      "cekimler": [
+        "tepretür",
+        "tepretmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "553",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tepzedi",
+      "anlam": "O, onu kıskandı [ona haset etti].",
+      "ornek_metin": "ol anı tepzedi: O, onu kıskandı [ona haset etti].",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "553",
+      "notlar": "Tepsedi sözcüğünün değişik sesletimidir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tepzemek",
+      "anlam": "Haset etmek.",
+      "ornek_metin": "",
+      "cekimler": [
+        "tepzer",
+        "tepzemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "553",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tepzeşmek",
+      "anlam": "Birbirlerine haset etmek.",
+      "ornek_metin": "olâr qamug bu işqa tepzeşdiler: Onlar bu işte birbirlerine haset ettiler.",
+      "cekimler": [
+        "tepzeşür",
+        "tepzeşmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "553",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tepzetti",
+      "anlam": "O, bu işte haset etmem için beni kışkırttı.",
+      "ornek_metin": "ol meni bu işqa tepzetti: O, bu işte haset etmem için beni kışkırttı.",
+      "cekimler": [
+        "tepzetür",
+        "teqzetmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "553",
+      "notlar": "Tepsetti sözcüğünün değişik sesletimidir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ter",
+      "anlam": "Ücret karşılığı işe koşulan adama verilen para.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "553",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "terçi",
+      "anlam": "Ücret karşılığı iş yapan kimse.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "553",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ter",
+      "anlam": "Ter (deriden çıkan sıvı).",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "554",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "terçi",
+      "anlam": "Ücret karşılığı çalışan kimse.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "554",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "terdi",
+      "anlam": "Mal [başka bir şey de olabilir] topladı |biriktirdi|.",
+      "ornek_metin": "ol tawâr terdi': O, mal [başka bir şey de olabilir] topladı |biriktirdi|.",
+      "cekimler": [
+        "terer",
+        "termek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "554",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "terek",
+      "anlam": "Kavak.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "554",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tereklik",
+      "anlam": "Kavaklık. Kavak sahibi olan kimse.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "554",
+      "notlar": "“Kavak sahibi olan kimse”yi anlatmak için sözcüğün titreşimli kefli (ince kef - g) biçimi kullanılır [tereklig].",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tergeş",
+      "anlam": "Kalabalık oluşmasını sağlayan bir hareketin neden olduğu sıkışma.",
+      "ornek_metin": "suvv tergeşi: Bir nehir arkındaki durgun su.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "554",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tergeşdi",
+      "anlam": "Develer tek kol halinde yürüdüler, birbiri ardına sıralanarak dizi oluşturdular.",
+      "ornek_metin": "tewe tergeşdi: Develer [başka hayvanlar da olabilir] tek kol halinde yürüdüler. Birbiri ardına sıralanarak bir dizi oluşturan her şeyi anlatmak için bu sözcük kullanılır.",
+      "cekimler": [
+        "tergeşür",
+        "tergeşmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "554",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tergi",
+      "anlam": "Kurulu sofra.",
+      "ornek_metin": "tıhn tergike tegır: Nazik konuşan (kimse) kurulu sofraya ulaşır.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "554",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tergin",
+      "anlam": "Bir araya gelmiş ve durağan herhangi bir şey.",
+      "ornek_metin": "tergin süvv: Durgun su. tergin sü: Toplanmış asker,",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "554",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tergü",
+      "anlam": "Eyer kayışları.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "554",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "teri",
+      "anlam": "Deri; cilt.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "554",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "terildi",
+      "anlam": "Halk bir araya geldi, para toplandı.",
+      "ornek_metin": "bodün terildi: Halk bir araya geldi [toplaştı], yarm âq terildi: Para [başka bir şey de olabilir] toplandı [biriktirildi].",
+      "cekimler": [
+        "terlür",
+        "terilmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "554",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "terilgen",
+      "anlam": "Her zaman bir araya gelen, anlaşılan halk.",
+      "ornek_metin": "bular bodun ol tutçı terilgen: Bu her zaman bir araya gelen ve bir mesele üzerine anlaşan bir halktır.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "554",
+      "notlar": "Önce geri çekilip sonra tekrar toplanmak âdetinde olan herhangi bir şeyi anlatmak için bu sözcük kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "terim",
+      "anlam": "Afrâsiyâb soyundan gelen prensler, prensesler ve soylu kişileri anlatmak için kullanılan unvan.",
+      "ornek_metin": "\"Prenses’Tere seslenirken de altım terim denir.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "554",
+      "notlar": "Hâqânıler arasında bu unvan yalnızca Hanların oğulları için kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "terinçek",
+      "anlam": "İnce bir pelerin.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Oğuz lehçesi",
+      "kaynak_sayfa": "555",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "terindi",
+      "anlam": "Kendi kendine meyve topladı.",
+      "ornek_metin": "ol Özinge yemiş terindi: O, kendisi için kendi kendine meyve (başka bir şey de olabiliri topladı.",
+      "cekimler": [
+        "terinür",
+        "terinmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "555",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "teririg köl",
+      "anlam": "Ekki öguz sınırında bulunan bir göl.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "555",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "teririg terigiz",
+      "anlam": "Engin ve derin deniz.",
+      "ornek_metin": "teririg terigiz: Engin ve derin deniz. Oğuzlar geniş ve derin olan her şeye teririg derler.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Oğuzlar",
+      "kaynak_sayfa": "555",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tering ön",
+      "anlam": "Derin vadi.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "555",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "teririg bilge",
+      "anlam": "Engin bilgiye ve hikmete sahip âlim.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "555",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "terişdi",
+      "anlam": "Meyve toplamakta yardım etti.",
+      "ornek_metin": "ol maıiga yemiş terişdi: O, bana meyve Ibaşka bir şey de olabiliri toplamakta yardım etti.",
+      "cekimler": [
+        "terişür",
+        "terişmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "555",
+      "notlar": "Herhangi bir şeyi derlemeyi ya da hasattan sonra tarlada kalan tahılı toplamayı anlatmak için de bu sözcük kullanılır. Yarış da böyledir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "teritti",
+      "anlam": "Adam terledi.",
+      "ornek_metin": "er teritti: Adam [başka bir şey de olabiliri terledi.",
+      "cekimler": [
+        "teriler",
+        "teritmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "555",
+      "notlar": "Bu sözcük [ya] teri, deri sözcüğünden türetilmiştir ya da ter sözcüğünden türetilmiştir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "terk",
+      "anlam": "Türk ülkesinde bir kent adı.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "555",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "terk kel",
+      "anlam": "Çabuk gel.",
+      "ornek_metin": "terk kel: Çabulj gel. Herhangi bir işin çabuk görülmesine ilişkin bir emir verildiğinde terk qıl: Acele et denir,",
+      "cekimler": [],
+      "kelime_turu": "deyim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "555",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "terken",
+      "anlam": "Hâqânılerin bir ülke ya da il üzerinde hâkimiyeti olan bir kimseye hitap ederken kullandıkları sözcük, \"Ey sen itaat edilen\".",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "555",
+      "notlar": "Yalnızca Hâqânîler ve Hakanlar için kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "terkin",
+      "anlam": "Çabuk, aceleyle.",
+      "ornek_metin": "terkin kel: Çabuk gel. Kökü “acele” anlamına gelen terk’dir.",
+      "cekimler": [],
+      "kelime_turu": "zarf",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "555",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "terkledi",
+      "anlam": "O, işi hızlandırdı [işte acele etti].",
+      "ornek_metin": "ol işıg terkledi: O, işi hızlandırdı [işte acele etti],",
+      "cekimler": [
+        "terkler",
+        "terklemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "555",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "terledi",
+      "anlam": "At terledi.",
+      "ornek_metin": "at terledi: At terledi.",
+      "cekimler": [
+        "terler",
+        "terlemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "555",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "terledi",
+      "anlam": "O, atını kaşağıladı, atın üzerindeki ter ve pislik gibi şeyleri temizledi.",
+      "ornek_metin": "ol atm terledi: O, atını kaşağıladı, atın üzerindeki ter ve pislik gibi şeyleri temizledi.",
+      "cekimler": [
+        "terler",
+        "terlemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "556",
+      "notlar": "Bu sözcüğün biri geçişli, biri geçişsiz olan iki zıt anlamı vardır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "terlendi",
+      "anlam": "At terledi.",
+      "ornek_metin": "at terlendi: At [başka bir şey de olabiliri terledi.",
+      "cekimler": [
+        "terlenür",
+        "terlenmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "556",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "terletti",
+      "anlam": "O, atını terletti / atını kaşağıladı.",
+      "ornek_metin": "ol atın terletti: O, atını terletti. ol atıg terletti: O, atını kaşağıladı,",
+      "cekimler": [
+        "terlettir",
+        "terletmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "556",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "terlik",
+      "anlam": "Teri çekmek için eyerin altına konan keçe.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "556",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ternek",
+      "anlam": "Halkın belli bir işi, alınacak tedbirleri konuşup karara bağlamak için toplandıkları meclis.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "556",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "terriğük",
+      "anlam": "Topraktan sızan su.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "556",
+      "notlar": "Bunun Arapçası turnutj’tur. kaf (q), kefe (k) dönüşmüştür; bu iki dile de uygun bir sözcüktür.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "terngüklendi",
+      "anlam": "Su topraktan sızdı.",
+      "ornek_metin": "suw terngüklendi: Su topraktan sızdı,",
+      "cekimler": [
+        "temgüfclenür",
+        "terrigüklenmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "556",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ters",
+      "anlam": "“Zorlu” olan herhangi bir şey.",
+      "ornek_metin": "ters îş: Zor iş.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "556",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tersindi",
+      "anlam": "Bey ona öfkelendi.",
+      "ornek_metin": "beg angar tersindi: Bey ona öfkelendi.",
+      "cekimler": [
+        "tersinür",
+        "tersinmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "556",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tersindi",
+      "anlam": "Yara kapanmışken yeniden açıldı [iltihap dinmişken yeniden azdı].",
+      "ornek_metin": "bâş tersindi: Yara kapanmışken yeniden açıldı [iltihap dinmişken yeniden azdı).",
+      "cekimler": [
+        "tersinür",
+        "tersinmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "556",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tes",
+      "anlam": "Oğuzların yuvarlak bir şeyi betimlerken aşırı vurgu yapmak için kullandıkları pekiştirme sözcüğü.",
+      "ornek_metin": "tes tegirme derler.",
+      "cekimler": [],
+      "kelime_turu": "zarf",
+      "dil_veya_lehce": "Oğuzlar",
+      "kaynak_sayfa": "556",
+      "notlar": "Bu kullanım kurala aykırıdır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "teşik",
+      "anlam": "Obur; karnı doymasına karşın gözü doymayan kimse.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "557",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "teşildi",
+      "anlam": "Şarap tulumu yarıldı.",
+      "ornek_metin": "qâp teşildi: Şarap tulumu yarıldı. (Şu dörtlükte de kullanılır: qânı aqıp yuşuldı : Kanı akıp döküldü, qâpı qamug teşildi : Sanki yanlan bir şarap tulumunda saklanıyormuş gibi, ölüg bile qoşuldı : (Şimdi) ölümle birleşti, tugmış küni uş batar : Doğan güneşi şimdi batıyor jbahtı ve yaşamı bitiyor)",
+      "cekimler": [
+        "teşilür",
+        "teşilmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "557",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "teşük",
+      "anlam": "Erbezi torbasındaki yarık.",
+      "ornek_metin": "teşûle sumla belgürer: Erkeğin yangı suda belli olur.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "557",
+      "notlar": "Bu atasözü, aşırı övündüğü bir iş yapan kimseye “bunu bize gösterdiğin zaman iyi mi, kötü mü göreceğiz demek için kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "teşükledi",
+      "anlam": "O, onun obur olduğunu düşündü.",
+      "ornek_metin": "ol anı teşükledi: O, onun obur olduğunu düşündü.",
+      "cekimler": [
+        "teşükîer",
+        "teşüklemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "557",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tetildi",
+      "anlam": "Çocuk akıllandı.",
+      "ornek_metin": "oglân tetildi: Çocuk akıllandı.",
+      "cekimler": [
+        "tetlür",
+        "teîtlmele"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "557",
+      "notlar": "",
+      "kontrol_gerekli": true
+    },
+    {
+      "kelime": "tetindi",
+      "anlam": "O, onunla cesurca yüzleşti.",
+      "ornek_metin": "ol angar tetindi: O, onunla cesurca yüzleşti. anıgyüzinğe tetini'ı baqsa bolmâs: Onun yüzüne [güzelliği nedeniyle] doğrudan bakamazsınız.",
+      "cekimler": [
+        "tetnür",
+        "tetinmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "557",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tetrü",
+      "anlam": "Herhangi bir şeyin tersine dönmüş hali.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "zarf",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "557",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tetrüldi",
+      "anlam": "Rüzgâr yön değiştirdi (güney rüzgârı kuzeye, kuzey rüzgârı güneye doğru esmeye başladı).",
+      "ornek_metin": "yel tetrüldi: Rüzgâr yön değiştirdi.",
+      "cekimler": [
+        "tetrülür",
+        "tetrülmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "557",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tetrüldi nerig",
+      "anlam": "Nesne kendi etrafında döndürüldü ve tersine çevrildi.",
+      "ornek_metin": "tetrüldi nerig: Nesne kendi etrafında döndürüldü ve tersine çevrildi.",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "557",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tetrüldi er qılqı",
+      "anlam": "Adamın huyu kötüleşti.",
+      "ornek_metin": "er qılqı tetrüldi: Adamın huyu (başka bir şeyi de olabiliri kötüleşti,",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "557",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tetti",
+      "anlam": "Köle [kul], beye [başka birine de olabilir] karşı koydu.",
+      "ornek_metin": "qu! begke tetti: Köle ]kul], beye Ibaşka birine dc olabilir! karşı koydu.",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "557",
+      "notlar": "",
+      "kontrol_gerekli": false
+    }
+  ]
+}

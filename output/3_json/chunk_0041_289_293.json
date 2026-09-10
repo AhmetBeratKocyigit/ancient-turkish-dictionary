@@ -1,0 +1,795 @@
+{
+  "chunk_no": 41,
+  "kaynak_sayfa_baslangic": 289,
+  "kaynak_sayfa_bitis": 293,
+  "kelimeler": [
+    {
+      "kelime": "iltürür, iltürmek",
+      "anlam": "Anlatmak",
+      "ornek_metin": "",
+      "cekimler": [
+        "iltürür",
+        "iltürmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "289",
+      "notlar": "lamayı anlatmak için de bu sözcük kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "im",
+      "anlam": "Askeri birlikler arasında kullanılması için hakanın belirlediği parola, işaret",
+      "ornek_metin": "im bilse er ölmes: İşareti bilen adam (onu tanıyamayan kişi ferafindan yanlışlıkla) öldürülmez",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "289",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "imdi",
+      "anlam": "imdi",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "belirsiz",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "289",
+      "notlar": "bkz. amdı.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "im ir",
+      "anlam": "Sis, pus",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Oğuz lehçesi",
+      "kaynak_sayfa": "289",
+      "notlar": "[bkz. ingir]",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "imledim",
+      "anlam": "Göz kırpmak, işaret etmek",
+      "ornek_metin": "men arıgâr imledim: Ben ona göz kırptım - onu (elimle) gösterdim.",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "289",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "imlemek",
+      "anlam": "İşaret etmek, parmakla göstermek",
+      "ornek_metin": "ay tolün bolsa elgin imlemiş: Ay dolunay olduğunda parmakla gösterilmesine gerek yoktur. Bu atasözü, bir konunun zaten yeterince açık olduğunu belirtmek için kullanılır.",
+      "cekimler": [
+        "imler men",
+        "imlemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "289",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "imleldi",
+      "anlam": "Dikkat çekmek (göz kırparak ya da beden hareketi yaparak)",
+      "ornek_metin": "kişi imleldi: Adam dikkat çekti (göz kırparak ya da bir beden hareketi yaparak)",
+      "cekimler": [
+        "imlelür",
+        "imlelmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "289",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "imleşdi",
+      "anlam": "Karşılıklı işaretleşmek",
+      "ornek_metin": "ol anıg birle elgin imleşdi: O, eliyle onu işaret etti ve karşısındaki de benzer bir biçimde onu gösterdi.",
+      "cekimler": [
+        "imleşür",
+        "imleşmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "289",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "imlettim",
+      "anlam": "İşaretle ya da göz kırparak çağırmasını emretmek",
+      "ornek_metin": "men anı imlettim: Ben birine eliyle işaret ederek ya da göz kırparak onu çağırmasını emrettim.",
+      "cekimler": [
+        "imletür men",
+        "imletmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "289",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "imrem",
+      "anlam": "Ülkedeki bütün taifelerin gözü pek bir biçimde bir işe girişmesi",
+      "ornek_metin": "imrem tepreşti: Topluluk harekete geçti",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "289",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "imtili",
+      "anlam": "Üzerinde kafa yormadan, gelişigüzel iş yapmak",
+      "ornek_metin": "bu ışıg imtili qıldı: Bu işi üzerinde kafa yormadan, gelişigüzel yaptı",
+      "cekimler": [],
+      "kelime_turu": "belirsiz",
+      "dil_veya_lehce": "Çigil lehçesi",
+      "kaynak_sayfa": "289",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "in",
+      "anlam": "Aslan, tilki ya da benzer yırtıcı hayvanların ini, yatağı",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "289",
+      "notlar": "yin [bkz. yin] de denir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "in",
+      "anlam": "Koyun pisliği",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "289",
+      "notlar": "ye’li (y) biçiminin değişik sesletimi [yin - bkz. yin].",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "inâl",
+      "anlam": "Annesi bir Qâtün, babası ise sıradan biri olan genç erkeğe verilen ad",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "290",
+      "notlar": "Bu kök-anlamıdır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "inanç",
+      "anlam": "Güvenilir, emin",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "290",
+      "notlar": "Buradan alınarak inanç beg: kendisine itimat edilir bey denir, bkz. inanç.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "inegü",
+      "anlam": "Göbek deliğinin tam arkasında hissedilen, karın ağrısına benzer bir hastalık",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "290",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ingek",
+      "anlam": "İnek",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "290",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ingek",
+      "anlam": "Dişi kaplumbağa",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Oğuz lehçesi",
+      "kaynak_sayfa": "290",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "inğen",
+      "anlam": "Dişi deve",
+      "ornek_metin": "ingen ıngrasa botu bozlar: Dişi deve inleyince yavru deve (yanıt olarak) homurdanır. Bu atasözü akrabaların birbirlerine ihtiyaç duyduklannı anlatmak için kullanılır.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "290",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ini",
+      "anlam": "Yaşça küçük kardeş",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "290",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "irigir",
+      "anlam": "Alacakaranlık - karanlık ile aydınlığın karışımı",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "290",
+      "notlar": "Oğuzlar buna imir der.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "irigliç",
+      "anlam": "Kebapla yenen, sarımsağa benzeyen bir dağ bitkisi",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "290",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "iprük",
+      "anlam": "Ekşi şey yediği için kabız olana müshil olarak verilen, taze süt ve yoğurt karışımı içki",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "290",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ir",
+      "anlam": "Deriye ya da köseleye delik açmak için kullanılan sivri uçlu bir alet",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "290",
+      "notlar": "er [?] olarak da geçer.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ir",
+      "anlam": "Utanma",
+      "ornek_metin": "er ir boldı: Adam utandı",
+      "cekimler": [],
+      "kelime_turu": "ünlem",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "290",
+      "notlar": "Utanma bildiren bir ilgeç.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "iridi",
+      "anlam": "Ağacın veya kemik dokusunun yaşlılıktan/bozulmadan çürümesi",
+      "ornek_metin": "yıgâç irîdi: Ağaç [başka bir şey de olabilir] (yaşlılıktan) çürüdü.",
+      "cekimler": [
+        "inV",
+        "inmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "290",
+      "notlar": "Kemik dokusunun bozulmasını anlatmak için de bu sözcük kullanılır.",
+      "kontrol_gerekli": true
+    },
+    {
+      "kelime": "irig",
+      "anlam": "Çürümüş herhangi bir şey",
+      "ornek_metin": "irig neng: Çürümüş herhangi bir şey; irig otüng: Yavaş yavaş çürüyen yakacak tahta parçaları",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "290",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "irig",
+      "anlam": "Sadık ve becerikli adam",
+      "ornek_metin": "irig erini yâglîg, ermegii başı qânlîg: Becerikli adamın dudağı yağlı, tembelin başı kanlı",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "290",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "irig",
+      "anlam": "Katı olan herhangi bir şey",
+      "ornek_metin": "irig nerig: Katı olan herhangi bir şey",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "290",
+      "notlar": "[bkz. idrig]",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "irig",
+      "anlam": "Uyuz olmuş birinin kafası (yara kabukları nedeniyle)",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "290",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "iririg",
+      "anlam": "İrin, cerahat",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "290",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "irinçü",
+      "anlam": "Günah",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "290",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "irk",
+      "anlam": "Dört yaşındaki koyun",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "291",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "irkildi",
+      "anlam": "Büyük bir ordu veya kalabalığın toplanması",
+      "ornek_metin": "sû telim irkildi: Büyük bir ordu toplandı.",
+      "cekimler": [
+        "irkilür",
+        "irkilmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "291",
+      "notlar": "Hem geçişli hem de geçişsiz olabilir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "irkin",
+      "anlam": "Belli bir yerde biriktirilmiş su veya şey",
+      "ornek_metin": "irkin süw: Belli bir yerde biriktirilmiş su.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "291",
+      "notlar": "Qarluk şeflerine verilen kül irkin unvanı buradan gelir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "irkin",
+      "anlam": "Günlerce süren yağmur",
+      "ornek_metin": "irkin yağmur: Günlerce süren yağmur.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "291",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "irkindi",
+      "anlam": "Mal mülk biriktirmek",
+      "ornek_metin": "ol Özinğe neng irkindi: O, kendisi için mal, mülk [başka bir şey de olabilir] biriktirdi.",
+      "cekimler": [
+        "irkinür",
+        "irkinmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "291",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "irkişti",
+      "anlam": "Mal biriktirmekte yardım etmek, bu konuda rekabet etmek",
+      "ornek_metin": "ol manga tawâr irkişti: O, bana mal biriktirmekte yardım etti.",
+      "cekimler": [
+        "irkişür",
+        "irkişmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "291",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "irkledi",
+      "anlam": "Yeri veya başka bir şeyi çiğnemek",
+      "ornek_metin": "ol yerig irkledi: O, yeri [başka bir şeyi de olabilir] çiğnedi.",
+      "cekimler": [
+        "irkler",
+        "irklemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "291",
+      "notlar": "ikledi’nin değişik sesletimidir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "irkti",
+      "anlam": "Mal, mülk, para biriktirmek",
+      "ornek_metin": "er tawâr İrkti: Adam mal, mülk, para [başka bir şey de olabilir] biriktirdi.",
+      "cekimler": [
+        "irker",
+        "irkmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "291",
+      "notlar": "irkemek [?] de denir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "irpedi",
+      "anlam": "Ağacı testereyle doğramak, parçalara ayırmak; işi düzeltmek isterken bozmak",
+      "ornek_metin": "ol yıgâç irpedi: O, ağacı testereyle doğradı - tahtayı parçalara ayırdı",
+      "cekimler": [
+        "irper",
+        "irpemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "291",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "irpeldi",
+      "anlam": "Ağacın doğranması, tahtanın parçalara ayrılması; işin bozulması",
+      "ornek_metin": "yıgâç irpeldi: Ağaç doğrandı - tahta parçalara aynldı.",
+      "cekimler": [
+        "irpelür",
+        "irpelmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "291",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "irpetti",
+      "anlam": "Ağacın doğranmasını, tahtanın parçalara ayrılmasını emretmek",
+      "ornek_metin": "ol yıgâç irpetti: O, ağacın doğranmasını (tahtanın parçalara ayrılmasını) emretti.",
+      "cekimler": [
+        "irpetûr",
+        "irpelmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "291-292",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "irtedi",
+      "anlam": "Meseleyi araştırmak, aramak",
+      "ornek_metin": "er işig irtedi: Adam meseleyi araştırdı.",
+      "cekimler": [
+        "irter",
+        "irtemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "292",
+      "notlar": "[bkz. istedi]",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "irteldi",
+      "anlam": "Araştırılmak, peşinden koşulmak",
+      "ornek_metin": "irteldi neng: O şey araştırıldı, onun peşinden koşuldu.",
+      "cekimler": [
+        "irteîür",
+        "irtelmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "292",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "irteş",
+      "anlam": "Belli bir konu üzerine insanlar arasında ortaya çıkan hesap sorma isteği, sorgulama",
+      "ornek_metin": "irteş qopdı: Sorgulama isteği oluştu",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "292",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "irteştiler",
+      "anlam": "Bir sözün veya meselenin iç yüzünü araştırmak",
+      "ornek_metin": "olâr bu sözüg irteştiler: Onlar bu sözün (ya da meselenin ya da benzer bir şeyin) iç yüzünü araştırdı.",
+      "cekimler": [
+        "irteşür",
+        "irteşmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "292",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "irtetti",
+      "anlam": "Bir şeyin araştırılmasını sağlamak",
+      "ornek_metin": "ol anı irtetti: O, onun araştırılmasını sağladı.",
+      "cekimler": [
+        "irtetür",
+        "irtetmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "292",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "irwi",
+      "anlam": "Hindistan’dan gelen bir ilaç",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "292",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "irwi",
+      "anlam": "Sivri, ince kulak",
+      "ornek_metin": "irwi quldq: Sivri, ince kulak",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "292",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "isidi",
+      "anlam": "Isınmak, sıcak olmak",
+      "ornek_metin": "ırıün isidi: Çorba sıcakçaydı; temür isidi: Demir ısındı.",
+      "cekimler": [
+        "islr",
+        "isımek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "292",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "isig köl",
+      "anlam": "Barsgân’da bir göl",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "292",
+      "notlar": "Uzunluğu otuz, eni on fersahtır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "isig",
+      "anlam": "Sıcak herhangi bir şey, sıcak gün",
+      "ornek_metin": "isig neng: Sıcak herhangi bir şey; isig kün: Sıcak gün.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "292",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "isigledi",
+      "anlam": "Yazın sıcağında ya da öğlen güneşinde dışarı çıkmak",
+      "ornek_metin": "er isigledi: Adam yazın sıcağında ya da öğlen güneşinde dışarı çıktı.",
+      "cekimler": [
+        "isigler",
+        "isiglemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "292",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "isıglendi",
+      "anlam": "Gitmek için o anın çok sıcak olduğunu düşünmek",
+      "ornek_metin": "ol bu uğurda barm âqqa isiglendi: (Adam) gitmek için o anın çok sıcak olduğunu düşündü.",
+      "cekimler": [
+        "isiglenür",
+        "isiglenmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "292-293",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "isiglik",
+      "anlam": "Sıcaklık",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "293",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "isiglik",
+      "anlam": "Aşk, sevgi",
+      "ornek_metin": "köngül isigliki herek: Yürekte âşkın ateşi olmalıdır.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "293",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "isindi",
+      "anlam": "Sevmek, ısınmak, gevşeyerek uzanmak",
+      "ornek_metin": "men angâr isindim: Ben onu sevdim; ol ötqa isindi: O, ateşin kenannda kendini ısıttı",
+      "cekimler": [
+        "isinür",
+        "isinmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "293",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "isirgendi",
+      "anlam": "Başın isiliklerle kaplanması",
+      "ornek_metin": "anıg başı isirgendi: Onun başı isiliklerle kaplandı",
+      "cekimler": [
+        "isirgenür",
+        "isirgenmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "293",
+      "notlar": "Uzun zamandır tıraş olunmadığı için oluşur.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "isişdi",
+      "anlam": "Nesnenin ısınması, sıcaklığın içine yayılması",
+      "ornek_metin": "isişdi neng: Nesne ısındı - sıcaklık onun içine yayıldı.",
+      "cekimler": [
+        "isişür",
+        "isişmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "293",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "işitti",
+      "anlam": "Çorbayı, demiri veya başka bir şeyi ısıtmak; ateşlenmek",
+      "ornek_metin": "ol mün işitti: O,çorbayı ısıttı; er işitti: Adam ateşlendi.",
+      "cekimler": [
+        "isitür",
+        "işitmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "293",
+      "notlar": "İlk kullanım geçişli, ikinci kullanım geçişsizdir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "iskedi",
+      "anlam": "Tüy, yün veya başka bir şeyi yolmak",
+      "ornek_metin": "ol yüng iskedi: O, tüy [yün - başka bir şey de olabiliri yoldu.",
+      "cekimler": [
+        "isker",
+        "iskemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "293",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "iskendi",
+      "anlam": "Atın çimeni kopardığı (üst kısmını yediği) gibi tüy veya kısa ot koparmak",
+      "ornek_metin": "at ot iskendi: At, çimeni kopardı (çimenin üst kısmını yedi).",
+      "cekimler": [
+        "iskenûr",
+        "iskenmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "293",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "istedi",
+      "anlam": "Aramak, istemek",
+      "ornek_metin": "qaçmîş qutug istedim: Kaçan Talihin peşine duştum",
+      "cekimler": [
+        "ister",
+        "istemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "293",
+      "notlar": "irtedi’yle aynı anlama sahiptir.",
+      "kontrol_gerekli": false
+    }
+  ]
+}

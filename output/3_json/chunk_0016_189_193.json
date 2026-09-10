@@ -1,0 +1,934 @@
+{
+  "chunk_no": 16,
+  "kaynak_sayfa_baslangic": 189,
+  "kaynak_sayfa_bitis": 193,
+  "kelimeler": [
+    {
+      "kelime": "bilişdi",
+      "anlam": "Adam akıllanmış gibi göründü, bilgelendi.",
+      "ornek_metin": "er bilgelendi: Adam akıllanmış gibi göründü",
+      "cekimler": [
+        "bilgelenür",
+        "bilgelenmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "189",
+      "notlar": "Bunun daha iyi bir söylenişi bilimsindi: Adam kendisini akıllı gösterdi’dir. Diğer örnekler için de bu kural geçerlidir. Buyrum kipinin gövdesine -msin eki getirilerek gerçekte olmayan bir şey olmuş gibi gösterilir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bilgetti",
+      "anlam": "Çocuk zekileşti.",
+      "ornek_metin": "oğlan bilgetti: Çocuk zekileşti.",
+      "cekimler": [
+        "bilgetür",
+        "bilgetmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "189",
+      "notlar": "Kök-biçimi bilgedti'dır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bilig",
+      "anlam": "Bilgi (ilm).",
+      "ornek_metin": "bilig öğren: Bilgi öğren.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "189",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bilig",
+      "anlam": "Bilgelik (hikmet).",
+      "ornek_metin": "ozâqt bilgeler: Eski bilgeler",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "189",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bilig",
+      "anlam": "Akıl.",
+      "ornek_metin": "oglân biligsiz: Çocuklarda akıl yoktur",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "189",
+      "notlar": "Şu atasözünde de geçer",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "biliglig",
+      "anlam": "Bilgili, zeki, bilge kişi.",
+      "ornek_metin": "biliglig kişi: Bilgili, zeki, bilge kişi",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "189",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "biligsedi",
+      "anlam": "Çocuk bilgeliğe [hikmete] sahip olmayı arzuladı.",
+      "ornek_metin": "oglân biligsedi: Çocuk bilgeliğe |hikmete] sahip olmayı arzuladı.",
+      "cekimler": [
+        "biligser",
+        "biligsemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "189",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bilik",
+      "anlam": "Kandil fitili.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "189",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bilik",
+      "anlam": "Yaraların tedavisi sırasında kullanılan bir inceleme aleti.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "189",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "biliklik",
+      "anlam": "Fitil yapmak için hazırlanmış bir parça pamuk.",
+      "ornek_metin": "bitiklik kebez: Fitil yapmak için hazırlanmış bir parça pamuk",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "189",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bilinçek",
+      "anlam": "Çalınmış ve daha sonra hırsızın ya da bir başkasının elinde bulunan herhangi bir şeye verilen ad.",
+      "ornek_metin": "bilinçek neng: Çalınmış ve daha sonra hırsızın ya da bir başkasının elinde bulunan herhangi bir şeye verilen ad; bilinçek bildi: Hırsızın elindeki çalınmış malı tanıdı",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "189",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bilindi",
+      "anlam": "Adam işini bildi.",
+      "ornek_metin": "er ışın bilindi: Adam işini bildi",
+      "cekimler": [
+        "bilinür",
+        "bilinmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "189",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bilindi",
+      "anlam": "Adam suçunu itiraf etti.",
+      "ornek_metin": "eryâzuqın bilindi: Adam suçunu itiraf etti",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "189",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "biliş",
+      "anlam": "Bilgi, malumat.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "189",
+      "notlar": "Burada eylem değil, betimleyici bir sözcüktür.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bilişdi",
+      "anlam": "O benimle tanıştı.",
+      "ornek_metin": "ol menig birle bilişdi: O benimle tanıştı.",
+      "cekimler": [
+        "bilişûr",
+        "bilişmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "189",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bilsikti",
+      "anlam": "Onun gizli işi bilinir oldu.",
+      "ornek_metin": "anıg yaşut işi bilsikti: Onun gizli işi bilinir oldu.",
+      "cekimler": [
+        "bilsiker",
+        "bilsikmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "190",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "biltürdi",
+      "anlam": "O beni konu hakkında bilgilendirdi.",
+      "ornek_metin": "ol manga iş biltürdi: O beni konu hakkında bilgilendirdi.",
+      "cekimler": [
+        "biltürür",
+        "biltürmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "190",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bir",
+      "anlam": "Bir sayısı.",
+      "ornek_metin": "bir yarm âq: Bir para.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "190",
+      "notlar": "Bunu eksikli olanlar bölümüne koymak ve bîr olarak söylemek de mümkündür. Böylesi eksikliliklerin pek çok örneği vardır; ancak Türk lehçelerindeki bozulmamış (fasih) ve daha doğru kullanım kısa söyleyiş sert sözcelemedir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bir",
+      "anlam": "Bir sayısı.",
+      "ornek_metin": "bîryarm âq: Bir para",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "190",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "birinç",
+      "anlam": "Bir şeyin ilki.",
+      "ornek_metin": "birini; neng: Bir şeyin ilki.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "190",
+      "notlar": "Kalıplara uygun bir biçimdir, nadiren kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "birle",
+      "anlam": "İle anlamında bir ilgeç.",
+      "ornek_metin": "d menig birle erdi: O benimle birlikteydi.",
+      "cekimler": [],
+      "kelime_turu": "edat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "190",
+      "notlar": "Hafifletme gayesiyle re (r) atılır ve bile denir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "birtem",
+      "anlam": "Sanki geri dönmeye hiç niyet etmiyormuşçasına, içten bir biçimde ve uzun süreliğine göreve gitti.",
+      "ornek_metin": "olyam uşqa birtem bardı: Sanki geri dönmeye hiç niyet etmiyormuşçasına, içten bir biçimde ve uzun süreliğine göreve gitti",
+      "cekimler": [],
+      "kelime_turu": "zarf",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "190",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bis",
+      "anlam": "Yayık ya da şarap tulumu gibi şeylerin dibinde kalan tortu.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "190",
+      "notlar": "Bu katran gibi bir şeydir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "biste",
+      "anlam": "bkz. yaraşdı.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "belirsiz",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "190",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bistek",
+      "anlam": "Taranmış ve eğrilmeye hazır pamuk.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Çigil",
+      "kaynak_sayfa": "190",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bistek",
+      "anlam": "Fitil.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Argu",
+      "kaynak_sayfa": "190",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bit",
+      "anlam": "Bit.",
+      "ornek_metin": "tarıg biti: buğdaya dadanan ki^çük kurtçuk",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "190",
+      "notlar": "Buradan hareketle buğdaya dadanan küçük kurtçuğa tarıg biti denir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "biti",
+      "anlam": "Vahiyle ifşa edildiğine inanılan ilahi kitaplardan herhangi biri.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "190",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bitig",
+      "anlam": "Kitap.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "190",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bitig",
+      "anlam": "Yazı.",
+      "ornek_metin": "anıg bitiği belgülüg: Onun yazı yazması [yazısı] işlektir",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "190",
+      "notlar": "Aynı zamanda eylem biçimi alabilir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bitig",
+      "anlam": "Muska.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Oğuz",
+      "kaynak_sayfa": "190",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bitiglik",
+      "anlam": "Üzerine yazılmaya uygun şey.",
+      "ornek_metin": "bitiglig neng: Üzerine yazılmaya uygun şey",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "190",
+      "notlar": "Bu şeye sahip olunduğunu anlatmak için sözcük titreşimli k efle (ince k ef - g) bitiglig şeklinde kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bitigü",
+      "anlam": "Divit.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "190",
+      "notlar": "Türk üslubu ya da başka üsluplarda.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bitildi",
+      "anlam": "Kitap yazıldı.",
+      "ornek_metin": "bitig bitildi: Kitap yazıldı.",
+      "cekimler": [
+        "bitilür",
+        "bitilmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "191",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bitilgen",
+      "anlam": "Bu, orduya sürekli yeniden yazılan [katılan] adamdır.",
+      "ornek_metin": "bu er süke bitilgen ol: Bu, orduya sürekli yeniden yazılan [katılan] adamdır.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "191",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bitindi",
+      "anlam": "Adam kendini kitap yazıyormuş gibi gösterdi.",
+      "ornek_metin": "er bitig bitindi: Adam kendini kitap yazıyormuş gibi gösterdi.",
+      "cekimler": [
+        "bitinür",
+        "bitinmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "191",
+      "notlar": "Herhangi birinin yardımını talep etmeden, tek başına kitap yazmasını anlatmak için de bu sözcük kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bitişdi",
+      "anlam": "O bana kitap yazmakta yardım etti.",
+      "ornek_metin": "ol manga bitig bitişdi: O bana kitap yazmakta yardım etti.",
+      "cekimler": [
+        "bitiştir",
+        "bitişmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "191",
+      "notlar": "Bu konuda rekabet etmeyi anlatmak için de bu sözcük kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bitiştiler",
+      "anlam": "Her biri diğerinin kendisi aleyhine olan iddiasını kabul etti.",
+      "ornek_metin": "olar ekki bitiştiler: Her biri diğerinin kendisi aleyhine olan iddiasını kabul etti.",
+      "cekimler": [
+        "bitiştirler",
+        "bitişmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "191",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bititti",
+      "anlam": "O mektup yazdırdı.",
+      "ornek_metin": "ol bitig bititti: O mektup yazdırdı.",
+      "cekimler": [
+        "bititür",
+        "bititmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "191",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bitledi",
+      "anlam": "Adam bit aradı.",
+      "ornek_metin": "er bit bitledi (bıtlâdı): Adam bit aradı.",
+      "cekimler": [
+        "bitler",
+        "bitlemek",
+        "bıtlâr",
+        "bıtldmaq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "191",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bitmül",
+      "anlam": "Karabibere benzeyen, uzun taneli bir baharat.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "191",
+      "notlar": "[bkz. bibli]",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bitrik",
+      "anlam": "Kadınların cinsel organının üst tarafında bulunan, uyarılma sonucu kabaran parça [klitoris].",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "191",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bitrik",
+      "anlam": "Fıstık.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Argu",
+      "kaynak_sayfa": "191",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "biz",
+      "anlam": "Biz.",
+      "ornek_metin": "biz keldimız: Biz geldik",
+      "cekimler": [],
+      "kelime_turu": "zamir",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "191",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bizirig",
+      "anlam": "Bizim.",
+      "ornek_metin": "bizing ew: Bizim ev.",
+      "cekimler": [],
+      "kelime_turu": "zamir",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "191",
+      "notlar": "Biz köküne eklenen iyelik ekiyle yapılmıştır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "boçı",
+      "anlam": "Bir lavta çeşidi.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "191",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "böçı",
+      "anlam": "Bir lavta çeşidi.",
+      "ornek_metin": "böçı qopuz: Bir lavta çeşidi",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "191",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bodunlug boqunlug",
+      "anlam": "Ulusu, oymağı olan kişi.",
+      "ornek_metin": "bodunlug boqunlug kişi: Ulusu, oymağı olan kişi",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "191",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "böd",
+      "anlam": "İnsanın boyu.",
+      "ornek_metin": "üzün bödlug kişi: Uzun boylu adam",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "191-192",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "böd",
+      "anlam": "Boy; kavim.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "192",
+      "notlar": "bkz. böy.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bodüdı",
+      "anlam": "O giysisini [başka bir şeyi de olabilir] boyadı.",
+      "ornek_metin": "ol tönug bodüdı: O giysisini [başka bir şeyi de olabilir] boyadı.",
+      "cekimler": [
+        "bodur",
+        "bodürmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "192",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bodüdı",
+      "anlam": "O okunu attı ve avı ağaca yapıştırdı.",
+      "ornek_metin": "ol oqın urdı keyikni yıgâçqa bodüdı: O okunu attı ve avı ağaca yapıştırdı.",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "192",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bodun",
+      "anlam": "Tebaa, avam.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Çigil",
+      "kaynak_sayfa": "192",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bög",
+      "anlam": "Bir mal yığını ya da çıkını.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "192",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bogdı",
+      "anlam": "O adamı [başka bir şeyi de olabiliri boğdu.",
+      "ornek_metin": "ol em i bogdı: O adamı [başka bir şeyi de olabiliri boğdu.",
+      "cekimler": [
+        "bogâr",
+        "bogmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "192",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bogım",
+      "anlam": "Parmak eklemi.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "192",
+      "notlar": "Kamışın ya da hulfaotunun boğumları da bu şekilde adlandırılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bogm",
+      "anlam": "Eklem, kamışın boğumu.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "192",
+      "notlar": "Bu sözcükteki nun (n), mım’den (m) dönüşmüştür. Böylesi bir değişime Arapçada da müsaade edilir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "boglâdı",
+      "anlam": "O giysiyi bohçaladı.",
+      "ornek_metin": "ol tön boglâdı: O giysiyi bohçaladı.",
+      "cekimler": [
+        "boglâr",
+        "boglâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "192",
+      "notlar": "Türkler giysiyi bohçalamak ile başka bir şeyi bağlama anlamlarını birbirinden ayırır, ilkini be'yi (b) re/'’li okuyarak [boglâ], İkincisini be’yi nasb’lı okuyarak [bağla] söyler.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "boglandı",
+      "anlam": "Giysi bohçalandı.",
+      "ornek_metin": "tön boglandı: Giysi bohçalandı.",
+      "cekimler": [
+        "boglanür",
+        "boglanmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "192",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "boglattım",
+      "anlam": "Ona (kadının giysilerinin korunması için) çıkını bohçalattım.",
+      "ornek_metin": "atiğar bög boglattım: Ona (kadının giysilerinin korunması için) çıkını bohçalattım.",
+      "cekimler": [
+        "boglatür men",
+        "boglatmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "192",
+      "notlar": "bkz. bağlattım",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "boglundı",
+      "anlam": "At [başka bir şey de olabilir] boğuldu (nefesi kesildi).",
+      "ornek_metin": "at boglundı: At [başka bir şey de olabilir] boğuldu (nefesi kesildi).",
+      "cekimler": [
+        "boglunür",
+        "boglunmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "192",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bogmaq",
+      "anlam": "Gömlek düğmesi.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "193",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bogmaq",
+      "anlam": "Altından ya da başka madenlerden yapılan, değerli mücevherler ve incilerle süslü, gelinin taktığı bir gerdanlık.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "193",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bogmaqlâdı",
+      "anlam": "Gömleğin [başka bir şeyinde olabilir] düğmeleri iliklendi.",
+      "ornek_metin": "könglek bogmaqlödı: Gömleğin [başka bir şeyinde olabilir] düğmeleri iliklendi.",
+      "cekimler": [
+        "bogmaqlâr",
+        "bogmaqldmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "193",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bogmaqlandı",
+      "anlam": "Adam gömleğinin düğmelerini ilikledi.",
+      "ornek_metin": "er bogmaqlandı: Adam gömleğinin düğmelerini ilikledi.",
+      "cekimler": [
+        "bogmaqlanür",
+        "bogmaqlanmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "193",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bognaqlandı",
+      "anlam": "Bulutlar dağıldı.",
+      "ornek_metin": "buht bognaqlandı: Bulutlar dağıldı.",
+      "cekimler": [
+        "bognaqlanûr",
+        "bognaqlanmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "193",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bogrug",
+      "anlam": "Saman çuvalı, tulum ve benzerlerinde görülen şişkinlik.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "193",
+      "notlar": "[bkz. bogrul]",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bogrul",
+      "anlam": "Boğazı ak koyun.",
+      "ornek_metin": "bogrul qöy:, Boğazı ak koyun",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "193",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bogrul",
+      "anlam": "Dolu bir heybe, bir tulum ya da benzeri şeylerde görülen şişkinlik, çıkıntı.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "193",
+      "notlar": "bkz. bogrug.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bogsuq",
+      "anlam": "Kelepçe, pranga.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "193",
+      "notlar": "Bu sözcük, aynı anlama gelen sözcüğün [boxsuq] hı’nın (x) gayrı'a (g) değişmesiyle yapılmış değişik sesletimidir; böylesi bir değişim Arapçadaki hatir~gadir sözcüklerinde de görülür [bkz. boxsuq].",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bogturdı",
+      "anlam": "O, onun boğulmasını emretti.",
+      "ornek_metin": "ol anı bogturdı: O, onun boğulmasını emretti.",
+      "cekimler": [
+        "bogturur",
+        "bogturmclq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "193",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "boguldı",
+      "anlam": "Adam [başka bir şey de olabilir] boğuldu.",
+      "ornek_metin": "er boguldı: Adam [başka bir şey de olabilir] boğuldu.",
+      "cekimler": [
+        "boğulur",
+        "bogulmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "193",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bogundı",
+      "anlam": "At [başka bir şey de olabilir] boğuldu (nefesi kesildi).",
+      "ornek_metin": "at bogundı: At [başka bir şey de olabilir] boğuldu (nefesi kesildi).",
+      "cekimler": [
+        "bognür",
+        "bogunmdq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "193",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bogundı",
+      "anlam": "Hayvanların mesanesi.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "193",
+      "notlar": "İnsanınki bu şekilde adlandırılmaz.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "boguşdı",
+      "anlam": "Onlar birbirlerini boğdu (birbirlerinin boğazına yapıştılar).",
+      "ornek_metin": "oldr ekki boguşdı: Onlar birbirlerini boğdu (birbirlerinin boğazına yapıştılar).",
+      "cekimler": [
+        "boğuşur",
+        "boguşmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "193",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "boguz",
+      "anlam": "Boğaz.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "193",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bol",
+      "anlam": "Beyaz bacaklı at.",
+      "ornek_metin": "bol ât: Beyaz bacaklı at; ogar bol: Beyaz bir lekeye ve beyaz bacaklara sahip olan at.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "193",
+      "notlar": "",
+      "kontrol_gerekli": false
+    }
+  ]
+}

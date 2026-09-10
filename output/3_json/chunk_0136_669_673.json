@@ -1,0 +1,730 @@
+{
+  "chunk_no": 136,
+  "kaynak_sayfa_baslangic": 669,
+  "kaynak_sayfa_bitis": 673,
+  "kelimeler": [
+    {
+      "kelime": "yarşım",
+      "anlam": "Bir at yarışı parkuru büyüklüğündeki arazi",
+      "ornek_metin": "bir yarşım yer. Bir at yarışı parkuru büyüklüğündeki arazi",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "669",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yartım",
+      "anlam": "Kitleden ayrılmış grup insan",
+      "ornek_metin": "bıryartım bodün: Kitleden (halkın bütününden] aynlmış bir grup insan.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "669",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yartmâq",
+      "anlam": "Para",
+      "ornek_metin": "yartmâq. “Para” anlamına gelen yarmâq sözcüğünün Uygur lehçesindeki karşılığı",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Uygur",
+      "kaynak_sayfa": "669",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yartu",
+      "anlam": "Yonga; talaş; üzerinde yazı yazılan tahta",
+      "ornek_metin": "Yonga; talaş. Buna benzetilerek “üzerinde yazı yazılan tahta”ya da yartu denir",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "669",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yarturdı",
+      "anlam": "Yarmasını emretti",
+      "ornek_metin": "ol angar yıgâç yarturdı: O, ona odunu [başka bir şeyi de olabiliri yarmasını emretti.",
+      "cekimler": [
+        "yarturur",
+        "yarturmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "669",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yaru",
+      "anlam": "Balık tutkalı",
+      "ornek_metin": "yaruyelim: Balık tutkalı",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "669",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yarüdı",
+      "anlam": "Güneş doğdu, ışıldadı; aydınlandı",
+      "ornek_metin": "kün yaradı; Güneş doğdu [ışıldadı]. Karanlık bir yerin aydınlanmasını anlatmak için de bu sözcük kullanılır.",
+      "cekimler": [
+        "yarûr",
+        "yarümâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "669",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yaruq",
+      "anlam": "Aydınlık bir yer; çok parlak şey",
+      "ornek_metin": "yaruq yer. Aydınlık bir yer. yap yaruq neng: Çok parlak bir şey.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "669",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yaruq",
+      "anlam": "Yarık; topraktaki, duvardaki, dağdaki, camdaki çatlak",
+      "ornek_metin": "Yark; topraktaki, duvardaki, dağdaki, camdaki bir çatlak. bu ayaqnıg yaruqı b â r Bu kabın çatlağı var.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "669",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yaruqluq",
+      "anlam": "Işık (nûr); aydınlık",
+      "ornek_metin": "İşık (nûr); aydınlık",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "669",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yarutgân",
+      "anlam": "Dünyayı aydınlatan",
+      "ornek_metin": "kün ol ajunugyarutgân: Güneş her zaman dünyayı aydınlatır",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "669",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yâs",
+      "anlam": "Kayıp; hüsran",
+      "ornek_metin": "anğıg telim yâsı tegdi: O çok fazla kayıp yaşayarak aa çekti.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "669",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yâs",
+      "anlam": "Ölüm; yıkım (mevt; helâk)",
+      "ornek_metin": "anıg oglı yâs boldı: Onun oğlu öldü.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Oğuz",
+      "kaynak_sayfa": "669",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yasdı",
+      "anlam": "Dağıttı; çözdü",
+      "ornek_metin": "beg silsin yasdı: Bey askerlerini dağıttı [evlerine yolladı]. Bunun kök-anlamı er yâsm yasdı: Adam yayın telini çözdü, çıkarttı ifadesindeki anlamdır. xân çuvâç yasdı: Han başı üzre yükselen hanlık çadınnı çözdü",
+      "cekimler": [
+        "yasar",
+        "yasmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "669",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yasgâç",
+      "anlam": "Hamur tahtası",
+      "ornek_metin": "Hamur tahtası. Kökü yası yıgâç: yassı ağaç’tır.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "669",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yası",
+      "anlam": "Geniş, enli şey; yassı",
+      "ornek_metin": "yası neng: Geniş, enli bir şey; yassı.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "669",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yasıç",
+      "anlam": "Yassı temren",
+      "ornek_metin": "Yassı temren.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "670",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yasîlâdı",
+      "anlam": "Genişletti, yassılaştırdı; açıkça söyledi",
+      "ornek_metin": "ol yasîlâdı nengni: O, bir şeyi genişletti (yassılaştırdı) - tıpkı sofrada açılan hamur ya da benzer şeyler gibi. ol sözüg yasîlâdı: O, ima etme yoluna başvurmadan her şeyi açıkça söyledi.",
+      "cekimler": [
+        "yasîlür",
+        "yasîlâmdq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "670",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yasıldı",
+      "anlam": "Mesele ortadan kalktı; yayın teli çözüldü; askerler dağıtıldı",
+      "ornek_metin": "îş yasıldı: Mesele müdahale edilmeden akışına bırakıldı ve bir süre sonra ortadan kalktı. y a yasıldı : Yayın teli çözüldü. sû yasıldı: Askerler [başka bir şeyler de olabilir] dağıtıldı [evlerine yollandı].",
+      "cekimler": [
+        "yasılür",
+        "yasılmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "670",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yasîmân",
+      "anlam": "İçinden su boşaltılırken lıkır lıkır ses çıkartan testi",
+      "ornek_metin": "İçinden su boşaltılırken lıkır lıkır ses çıkartan testi.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "670",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yasıq",
+      "anlam": "Yay kılıfı",
+      "ornek_metin": "opraq yasıqdm tözlugya çıqâr: Eski püskü bir kılıftan iyi gerilmiş bir ok çıkabilir.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "670",
+      "notlar": "Oğuzlar ve Qıjçâqlar bu sözcüğü bilmez ve qurmân sözcüğünü kullanırlar.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yasıqlıg",
+      "anlam": "Kılıf içindeki yay",
+      "ornek_metin": "yasıqlıgya: Kılıf içindeki yay.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "670",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yastâdı",
+      "anlam": "Minder yasladı, sırtına yastık koydu; sözle ima etti",
+      "ornek_metin": "ol angar yastuq yastâdı: O, ona minder yasladı [sırtına yastık koyarak onu rahat ettirdi). ol! manga söz yastâdı: O, bana sözle bir şeyler ima etti, ama açık konuşmadı.",
+      "cekimler": [
+        "yastâr",
+        "yastâmâcj"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "670",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yastaldı",
+      "anlam": "Minder yaslandı; ok hedefe çarptı",
+      "ornek_metin": "yastuq yastaldı: Minder yaslandı. oq amaçqa yastaldı: Ok, hedefin kenanna çarptı.",
+      "cekimler": [
+        "yastalûr",
+        "yastalmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "670",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yastuq",
+      "anlam": "Yastık; minder",
+      "ornek_metin": "Yastık; minder",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "670",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yasul",
+      "anlam": "Yamaçlı dağ, eğimli arazi",
+      "ornek_metin": "yasul tâg: Yamaçlı dag. Her türlü eğimli araziyi anlatmak için yasul sözcüğü kullanılır.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "670",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yaş",
+      "anlam": "Yenilebilen yeşil yapraklı bitkiler ya da zerzevat",
+      "ornek_metin": "(Yenilebilen) yeşil yapraklı bitkiler ya da zerzevat. yaş ot: Taze saman.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "670",
+      "notlar": "Bu sözcük söz uzatımıyla yaş yoş [yaş yöş] biçiminde de söylenir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yaş",
+      "anlam": "Gözyaşı",
+      "ornek_metin": "közüm yâşı aqdı: Gözüm yaşı aktı",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "671",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yâş",
+      "anlam": "Yenilebilen yeşil yapraklı bitkiler",
+      "ornek_metin": "ydş yedim : Yeşillik yedim",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "671",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yâş",
+      "anlam": "Herhangi bir şeyin taze olanı",
+      "ornek_metin": "yaş et: Taze et.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "671",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yaşadı",
+      "anlam": "Uzun yaşadı",
+      "ornek_metin": "er uzun yaşadı : Adam uzun yaşadı.",
+      "cekimler": [
+        "yaşar",
+        "yaşâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "671",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yaşâgu",
+      "anlam": "Uzun yaşamalı; yer ve zaman bildiren ad",
+      "ornek_metin": "bu er ol üzün yaşdgu: Bu adam uzun yaşamalı. Bu aynı zamanda yer ve zaman bildiren bir addır",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "671",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yaşângurdı",
+      "anlam": "Gözü güneş ışınları nedeniyle kamaştı ve yaşardı",
+      "ornek_metin": "anıg közi yaşângurdı: Onun gözü güneş ışınlan nedeniyle kamaştı ve yaşardı.",
+      "cekimler": [
+        "yaşângurur",
+        "yaşângurmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "671",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yaşardı",
+      "anlam": "Ot yeşerdi",
+      "ornek_metin": "ot yaşardı: Ot yeşerdi.",
+      "cekimler": [
+        "yaşarür",
+        "yaşârmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "671",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yaşarttı",
+      "anlam": "Bitki örtüsünü yeşertti",
+      "ornek_metin": "yağmur otug yaşarttı: Yağmur bitki örtüsünü yeşertti.",
+      "cekimler": [
+        "yaşartur",
+        "yaşartmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "671",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yaşdı",
+      "anlam": "Saklandı",
+      "ornek_metin": "ol meni körüp yaşdı: O, beni görünce saklandı. tewe münüp qöy ara yaşm a s: Deveye binen [kişi kendisini] koyunlann arasında gizleyemez.",
+      "cekimler": [
+        "yaşar",
+        "yaşmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "671",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yaşıl",
+      "anlam": "Yeşil renk; herhangi bir şeyin yeşil olanı",
+      "ornek_metin": "yaşıl çüvit. Yeşil renk. yaşıl. Herhangi bir şeyin yeşil olanı.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "671",
+      "notlar": "Parlak yeşife yap yaşıl denir ve bu sözcük, söz uzatımıyla yaşıl yoşul biçiminde de kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yaşın",
+      "anlam": "Şimşek",
+      "ornek_metin": "Şimşek. kimnig bile qöş bolsa yaşın yaqmâs: Kimin yanında qâş [saydamımsı, pürüzsüz ve beyaz bir taş] varsa ona şimşek değmez.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "671",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yaşınlıg",
+      "anlam": "Şimşekli",
+      "ornek_metin": "yaşınlıgbulıt: Şimşekli bulut.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "672",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yaşıqtı",
+      "anlam": "Güneşten dolayı gözü kamaştı",
+      "ornek_metin": "köz yaşıqtı: Güneşten dolayı göz kamaştı.",
+      "cekimler": [
+        "yaşıqâr",
+        "yaşıqmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "672",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yaşlâdı",
+      "anlam": "Baharda biten yeşilliklerde otladı",
+      "ornek_metin": "at yaşlâdı: At [başka bir hayvan da olabilir] baharda biten yeşilliklerde otladı.",
+      "cekimler": [
+        "yaşlar",
+        "yaşlâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "672",
+      "notlar": "Kök-biçimi yâşiâdı’dır; ancak hafifletme amacıyla elif atılmıştır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yaşlıg",
+      "anlam": "Yaşlı",
+      "ornek_metin": "yaşlıg köz: Yaşlı göz. yaşlıg er: Yaşlı adam.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "672",
+      "notlar": "Yaşlı olan herhangi bir hayvanı anlatmak için de bu sözcük kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yaşnâdı",
+      "anlam": "Şimşek çaktı; parıldadı",
+      "ornek_metin": "yaşın yaşnâdı: Şimşek çaktı. Parıldayan herhangi bir şeyi, örneğin cilalanmış bir kâseyi anlatmak için de bu sözcük kullanılır.",
+      "cekimler": [
+        "yaşnâr",
+        "yaşnâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "672",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yaşnattı",
+      "anlam": "Şimşek çaktırdı; parlattı",
+      "ornek_metin": "terigri yaşın yaşnattı : Tann şimşeği çaktırdı. yaşnat qılıç başı üze qaqqıl yar-a bıçlıp amg boynı taqı qalqan tura",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "672",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yaşru",
+      "anlam": "Gizlice; gizli",
+      "ornek_metin": "ol yaşru keldi: O, gizlice geldi; yaşru iş: Gizli iş.",
+      "cekimler": [],
+      "kelime_turu": "zarf",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "672",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yaşruşdı",
+      "anlam": "Gizleme konusunda anlaştı",
+      "ornek_metin": "ölâr sözüg yaşruşdı: Onlar, bu sözleri gizleme konusunda anlaştı.",
+      "cekimler": [
+        "yaşruşür",
+        "yaşruşmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "672",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yaşsâdı",
+      "anlam": "Saklanmak istedi",
+      "ornek_metin": "ol mindin yaşsâdı: O, benden saklanmak istedi.",
+      "cekimler": [
+        "yaşsâr",
+        "yaşsâmaq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "672",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yaşüdı",
+      "anlam": "Keyiflendi ve neşelendi",
+      "ornek_metin": "er yarûdı yaşüdı: Adam keyiflendi ve neşelendi",
+      "cekimler": [
+        "yarüryaşür",
+        "yarümâqyaşümâıj"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "673",
+      "notlar": "yaşüdı sözcüğü tek başına kullanılmaz, ancak bir ikilemenin içinde [yarûdı yaşüdı] boy gösterir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yaşurdı",
+      "anlam": "Gizledi",
+      "ornek_metin": "ol neng yaşurdı: O, bir şeyi gizledi.",
+      "cekimler": [
+        "yaşrur",
+        "yaşurmâıj"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "673",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yaşurgân",
+      "anlam": "Zenginliğini veya bir şeyi gizleme alışkanlığında olan",
+      "ornek_metin": "ol er ol nerigin yaşurgân: O, zenginliğini gizleme alışkanlığında olan bir adamdır",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "673",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yaşut",
+      "anlam": "Gizli",
+      "ornek_metin": "yaşut neng: Sizli [gizli] bir şey.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "673",
+      "notlar": "Söz uzatımıyla yaşut beküt biçiminde de kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yat",
+      "anlam": "Yabancı (ecnebî)",
+      "ornek_metin": "yat kişi. Yabancı (ecnebî). yat bâzyadıl: Bırak yabancılar dağılsın",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "673",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yat",
+      "anlam": "Yağmur ya da rüzgâr getirmek için taşlarla yapılan kamlık",
+      "ornek_metin": "Yağmur ya da rüzgâr getirmek için taşlarla yapılan kamlık.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "673",
+      "notlar": "Bu, Türkler arasında yaygın olan bir şeydir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yatan",
+      "anlam": "Ok atmaya yarayan ahşap yay; hallaç yayı",
+      "ornek_metin": "Ok atmaya yarayan ahşap yay. Hallaç yayı.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "673",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yatarig",
+      "anlam": "Yünü kabartmakta, didmekte kullanılan yay (hallaç yayı)",
+      "ornek_metin": "Yünü kabartmakta, didmekte kullanılan yay [hallaç yayı].",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "673",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yatgâq",
+      "anlam": "Bir hakanın ya da kalenin muhafızı",
+      "ornek_metin": "Bir Hakan’ın ya da kalenin muhafızı. yatgâq yattı: Adam geceyi muhafızlıkta geçirdi",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "673",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yatgaşdı",
+      "anlam": "Birlikte yattı",
+      "ornek_metin": "öl anıg birle yatgaşdı: O, onunla birlikte yattı.",
+      "cekimler": [
+        "yatgaşür",
+        "yatgaşmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "673",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yatgaşıq",
+      "anlam": "Gecenin ilk bölümü",
+      "ornek_metin": "yatgaşıq ugrı: Gecenin üç bölümden oluştuğu düşünülürse gecenin ilk bölümü",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "673",
+      "notlar": "Yalnızca belli bir lehçede.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yatgaşuq",
+      "anlam": "Yatak arkadaşı",
+      "ornek_metin": "Yatak arkadaşı.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "673",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yatgurdı",
+      "anlam": "Yere uzanmasına izin verdi ve uyuttu",
+      "ornek_metin": "ol anı yatgurdı: O, onun yere uzanmasına izin verdi ve onu uyuttu.",
+      "cekimler": [
+        "yatgurur",
+        "yatgurmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "673",
+      "notlar": "",
+      "kontrol_gerekli": false
+    }
+  ]
+}

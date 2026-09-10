@@ -1,0 +1,683 @@
+{
+  "chunk_no": 98,
+  "kaynak_sayfa_baslangic": 517,
+  "kaynak_sayfa_bitis": 521,
+  "kelimeler": [
+    {
+      "kelime": "süsündi",
+      "anlam": "Kendisine koyun, deve ve at sürüleri ihsan edilmiş kimse hayvanları sağmak için bir araya toplamalıdır",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "belirsiz",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "517",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sürüldi",
+      "anlam": "Atlar sürüldü / Adam kovuldu / Boncuk ovalanarak parlatıldı",
+      "ornek_metin": "at sürüldi: Atlar sürüldü. er sürüldi: Adam kovuldu. monçuq sürüldi: Boncuk ovalanarak parlatıldı.",
+      "cekimler": [
+        "sürlür",
+        "sürülmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "517",
+      "notlar": "Hem geçişli hem geçişsiz [hem edilgen hem etken] kullanılabilir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sürülgen",
+      "anlam": "Her yerden kovulan kimse",
+      "ornek_metin": "bu er ol tegme yerdin tutçı sürülgen: Bu, her yerden kovulan bir adamdır",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "517",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "süründi",
+      "anlam": "Her mekânın istenmeyen kimsesi, her yerden kovulan adam",
+      "ornek_metin": "süründi er: Her mekânın istenmeyen kimsesi olan, her yerden kovulan adam",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "517",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "süründi",
+      "anlam": "Adam kendi vücudunu kaşıdı",
+      "ornek_metin": "kişi öz yenin süründi: Adam kendi vücudunu kaşıdı.",
+      "cekimler": [
+        "sürnur",
+        "sürünmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "517",
+      "notlar": "Sert bir şeye vurulmasını, onun bir yere sürtülmesini anlatmak için de bu sözcük kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sürüşdi",
+      "anlam": "Aygır kısrağı ısırdı (cinsel ilişkiye girmek istediğinde yapar) / O, beni kovalamaya çalıştı / O, onun kendisine olan borcunu zorla tahsil etti",
+      "ornek_metin": "adgır qısqrdq birle sürüşdi: Aygır kısrağı ısırdı. ol menig birle sürüşdi: O, beni kovalamaya çalıştı. ol anda almın sürüşdi: O, onun kendisine olan borcunu zorla tahsil etti.",
+      "cekimler": [
+        "sürüşür",
+        "sürüşmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "517",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "süsdi",
+      "anlam": "Öküz tos vurdu",
+      "ornek_metin": "üd süsdi: Öküz tos vurdu",
+      "cekimler": [
+        "süser",
+        "süsmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "517",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "süsgirdi",
+      "anlam": "Öküz, adama tos vurayazdı",
+      "ornek_metin": "sığır erig süsgirdi: Öküz, adama tos vurayazdı",
+      "cekimler": [
+        "süsgirer",
+        "süsgirmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "517",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "süstürdi",
+      "anlam": "Koçları toslattı",
+      "ornek_metin": "ol qoç süstürdi: O, koçları toslattı",
+      "cekimler": [
+        "süstürür",
+        "süstürmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "517",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "süsündi",
+      "anlam": "Adam olmayacak bir işe kalkışıyormuş gibi göründü",
+      "ornek_metin": "er başın tämqa süsündi: Adam olmayacak bir işe kalkışıyormuş gibi göründü",
+      "cekimler": [
+        "süsünür",
+        "süsünmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "517-518",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "süsüşdi",
+      "anlam": "İki koç birbirlerine tos vurdular",
+      "ornek_metin": "ekki qoçngär süsüşdi: İki koç birbirlerine tos vurdular",
+      "cekimler": [
+        "süsüşür",
+        "süsüşmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "518",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "süt",
+      "anlam": "Süt",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "518",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sûtgerdi",
+      "anlam": "Yoğurt, süt kadar sıvı hale gelene kadar çalkalandı",
+      "ornek_metin": "yoğrut sütgerdi: Yoğurt, süt kadar sıvı hale gelene kadar çalkalandı",
+      "cekimler": [
+        "sütgerer",
+        "sütgermek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "518",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "süwlin",
+      "anlam": "bkz. süglin",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "belirsiz",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "518",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "süvvre",
+      "anlam": "Mızrak başı, kılıç ucu, minare, şiş ya da başka küçük şeyler gibi sivri olan herhangi bir nesne",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "518",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "süwritti",
+      "anlam": "Ağaç parçasının ucunu sivriltti",
+      "ornek_metin": "ol yıgâçig süwritti: O, ağaç parçasının ucunu sivriltti.",
+      "cekimler": [
+        "süwritür",
+        "süwritmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "518",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "süzdi",
+      "anlam": "Suyu süzdü",
+      "ornek_metin": "ol süw süzdi: O, suyu süzdü.",
+      "cekimler": [
+        "süzer",
+        "süzmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "518",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "süzgün",
+      "anlam": "Siyah, dikenli bir dağ ağacı",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "518",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "süzlündi",
+      "anlam": "Su süzüldü",
+      "ornek_metin": "süw süzlündi: Su süzüldü",
+      "cekimler": [
+        "süzlünür",
+        "süzlünmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "518",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "süzlüşdi",
+      "anlam": "Sular süzülerek tamamen arındırıldı",
+      "ornek_metin": "süwlär qamuğ süzlüşdi: Sular süzülerek tamamen arındırıldı.",
+      "cekimler": [
+        "süzlüşür",
+        "süzlüşmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "518",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "süzme",
+      "anlam": "Çökelek; lor peyniri",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "518",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "süztürdi",
+      "anlam": "O, suyun süzülmesini emretti",
+      "ornek_metin": "ol süw süztürdi: O, suyun süzülmesini emretti",
+      "cekimler": [
+        "süztürür",
+        "süztürmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "518",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "süzük",
+      "anlam": "Temiz, berrak",
+      "ornek_metin": "süzük süw: Temiz, berrak su.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "518",
+      "notlar": "Temiz ve berrak olan herhangi bir şeye, örneğin bir yakuta da süzük denir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "süzüldi",
+      "anlam": "Su süzüldü",
+      "ornek_metin": "süw süzüldi: Su süzüldü",
+      "cekimler": [
+        "süzlür",
+        "süzülmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "518",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "süzündi",
+      "anlam": "İyice süzülmüş su",
+      "ornek_metin": "süzündi süw: İyice süzülmüş su.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "518",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "süzündi",
+      "anlam": "Adam kendisi için su süzüyormuş gibi göründü",
+      "ornek_metin": "er kendinge süw süzündi: Adam kendisi için su süzüyormuş gibi göründü",
+      "cekimler": [
+        "sürünür",
+        "süzünmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "518-519",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "şa",
+      "anlam": "Balıkçıla benzeyen alacalı bir kuş",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "520",
+      "notlar": "Bu kuşa 'erdemsiz şa' (faziletten yoksun kuş) de denir, çünkü sürekli yere yakın uçmaktadır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "şabıng",
+      "anlam": "Demirden yapılmış bir çubuk",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Çigil lehçesi",
+      "kaynak_sayfa": "520",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "şâbuk",
+      "anlam": "bkz. terk, açıglıg",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "belirsiz",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "520",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "şal şul",
+      "anlam": "Beceriksiz, sakar, eli işe yakışmayan kimse",
+      "ornek_metin": "şal şul eliglig: Beceriksiz, sakar, eli işe yakışmayan kimse",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "520",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "şalâşu",
+      "anlam": "Bir Çin dokuması",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "520",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "şamûşa",
+      "anlam": "Çemen",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "520",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "şanbüy",
+      "anlam": "Bir davette içip sarhoş olanlar için aynı gece tertip edilen içkili bir şölen; ziyafet",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Kençek lehçesi",
+      "kaynak_sayfa": "520",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "şançu",
+      "anlam": "Yukarı Çin yolu üzerindeki bir kent",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "520",
+      "notlar": "İlk ünlünün uzatıldığı söyleyiş [şânçu] daha doğrudur.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "şap",
+      "anlam": "Aceleyi, hızlı hareket etmeyi anlatan bir ilgeç, Arapçadaki hellâ sözcüğüne benzer",
+      "ornek_metin": "şap kel: Çabuk gel",
+      "cekimler": [],
+      "kelime_turu": "ilgeç",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "520",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "şâp şâp",
+      "anlam": "Tokat sesi / Dudakları şapırdatarak yeme sesi",
+      "ornek_metin": "ol anı şâp şâp boyunladı: O, onu böylesi bir ses çıkacak biçimde tokatladı. ol qâgünug şâp şâp yedi: O, dudaklarını şapırdatarak kavun yedi.",
+      "cekimler": [],
+      "kelime_turu": "ünlem",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "520",
+      "notlar": "Suyu bol başka bir şeyi, örneğin şeftaliyi şapır şupur yemeği anlatmak için de bu ifade kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "şar şur",
+      "anlam": "Şiddetle ve gürültüyle yağan sağanak yağmurun veya bir sıvının sesinin yansıması olan ifade",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "ünlem",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "520",
+      "notlar": "Bu sözcükteki şın (ş) cim’den (ç) dönüşmüştür.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "şat",
+      "anlam": "Yiğitlik, cesaret",
+      "ornek_metin": "anıg ne şatı bâr: Onun ne kadar cesareti var? — olumsuz bir anlam taşır",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "520",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "şatlandı",
+      "anlam": "Bu işi yapmaya cesaret etti",
+      "ornek_metin": "ol bu ışqa şatlandı: O, bu işi yapmaya cesaret etti.",
+      "cekimler": [
+        "şatlanür",
+        "şatlanmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "Çigil lehçesi",
+      "kaynak_sayfa": "520",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "şâw",
+      "anlam": "Uç’ta -tıpkı kül gibi- çamaşırları yıkamakta kullanılan bir bitki",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "520",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "şekirtük",
+      "anlam": "Şamfıstığı",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "520",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "şeşdi",
+      "anlam": "Adam düğümü çözdü",
+      "ornek_metin": "er tügün şeşdi: Adam düğümü çözdü.",
+      "cekimler": [
+        "şeşer",
+        "şeşmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "521",
+      "notlar": "Atın ya da bir hayvanın bağını çözmeyi anlatmak için de bu sözcük kullanılır. bkz. seşdi.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "şeştürdi",
+      "anlam": "Düğümü çözdürdü",
+      "ornek_metin": "ol tügün şeştürdi: O, düğümü çözdürdü.",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "521",
+      "notlar": "Bu, aynı anlama gelen ve sin’le (s) söylenen sözcüğün [şeştürdi] değişik sesletimidir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "şın",
+      "anlam": "Sedir, divan",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Çigil lehçesi",
+      "kaynak_sayfa": "521",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "şi",
+      "anlam": "Çin hakanlarını selamlarken kullanılan bir sözcük",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "ünlem",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "521",
+      "notlar": "Bu, anlam olarak, Arapçadaki ebayte'l-la'n (“kötülükten uzak olun!”) ifadesine benzer.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "şöpik",
+      "anlam": "Meyve yendikten sonra geriye kalan ve atılan kısım",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "521",
+      "notlar": "şın (ş), cim’den (ç) dönüşmüştür [çöpik].",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "şuglu",
+      "anlam": "Tilki üzümü",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "521",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "şurîgla",
+      "anlam": "Argu ülkesinde yetişen bir bitki; kökü çıkarılır ve yenir",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Argu lehçesi",
+      "kaynak_sayfa": "521",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "şutı",
+      "anlam": "Özgün dile ait bir sözcük değildir",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "belirsiz",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "521",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "şuwşattı",
+      "anlam": "O, benim kulağıma söz fısıldattı",
+      "ornek_metin": "ol menig qulâqqa söz şuwşattı: O, benim kulağıma söz fısıldattı.",
+      "cekimler": [
+        "şuwşatür",
+        "şuwşatmaq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "521",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "şuwşaşdı",
+      "anlam": "O, onunla fısıldaşarak bir şeyler konuştu",
+      "ornek_metin": "ol anıg birle şuwşaşdı: O, onunla fısıldaşarak bir şeyler konuştu.",
+      "cekimler": [
+        "şuwşaşür",
+        "şuwşaşmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "521",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "şu/şü",
+      "anlam": "Çu/çü’nün yerine kullanılan bir ilgeç",
+      "ornek_metin": "bargıl şu: Git!; feelşü: Gel!",
+      "cekimler": [],
+      "kelime_turu": "ilgeç",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "521",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "şük",
+      "anlam": "Birini susturma amacıyla kullanılan bir sözcük",
+      "ornek_metin": "şük tur: Sessiz ol",
+      "cekimler": [],
+      "kelime_turu": "ünlem",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "521",
+      "notlar": "Türkler 'şük tur' derler.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "şünük",
+      "anlam": "Çınar ağacı",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "521",
+      "notlar": "şın (ş) çim’den (ç) dönüşmüştür [bkz. çünük].",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "şüt",
+      "anlam": "Kök",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Hoten lehçesi",
+      "kaynak_sayfa": "521",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "şütük",
+      "anlam": "Öküz boynuzundan ya da başka bir malzemeden yapılan divit / Seyrek sakallı",
+      "ornek_metin": "şütük saqâl: Seyrek sakallı",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "521",
+      "notlar": "'şütük saqâl' deyimi divite benzetilerek yapılmıştır.",
+      "kontrol_gerekli": false
+    }
+  ]
+}

@@ -1,0 +1,719 @@
+{
+  "chunk_no": 116,
+  "kaynak_sayfa_baslangic": 589,
+  "kaynak_sayfa_bitis": 593,
+  "kelimeler": [
+    {
+      "kelime": "tugurdı",
+      "anlam": "Babasının huylarını almış çocuğu anlatmak için kullanılan bir ifadenin geçtiği bağlam.",
+      "ornek_metin": "Bu atasözü, babasının huylannı almış bir çocuğu anlatmak için kullanılır.",
+      "cekimler": [
+        "tugdr",
+        "tugmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "589",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tuglâdı",
+      "anlam": "Yarığı kapattı.",
+      "ornek_metin": "olydrıg tuglâdı: O, yarığı kapattı.",
+      "cekimler": [
+        "tuglâr",
+        "tuglâmdq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "589",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tugrâg",
+      "anlam": "Dönüşte geri alınmak üzere, bir savaşta ya da bir törende binilmek üzere hakan tarafından askere verilen at.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "589",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tugrâg",
+      "anlam": "Tuğra; hakanın mührü ya da imzası.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Oğuz lehçesi",
+      "kaynak_sayfa": "589",
+      "notlar": "Türkler bu sözcüğü bilmez.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tugraglandı",
+      "anlam": "Delikanlıya hakanın askerine törende ya da savaşta binmesi için verdiği ve daha sonra geri aldığı at verildi.",
+      "ornek_metin": "oglân tugraglandı: Delikanlıya tugrâg [hakanın askerine törende ya da savaşta binmesi için verdiği ve daha sonra geri aldığı at) verildi.",
+      "cekimler": [
+        "tugraglanûr",
+        "tugraglanmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "589",
+      "notlar": "Bir mektubun ya da belgenin üzerine mühür vurulmasını anlatmak için de kullanılır - Oğuz lehçesinde.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tugsâq",
+      "anlam": "Dul kadın.",
+      "ornek_metin": "Bu sözcük genellikle tül tugsâq biçiminde, ikileme olarak kullanılır",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "589",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tugsug",
+      "anlam": "Doğu; gündoğusu.",
+      "ornek_metin": "kün tugsug: Doğu; gündoğusu, bkz. batsıg.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "589",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tugturdı",
+      "anlam": "Tanrı çocuk doğurttu [kadından çocuk meydana gelmesini sağladı].",
+      "ornek_metin": "tengri oğul tugturdı: Tanrı çocuk doğurttu [kadından çocuk meydana gelmesini sağladı].",
+      "cekimler": [
+        "tugturür",
+        "tugturmdq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "589",
+      "notlar": "Kökü tugurdı’dır - t almadan geçişli olan her eylemin eklendiği zaman çifte geçişlilik kazanması kuralı açıklanmıştır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tugurdı",
+      "anlam": "Kadın çocuk doğurdu.",
+      "ornek_metin": "uragut oğul tugurdı: Kadın, çocuk doğurdu. Kaplam söz konusu olduğu için hayvanların doğurması da bu sözcükle anlatılır.",
+      "cekimler": [
+        "tugrur",
+        "tugurmâıj"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "589",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tül",
+      "anlam": "Bir erkeğin oğlu ergenliğe ulaştığında kuşkusuz babasına benzer.",
+      "ornek_metin": "ata ogh ataç tugâr: Bir erkeğin oğlu ergenliğe ulaştığında kuşkusuz babasına benzer.",
+      "cekimler": [],
+      "kelime_turu": "belirsiz",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "590",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tül",
+      "anlam": "Dul kadın.",
+      "ornek_metin": "tül urâgut'. Dul kadın. Şu atasözünde de geçer, yawlâq tllhg begde kerû yalrîgûs tül yeg: Kadının dul olması, ona sürekli söven bir kocası olmasından daha iyidir",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "590",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tulas",
+      "anlam": "Kederli ve gamlı bir yüz.",
+      "ornek_metin": "tulas yüz: Kederli ve gamlı bir yüz.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "590",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tulum",
+      "anlam": "Silah.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "590",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tulumlandı",
+      "anlam": "Adam silahlandı [silahlarını donandı].",
+      "ornek_metin": "er tulumlandı: Adam silahlandı [silahlarını donandı].",
+      "cekimler": [
+        "tulumlanür",
+        "tulumlanmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "590",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tulumlug",
+      "anlam": "Silahlı adam.",
+      "ornek_metin": "tulumlug er: Silahlı adam. Şu dizelerde de kullanılır, öngdün ne lük yalw am adıng qaç qata berding tawâr tulumlug bolup qatmdıng qânıg emdi yer suwâr",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "590",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tulun",
+      "anlam": "Şakak.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "590",
+      "notlar": "İki değişik sesletimden biri.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tulun",
+      "anlam": "At başlığının, başın sağ ve sol yanım kavrayan parçası.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "590",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tulung",
+      "anlam": "Şakak.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "590",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tulurig",
+      "anlam": "Atın kulağının altına yerleştirilen ve şakaklardan geçen, atın başının içine yerleştirildiği donanım.",
+      "ornek_metin": "yügûn tulungı: At başlığı takımı",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "590",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tuluriglâdı",
+      "anlam": "Kölesinin çenesine ya da kulağının altına vurdu.",
+      "ornek_metin": "ol qulm tulunglâdı: O, kölesinin çenesine ya da kulağının altına vurdu.",
+      "cekimler": [
+        "tulunglâr",
+        "tuluriglâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "590",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tum",
+      "anlam": "Soğuk (hava).",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "590",
+      "notlar": "Tunılıg sözcüğü hem soğuk hava hem de her türlü soğuk nesne anlamında kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tum",
+      "anlam": "Atın derisinin tek renk olması.",
+      "ornek_metin": "tum qara at: Tümüyle siyah renkte olan at; tum torug at: Tümüyle doru olan at.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "590",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tumâgu",
+      "anlam": "Nezle.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "590",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tuman",
+      "anlam": "Duman; sis.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "590",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tumlîdı",
+      "anlam": "Su veya başka bir şey soğudu.",
+      "ornek_metin": "SÜVV tumlldi: Su Ibaşka bir şey de olabilir) soğudu. Kördi meni emleyü / baqtı manga imleyü / qaldım köngül tumlıyu / qadgu meni turgurür",
+      "cekimler": [
+        "tumlîr",
+        "tumlîmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "591",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tumlıg",
+      "anlam": "Soğuk.",
+      "ornek_metin": "tumlıg kelip qapsadı / qutlugyâyıg tepsedi / qarlap ajun yapsadı / et yen üşip emrişür",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "591",
+      "notlar": "Ad ya da sıfat olarak kullanılır. Kökü tum'dur. ölûgyüzi tumlıg: Ölü adamın yüzü soğuk olur.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tumlıglandı",
+      "anlam": "O, bu zamanı çok soğuk buldu (ve fikrini değiştirdi).",
+      "ornek_metin": "bu ugumt tumlıglandı: O, bu zamanı çok soğuk buldu",
+      "cekimler": [
+        "tumlıgltznür",
+        "tumlıglanmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "591",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tumlıglandı",
+      "anlam": "O, ona soğuk davrandı - Onu haşin karşıladı ve sert bir ifade takındı.",
+      "ornek_metin": "ol angar tumlıglandı: O, ona soğuk davrandı",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "591",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tumlıttı",
+      "anlam": "O, suyu (ya da sütü veya başka bir şeyi) soğuttu.",
+      "ornek_metin": "ol süw tumlıttı: O, suyu (ya da sütü ya da başka bir şeyi) soğuttu.",
+      "cekimler": [
+        "tumlıtür",
+        "tumlıtmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "591",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tumlıtür",
+      "anlam": "O, onu kızdırdı ve gönlünü soğuttu.",
+      "ornek_metin": "ol anıg könglin tumlıttı: O, onu kızdırdı ve gönlünü soğuttu",
+      "cekimler": [
+        "tumlıtür",
+        "tumlıtmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "591",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tumsa",
+      "anlam": "Minber.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Argu lehçesi",
+      "kaynak_sayfa": "591",
+      "notlar": "Özgün bir sözcük değildir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tumşuq",
+      "anlam": "Kuş gagası.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "591",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tün",
+      "anlam": "Sakinlik; dinginlik.",
+      "ornek_metin": "Itöngûl tün boldı: Gönül dinginleşti.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "591",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tün",
+      "anlam": "İlk doğan çocuk veya ilk koca.",
+      "ornek_metin": "tün oğul: İlk doğan. tün qîz: ilk kız. tün beg: İlk koca.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "591-592",
+      "notlar": "İster erkek ister dişi olsun, bir kadının doğurduğu ilk çocuk bu şekilde adlandırılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tunçuqtı",
+      "anlam": "Adam tıkandı ve soluk alamaz oldu.",
+      "ornek_metin": "er tunçuqtı: Adam tıkandı ve soluk alamaz oldu.",
+      "cekimler": [
+        "tunçıqdr",
+        "tunçıqmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "592",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tunçuqtı",
+      "anlam": "Gelincik kış uykusuna yattı (inine kapanarak kış uykusuna yatan herhangi bir hayvan).",
+      "ornek_metin": "sugıır tunçuqtı: Gelincik kış uykusuna yattı.",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "592",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tundı",
+      "anlam": "Gökyüzü bulutlarla kaplandı.",
+      "ornek_metin": "kök tundı: Gökyüzü bulutlarla kaplandı.",
+      "cekimler": [
+        "tunûr",
+        "tunmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "592",
+      "notlar": "Geniş zaman tunâr da denir. Geniş zamanı â lı olan eylemleri nasb'lı okumak Oğuzların ve Qıfçâqların üslubudur.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tundı",
+      "anlam": "Kapı kapandı (Dağ geçidinin kar nedeniyle kapanması için art tundı denir).",
+      "ornek_metin": "qapug tundı: Kapı kapandı.",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "592",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tunturdı",
+      "anlam": "İlaç onun gözünü kapattı.",
+      "ornek_metin": "ot anıg közin tunturdı: İlaç onun gözünü kapattı.",
+      "cekimler": [
+        "tunturur",
+        "tunturmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "592",
+      "notlar": "Bir şeyin üstünü örten, onu kapatan herhangi bir şeyi anlatmak için kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "turigşu",
+      "anlam": "Şamdan; fener.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "592",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "turigu",
+      "anlam": "Sağır.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "592",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tura",
+      "anlam": "Kalkan; düşmandan korunmak için insanın kendine siper ettiği herhangi bir şey.",
+      "ornek_metin": "tura qalqan: Kalkan",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "592",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "turdı",
+      "anlam": "Adam ayağa kalktı.",
+      "ornek_metin": "er yoqâru turdı: Adam ayağa kalktı.",
+      "cekimler": [
+        "turur",
+        "turmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "592",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "turdı",
+      "anlam": "Duman yükseldi.",
+      "ornek_metin": "tuman turdı: Duman yükseldi.",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "592",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "türdı",
+      "anlam": "Adam ayağa kalktı.",
+      "ornek_metin": "er yoqâru türdı: Adam ayağa kalktı.",
+      "cekimler": [
+        "türür",
+        "türmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "592",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "türdı",
+      "anlam": "At zayıfladı, bir deri bir kemik kaldı.",
+      "ornek_metin": "ât türdı: At zayıfladı, bir deri bir kemik kaldı.",
+      "cekimler": [
+        "türâr",
+        "türmaq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "592",
+      "notlar": "Ana madde olarak bu sözcük iki kez yer almaktadır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "turgurdı",
+      "anlam": "O, atı zayıflattı.",
+      "ornek_metin": "ol atıg turgurdı: O, atı zayıflattı.",
+      "cekimler": [
+        "tur gurur",
+        "turgurmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "592",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "turgurdı",
+      "anlam": "O beni yerimden kaldırdı.",
+      "ornek_metin": "ol meni orundın turgurdı: O beni yerimden kaldırdı.",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "592-593",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "turgurdı",
+      "anlam": "Adam duvar ördü (İnşa edilen bir evi ya da yükseltilen herhangi bir şeyi anlatmak için de kullanılır).",
+      "ornek_metin": "er tâm turgurdı: Adam duvar ördü.",
+      "cekimler": [
+        "tur gurur",
+        "turigurmdq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "592-593",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "turı",
+      "anlam": "Tadı mazı gibi buruk olan herhangi bir şey (Huysuz kimse).",
+      "ornek_metin": "turı neng: Tadı mazı gibi buruk olan herhangi bir şey",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "593",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "turıg",
+      "anlam": "Kâşgar yaylasının adı.",
+      "ornek_metin": "turıg art tez: Kâşgar yaylasının adı.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "593",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "turıg",
+      "anlam": "Dağdaki müstahkem mevkiler.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "593",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "turlâq",
+      "anlam": "Herhangi bir sıska hayvan (Sağlıksız büyüyen biri için de kullanılır).",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "593",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "turma",
+      "anlam": "Turp.",
+      "ornek_metin": "sarig turma: sarı turp",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "593",
+      "notlar": "Argu halkı havuca gezri der; Oğuzlar geşür der.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "turna",
+      "anlam": "Turna kuşu.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "593",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "turq",
+      "anlam": "Herhangi bir şeyin uzunluğu.",
+      "ornek_metin": "bir süngü turqı: Bir mızrak boyunda; yer eni turqı: Arazinin eni ve boyu.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "593",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "turqıg",
+      "anlam": "Utanç; haya.",
+      "ornek_metin": "ol menden turqıg: O, yaptığı bir şey nedeniyle benim karşımda utandı.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "593",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "turqıglandı",
+      "anlam": "O, benim karşımda utanç duyacağı için (belli) bir işi yapmaktan kaçındı.",
+      "ornek_metin": "ol inindin turqıglandı: O, benim karşımda utanç duyacağı için işi yapmaktan kaçındı.",
+      "cekimler": [
+        "turqıglanür",
+        "turqıglanmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "593",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "turqındı",
+      "anlam": "O, yapmak istediği ama bana karşı utanç duyacağı için kaçındığı bir şey nedeniyle mahcup oldu.",
+      "ornek_metin": "ol mindin turqındı: O, yapmak istediği, ama bana karşı utanç duyacağı için kaçındığı bir şey nedeniyle mahcup oldu.",
+      "cekimler": [
+        "turqmür",
+        "turqmmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "593",
+      "notlar": "",
+      "kontrol_gerekli": false
+    }
+  ]
+}

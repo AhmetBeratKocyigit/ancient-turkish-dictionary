@@ -1,0 +1,766 @@
+{
+  "chunk_no": 23,
+  "kaynak_sayfa_baslangic": 217,
+  "kaynak_sayfa_bitis": 221,
+  "kelimeler": [
+    {
+      "kelime": "-ça/-çe",
+      "anlam": "Karşılaştırma ekidir. Arapçadaki karşılaştırma kâfına benzer.",
+      "ornek_metin": "ol menigçe: O bana benziyor; bu anıgça: Bu ona benziyor.",
+      "cekimler": [],
+      "kelime_turu": "ek",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "217",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çâçır",
+      "anlam": "Çadır",
+      "ornek_metin": "Oğuzlar buna çâşır der. Ayrıca bkz. çatır.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Oğuz lehçesi",
+      "kaynak_sayfa": "217",
+      "notlar": "Ayrıca bkz. çatır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çâdan",
+      "anlam": "Akrep",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "217",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çag çog",
+      "anlam": "Gürültü patırtı",
+      "ornek_metin": "çâgçö&gpptı: Gürültü patırb koptu; aynı zamanda yalnızca çögı gopdı: gurultu koptu şeklinde de kullanılır.",
+      "cekimler": [],
+      "kelime_turu": "belirsiz",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "217",
+      "notlar": "Metinde 'çâgçö&gpptı' kısmında OCR hatası ihtimali vardır.",
+      "kontrol_gerekli": true
+    },
+    {
+      "kelime": "çagllâdı",
+      "anlam": "Su çağladı",
+      "ornek_metin": "sûwçagilâdı: Su çağladı. Aynı zamanda jağıladı, jagîlâdı biçiminde değişik sesletimler vardır. (Taıfgut ülkesi ile Çin arasında bir yer olan Qatünsînı nın halkı ile Tangut halkı savaş halindedir...) qatunsıni çagllâdı: Qâtünsînı halkı bağırdı; tangut begin yagîlâdî: Tangutla (oranın halkıyla) ve beyiyle savaşa durdu; qam aqıp jagılâdı: Ta ki kanlan çağıldayan su gibi akana; bayın sümn qw l sağdı: (Ve) boyunlan kızıl su (yani kan) sızdırana kadar",
+      "cekimler": [
+        "şagilâr",
+        "şagilâmdq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "217",
+      "notlar": "j ağıladı, şagilâdı şeklinde de geçer.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çağır",
+      "anlam": "Meyve suyu (şıra)",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "217",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çâğıT",
+      "anlam": "Şarap",
+      "ornek_metin": "Bu sözcük iki karşıt anlama sahiptir.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "217",
+      "notlar": "Meyve suyu (şıra) anlamındaki çağır ile zıt anlamlıdır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çagırlâdı",
+      "anlam": "Üzümü şıra yaptı",
+      "ornek_metin": "ol ûzümni çagırlâdı: O, üzümü şıra yaptı. Biri şıra içtiği zaman da bu sözcük kullanılır.",
+      "cekimler": [
+        "çagırlâr",
+        "çagırlâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "217",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çagırlandı",
+      "anlam": "Adam şarap ya da şıra sahibi oldu",
+      "ornek_metin": "er çagırlandı: Adam şarap ya da şıra sahibi oldu.",
+      "cekimler": [
+        "çagırlanür",
+        "çagırlanmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "217",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çagırlıg",
+      "anlam": "Şırası olan adam",
+      "ornek_metin": "çagırltg er: Şırası olan adam",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "217",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çağla",
+      "anlam": "Uçtaki bir yaylanın adı",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "217",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çagmur",
+      "anlam": "Şalgam",
+      "ornek_metin": "bkz. çamgur",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "217",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çagn",
+      "anlam": "Doğan",
+      "ornek_metin": "Bir erkek adı olan çağrı beg buradan gelir. Şu dizelerde de kullanılır, (Bir avı anlatıyor) çagn alıp arqun mûnüp arqar yeter / awlar keyik taygan ıdıp tilkû tutar / Çağrı / Doğanı (bir eline) alıp küheylana binerek dağ keçilerine yetişir / Vahşi hayvanlan avlar, tazısını salıverip tilkiyi yakalatır",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "217-218",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çağrı",
+      "anlam": "Doğan",
+      "ornek_metin": "bkz. çıgrı.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "218",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çâl qöy",
+      "anlam": "Alacalı koyun",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "218",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çalaıig",
+      "anlam": "Geveze, konuşkan kişi",
+      "ornek_metin": "çalafg başı: Geveze, konuşkan kişi.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "218",
+      "notlar": "Madde başı metinde 'çalarfg' veya 'çalaıig' olarak geçmektedir.",
+      "kontrol_gerekli": true
+    },
+    {
+      "kelime": "çaldı",
+      "anlam": "Yere çaldı; bağırdı; dövdü",
+      "ornek_metin": "ol anı çaldı: O, onu yere çaldı; d sozüg menig qulâqqa çaldı: O, sözleri benim kulağıma bağırdı. Şu atasözünde de geçer, çaqsa tutnür, çalsa bilnûr: (Çakmak) çakılırsa (ateş) tutuşur, (söz) kulağa çalınırsa (amaç) bilinir. tönug taş ûze çaldı: (Çırpıcı) giysiyi (yeni işlenen kumaşı) taşın üzerinde dövdü. İtim tütüp qodı çaldı: Köpeğim onu (kurdu) yakalayıp yere çaldı / anıg tüsin qıra yuldu: Onun tüyünü tümüyle yoldu / başın alıp qodı saldı: Başını (tepesinden) yakalayıp geriye çevirdi / boguz ilip tükel bogdı: Boğazını ısınp onu tümden boğdı",
+      "cekimler": [
+        "çalar",
+        "çalmaq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "218",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çaldır çaldır",
+      "anlam": "Ok sadıkta takırdadı; kuru otların çıkardığı hışırtı sesi",
+      "ornek_metin": "oq keşte çaldır çaldır etti: Ok sadakta [kılıfında] böylesi bir ses çıkarttı [takırdadı]. Rüzgâr estiği zaman kuru otların çıkardığı sesi [hışırtıyı] anlatmak için de bu ifade kullanılır.",
+      "cekimler": [],
+      "kelime_turu": "belirsiz",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "218",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çaldrâdı",
+      "anlam": "Çakıl taşları, zincir vb. şeylerin yere düştüğünde çıkardığı ses",
+      "ornek_metin": "taş çaldrâdı : Çakıl taşlan böylesi bir ses [çaldır çaldır] çıkarttı. Zincir ya da zincire benzer şeyler yere düştüğünde çıkan sesi anlatmak için de bu ifade kullanılır.",
+      "cekimler": [
+        "çaldrâr",
+        "çaldrâm âq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "218",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çalgây",
+      "anlam": "Kuş kanadının uçları",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "218",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çalıg",
+      "anlam": "Kayıp, başıboş bir hayvanı arama sözcüğü; beylerin önemli bir durumda köylere ve göçebe halka yolladığı haber",
+      "ornek_metin": "Hem sorug: kayıp, başıboş bir hayvanı arama sözcüğüyle aynı anlamda hem de beylerin önemli bir durum söz konusu olduğunda, yanına gelip kendine katılmaya davet etmek için köylerdeki ve göçebe halkına yolladığı haber anlamında kullanılır, bkz. sorug.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "218",
+      "notlar": "Bkz. sorug.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çalırfg",
+      "anlam": "Sanki yanmış gibi çorak ve siyah olan, ot bitmeyen yer",
+      "ornek_metin": "çalıng yer: Sanki yanmış gibi çorak ve siyah olan, ot bitmeyen yer.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "218",
+      "notlar": "Madde başı metinde 'çalırfg' olarak geçmektedir.",
+      "kontrol_gerekli": true
+    },
+    {
+      "kelime": "çalırig ayâq",
+      "anlam": "Bir Çin kâsesi",
+      "ornek_metin": "çalırig ayâq: Bir Çin kâsesi.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "218",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çalındı",
+      "anlam": "At bir deri bir kemik kaldı; söz kulağa gitti; adam kendini yere attı",
+      "ornek_metin": "at çalındı: At (besleyici olmayan yem yüzünden) bir deri bir kemik kaldı, söz beg qulâqınga çalındı: Söz beyin [başka birinin de olabilir] kulağına gitti (Oğuz lehçesi), er özın yerke çalındı: Adam kendini yere attı ya da atarmış gibi yaptı.",
+      "cekimler": [
+        "çalınür",
+        "çalmmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "Oğuz lehçesi",
+      "kaynak_sayfa": "219",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çalış",
+      "anlam": "Güreş",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "219",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çalışdı",
+      "anlam": "Kapının çatlakları açıldı; güreşti",
+      "ornek_metin": "japug çalışdı: Kapının çatlaklan açıldı. Çömleğin çatlaklan ya da eyerin ek yerlerindeki açılma söz konusuysa yine bu sözcük kullanılır. ol menig birle çalışdı: O, benimle güreşti.",
+      "cekimler": [
+        "çalışûr",
+        "çalışmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "219",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çalma",
+      "anlam": "Kesek, tezek",
+      "ornek_metin": "Kesek. Koyun ağıllarından ve deve ahırlarından toplanıp kesilip şekillendirilerek kışın yakacak olarak kullanılmak için kurutulan dışkı, tezek.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "219",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çalparig",
+      "anlam": "Çamur",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "219",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çalpaq",
+      "anlam": "Kir, pislik",
+      "ornek_metin": "çalpaq fş: Kanşık bir mesele",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "219",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çalpaşdı",
+      "anlam": "Şiddetli bir biçimde tartıştı; kirlendi",
+      "ornek_metin": "olarekki çalpaşdı: Onlar (belli bir konu üzerinde) şiddetli bir biçimde tartıştı. Herhangi bir şey kirlendiği zaman da bu sözcük kullanılır.",
+      "cekimler": [
+        "çalpaşur",
+        "çalpaşmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "219",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çalpuş",
+      "anlam": "Meyvelerin yapışkan özü",
+      "ornek_metin": "Meyvelerin yapışkan özü; insanlann ellerine ya da giysilerine bulaşır",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "219",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çalpuşlandı",
+      "anlam": "Meyvenin yapışkan özü ele bulaştı",
+      "ornek_metin": "elig çalpuşlandı: (Meyveyi yerken ya da soyarken) meyvenin yapışkan özü ele [başka bir şeye de olabili] bulaştı.",
+      "cekimler": [
+        "çalpuşlanür",
+        "çalpuşlanmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "219",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çalq çulq",
+      "anlam": "Dürttü, itip kalktı (ses yansıması)",
+      "ornek_metin": "çalq çulq badar qtldı: O, onu dürttü, itip kalktı. Bu, “dürterken, itip kakarken çıkan sesin yansıması”yla oluşan bir ifadedir.",
+      "cekimler": [],
+      "kelime_turu": "belirsiz",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "219",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çalqan",
+      "anlam": "Hastalığın vücuttaki bir noktadan başka noktalara yayılması",
+      "ornek_metin": "Hastalığın vücuttaki bir noktadan başka noktalara yayılması; bilekteki bir şişkinliğin kasıkta yumrulara neden olması gibi",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "219",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çalrâdı",
+      "anlam": "Ok sadıkta tıkırdadı",
+      "ornek_metin": "oq keşte çalrâdı: Ok sadakta [kılıfında] böylesi bir ses çıkarttı [tıkırdadı]. Buna benzer bir sesin çıktığı her durumda bu sözcük kullanılır.",
+      "cekimler": [
+        "çalrâr",
+        "çalrâm âq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "219",
+      "notlar": "Bkz. çaldır",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çalrattı",
+      "anlam": "Sadaktaki okunu takırdattı",
+      "ornek_metin": "ol oqın keşte çalrattı: O, sadaktaki (kılıfındaki) okunu takırdattı. Herhangi biri bir şeyi takırdatırsa (çaldır çaldır) yine bu sözcük kullanılır.",
+      "cekimler": [
+        "çalratür",
+        "çalratm âq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "219-220",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çalturdı",
+      "anlam": "Yere devirtti; kayıp hayvanının aranmasını emretti; birine bir şeyi işittirdi",
+      "ornek_metin": "ol anı çalturdı: O, onu yere devirtti. olyitük çalturdı: O, kayıp hayvanının aranmasını emretti. Aynı zamanda Oğuz lehçesinde “birine bir şeyi işittirmek” anlamında kullanılır.",
+      "cekimler": [
+        "çalturur",
+        "çalturmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "Oğuz lehçesi",
+      "kaynak_sayfa": "220",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çamguq",
+      "anlam": "İftiraya atan adam",
+      "ornek_metin": "çamguq er: İftiraya atan adam.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "220",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çamguqlandı",
+      "anlam": "Adam bir iftiracıydı",
+      "ornek_metin": "kişi çamguqlandı: Adam bir iftiracıydı.",
+      "cekimler": [
+        "çamguqlanür",
+        "çamguqlanmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "220",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çamgur",
+      "anlam": "Şalgam",
+      "ornek_metin": "Şalgam, mim (m) ile gayrı (g) arasında göçüşme vardır [bkz. çagmur].",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "220",
+      "notlar": "Bkz. çagmur",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çamı",
+      "anlam": "Gürültü, patırtı",
+      "ornek_metin": "çogı çamı qıldı: O bir gürültü, patırtı koparttı, çamı sözcüğü tek başına kullanılmaz; yalnızca çogı sözcüğüyle birlikte kullanılır, bkz. çogı.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "220",
+      "notlar": "Bkz. çogı",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çanaç",
+      "anlam": "Kadınsı tavırlar gösteren kimse; ödlek, beceriksiz, hantal",
+      "ornek_metin": "Kadınsı tavırlar gösteren kimse. Ödlek, beceriksiz, hantal anlamında da kullanılır.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "220",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çanaçlâdı",
+      "anlam": "Onu zayıf, kadınsı ve güçsüz kabul etti",
+      "ornek_metin": "ol anı çanaçlâdı: O, onu zayıf, kadınsı ve güçsüz kabul etti.",
+      "cekimler": [
+        "çanaçlar",
+        "çanaçldmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "220",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çanaçlıq",
+      "anlam": "Sakarlık; kadınsılık",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "220",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çanaq",
+      "anlam": "Çanak; ağaçtan yapılma kâse",
+      "ornek_metin": "Çanak; ağaçtan yapılma kâse (Oğuz lehçesi).",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Oğuz lehçesi",
+      "kaynak_sayfa": "220",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çanaq",
+      "anlam": "Tuzluk ya da tuzluğa benzer ağaçtan oyulmuş kap",
+      "ornek_metin": "Tuzluk ya da tuzluğa benzer ağaçtan oyulmuş kap.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "220",
+      "notlar": "Aynı kelime farklı bir anlamla ayrı madde olarak verilmiştir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çandışdı",
+      "anlam": "Karşılıklı olarak birbirlerine düşmanca davrandı ve birbirlerinden uzak durdular",
+      "ornek_metin": "olar ekkı çandışdı : Onlar karşılıklı olarak birbirlerine düşmanca davrandı ve birbirlerinden uzak durdular.",
+      "cekimler": [
+        "çandışür",
+        "çandışmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "220",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çanqa",
+      "anlam": "Bir av kapanı çeşidi",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "220",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çanturdı",
+      "anlam": "Bu konuya ilişkin onda karşıt bir düşünce oluşturdu",
+      "ornek_metin": "ol anı bu işqa çanturdı: O, bu konuya ilişkin onda karşıt bir düşünce oluşturdu. Kök-biçimi çandturdı' dır.",
+      "cekimler": [
+        "çanturur",
+        "çanturmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "220",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çarig",
+      "anlam": "Zil",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "220",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çangılâdı",
+      "anlam": "Köpek inledi; çok patırtı yaptı çok bağırdı",
+      "ornek_metin": "ıt çangtladı: (Dövülen) köpek inledi - bu havlamadan daha zayıf, tiz, keskin ve acı çıkan bir sestir. Kaba saba, küfürlü konuşan birine telim çangîlâdıng: çok patırtı yaptın çok bakırdın denir.",
+      "cekimler": [
+        "çangilâr",
+        "çarıgilâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "220-221",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çanglı mariglı",
+      "anlam": "Bir çocuk oyununun adı",
+      "ornek_metin": "Araplar buna davdât der.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "221",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çangşı",
+      "anlam": "Bir Hoten beyinin adı",
+      "ornek_metin": "Bu adı taşıyan kent bu bey zamanında alınmıştır. Adın Cemşit sözcüğünden dönüştüğü söylenir.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "221",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çarigşu",
+      "anlam": "Küçük hırka",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "221",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çap çap",
+      "anlam": "Kamçının şaklamasını ve dudağın şapırdamasını anlatan yansıma ifade",
+      "ornek_metin": "ol erük çap çap yedi: Eriği böylesi bir ses çıkacak biçimde yedi.",
+      "cekimler": [],
+      "kelime_turu": "belirsiz",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "221",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çapaq",
+      "anlam": "Bir balık türü; çelimsiz, sıska adam",
+      "ornek_metin": "Bir balık türü. Bunlar küçük balıklardır ve Türk göllerinde bulunur. Bunlara benzetilerek çelimsiz, sıska adamlara çapaq er denir.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "221",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çapdi",
+      "anlam": "Adam suda yüzdü; atına değnekle yavaşça vurdu; boynunu vurdu; evini yumuşak çamurla sıvadı",
+      "ornek_metin": "er suvvda çapdi: Adam suda yüzdü. ol atnı çıpıq birle çapdi: O, atına değnekle yavaşça vurdu. çomaq tat boynm çapdi: Müslüman, zındığın boynunu vurdu (Uygur lehçesi). er ewin çapdi: Adam evini yumuşak çamurla sıvadı.",
+      "cekimler": [
+        "çapar",
+        "çapm âq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "221",
+      "notlar": "Uygur lehçesine ait kullanımlar vardır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çapgut",
+      "anlam": "Çaput, şilte",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "221",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çapıldı",
+      "anlam": "Onun evi ince ve yumuşak çamurla sıvandı; boynunun vurulması",
+      "ornek_metin": "anıg ewi çapıldı: Onun evi ince ve.yumuşak çamurla sıvandı. Birinin boynunun vurulmasını anlatmak için de bu sözcük kullanılır (Uygur lehçesi)",
+      "cekimler": [
+        "çapılür",
+        "çapılmdq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "Uygur lehçesi",
+      "kaynak_sayfa": "221",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çapındı",
+      "anlam": "Adam atını kamçıladı; adam suda yüzdü",
+      "ornek_metin": "er atın çapındı: Adam atını kamçıladı. er suwda çapdi: Adam suda yüzdü - çapındı, çapdı’mn değişik sesletimidir.",
+      "cekimler": [
+        "çapmür",
+        "çapmmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "221",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çapıtgân",
+      "anlam": "Sürekli insanlara saldıran köpek; boyun kesen adam, cellat",
+      "ornek_metin": "bu ıt ol kişike çapıtgân: Bu, (ısırmak için) sürekli insanlara saldıran bir köpektir. çapıtgân er: Boyun kesen adam, cellat (Uygur lehçesi)",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "Uygur lehçesi",
+      "kaynak_sayfa": "221",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çapıttı",
+      "anlam": "Köpek adama saldırdı; bey onun boynunun vurulmasını emretti",
+      "ornek_metin": "ıt kişike çapıttı: Köpek (ısırmak için) adama saldırdı. beg anıg boynm çapıttı: Bey onun boynunun vurulmasını emretti (Uygur lehçesi).",
+      "cekimler": [
+        "çapıtûr",
+        "çapıtmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "Uygur lehçesi",
+      "kaynak_sayfa": "221",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çapsâdı",
+      "anlam": "Suda yüzmek istedi",
+      "ornek_metin": "ol suwda çapsâdı: O, suda yüzmek istedi.",
+      "cekimler": [
+        "çapsâr",
+        "çapsâm âq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "221",
+      "notlar": "",
+      "kontrol_gerekli": false
+    }
+  ]
+}

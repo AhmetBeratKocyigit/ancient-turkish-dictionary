@@ -1,0 +1,776 @@
+{
+  "chunk_no": 58,
+  "kaynak_sayfa_baslangic": 357,
+  "kaynak_sayfa_bitis": 361,
+  "kelimeler": [
+    {
+      "kelime": "opındı",
+      "anlam": "Kolay iş. ongây sözcüğünün kısaltılmış biçimidir.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "belirsiz",
+      "dil_veya_lehce": "ong.",
+      "kaynak_sayfa": "357",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ong elig",
+      "anlam": "Sağ el",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "belirsiz",
+      "dil_veya_lehce": "Çigil lehçesi",
+      "kaynak_sayfa": "357",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ongâmuq",
+      "anlam": "Sağ elini kullanan adam.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "belirsiz",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "357",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ongdı",
+      "anlam": "İşlemeli kumaşın rengi soldu.",
+      "ornek_metin": "barçın bodûgı ongdı: İşlemeli kumaşın rengi soldu.",
+      "cekimler": [
+        "ongâr",
+        "onğmâcj"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "357",
+      "notlar": "onguqtı sözcüğünün değişik sesletimidir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ongüjin",
+      "anlam": "Çölde insanlara saldıran bir gulyabani.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "357",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "onguldı",
+      "anlam": "Hasta iyileşti.",
+      "ornek_metin": "sökel onguldı: Hasta iyileşti. / iş onguldı: (Kanşan) iş yoluna koyuldu.",
+      "cekimler": [
+        "onglür",
+        "ongulmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "357",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "onguqtı",
+      "anlam": "Adamın yüzü süzüldü.",
+      "ornek_metin": "er yüzi origuqtı: Adamın yüzü süzüldü. / barçın onguqtı: İşlemeli kumaş (başka bir şey de olabilir] parlaklığını kaybetti.",
+      "cekimler": [
+        "onguqâr",
+        "onguqmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "357",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "onguqtı",
+      "anlam": "Hastalık veya benzer bir şey nedeniyle adamın yüzü süzüldü, işlemeli kumaş parlaklığını kaybetti.",
+      "ornek_metin": "anıg yüzi onguqtı: (Hastalık veya benzer bir şey nedeniyle) adamın yüzü süzüldü. / barçın onguqtı: işlemeli kumaş parlaklığını kaybetti.",
+      "cekimler": [
+        "onguqâr",
+        "onguqmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "357",
+      "notlar": "Benzer bir durumun söz konusu olduğu her şeyi anlatmak için bu sözcük kullanılabilir. Ana madde olarak bu sözcük, sözlükte iki kez yer almaktadır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "op",
+      "anlam": "Harman dövmekte kullanılan öküz",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Argu lehçesi",
+      "kaynak_sayfa": "357",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "öpdı",
+      "anlam": "Adam suyu yutuverdi.",
+      "ornek_metin": "er süw öpdı: Adam suyu (başka bir şeyi de olabilir] yutuverdi.",
+      "cekimler": [
+        "öpâr",
+        "öpmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "357",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "opldı",
+      "anlam": "O, onu halktan gizledi.",
+      "ornek_metin": "ol anı kişîdtn opidı: O, onu halktan gizledi.",
+      "cekimler": [
+        "opfr",
+        "opimâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "357",
+      "notlar": "Herhangi bir şeyin başkasından gizlenmesini anlatmak için de bu sözcük kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "opındı",
+      "anlam": "O, benden saklandı.",
+      "ornek_metin": "ol mendin opındı: O, benden saklandı.",
+      "cekimler": [
+        "opınür",
+        "opınmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "357",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "opıtgân",
+      "anlam": "Alışkanlık olarak kendini insanlardan gizleyen kimse.",
+      "ornek_metin": "ol er ol ozin kişiden opıtgân: O, alışkanlık olarak kendini insanlardan gizleyen bir adamdır.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "358",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "opıttı",
+      "anlam": "O, kendini benden gizledi.",
+      "ornek_metin": "ol özin mendin opıttı: O, kendini benden gizledi.",
+      "cekimler": [
+        "opıtur",
+        "opıtmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "358",
+      "notlar": "Herhangi bir şeyi gizlemeyi veya saklamayı anlatmak için de bu sözcük kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "oprâdı",
+      "anlam": "Giysi yıprandı.",
+      "ornek_metin": "ton oprâdı: Giysi (başka bir şey de olabilir] yıprandı.",
+      "cekimler": [
+        "oprâr",
+        "oprâm âq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "358",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "oprâq",
+      "anlam": "Paçavraya dönmüş giysi ya da benzeri bir şey.",
+      "ornek_metin": "oprâq ton: Paçavraya dönmüş giysi ya da benzeri bir şey.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "358",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "opraştı",
+      "anlam": "Giysiler eskimeye başladı.",
+      "ornek_metin": "tönlâr opraştı: Giysiler (başka şeyler de olabilir) eskimeye başladı.",
+      "cekimler": [
+        "opraşür",
+        "opraşm âq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "358",
+      "notlar": "Atasözü: kenğeşllg bilıg üdreşûr, kengeşsiz bilıg opraşür",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "oprattı",
+      "anlam": "O, giysisini yıprattı.",
+      "ornek_metin": "ol tönın oprattı : O, giysisini (başka bir şeyi de olabiliri yıprattı.",
+      "cekimler": [
+        "opratur",
+        "opratm âq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "358",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "opn",
+      "anlam": "Çukur ya da oyuk",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "358",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "opu",
+      "anlam": "Üstübeç (isfîdâc)",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "358",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "oq",
+      "anlam": "Ok.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "358",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "oq",
+      "anlam": "Evin kirişi.",
+      "ornek_metin": "ew oqı",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "358",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "öq",
+      "anlam": "Mirasta düşen pay.",
+      "ornek_metin": "angâr bir öq tegdi: Ona mirastan bir pay düştü.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "358",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "oq",
+      "anlam": "Kendisini insanın üzerine savuran yılan.",
+      "ornek_metin": "oqyılân",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "358",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "oq",
+      "anlam": "Bir malı bölüşürken ya da toprakları paylaşırken çekilen kuradaki pay.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "358",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "oq",
+      "anlam": "Eylemlerin ardından gelen bir pekiştirme ilgeci.",
+      "ornek_metin": "bargtl oq: Gitgil",
+      "cekimler": [],
+      "kelime_turu": "edat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "358",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "oq",
+      "anlam": "Durum anlatan ifadelere eşlik eden bir ilgeç.",
+      "ornek_metin": "baya oq keldim: Tam da şimdi keldim; amdi oq aydım: Tam da şimdi söyledim.",
+      "cekimler": [],
+      "kelime_turu": "edat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "358",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "oqçı",
+      "anlam": "Okçu.",
+      "ornek_metin": "oqçı köndgerdi: Okçu oku doğrulttu.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "358",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "oqîdı",
+      "anlam": "O, beni çağırdı.",
+      "ornek_metin": "ol meni ocÇıâv. O, beni çağırdı. / er bitig oqıdı: Adam kitap okudu.",
+      "cekimler": [
+        "oqîr",
+        "ocpmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "359",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "oqıdı",
+      "anlam": "Adam kustu.",
+      "ornek_metin": "er oqidı: Adam kustu",
+      "cekimler": [
+        "oqir",
+        "oqîmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "359",
+      "notlar": "ogıdı da denir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "oqıldı",
+      "anlam": "Kitap okundu.",
+      "ornek_metin": "bitig oqıldı: Kitap okundu.",
+      "cekimler": [
+        "oqdur",
+        "oqılmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "359",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "oqındı",
+      "anlam": "Kitap okundu veya o, kendini kitap okuyormuş gibi gösterdi.",
+      "ornek_metin": "bitig oqmdı: Kitap okundu. / ol bitig oqmdı: O, kendini kitap okuyormuş gibi gösterdi.",
+      "cekimler": [
+        "oqınur",
+        "oqm mâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "359",
+      "notlar": "nun (n), İdm’dan (l) değişmiştir [bkz. ogıldı].",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "oqışdı",
+      "anlam": "Onlar birbirini çağırdı.",
+      "ornek_metin": "oîâr bir ekindi birle oqıştilâr: Onlar birbirini çağırdı. / ol menig birle bitig oqışdı: O, kitap okuma konusunda benimle boy ölçüştü.",
+      "cekimler": [
+        "oqışûr",
+        "oqışmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "359",
+      "notlar": "Bu konuda yardımlaşmayı anlatmak için de bu sözcük kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "oqıtgân",
+      "anlam": "Bu sıklıkla birini onu okumak için kışkırtan bir kitaptır.",
+      "ornek_metin": "bu bitig ol kişini oqıtgân: Bu sıklıkla birini onu okumak için kışkırtan bir kitaptır.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "359",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "oqılsâdı",
+      "anlam": "O, kitabın okunmuş olmasını istedi.",
+      "ornek_metin": "ol bitig oqıt$âdı: O, kitabın okunmuş olmasını istedi.",
+      "cekimler": [
+        "oqıtsâr",
+        "oqıtsâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "359",
+      "notlar": "Biri başka birini çağırmak istediğinde de bu sözcük kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "oqıttı",
+      "anlam": "O, bana kitap okuttu.",
+      "ornek_metin": "ol manga bitig oqıttı: O, bana kitap [başka bir şey de olabilir] okuttu.",
+      "cekimler": [
+        "oqıtur",
+        "oqıtmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "359",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "oqluq",
+      "anlam": "Sadak; okların içine konduğu kılıf.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "359",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "oqrâdı",
+      "anlam": "At yemlenmek istediği için homurdandı.",
+      "ornek_metin": "at oqrâdı: At yemlenmek istediği için homurdandı.",
+      "cekimler": [
+        "oqrâr",
+        "oqrâm âq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "359",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "oqraşdı",
+      "anlam": "Bütün atlar homurdandı.",
+      "ornek_metin": "yond qamug oqraşdt: Bütün atlar (yem ya da başka bir şey için) homurdandı.",
+      "cekimler": [
+        "oqraşür",
+        "oqraşmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "359",
+      "notlar": "Şu dörtlükte de kullanılır: aşın atıp yaşnadı / tuman türup tüşnedi / adgır qısır kişnedi / öğür alıp oqraşûr",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "oqtam",
+      "anlam": "Bir ok atımı yer.",
+      "ornek_metin": "bîr oqtam yer: Bir ok atımı yer.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "360",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "oqtaştı",
+      "anlam": "O, onunla ok atma müsabakasına girdi.",
+      "ornek_metin": "ol anıg birle oqtaştı: O, onunla ok atma müsabakasına girdi.",
+      "cekimler": [
+        "oqtaşur",
+        "oqtaşmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "360",
+      "notlar": "Kura çekmeyi anlatmak için de bu sözcük kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "oqtattı",
+      "anlam": "Bey ona ok attırdı.",
+      "ornek_metin": "beganı oqtattı: Bey ona ök attırdı.",
+      "cekimler": [
+        "oqtatur",
+        "oqtatmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "360",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "oqut",
+      "anlam": "Bir yemeğe katılmaya ya da beyin huzuruna çıkmaya dair davet veya çağrı.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "360",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ör",
+      "anlam": "Rengi parlak kırmızımsı kahverengi ile koyu sarı arasında olan at.",
+      "ornek_metin": "ör at",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "360",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "orang",
+      "anlam": "Rûm ülkesi yakınlarında bir yer adı.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "360",
+      "notlar": "Rüm ülkesiyle karşılaştırıldığında kuzeyde yer alır. Adının daha doğru kullanım biçimi vararig’dır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ördı",
+      "anlam": "O, ot biçti.",
+      "ornek_metin": "ol ot ördı: O, ot biçti.",
+      "cekimler": [
+        "örâr",
+        "örmaq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "360",
+      "notlar": "Bir tarlayı ya da başka bir şeyi biçmeyi anlatmak için de bu sözcük kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ordu",
+      "anlam": "Bir hakanın ikametgâhı (sarayı).",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "360",
+      "notlar": "Nitekim Kâşgar kentine ordu kend (Hakanların İkametgâhının Olduğu Kent) denir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ordu",
+      "anlam": "Balâsâgün yakınlarında bir ikametgâh.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "360",
+      "notlar": "Buradan hareketle Balâsâgün kentine Qüz ordu denir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ordu",
+      "anlam": "Hakanın kalacağı yeri, yatağını düzenleyen, derleyen toplayan kimse (ferraş).",
+      "ornek_metin": "ordu başı",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "360",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ordu",
+      "anlam": "Bir hayvanın yeraltındaki yuvası; sıçanın kovuğu, gelinciğin deliği gibi.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "360",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ordu",
+      "anlam": "Hamamotu (tüy dökücü bir maddenin yapımında kullanılır).",
+      "ornek_metin": "ordu tâl",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "360",
+      "notlar": "İki değişik sesletimden biri (diğeri için bkz. ardütâl).",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ordülandı",
+      "anlam": "Bey bir yeri kişisel ikametgâhı olarak zapt etti.",
+      "ornek_metin": "beg bîr yerig ordülandı: Bey bir yeri kişisel ikametgâhı olarak zapt etti.",
+      "cekimler": [
+        "ordülanur",
+        "ordûlanmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "360",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "orgâq",
+      "anlam": "Orak.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "361",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "orî qıqı",
+      "anlam": "Uğultu ve bağrış çağrış.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "361",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "on",
+      "anlam": "Haykırış.",
+      "ornek_metin": "on qopsa oguş aqhşür, yağı kelse imrem teprişür: Yardım isteyen bir çığlık yükselse boy bir araya gelir, bir düşman sökün etse ülkedeki bütün taifeler toparlanır.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "361",
+      "notlar": "Bu atasözü birine akrabalarıyla birlik olmasını öğütlemek için kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "orîlâdı",
+      "anlam": "Adam bağırdı.",
+      "ornek_metin": "er orîlâdı: Adam bağırdı.",
+      "cekimler": [
+        "orîlâr",
+        "orîlâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "361",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "orîlâdı",
+      "anlam": "Adam kendiyle övündü ve bu böbürlenmede aşırıya kaçtı.",
+      "ornek_metin": "er orîlüdı: Adam kendiyle övündü ve bu böbürlenmede aşırıya kaçtı.",
+      "cekimler": [
+        "orîlâr",
+        "orîlâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "361",
+      "notlar": "Şu dörtlükte de kullanılır: özin ögnüp orîlâdı / yorıp terig qanlâdı / atıg kemşip orîlâdı / uwut bölüp töpü ağdı",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "orilaştı",
+      "anlam": "bkz. orlaşdı.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "belirsiz",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "361",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "orlaşdı",
+      "anlam": "Halktan bir haykırış yükseldi.",
+      "ornek_metin": "bödun qamug orlaşdı: Halktan bir haykınş yükseldi.",
+      "cekimler": [
+        "orlaşür",
+        "orlaşmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "361",
+      "notlar": "Kök-biçimi orîlaştı’dır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ornâdım",
+      "anlam": "Ben bu yere yerleştim.",
+      "ornek_metin": "men bu yerde ornâdım: Ben bu yere yerleştim. / omâdı neng: Nesne bir yere yerleştirildi ve orada sabitçe durdu. / kün omâdı: Güneş battı.",
+      "cekimler": [
+        "o m â r",
+        "ornâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "361",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ornattım",
+      "anlam": "Ben, o şeyi yerine koydum.",
+      "ornek_metin": "men neng ornattım: Ben, o şeyi yerine koydum.",
+      "cekimler": [
+        "om atur men",
+        "ornatmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "361",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ortu",
+      "anlam": "Herhangi bir şeyin ortası.",
+      "ornek_metin": "ortu er: Orta yaşlı adam. / ew ortüsı: Evin ortası. / kün ortusı: Öğle vakti",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Çigil lehçesi",
+      "kaynak_sayfa": "361",
+      "notlar": "",
+      "kontrol_gerekli": false
+    }
+  ]
+}

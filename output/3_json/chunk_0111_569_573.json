@@ -1,0 +1,688 @@
+{
+  "chunk_no": 111,
+  "kaynak_sayfa_baslangic": 569,
+  "kaynak_sayfa_bitis": 573,
+  "kelimeler": [
+    {
+      "kelime": "tilge",
+      "anlam": "Bir dilim et. Uzunlamasına kesilmiş herhangi bir şey.",
+      "ornek_metin": "bir tilge et: Bir dilim et. Uzunlamasına kesilmiş herhangi bir şey için bu sözcük kullanılır. Nitekim “bir şerit gibi olan uzun ince toprak parçası”na bir tilge yer denir.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "569",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tili",
+      "anlam": "Ok temreni üzerine sarılan sırım.",
+      "ornek_metin": "Ok temreni üzerine sarılan sırım",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "569",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tilim",
+      "anlam": "Bir dilim et. Uzunlamasına kesilmiş ya da yarılmış herhangi bir şey.",
+      "ornek_metin": "bir tilim et: Bir dilim et. Uzunlamasına kesilmiş ya da yarılmış herhangi bir şeyi anlatmak için bu sözcük kullanılır.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "569",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tilindi",
+      "anlam": "Deri kayış yapılmak için uzunlamasına kesildi.",
+      "ornek_metin": "teri tilindi: Deri kayış yapılmak için uzunlamasına kesildi.",
+      "cekimler": [
+        "tilinur",
+        "tilinmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "569",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tilişdi",
+      "anlam": "Deriyi kayışlar halinde kesmekte yardım etti.",
+      "ornek_metin": "ol manga yarındâq tilişdi: O, bana deriyi kayışlar halinde kesmekte yardım etti.",
+      "cekimler": [
+        "tilişür",
+        "tilişmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "569",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tilkü",
+      "anlam": "Tilki.",
+      "ornek_metin": "Bir kadın doğurduğu zaman ebeye tilkü mü tugdı aza bön mü: Tilki mi doğurdu [burada tilki kız anlamına gelir, çünkü kızlar çekingen ama kurnazdırlar], yoksa kurt mu [kurt oğlan çocuk anlamına gelir, çünkü oğlanlar cesurdur] diye sorarlar",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "569",
+      "notlar": "Bu aynı zamanda kız çocukları için kullanılan bir lakaptır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tilkülendi",
+      "anlam": "Adam tıpkı bir tilki gibi kurnazca yaltaklandı.",
+      "ornek_metin": "er tilkülendi: Adam tıpkı bir tilki gibi kurnazca yaltaklandı.",
+      "cekimler": [
+        "tilkûlenür",
+        "tilkülenmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "569",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tiltürdi",
+      "anlam": "Derinin kesilmesini emretti.",
+      "ornek_metin": "er yarındâq tiltürdi: Adam derinin kesilmesini emretti. Bir deri kayış ya da benzerleri gibi uzunlamasına kesilen herhangi bir şeyi anlatmak için bu sözcük kullanılır.",
+      "cekimler": [
+        "tiltürûr",
+        "tiltürmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "569",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tim",
+      "anlam": "Ağzına kadar şarapla dolu olan şarap tulumu.",
+      "ornek_metin": "Ağzına kadar şarapla dolu olan şarap tulumu.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "569",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tımçi",
+      "anlam": "Şarap yapan veya satan kimse; meyhaneci.",
+      "ornek_metin": "Şarap yapan veya satan kimse; meyhaneci.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "569",
+      "notlar": "Bazen “şarap tüccarı”nı anlatmak için tim denir; ancak ilk kullanım [tîmçi] daha doğrudur, çünkü -çi eki iş, uğraş, zanaat belirtir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tin",
+      "anlam": "Yular.",
+      "ornek_metin": "Yular",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "569",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tin",
+      "anlam": "Yular ve dizgin.",
+      "ornek_metin": "tin tizgin: Yular ve dizgin.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "569",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tirig",
+      "anlam": "Adam dik durdu.",
+      "ornek_metin": "er tirig tardı: Adam dik durdu.",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "569",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tiredi",
+      "anlam": "Kapıyı destekleyerek dikti.",
+      "ornek_metin": "ol qapug tiredi: O, kapıyı destekleyerek dikti. Herhangi bir şeyi bir yere yaslayarak ya da bir şeyle destekleyerek dik tutmayı anlatmak için bu sözcük kullanılır.",
+      "cekimler": [
+        "tirer",
+        "tiremek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "569-570",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tiregü",
+      "anlam": "Bir şeyi destekleyen herhangi bir şeye, örneğin bir sütuna ya da benzerine verilen ad.",
+      "ornek_metin": "Bir şeyi destekleyen herhangi bir şeye, örneğin bir sütuna ya da benzerine verilen ad.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "570",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tirendi",
+      "anlam": "Çalışmaktan kaçındı / duvara yaslandı.",
+      "ornek_metin": "er iştin tirendi: Adam çalışmaktan kaçındı. Herhangi bir şeyden imtina etmeyi, çekilmeyi anlatmak için bu sözcük kullanılır. ol tâmqa tirendi: O, duvara [başka bir yere de olabilir] yaslandı.",
+      "cekimler": [
+        "tirenür",
+        "tirenmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "570",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tireşdi",
+      "anlam": "Tartıştı.",
+      "ornek_metin": "ol menig birle tireşdi: O, benimle tartıştı. Kapı iyice, kapandığı zaman arkasına sürgü vurmakta yardımlaşmayı anlatmak için bu sözcük kullanılır.",
+      "cekimler": [
+        "tireşör",
+        "tireşmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "570",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tireşdi",
+      "anlam": "Koşmaktan alıkondu.",
+      "ornek_metin": "yiq tuyagın tireşdi: Hayvan sürüsü çok kalabalık olduğu için koşmaktan alıkondu [sürü toynaktan engellendi].",
+      "cekimler": [
+        "tireşür",
+        "tireşmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "570",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tirgürdi",
+      "anlam": "Allah ölüyü diriltti.",
+      "ornek_metin": "tengri ölüg tirgürdi: Allah ölüyü diriltti.",
+      "cekimler": [
+        "tirgürur",
+        "tirgürmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "570",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tirig",
+      "anlam": "Her hayvanın canlı [diri] olanı.",
+      "ornek_metin": "Her hayvanın canlı [diri] olanı.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "570",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tirildi",
+      "anlam": "Ölü dirildi.",
+      "ornek_metin": "ölüg tirildi: ölü dirildi.",
+      "cekimler": [
+        "tirlür",
+        "tirilmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "570",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tirilgen",
+      "anlam": "Her zaman iyi bir ünle yaşayacak olan adam.",
+      "ornek_metin": "bu er ol edgü sâwm tirilgen: Bu, her zaman iyi bir ünle yaşayacak olan adamdır.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "570",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tiring",
+      "anlam": "Kulaklarım çınladı / Yay tele dokundu.",
+      "ornek_metin": "qulaqım tiring etti: Kulaklarım çınladı. Böylesi bütün sesler için kullanılan bir yansıma. yásm tiring ettürdi: Yayın, tıngırdattı - bu, yay telinin çıkarttığı sesin yansımasıdır.",
+      "cekimler": [],
+      "kelime_turu": "ünlem",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "570",
+      "notlar": "OCR metninde bozukluklar mevcut.",
+      "kontrol_gerekli": true
+    },
+    {
+      "kelime": "tirsgek",
+      "anlam": "Dirsek [önkol].",
+      "ornek_metin": "Dirsek [önkol].",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "570",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tirsgek",
+      "anlam": "Göz kapağının kenarında çıkan sivilce.",
+      "ornek_metin": "Göz kapağının kenarında çıkan sivilce.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "570",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tişedi",
+      "anlam": "Orağın ağzını biledi.",
+      "ornek_metin": "ol orgâq tişedi: O, orağın ağanı biledi.",
+      "cekimler": [
+        "tişer",
+        "tişemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "570-571",
+      "notlar": "Metinde değirmen taşının dişleri ile ilgili ek açıklamalar yer almaktadır.",
+      "kontrol_gerekli": true
+    },
+    {
+      "kelime": "tişek",
+      "anlam": "İki yaşındaki koyun.",
+      "ornek_metin": "İki yaşındaki koyun",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "571",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tişeldi",
+      "anlam": "Orağın ağzı bilendi / Değirmen taşının dişleri bilendi.",
+      "ornek_metin": "orgâc tişeldi: Orağın ağzı bilendi. tegirmen tişeldi: Değirmen taşının dişleri bilendi. Testerenin dişlerinin bilenmesini anlatmak için de bu sözcük kullanılır.",
+      "cekimler": [
+        "tişelür",
+        "tişelmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "571",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tişetti",
+      "anlam": "Orağın ağzının bilenmesini emretti.",
+      "ornek_metin": "ol orgâq tişetti: O, orağın ağzının bilenmesini emretti. Değirmen taşının dişlerinin bilenmesini anlatmak için de aynı sözcük kullanılır.",
+      "cekimler": [
+        "tişetür",
+        "tişetmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "571",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tişi",
+      "anlam": "Herhangi bir şeyin dişisi.",
+      "ornek_metin": "Herhangi bir şeyin dişisi",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "571",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tişledi",
+      "anlam": "Dişledi [dişiyle ısırdı] / Dişine vurdu.",
+      "ornek_metin": "ol cini tişledi: O, onu dişledi [dişiyle ısırdı]. Aynı zamanda “o, onun dişine vurdu\" demek için yine bu sözcük kullanılır.",
+      "cekimler": [
+        "tişler",
+        "tişlemek",
+        "tışlâr",
+        "tışlâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "571",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tişlendi",
+      "anlam": "Bebek diş çıkarttı / Orağın ağzı bilendi.",
+      "ornek_metin": "oglân tişlendi: Bebek diş çıkarttı. orgâq tişlendi: Orağın ağzı bilendi.",
+      "cekimler": [
+        "iişlenür",
+        "tişlenmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "571",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "titig",
+      "anlam": "Kil.",
+      "ornek_metin": "Kil.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "571",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "titig",
+      "anlam": "Yara acıyla zonkladı.",
+      "ornek_metin": "baş titig titti: Yara acıyla zonkladı. Bu [cümle yapısı] pekiştirme amacıyla kullanılır. Bunun başka örnekleri de vardır: ol erig urug urdı: O, adama sertçe vurdu. ol qaçıg qaçdı: O, arkasına bakmadan kaçtı.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "571",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "titir",
+      "anlam": "Dişi deve.",
+      "ornek_metin": "Dişi deve",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "571",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "titişdi",
+      "anlam": "Yünü taraklayarak temizlemede yardım etti / Rekabet etti / Giysilerini yırtıştı.",
+      "ornek_metin": "ol manga yûng titişdi: O, eğirmeden önce yünü taraklayarak temizleme de bana yardım etti. Bu işte rekabet etmeyi anlatmak için de aynı sözcük kullanılır. İki kişinin birbirlerinin giysilerini yırtması da bu sözcükle anlatılır.",
+      "cekimler": [
+        "titişür",
+        "titişmeh"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "571-572",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "titiz",
+      "anlam": "Tadı acı olan herhangi bir şey.",
+      "ornek_metin": "titiz neng: Tadı acı olan herhangi bir şey; örneğin halile ya da benzer bir şey.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "572",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "titizlik",
+      "anlam": "Acılık.",
+      "ornek_metin": "Acılık; tıpkı halilenin tadı gibi.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "572",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tiz",
+      "anlam": "Diz.",
+      "ornek_metin": "Diz.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "572",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tizdi",
+      "anlam": "İnci dizdi / Sözcükleri bir araya getirdi.",
+      "ornek_metin": "ol yinçü tizdi: O, inci dizdi. ol söz tizdi: O, sözcükleri bir araya getirdi [art arda dizdi].",
+      "cekimler": [
+        "tizer",
+        "tizmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "572",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tizig",
+      "anlam": "Sıra; saf.",
+      "ornek_metin": "tizig terek: Bir sıra kavak; bir tizig yinçü: Bir dizi inci.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "572",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tizildi",
+      "anlam": "İnciler dizildi.",
+      "ornek_metin": "yinçü tizildi: İnciler (ya da dizeler) dizildi.",
+      "cekimler": [
+        "tizilür",
+        "tizilmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "572",
+      "notlar": "Kendi kendine ve kendi kendini düzelten, sıraya koyan herhangi bir şeyi anlatmak için de bu sözcük kullanılır -hem geçişli hem de geçişsiz olabilir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tizildûrük",
+      "anlam": "Ayakkabının ucuna konan bakır pullar.",
+      "ornek_metin": "Ayakkabının ucuna konan bakır pullar.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "572",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tizilgen",
+      "anlam": "Her zaman parça parça sıraya konan şey.",
+      "ornek_metin": "bu neng ol bîr birke tizilgen: Bu, her zaman parça parça sıraya konan bir şeydi.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "572",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tizim",
+      "anlam": "Bir dizi inci.",
+      "ornek_metin": "bîr tizim yinçü: Bir dizi inci.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "572",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tizindi",
+      "anlam": "Kadın incisini dizdi.",
+      "ornek_metin": "urâgut yinçüsin tizindi: Kadın incisini dizdi.",
+      "cekimler": [
+        "tizinûr",
+        "tizinmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "572",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tizledi",
+      "anlam": "Deve-aygır adamın üzerine diz çöktü ve ezdi.",
+      "ornek_metin": "buğra erig tizledi: (Cinsel olarak kızışan) deve-aygır adamın üzerine diz çöktü ve onu böylece ezdi. Bir şey üzerini diz çöken ve onu ezen bir insanı anlatmak için de bu sözcük kullanılır.",
+      "cekimler": [
+        "tizler",
+        "tizlemek",
+        "tızlâr",
+        "tızlâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "572-573",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tizletti",
+      "anlam": "Bir şeyin dizle ezilmesini emretti.",
+      "ornek_metin": "ol tizletti nengni: O, bir şeyin dizle ezilmesini emretti.",
+      "cekimler": [
+        "tizletür",
+        "tizletmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "573",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tizlindi",
+      "anlam": "İnciler dizildi.",
+      "ornek_metin": "yinçü tizlindi: İnciler (başka bir şey de olabilir) dizildi.",
+      "cekimler": [
+        "tizlinur",
+        "tizi inmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "573",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tizme",
+      "anlam": "Şalvarın ya da iç donunun uçkurluğu.",
+      "ornek_metin": "Şalvarın ya da iç donunun uçkurluğu. Buna benzeyen şeyler, örneğin torbanın ağzı da bu sözcükle anlatılır. Nitekim torba ağzı da uçkurluk gibi yapılır ve daha sonra bağlamak için bir ip geçirilir",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "573",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "to",
+      "anlam": "Haşlanmış buğdayın üzerine dökülen ve mayalanmaya bırakılan bulamaç.",
+      "ornek_metin": "Telbîne [kepek ununun süt ve balla karıştırılmasıyla yapılan bir bulamaç] gibi pişirilen bir una verilen ad; bu, haşlanmış buğdayın üzerine dökülür ve mayalanmaya bırakılır, daha sonra içilir.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "573",
+      "notlar": "işba' [vezin gerektirdiği için sözcüğe bir yazaç ekleyerek ya da yazacı eğerek uzatmak] söz konusudur.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "todundı",
+      "anlam": "Adam tatmin olmuş [doymuş] gibi göründü.",
+      "ornek_metin": "er todundı: Adam tatmin olmuş [doymuş] gibi göründü. Kendi kendini tatmin etmesini anlatmak için de bu sözcük kullanılır.",
+      "cekimler": [
+        "todnûr",
+        "todunmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "573",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "töd",
+      "anlam": "Toy kuşu.",
+      "ornek_metin": "Toy kuşu",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "573",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "töd",
+      "anlam": "Misk ve ıtır karışımından yapılan, cariyelerin taktığı boncuklar.",
+      "ornek_metin": "töd monçıq: Misk ve ıtır karışımından yapılan, cariyelerin taktığı boncuklar.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "573",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "todgurdı",
+      "anlam": "O, beni doyurdu.",
+      "ornek_metin": "ol meni todgurdı: O, beni doyurdu.",
+      "cekimler": [
+        "todgurur",
+        "todgurmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "573",
+      "notlar": "Atasözü ve dörtlük örnekleri bulunmaktadır.",
+      "kontrol_gerekli": false
+    }
+  ]
+}

@@ -1,0 +1,670 @@
+{
+  "chunk_no": 17,
+  "kaynak_sayfa_baslangic": 193,
+  "kaynak_sayfa_bitis": 197,
+  "kelimeler": [
+    {
+      "kelime": "bogmaq",
+      "anlam": "Gömlek düğmesi.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "193",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bogmaq",
+      "anlam": "Altından ya da başka madenlerden yapılan, değerli mücevherler ve incilerle süslü, gelinin taktığı bir gerdanlık.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "193",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bogmaqlâdı",
+      "anlam": "Gömleğin düğmeleri iliklendi.",
+      "ornek_metin": "könglek bogmaqlödı: Gömleğin düğmeleri iliklendi.",
+      "cekimler": [
+        "bogmaqlâr",
+        "bogmaqldmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "193",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bogmaqlandı",
+      "anlam": "Adam gömleğinin düğmelerini ilikledi.",
+      "ornek_metin": "er bogmaqlandı: Adam gömleğinin düğmelerini ilikledi.",
+      "cekimler": [
+        "bogmaqlanür",
+        "bogmaqlanmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "193",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bognaqlandı",
+      "anlam": "Bulutlar dağıldı.",
+      "ornek_metin": "buht bognaqlandı: Bulutlar dağıldı.",
+      "cekimler": [
+        "bognaqlanûr",
+        "bognaqlanmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "193",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bogrug",
+      "anlam": "Saman çuvalı, tulum ve benzerlerinde görülen şişkinlik.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "193",
+      "notlar": "bkz. bogrul",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bogrul",
+      "anlam": "Boğazı ak koyun.",
+      "ornek_metin": "bogrul qöy: Boğazı ak koyun",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "193",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bogrul",
+      "anlam": "Dolu bir heybe, bir tulum ya da benzeri şeylerde görülen şişkinlik, çıkıntı.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "193",
+      "notlar": "bkz. bogrug",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bogsuq",
+      "anlam": "Kelepçe, pranga.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "193",
+      "notlar": "Bu sözcük, aynı anlama gelen sözcüğün [boxsuq] hı’nın (x) gayrı'a (g) değişmesiyle yapılmış değişik sesletimidir; böylesi bir değişim Arapçadaki hatir~gadir (“haince\") sözcüklerinde de görülür [bkz. boxsuq].",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bogturdı",
+      "anlam": "O, onun boğulmasını emretti.",
+      "ornek_metin": "ol anı bogturdı: O, onun boğulmasını emretti.",
+      "cekimler": [
+        "bogturur",
+        "bogturmclq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "193",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "boguldı",
+      "anlam": "Adam boğuldu.",
+      "ornek_metin": "er boguldı: Adam boğuldu.",
+      "cekimler": [
+        "boğulur",
+        "bogulmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "193",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bogundı",
+      "anlam": "At boğuldu (nefesi kesildi).",
+      "ornek_metin": "at bogundı: At boğuldu (nefesi kesildi).",
+      "cekimler": [
+        "bognür",
+        "bogunmdq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "193",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bogundı",
+      "anlam": "Hayvanların mesanesi; insanınki bu şekilde adlandırılmaz.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "193",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "boguşdı",
+      "anlam": "Onlar birbirlerini boğdu (birbirlerinin boğazına yapıştılar).",
+      "ornek_metin": "oldr ekki boguşdı: Onlar birbirlerini boğdu (birbirlerinin boğazına yapıştılar).",
+      "cekimler": [
+        "boğuşur",
+        "boguşmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "193",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "boguz",
+      "anlam": "Boğaz.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "193",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bol",
+      "anlam": "Beyaz bacaklı at.",
+      "ornek_metin": "bol ât: Beyaz bacaklı at; ogar bol: Beyaz bir lekeye ve beyaz bacaklara sahip olan at.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "193",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "boluş",
+      "anlam": "Sözlü (konuşarak yapılan) yardım (öğüt verme).",
+      "ornek_metin": "ol manga boluş qıldı: O bana konuşarak yardım etti",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "194",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "boluşdı",
+      "anlam": "O benden yana çıktı ve bana muhalefet edenlere karşı benim lehime savşb.",
+      "ornek_metin": "d manga boluşdı: O benden yana çıktı ve bana muhalefet edenlere karşı benim lehime savaşb.",
+      "cekimler": [
+        "bölüşür",
+        "boluşmdq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "194",
+      "notlar": "OCR metninde 'savaşb' ve 'bölüşür' şeklinde bozukluklar bulunuyor.",
+      "kontrol_gerekli": true
+    },
+    {
+      "kelime": "böq",
+      "anlam": "Uzun süre beklemekten ya da nemden dolayı bozulmaya başlayan ekmeğin üzerinde oluşan yeşil renk [küf].",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "194",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "böq",
+      "anlam": "Dışkı.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Oğuz lehçesi",
+      "kaynak_sayfa": "194",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "böq",
+      "anlam": "İçi boş olan herhangi bir şeyin yere düşüp yarılmasında çıkan ses.",
+      "ornek_metin": "qâgünböqyerke tüşdi ifadesinde kavunun yere düştüğünde çıkarttığı ses” böq sesidir.",
+      "cekimler": [],
+      "kelime_turu": "ünlem",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "194",
+      "notlar": "Yansıma sözcüktür.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "boqaq",
+      "anlam": "Kuş kursağı.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "194",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "boqdı",
+      "anlam": "Ayağını gerinip ileri uzattıktan sonra geri çekti.",
+      "ornek_metin": "ol adâqın boqdı: Ayağını gerinip ileri uzattıktan sonra geri çekti.",
+      "cekimler": [
+        "boqâr",
+        "boqmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "194",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "boqlâdı",
+      "anlam": "Hayvan pisledi.",
+      "ornek_metin": "yılqı boqlâdı: Hayvan pisledi",
+      "cekimler": [
+        "boqlâr",
+        "boqlâmdq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "Oğuz lehçesi",
+      "kaynak_sayfa": "194",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "boquldı",
+      "anlam": "Gerinirken ileri uzatılan ayak toplandı.",
+      "ornek_metin": "adâq buquldı: Gerinirken ileri uzatılan ayak toplandı.",
+      "cekimler": [
+        "boqulur",
+        "boqulmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "194",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "boqundı",
+      "anlam": "Adam gerinirken ileri uzattığı ayağını geri topladı.",
+      "ornek_metin": "er adâqın boqundı: Adam gerinirken ileri uzattığı ayağını geri topladı.",
+      "cekimler": [
+        "boqunûr",
+        "boqunmdq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "194",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "boqunlug",
+      "anlam": "bodunlug ile aynı anlamda.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "194",
+      "notlar": "bkz. bodunlug",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "boquq",
+      "anlam": "Çiçek tomurcuğu; çiçeğin açmadan önce çanak yapraklarla sarılı hali.",
+      "ornek_metin": "çeçek boquqlandı: Çiçek tomurcuklandı.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "194",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "boquq",
+      "anlam": "Âdemelmasının iki yanında, deri ile et arasında oluşan et parçası [guatr].",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "195",
+      "notlar": "Fergâna ve Şıqnı bölgelerinde bu hastalığın yaygın olduğu insan grupları vardır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "boquqlug",
+      "anlam": "boquq'lu (guatrlı).",
+      "ornek_metin": "boquqlug er: boquq'lu (guatrlı) adam.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "195",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "boqurdı",
+      "anlam": "O atın fiyatını düşürdü.",
+      "ornek_metin": "ol at temrinde boqurdı: O atın fiyatını düşürdü.",
+      "cekimler": [
+        "boqurur",
+        "boqurmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "195",
+      "notlar": "Herhangi bir şeyin fiyatının düşürülmesini anlatmak için bu sözcük kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "boqursı",
+      "anlam": "Saban demiri.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "195",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "bör",
+      "anlam": "Şarap.",
+      "ornek_metin": "bör bolmâdıp sirke bolma: Şarap olmadan sirke olma.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "195",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "borbâdı",
+      "anlam": "Adam işi savsakladı; üzerine düşünmedi.",
+      "ornek_metin": "er ışıg borbâdı: Adam işi savsakladı; üzerine düşünmedi.",
+      "cekimler": [
+        "borbâr",
+        "borbâm âq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "195",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "borbâg",
+      "anlam": "Erteleme, geciktirme.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "195",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "borbaldı",
+      "anlam": "Onun işi karıştı.",
+      "ornek_metin": "anıg ışı borbaldı: Onun işi karıştı.",
+      "cekimler": [
+        "borbalür",
+        "borbalmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "195",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "borbâş",
+      "anlam": "İçinden çıkılamayacak derecede karışık olay.",
+      "ornek_metin": "borbâş iş: İçinden çıkılamayacak derecede karışık olay",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "195",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "borbaşdı",
+      "anlam": "Konu karıştı.",
+      "ornek_metin": "iş borbaşdı: Konu karıştı.",
+      "cekimler": [
+        "borböşur",
+        "borbaşmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "195",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "borbattı",
+      "anlam": "O, onun işini karıştırdı ve geciktirdi.",
+      "ornek_metin": "ol anıg işm borbattı: O, onun işini karıştırdı ve geciktirdi.",
+      "cekimler": [
+        "borbatür",
+        "borbatmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "196",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "borduz",
+      "anlam": "Bostan; sebze-meyve bahçesi.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "196",
+      "notlar": "Bu özgün dile ait değildir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "borgûy",
+      "anlam": "Üflenerek çalınan boru.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "196",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "borsmuq",
+      "anlam": "Porsuk.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "196",
+      "notlar": "Semizliği atasözlerine bile konu olmuştur. Oğuzlar mîm'ı düşürerek borsuq der.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "boş",
+      "anlam": "Özgür adam, boşanmış kadın, işten veya başka bir şeyden kurtulmuş el, gevşek et, salıverilmiş at, boş ev.",
+      "ornek_metin": "boş kişi: Özgür adam. boş urâgut: Boşanmış kadın. boş elig: İşten ya da başka bir şeyden kurtulmuş, boş kalmış el. böş et: Porsümüş, gevşek et. böş at: Salıverilmiş at. böş ew: Boş ev.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "196",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "boş",
+      "anlam": "Serbest bırakılan hayvan, özgür kimse.",
+      "ornek_metin": "boşyılqı: Serbest bırakılan hayvan. ol eşler boş qddı: O, kadını boşadı - onun serbest kalmasına izin verdi. ol qul boş qıldı: O, kölesini azat etti. boş nengke idi bolmds: Serbest bırakılan bir şeyin sahibi olmaz.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "196",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "boşandı",
+      "anlam": "Düğüm çözüldü, kadın boşandı.",
+      "ornek_metin": "tügüıı boşandı: Düğüm çözüldü. urâgut boşandı: Kadın boşandı.",
+      "cekimler": [
+        "boşanür",
+        "boşanmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "Argu lehçesi",
+      "kaynak_sayfa": "196",
+      "notlar": "Argu lehçesine aittir, sesletimde bir yuvarlama vardır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "boşattı",
+      "anlam": "Hazneyi boşalttı, düğümü çözdü, kadını boşadı, tutsağı serbest bıraktı.",
+      "ornek_metin": "ol tagâr boşattı: O hazneyi boşalttı. ol tügün boşattı: O, düğümü çözdü. ol urâgut boşattı: O, kadını boşadı. ol bulunug boşattı: O, tutsağı serbest bıraktı.",
+      "cekimler": [
+        "boşatür",
+        "boşatmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "196",
+      "notlar": "Kadını boşama anlamı Argu lehçesine aittir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "boşgundı",
+      "anlam": "Adamın eli (bileği) çıktı ve iş yapamaz hale geldi.",
+      "ornek_metin": "er elgi boşgundı: Adamın eli (bileği) çıktı ve iş yapamaz hale geldi.",
+      "cekimler": [
+        "boşgunür",
+        "boşgunmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "197",
+      "notlar": "Kök-biçimi boşundı'dır",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "boşgut",
+      "anlam": "Çırak.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "197",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "boşgutlandı",
+      "anlam": "Adam bir çırak sahibi oldu.",
+      "ornek_metin": "er boşgutlandı: Adam bir çırak sahibi oldu.",
+      "cekimler": [
+        "boşgutlanür",
+        "boşgutlanmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "197",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "boşlâg",
+      "anlam": "Başıboş bırakılan ya da ihmal edilen şey, serbest bırakılan hayvan.",
+      "ornek_metin": "boşlag nerig: Başıboş bırakılan ya da ihmal edilen şey. boşlâg ytlqı: Serbest bırakılan hayvan.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "197",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "boşlaglandı",
+      "anlam": "Adam pervasızca hareket etti ve öğüt dinlemedi.",
+      "ornek_metin": "er ışda boşlaglandı: Adam pervasızca hareket etti ve öğüt dinlemedi. boşlaglansa boxsuqlanür: Meselelerde pervasızca davranan ve öğüt verenlere karşı koyan adamın eli boynuna bağlanır.",
+      "cekimler": [
+        "boşlaglanür",
+        "boşlaglanmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "197",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "boşüdı",
+      "anlam": "İçi boşaldı (ishal oldu), düğüm gevşedi, at bağından boşandı, han elçiye izin verdi, adam karısını boşadı.",
+      "ornek_metin": "anıg özi boşüdı: Onun içi boşaldı (ishal oldu). tügün boşüdı: Düğüm gevşedi; at boşüdı: At, bağından boşandı. xân yalâvaçıg boşüdı: Han, ülkesine dönmesi için elçiye izin verdi. er uragutm boşüdı: Adam karısını boşadı.",
+      "cekimler": [
+        "boşür",
+        "boşümâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "197",
+      "notlar": "Karısını boşama anlamı Argu lehçesine aittir. Sözcük hem geçişli hem geçişsiz olabilir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "boşug",
+      "anlam": "Hanın bir elçiye lütfettiği geri dönme izni ve verilen armağanlar.",
+      "ornek_metin": "birlikte yenen bu ziyafete boşug aşı: izin yemeği denir",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "197",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "boşügu",
+      "anlam": "Atı serbest bırakma zamanı.",
+      "ornek_metin": "at boşügu boldı: Atı serbest bırakma zamanı geldi.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "197",
+      "notlar": "",
+      "kontrol_gerekli": false
+    }
+  ]
+}

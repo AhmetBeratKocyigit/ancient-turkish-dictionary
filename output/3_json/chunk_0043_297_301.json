@@ -1,0 +1,825 @@
+{
+  "chunk_no": 43,
+  "kaynak_sayfa_baslangic": 297,
+  "kaynak_sayfa_bitis": 301,
+  "kelimeler": [
+    {
+      "kelime": "-k",
+      "anlam": "Yönelme durumu bildiren bir ilgeç. Sonek olarak gelir.",
+      "ornek_metin": "ol ewke bardı: O, eve vardı. Aynı zamanda “-e, -ye, içine” anlamlan da verebilir. ol ewke kirdi: O eve girdi. Yine -li ilgecinin anlamını taşıyabilir. ol terke kirdi: O, ücretti işe girdi, bkz. -qa.",
+      "cekimler": [],
+      "kelime_turu": "edat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "297",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kebezlik",
+      "anlam": "Pamuk tarlası.",
+      "ornek_metin": "Bir insanı tasvir etmek için kebezlig er: pamuk sahibi olan adam denir.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "297",
+      "notlar": "Metinde kebezlig olarak da geçer.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kebit",
+      "anlam": "Dükkân",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "297",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "keç",
+      "anlam": "Gecikme.",
+      "ornek_metin": "keç keldi: Seç geldi,",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "297",
+      "notlar": "Örnek metindeki 'Seç' ifadesi OCR hatası olabilir.",
+      "kontrol_gerekli": true
+    },
+    {
+      "kelime": "keçe",
+      "anlam": "Keçe",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Oğuz lehçesi",
+      "kaynak_sayfa": "297",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "keçe",
+      "anlam": "Karpuz, hıyar ya da benzer şeyleri taşımaya yarayan sepet",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "297",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "keçe",
+      "anlam": "Gece",
+      "ornek_metin": "keçe türup yorır erdim: Sece kalkıp yürüdüm; qara qızıl böri kördüm: Kara, kızıl kurt gördüm; qatıg yânı qura kördüm: Sert ve güçlü yayımı gerdim; qaya körüp baqu ağdı: (Kurt) dönüp bakınca beni gördü kaçarak tepeye tırmandı",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "297",
+      "notlar": "Dörtlük içermektedir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "keçi",
+      "anlam": "Keçi",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Oğuz lehçesi",
+      "kaynak_sayfa": "297",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "keçig",
+      "anlam": "Nehirdeki sığ yer, yani geçit.",
+      "ornek_metin": "qaynâr ögüz keçigsk bolmâs: Coşkun nehir geçitsiz olmaz. Bu atasözü, şaşkınlık veren bir sorunla karşı karşıyayken, “bir çıkış yolu olmalı” demek için kullanılır.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "297",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "keçildi",
+      "anlam": "Su veya başka bir şey geçildi.",
+      "ornek_metin": "süvv keçildi: Su [başka bir şey de olabiliri geçildi.",
+      "cekimler": [
+        "keçilür",
+        "keçilmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "297",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "keçildi",
+      "anlam": "İş gecikti.",
+      "ornek_metin": "iş keçildi: İş gecikti.",
+      "cekimler": [
+        "keçilür",
+        "keçilmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "297",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "keçindi",
+      "anlam": "Adam suyu geçermiş gibi yaptı.",
+      "ornek_metin": "er süvv keçindi: Adam suyu geçermiş gibi yaptı.",
+      "cekimler": [
+        "keçinür",
+        "keçinmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "297",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "keçiş",
+      "anlam": "Bir nehir ya da deredeki geçit.",
+      "ornek_metin": "ol keçişni süvv eletti: Sel o geçidi yok etti. Bu atasözü geçmişte kalan ve artık ulaşılması olanaksız olan şeyleri anlatmak için kullanılır.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "297-298",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "keçişti",
+      "anlam": "O, suyu geçme konusunda benimle boy ölçüştü.",
+      "ornek_metin": "ol menig birle sûw keçişti: O, suyu geçme konusunda benimle boy ölçüştü.",
+      "cekimler": [
+        "keçişür",
+        "keçişmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "298",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "keçitti",
+      "anlam": "O, onu sudan geçirtti.",
+      "ornek_metin": "ol angar sûw keçitti: O, onu sudan geçirtti.",
+      "cekimler": [
+        "keçitur",
+        "keçitmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "298",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "keçitti",
+      "anlam": "O, işi erteledi.",
+      "ornek_metin": "ol işıg keçitti: O, işi erteledi.",
+      "cekimler": [
+        "keçitür",
+        "keçitmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "298",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "keçrüşdi",
+      "anlam": "Onlar birbirlerinin suçunu affetti / İki kişinin nehri geçmek için yardımlaşması.",
+      "ornek_metin": "olâr bir bîmigyâzüqın keçrüşdi: Onlar birbirlerinin suçunu affetti. İki kişinin nehri geçmek için yardımlaşmasını anlatmak için de bu sözcük kullanılır.",
+      "cekimler": [
+        "keçrüşür",
+        "keçrüşmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "298",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "keçsetti",
+      "anlam": "O bende sudan geçme isteği oluşturdu.",
+      "ornek_metin": "ol meni suwdın keçsetti: O bende sudan [başka bir yerden de olabilir] geçme isteği oluşturdu.",
+      "cekimler": [
+        "keçsetür",
+        "keçsetmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "298",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "keçti",
+      "anlam": "Ay ve gün geçti / Adam suyu geçti / Adam göçtü (öldü).",
+      "ornek_metin": "ây fcürı keçti: Ay ve gün geçti. er süıv keçti: Adam suyu [başka bir şeyi de olabilir] geçti. er keçti: Adam göçtü (öldü).",
+      "cekimler": [
+        "keçer",
+        "keçmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "298",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "keçti",
+      "anlam": "Adam belli bir meselede oldukça ağır hareket etti.",
+      "ornek_metin": "er keçti: Adam belli bir meselede oldukça ağır hareket etti.",
+      "cekimler": [
+        "keçer",
+        "keçmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "298",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "keçtürdi",
+      "anlam": "O, ona kendisini sudan geçirmesini emretti.",
+      "ornek_metin": "ol anı suwdın keçtürdi: O, ona kendisini sudan geçirmesini emretti.",
+      "cekimler": [
+        "keçtürür",
+        "keçtürmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "298",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "keçürdi",
+      "anlam": "O, işi erteledi.",
+      "ornek_metin": "ol işıg keçürdi: O, işi erteledi.",
+      "cekimler": [
+        "keçürür",
+        "keçürmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "298",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "keçürdi",
+      "anlam": "O, beni sudan geçirdi / Bey onun suçunu bağışladı.",
+      "ornek_metin": "ol meni suıvdan keçürdi: O, beni sudan geçirdi. beg anmg yâzuqm keçürdi: Bey onun suçunu bağışladı.",
+      "cekimler": [
+        "keçürür",
+        "keçürmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "298",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "keçürgen",
+      "anlam": "Hataları affeden bey.",
+      "ornek_metin": "bu beg ol yazuq keçürgen: Bu, hatalan affeden bir beydir.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "298-299",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "keçürgen",
+      "anlam": "Becerikli ve işinde azimli adam.",
+      "ornek_metin": "bu er ol telim iş keçürgen: Bu becerikli ve işinde azimli bir adamdır. Aynı anlamı veren bir başka ifade de ewürgen tewûrgen’dir. (Ölmüş bir adamın erdemlerini sayıyor) yağı ötın öçürgen: Savaş alanında düşman ateşini söndüren oydu; toydun anı köçürgen: Onların ordularını dağıtandı bizzat; ışlar üzüp keçürgen: Kararlı bir eylem adamıydı ancak; tegdi oqı öldürü: Kaderin ölümcül oku onu yere yıktı",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "298-299",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "keçürtti",
+      "anlam": "O, ona suyu geçirtti.",
+      "ornek_metin": "ol angar süw keçürtti: O, ona suyu [başka bir şeyi de olabiliri geçirtti. Belli bir mesele, çözülmesi için başka birine havale edilmesini anlatmak için de bu sözcük kullanılır.",
+      "cekimler": [
+        "keçürtür",
+        "keçürtmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "299",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ked",
+      "anlam": "Bir şeyi betimlerken vurgulama ya da abartma amacıyla kullanılan ilgeç.",
+      "ornek_metin": "ked at- Ne iyi at; ked neng: Ne iyi şey.",
+      "cekimler": [],
+      "kelime_turu": "edat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "299",
+      "notlar": "Metinde ked (ked) olarak geçer.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kedgirdi",
+      "anlam": "Atileri atıldı, kaçmaya çalıştı.",
+      "ornek_metin": "at kedgirdi: Atileri atıldı, kaçmaya çalıştı.",
+      "cekimler": [
+        "kedgirer",
+        "kedgirmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "299",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kedrim",
+      "anlam": "Derisi sıyrılmış et.",
+      "ornek_metin": "kedrim et: Derisi sıyrılmış et.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "299",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kedük",
+      "anlam": "Keçeden yapılmış başlık.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "299",
+      "notlar": "Bkz. keyük.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kedük",
+      "anlam": "Tüyle süslenmiş başlık.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "299",
+      "notlar": "Keçe başlığa benzediği için böyle adlandırılmıştır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kedüklük",
+      "anlam": "Yağmurluk yapmak için hazırlanan keçe.",
+      "ornek_metin": "kedüklük kidiZ'- Yağmurluk yapmak Çin hazırlanan keçe. Bu keçenin sahibine kedüklüg denir.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "299",
+      "notlar": "Metinde kedüklük (kedüklüg) olarak geçer.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kedgü",
+      "anlam": "Her türlü giyilecek şey.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "299",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kedildi",
+      "anlam": "Giysi giyildi.",
+      "ornek_metin": "tön kedildi: Giysi giyildi.",
+      "cekimler": [
+        "kedlür",
+        "kedilmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "299",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kedindi",
+      "anlam": "Sık sık giyilen giysi.",
+      "ornek_metin": "kedindi ton: Sık sık giyilen giysi,",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "299",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kedirdi",
+      "anlam": "O, koyunun derisini yüzdü ve eti şeritler halinde kesti.",
+      "ornek_metin": "ol qöyug kedindi: O, koyunun derisini yüzdü ve eti şeritler halinde kesti.",
+      "cekimler": [
+        "kedirer",
+        "kedirmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "299",
+      "notlar": "Metinde 'kedindi' ve 'kedirer, kedirmek' şeklinde geçmektedir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kedledi",
+      "anlam": "Adam büyük çaba harcadı ve ancak güçlü kimselerin yapabileceği bir eylemi gerçekleştirdi.",
+      "ornek_metin": "er kedledi: Adam büyük çaba harcadı ve ancak güçlü kimselerin yapabileceği bir eylemi gerçekleştirdi.",
+      "cekimler": [
+        "kedler",
+        "kedlemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "300",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kedrildi",
+      "anlam": "Koyun eti şeritler halinde kesildi.",
+      "ornek_metin": "qöy kedrildi: Koyun eti şeritler halinde kesildi.",
+      "cekimler": [
+        "kedrilür",
+        "kedrilmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "300",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kedrişdi",
+      "anlam": "Derisi yüzülmüş eti parçalara ayırma işinde bana yardım etti.",
+      "ornek_metin": "öl manga et kedrişdi: O, derisi yüzülmüş eti parçalara ayırma işinde bana yardım etti.",
+      "cekimler": [
+        "kedrişür",
+        "kedrişmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "300",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kedrüldi",
+      "anlam": "Giysi biri tarafından, başka birine giydirildi.",
+      "ornek_metin": "tön kedrüldi: Giysi biri tarafından, başka birine giydirildi.",
+      "cekimler": [
+        "kedrülur",
+        "kedrülmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "300",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kedrüşdi",
+      "anlam": "Onlar birbirlerinin giysilerini giydiler.",
+      "ornek_metin": "olar ekki tön kedrüşdi: Onlar birbirlerinin giysilerini giydiler.",
+      "cekimler": [
+        "kedrüşür",
+        "kedrüşmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "300",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kedti",
+      "anlam": "Adam giysi giydi.",
+      "ornek_metin": "er tön kedti: Adam giysi giydi.",
+      "cekimler": [
+        "keder",
+        "kedmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "300",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kedürdi",
+      "anlam": "O, bana giysi giydirdi.",
+      "ornek_metin": "ol manga tön kedürdi: O, bana giysi giydirdi.",
+      "cekimler": [
+        "kedürür",
+        "kedürmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "300",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kedürsedi",
+      "anlam": "O, bana giysi giydirmeyi arzuladı.",
+      "ornek_metin": "ol manga tön kedürsedi: O, bana giysi giydirmeyi arzuladı.",
+      "cekimler": [
+        "kedürser",
+        "kedürsemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "300",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kedüt",
+      "anlam": "Bir giyim eşyası.",
+      "ornek_metin": "kedüt berdi: O, ona bir saygı işareti olan giysiyi verdi,",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "300",
+      "notlar": "Bu sözcüğün kullanımı genellikle düğünlerle, gelinin ve güveyin akrabalarının onların onuruna giydiği belli bir giysiyle sınırlıdır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kegirdi",
+      "anlam": "Adam gegirdi.",
+      "ornek_metin": "er kegirdi: Adam gegirdi.",
+      "cekimler": [
+        "kegrer",
+        "kegirmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "300",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "keh keh",
+      "anlam": "Köpekleri çağırmak için çıkarılan ses.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "ünlem",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "300",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kek",
+      "anlam": "Öç almak, intikam peşinde koşmak.",
+      "ornek_metin": "öçlüg keklig kişi: Öç almak isteyen adam,",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "300",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kek",
+      "anlam": "Sıkıntı, güçlük.",
+      "ornek_metin": "kek kördi er: Adam sıkıntıyla boğuştu.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "300",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "keklik",
+      "anlam": "Keklik",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "301",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kekmek",
+      "anlam": "Belalarla, felaketlerle çok haşır neşir olduğu için sertleşmiş, merhametsizleşmiş adam.",
+      "ornek_metin": "kekmek er: Belalarla, felaketlerle çok haşır neşir olduğu için sertleşmiş, merhametsizleşmiş adam.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "301",
+      "notlar": "Bunun kökü kek: sıkıntı, güçlük’tür. Bu türden sıfatlar, kurala istisna oluşturmaktadır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kekre",
+      "anlam": "Develerin çiğnediği acı bir ot.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "301",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kekteşdi",
+      "anlam": "Onlar birbirlerine karşı hınç beslediler.",
+      "ornek_metin": "ol ekki kekteşdi: Onlar birbirlerine karşı hınç beslediler.",
+      "cekimler": [
+        "kekteşür",
+        "kekteşmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "301",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kekük",
+      "anlam": "Şahin.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "301",
+      "notlar": "Kemikleri büyücülükte, tılsım ve aşk iksiri yapımında kullanılan bir kuş.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "keküş",
+      "anlam": "Urların tedavisinde kullanılan, “beyaz çöpleme” bitkisinden yapılan merhem.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "301",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "keldi",
+      "anlam": "Adam eve geldi.",
+      "ornek_metin": "er ewke keldi: Adam eve [başka bir yere de olabiliri geldi. bîr qarga birle qışkelmes: Bir kargayla kış gelmez. Bu atasözü birine ağır hareket etmesini öğütlemek için söylenir, böylece ona yardım edecek arkadaşları kendisine yetişebilir,",
+      "cekimler": [
+        "kelmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "301",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "keldürdi",
+      "anlam": "Getirdi",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "301",
+      "notlar": "Bkz. keltûrdi.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "keleçü",
+      "anlam": "Sözcüklerle anlatma, konuşma",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Oğuz lehçesi",
+      "kaynak_sayfa": "301",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kelegü",
+      "anlam": "Tarla sıçanı soyundan, uzun arka ayakları olan küçük bir hayvan.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "301",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kelep",
+      "anlam": "Türk yaylalarında biten, davarları çabuk semirten körpe bir ot.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "301",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "keleplendi",
+      "anlam": "Dağ kelep otuyla kaplandı.",
+      "ornek_metin": "tâg keleplendi: Dağ kelep otuyla kaplandı,",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "301",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "keler",
+      "anlam": "Kertenkele.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "301",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kelgin",
+      "anlam": "Gelgit döngüsünde suların kabarması ve bu nedenle oluşan seller.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "301",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kelgirdi",
+      "anlam": "O, bana geleyazdı.",
+      "ornek_metin": "ol manga kelgirdi: O, bana geleyazdı.",
+      "cekimler": [
+        "kelgirer",
+        "kelgirmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "301",
+      "notlar": "Metinde 'Mgirer' olarak geçen yer OCR hatası nedeniyle kelgirer olmalıdır.",
+      "kontrol_gerekli": true
+    },
+    {
+      "kelime": "keligsedi",
+      "anlam": "O, bana gelmeyi arzuladı.",
+      "ornek_metin": "ol manga keligsedi: O, bana gelmeyi arzuladı.",
+      "cekimler": [
+        "keligsir",
+        "keligsemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "301",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "keligsedim",
+      "anlam": "Ben sana gelmek istedim.",
+      "ornek_metin": "men sanğa keligsedim: Ben sana gelmek istedim, kelscdim değişik sesletimidir.",
+      "cekimler": [
+        "kelser men",
+        "kelsemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "301",
+      "notlar": "Metinde 'kelscdim' yazımı geçmektedir.",
+      "kontrol_gerekli": true
+    }
+  ]
+}

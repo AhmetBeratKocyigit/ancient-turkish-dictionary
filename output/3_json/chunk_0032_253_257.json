@@ -1,0 +1,769 @@
+{
+  "chunk_no": 32,
+  "kaynak_sayfa_baslangic": 253,
+  "kaynak_sayfa_bitis": 257,
+  "kelimeler": [
+    {
+      "kelime": "ekim",
+      "anlam": "Bir seferde ekilecek büyüklükte olan yer",
+      "ornek_metin": "bir ekim yer: Bir seferde ekilecek büyüklükte olan yer.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "253",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ekin",
+      "anlam": "Ekilmiş toprak",
+      "ornek_metin": "ekin. Ekilmiş toprak (Oğuz lehçesi)",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Oğuz lehçesi",
+      "kaynak_sayfa": "253",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ekinç",
+      "anlam": "Herhangi bir şey sayılırken ikinci olan",
+      "ornek_metin": "ekinç. Herhangi bir şey sayılırken ikinci olan,",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "253",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ekinç neng",
+      "anlam": "Bir şeyin ikincisi",
+      "ornek_metin": "ekinç neng: Bir şeyin İkincisi,",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "253",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ekindi",
+      "anlam": "Ekilmiş tohum",
+      "ornek_metin": "ekindi tarıg: Ekilmiş tohum,",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "253",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ekindi",
+      "anlam": "Kendisi için, kendi başına tohum ekti",
+      "ornek_metin": "ol özinge tarıg ekindi : O kendisi için, kendi başına tohum dkti.",
+      "cekimler": [
+        "ekinür",
+        "ekinmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "253",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ekindi",
+      "anlam": "Bir şey sayılırken ikinci öğe",
+      "ornek_metin": "ekindi neng: (Bir şey sayılırken) ikinci öğe.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "253",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ekindi",
+      "anlam": "İkindi namazı vakti",
+      "ornek_metin": "ekindi. İkindi namazı vakti,",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "253",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ekirçgün",
+      "anlam": "Yapılması ya da yapılmadan bırakılması konusunda tereddüt edilen iş",
+      "ornek_metin": "ekirçgün îş: Yapılması ya da yapılmadan bırakılması konusunda tereddüt edilen iş. könglüm ekirçgün boldı: Kalbim yapma ya da yapmama konusunda ikircikte kaldı,",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "253",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ekişdi",
+      "anlam": "Tohum ekmekte yardım etti veya bu işte rekabet etti",
+      "ornek_metin": "ol manga tarıg ekişdi: O, bana tohum ekmekte yardım etti. Bu işte rekabet etmeyi anlatmak için de aynı sözcük kullanılır.",
+      "cekimler": [
+        "ekişür",
+        "ehişmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "253",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ekitti",
+      "anlam": "Tohumu ekti veya biri tarafından serpilen toz halindeki herhangi bir maddeyi serptirdi",
+      "ornek_metin": "ol tarıg ekitti: O, tohumu ektirdi. Biri tarafından serpilen toz halindeki herhangi bir maddeyi anlatmak için de bu sözcük kullanılır.",
+      "cekimler": [
+        "ekitüt j ekitmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "253",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ekki",
+      "anlam": "İki sayısı",
+      "ornek_metin": "ekki. “İki” sayısı,",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "253",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ekkiz",
+      "anlam": "İkizler",
+      "ornek_metin": "ekkiz oglân: İkizler,",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "253",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ekşig",
+      "anlam": "Ekşi olan herhangi bir şey",
+      "ornek_metin": "ekşig. Ekşi olan herhangi bir şey, ömegin ekşi nar.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "253",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ektürdi",
+      "anlam": "Tohumun ekilmesini veya toz halindeki herhangi bir maddenin serpilmesini emretti",
+      "ornek_metin": "ol tang ektürdi: O, tohumun ekilmesini emretti. Toz halindeki herhangi bir maddenin serpilmesini emretmeyi anlatmak için de bu sözcük kullanılır.",
+      "cekimler": [
+        "ektürür",
+        "ektürmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "253",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "el",
+      "anlam": "Ülke",
+      "ornek_metin": "el. 11; ülke. beg eli: Beyin buyruğu altındaki ülke.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "253-254",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "el",
+      "anlam": "Avlu, açıklık",
+      "ornek_metin": "el. Avlu, açıklık. qapug eli: Kapı önündeki boşluk, avlu,",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "254",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "el",
+      "anlam": "Atları anlatmak için kullanılır",
+      "ornek_metin": "el. Atları anlatmak için kullanılır, çünkü atlar Türklerin kanatları gibidir. Seyisler el başı olarak çağırılır, bunun tam çevirisi “ülkenin ya da ilin başı\"dır, ancak atlara bakan kişi anlamına gelir,",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "254",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "el",
+      "anlam": "İki hakan arasındaki barış durumu",
+      "ornek_metin": "el. İki hakan arasındaki barış durumu. erkki beg birle el boldı : İki bey birbiriyle barıştı.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "254",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "el kişi",
+      "anlam": "Kötü, aşağılık kişi",
+      "ornek_metin": "el kişi. Kötü, aşağılık kişi,",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "254",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "el qüş",
+      "anlam": "Akbaba",
+      "ornek_metin": "el qüş. Akbaba,",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "254",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "eldri",
+      "anlam": "elri sözcüğünün bkz. biçimi",
+      "ornek_metin": "eldri. bkz. elri.",
+      "cekimler": [],
+      "kelime_turu": "belirsiz",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "254",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ele",
+      "anlam": "Yavaş anlamına gelen bir ilgeç",
+      "ornek_metin": "ele. “Yavaş” anlamına gelen bir ilgeç. ele ele: Yavaş, yavaş. Bu sözcüğe -gi! eki eklenerek eleği! de denir,",
+      "cekimler": [],
+      "kelime_turu": "edat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "254",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "eletti",
+      "anlam": "Evine kavun veya başka bir şey getirdi",
+      "ornek_metin": "eletti. ol cjâgün ewke eletti: O, evine kavun [başka bir şey de olabilir] getirdi.",
+      "cekimler": [
+        "eletür",
+        "eletmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "254",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "elgedi",
+      "anlam": "Un veya başka bir şeyi eledi",
+      "ornek_metin": "elgedi. ol Ün elgedi: O, un [başka bir şey de olabilir] eledi.",
+      "cekimler": [
+        "elger",
+        "elgemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "254",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "elgeldi",
+      "anlam": "Un veya başka bir şey elendi",
+      "ornek_metin": "elgeldi. Ün elgeldi: Un [başka bir şey de olabilir] elendi,",
+      "cekimler": [
+        "elgelûr",
+        "elgelmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "254",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "elgendi",
+      "anlam": "Kadın kendisi için un eledi",
+      "ornek_metin": "elgendi. urâgut ün elgendi: Kadın kendisi için un eledi.",
+      "cekimler": [
+        "elgenür",
+        "elgenmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "254",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "elgeşti",
+      "anlam": "Unu eleme işinde yardım etti veya bu işte rekabet etti",
+      "ornek_metin": "elgeşti. ol angar ün elgeşti: O, ona unu eleme işinde yardım etti. Bu işte rekabet etmeyi anlatmak için de bu sözcük kullanılır.",
+      "cekimler": [
+        "elgeşür",
+        "elgeşmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "254",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "elgetti",
+      "anlam": "Unu eletti",
+      "ornek_metin": "elgetti, o! ün elgetti: O, unu eletti.",
+      "cekimler": [
+        "elgetür",
+        "elgetmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "254",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "elig",
+      "anlam": "El",
+      "ornek_metin": "elig. El. Oğuzlar dışındaki Türkler örig elig: sag el der, yalnızca Oğuzlar buna sdg elig der. Bütün Türkler sol ele söl elig der.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "254",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "eliglik",
+      "anlam": "Eldiven",
+      "ornek_metin": "eliglik. Eldiven,",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "254",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "elimga",
+      "anlam": "Hakanın mektuplarını Türk yazısıyla yazan kâtip",
+      "ornek_metin": "elimga. Hakanın mektuplarını Türk yazısıyla yazan kâtip.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "254",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "eliqti",
+      "anlam": "Yara iltihaplandı",
+      "ornek_metin": "baş eliqti: Yara iltihaplandı. Âdet gören ya da loğusa kadınların veya dinen kirlenmiş (cenabet) kimselerin bakışının nazarıyla bozulan herhangi bir şeyi anlatmak için...",
+      "cekimler": [
+        "eliqâr",
+        "eliqmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "255",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "eliqti",
+      "anlam": "Adam aşağılık ve ahlaksızdı",
+      "ornek_metin": "er eliqti: Adam aşağılık ve ahlaksızdı.",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "255",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "elke bulâq",
+      "anlam": "Bir Türk kavmi",
+      "ornek_metin": "elke bulâq. Bir Türk kavmi.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "255",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ellig",
+      "anlam": "Elli para veya bu miktarda başka bir şey",
+      "ornek_metin": "ellig. ellig yarmâq: Elli para |bu miktarda başka bir şey de olabilir].",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "255",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "elri",
+      "anlam": "Oğlak derisi",
+      "ornek_metin": "elri. Oğlak derisi. Yazaç arttırımıyla çldri de denir,",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "255",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "elük",
+      "anlam": "Alay (istihza)",
+      "ornek_metin": "elük. Alay (istihza),",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "255",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "elükledi",
+      "anlam": "Onunla alay etti ve dalga geçti",
+      "ornek_metin": "elükledi. ol anı elükledi: O, onunla alay etti ve dalga geçti.",
+      "cekimler": [
+        "elükler",
+        "elüklemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "255",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "em",
+      "anlam": "İlaç",
+      "ornek_metin": "em. İlaç. Buradan hareketle büyücü hekime emçi denir.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "255",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "emdi",
+      "anlam": "Bebek annesinin memesini emdi",
+      "ornek_metin": "em di. kenç anasın emdi: Bebek annesinin memesini emdi. Meme emen herhangi bir hayvanı anlatmak için de bu sözcük kullanılır.",
+      "cekimler": [
+        "em er",
+        "emmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "255",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "emgedi",
+      "anlam": "Adam sıkıntılar ve zorluklarla boğuştu [emek harcadı]",
+      "ornek_metin": "em gedi. er emgedi: Adam sıkıntılar ve zorluklarla boğuştu [emek harcadı],",
+      "cekimler": [
+        "emger",
+        "emgemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "255",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "emgek",
+      "anlam": "Zorluk [ve bunu aşmak için harcanan çaba anlamında emek]",
+      "ornek_metin": "emgek. Zorluk [ve bunu aşmak için harcanan çaba anlamında emek]. Şu atasözünde de geçer, emgek eğinde qalmâs: Zorluklar yoksunların ve eziyet çekenlerin omuzlarına yüklenmiş kalmaz.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "256",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "emgeklendi",
+      "anlam": "O, bu işi zahmetli olarak gördü",
+      "ornek_metin": "em geklendi. ol bu işıg emgeklendi: O, bu işi zahmetli olarak gördü.",
+      "cekimler": [
+        "emgeklenür",
+        "emgeklenmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "256",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "emgendi",
+      "anlam": "O adam çok zahmet çekerek bu işin üstesinden geldi",
+      "ornek_metin": "em gendi ol bu îşta telim emgendi: O adam çok zahmet çekerek bu işin üstesinden geldi. Bundan harekesi exân qarşıqa emgendi: Hakan saraya ulaştı denir.",
+      "cekimler": [
+        "emgenür",
+        "emgenmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "256",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "emgeşti",
+      "anlam": "İnsanlar bu meselede birbirlerini iyice yordu",
+      "ornek_metin": "emgeşti. bu îşta böy emgeşti: İnsanlar bu meselede birbirlerini iyice yordu.",
+      "cekimler": [
+        "emgeşür",
+        "emgeşmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "256",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "emgetti",
+      "anlam": "O, onu yordu, usandırdı",
+      "ornek_metin": "emgetti. ol anı emgetti: O, onu yordu, usandırdı.",
+      "cekimler": [
+        "emgetür",
+        "emgetmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "256",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "emig",
+      "anlam": "Meme, göğüs",
+      "ornek_metin": "emig. Meme, göğüs. Erkek memesi de bu şekilde adlandırılır,",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "256",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "emigledi",
+      "anlam": "Adam karısının göğsüne vurdu",
+      "ornek_metin": "emigledi. uragütnı emigledi: Adam kansının göğsüne vurdu.",
+      "cekimler": [
+        "emigler",
+        "emiglemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "256",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "emiglig",
+      "anlam": "Emziren kadın",
+      "ornek_metin": "emiglig. emiglig eşler: Emziren kadın. Şu atasözünde de geçer, emiglig urâgut küsegçi bolür: Emziren kadının iştahı açık olur",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "256",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "emik",
+      "anlam": "Ilık gün. Benzer bir şekilde soğuduktan sonra tekrar ısınmaya başlayan",
+      "ornek_metin": "emik. emik kûn: Ilık gün. Benzer bir şekilde soğuduktan sonra tekrar ısınmaya başlayan,",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "256-257",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "emirçge",
+      "anlam": "Kıkırdak",
+      "ornek_metin": "emirçge. Kıkırdak.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "257",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "emitti",
+      "anlam": "Duvar neredeyse yıkılacak kadar eğildi - eğileyazdı",
+      "ornek_metin": "emitti. tâm emitti': Duvar (başka bir şey de olabilir) neredeyse yıkılacak kadar eğildi - eğileyazdı.",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "257",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "emitti",
+      "anlam": "Gönlüm ona meyletti",
+      "ornek_metin": "könğlüm angar emitti: Gönlüm ona meyletti.",
+      "cekimler": [
+        "emitür",
+        "emitmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "257",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "emledim",
+      "anlam": "Ben onu ilaçla tedavi ettim",
+      "ornek_metin": "emledim . men am emledim: Ben onu ilaçla tedavi ettim.",
+      "cekimler": [
+        "emler men",
+        "emlemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "257",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "emleldi",
+      "anlam": "Hasta olan kimse tedavi edildi",
+      "ornek_metin": "em leldi. jglig emleldi: Hasta olan kimse tedavi edildi.",
+      "cekimler": [
+        "emlelür",
+        "emlelmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "257",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "emlendi",
+      "anlam": "Adam kendi kendine (ilaç alarak) tedavi uyguladı",
+      "ornek_metin": "em lendi. er emlendi'. Adam kendi kendine (ilaç alarak) tedavi uyguladı.",
+      "cekimler": [
+        "emlenür",
+        "emlenmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "257",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "emleşdiler",
+      "anlam": "Yaralılar birbirini tedavi etti",
+      "ornek_metin": "em leşdiler. bâlıglâr emleşdiler: Yaralılar birbirini tedavi etti.",
+      "cekimler": [
+        "emleşürler",
+        "emleşmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "257",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "emlettim",
+      "anlam": "Ben onu ilaçla tedavi ettirdim",
+      "ornek_metin": "emlettim. men anı emlettim: Ben onu ilaçla tedavi ettirdim.",
+      "cekimler": [
+        "emletür",
+        "emletmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "257",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "emridi",
+      "anlam": "Vücudum kaşındı",
+      "ornek_metin": "em ridi. merıig yenim emridi: Vücudum kaşındı.",
+      "cekimler": [
+        "emrir",
+        "emrimek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "257",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "emrişti",
+      "anlam": "Uyuz ya da başka bir nedenle vücudum kaşındı",
+      "ornek_metin": "em rişti etim barça emrişti: (Uyuz ya da başka bir şey nedeniyle) vücudum kaşındı.",
+      "cekimler": [
+        "emrişür",
+        "emrişmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "257",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "emritti",
+      "anlam": "Kaşınmak bütün vücudumun gıdıklanmasına, ürpermesine yol açtı",
+      "ornek_metin": "emritti. qaşınmâq menig yenim emritti: Kaşınmak bütün vücudumun gıdıklanmasına, ürpermesine...",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "257",
+      "notlar": "",
+      "kontrol_gerekli": false
+    }
+  ]
+}

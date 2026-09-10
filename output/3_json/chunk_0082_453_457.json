@@ -1,0 +1,849 @@
+{
+  "chunk_no": 82,
+  "kaynak_sayfa_baslangic": 453,
+  "kaynak_sayfa_bitis": 457,
+  "kelimeler": [
+    {
+      "kelime": "qurug olma",
+      "anlam": "Kuru testi. İçi boş olan kap.",
+      "ornek_metin": "ot ötmekni quruglandı: O, ekmeği yavan ve kuru buldu, bu nedenle onu yemedi. Bu nedenle “mide”ye qurugsâq denir; çünkü saatler geçtikçe mide kurur ve",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "453",
+      "notlar": "“Kuru” anlamına gelen bu kullanımdaki kök-anlam “içi boş olan herhangi bir kap’tır. ikinci kullanım, ilk kullanımla ilintilidir [içi boş olan testi, kuru bir testidir]",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qurunçı",
+      "anlam": "Çadırdaki ya da başka bir yerdeki duman nedeniyle kararan keçe.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "453",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qurtuldı",
+      "anlam": "Kök-biçimi qutuldı'dır.",
+      "ornek_metin": "",
+      "cekimler": [
+        "qurtulür",
+        "qurtulmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "453",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qurturdı",
+      "anlam": "Yay gerdirdi, ipini taktırdı / çadır kurdurdu.",
+      "ornek_metin": "ol manga ya qurturdı: O, bana yay gerdirdi [yayın ipini taktırdı). xân angar çuvâç qurturdı: Han, ona, hanlık çadırını kurdurdu.",
+      "cekimler": [
+        "qurturur",
+        "qurturmdq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "453",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qurug",
+      "anlam": "Herhangi bir şeyin kuru olanı.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "453",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qurug ew",
+      "anlam": "İçinde eşya ya da insan olmayan, tamamen boş ev.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "453",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "quruglandı",
+      "anlam": "Kuru buldu.",
+      "ornek_metin": "",
+      "cekimler": [
+        "quruglanür",
+        "quruglanmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "453",
+      "notlar": "Başka şeyler için de kullanılabilir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "quruglug",
+      "anlam": "Kuru olan.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "453",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "quruglugya",
+      "anlam": "Gerilmiş [teli kurulmuş] yay.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "453",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qurugluq",
+      "anlam": "Herhangi bir şeyin kuruluğu.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "453",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qurugluq",
+      "anlam": "Yay kılıfı.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "453",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "keş qurugluq",
+      "anlam": "Sadak ve yay kılıfı.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "453",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qurugsaq",
+      "anlam": "Mide. Kuşun taşlığı.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "453",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qurugsîdı",
+      "anlam": "Nesne kurumaya başladı.",
+      "ornek_metin": "",
+      "cekimler": [
+        "qurugsir",
+        "qurugsîmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "453",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "quruldı",
+      "anlam": "Adamın eli [ayağı da olabilir] kasıldı ya da sıkıştı.",
+      "ornek_metin": "er elgi quruldı: Adamın eli [ayağı da olabilir) kasıldı ya da sıkıştı. ya quruldı: Vay gerildi.",
+      "cekimler": [
+        "qurîur",
+        "qurulmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "453",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qurulgân",
+      "anlam": "Kasları sürekli kasılıp kalan kimse.",
+      "ornek_metin": "bu er ol singin qurulgân: Bu, kaslan sürekli kasılıp kalan bir adamdır.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "453",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qurun",
+      "anlam": "Kurum; is. Duvara yapışan duman izi.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "453",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qurunlug",
+      "anlam": "Is nedeniyle duvarları kararmış ev.",
+      "ornek_metin": "rjurunlug ew: Is nedeniyle duvarlan kararmış ev.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "453",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "quruştı",
+      "anlam": "Yay germekte yarıştı / yay ipini germekte yardımlaştı.",
+      "ornek_metin": "ol menig birle ya quruştı: O, yay germekte benimle yanştı. Yayın ipini germekte yardımlaşmayı anlatmak için de bu sözcük kullanılır.",
+      "cekimler": [
+        "quruşûr",
+        "quruşmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "454",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qurut",
+      "anlam": "Yağı alınmış sütten ya da ayrandan yapılan kuru peynir; çökelek.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "454",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qurutlug",
+      "anlam": "Çökeleğe sahip olan kimse.",
+      "ornek_metin": "qurutlug kişi: Çökeleğe sahip olan kimse.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "454",
+      "notlar": "Bu kullanım Arapça racu! temir ve lâbin (“hurmalanmış ve sütlenmiş adam”) sözündeki kullanıma benzer.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qurutsâdı",
+      "anlam": "Canı çökelek istedi.",
+      "ornek_metin": "er qurutsâdı: Adamın canı çökelek istedi.",
+      "cekimler": [
+        "qurutsâr",
+        "qurutsâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "454",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qusdı",
+      "anlam": "Kustu.",
+      "ornek_metin": "er qusdl: Adam [başka biri ya da bir hayvan da olabiliri kustu.",
+      "cekimler": [
+        "qusâr",
+        "qusmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "454",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qusdı (bodug)",
+      "anlam": "Boya soldu.",
+      "ornek_metin": "bodugqusdı: Boya soldu.",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "454",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qusıg",
+      "anlam": "Kusma.",
+      "ornek_metin": "anı qusıg tuttı: Onu kusma nöbeti tuttu.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "454",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qusıq",
+      "anlam": "Fındık. Cariyelere verilen bir ad olarak da kullanılır.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "454",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qusıqlig",
+      "anlam": "Fındığı olan.",
+      "ornek_metin": "qusıqlig er: Fındığı olan adam.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "454",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qusturdı",
+      "anlam": "Kusturdu / rengi soldu.",
+      "ornek_metin": "süçig erig qusturdı: Şarap adamı kusturdu. Rengi solan herhangi bir şeyi anlatmak için de bu sözcük kullanılır.",
+      "cekimler": [
+        "qusturür",
+        "qusturmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "454",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "quş",
+      "anlam": "Bütün kuşlara verilen genel ad.",
+      "ornek_metin": "üriing quş: Akdoğan; qara quş: Kartal; tewe quş: Devekuşu; yün quş: Tavuskuşu; el quş: Akbaba.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "454",
+      "notlar": "üriing quş, qara quş vb. ile alt türlere ayrılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qara quş",
+      "anlam": "Kartal / bir yıldızın adı (Jüpiter) / devenin toynağının ucu.",
+      "ornek_metin": "qara quş: Türkler de bir yıldızın adı [Jüpiter gezegeni). Bu yıldız doğduğu zaman qara quş tugdı denir. qara quş: Devenin toynağının ucu",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Oğuz lehçesi",
+      "kaynak_sayfa": "454",
+      "notlar": "Devenin toynağının ucu anlamı Oğuz lehçesindedir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qız quş",
+      "anlam": "Renk olarak ispinozu andıran bir kuşun adı.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "454",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "quşgâç",
+      "anlam": "Serçe.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "454",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "quşgün",
+      "anlam": "Hayvan yemi olarak kullanılan taze kamış / ravendiye, ışkın.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "454-455",
+      "notlar": "uşgün sözcüğünün değişik sesletimidir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "quşlâdı",
+      "anlam": "Kuş avladı.",
+      "ornek_metin": "beg quşlâdı: Bey kuş avladı.",
+      "cekimler": [
+        "quşlâr",
+        "quşlâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "455",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "quşlâg",
+      "anlam": "Kuşların çok olduğu ve avlanıldığı yer.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "455",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "quşlaglandı",
+      "anlam": "Kuş avlama sahası yaptı.",
+      "ornek_metin": "xân bu yerig quşlaglandı: Han bu yeri kuş avlama sahası yaptı.",
+      "cekimler": [
+        "quşlaglanür",
+        "quşlaglanmöq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "455",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "quşlattı",
+      "anlam": "Kuş avlattı.",
+      "ornek_metin": "ol angar quş quşlattı: O, ona kuş avlattı.",
+      "cekimler": [
+        "quşlatür",
+        "quşlatmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "455",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "quşluq",
+      "anlam": "Kuşluk vakti [sabahın öğleden önceki kısmı].",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Oğuz lehçesi",
+      "kaynak_sayfa": "455",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "quşün",
+      "anlam": "bkz. qorugjin.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "belirsiz",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "455",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qut",
+      "anlam": "Kut; uğur, baht, talih.",
+      "ornek_metin": "qut qıwıg berse idim qülmga / künde işi yükseben yöqâr agâr / Tann kuluna kut verirse / Onun mevkisi her gün yükselir",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "455",
+      "notlar": "qutlug adı buradan gelir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qutaldı",
+      "anlam": "Bahtı döndü [kut kazandı].",
+      "ornek_metin": "qutaldı er: Adamın bahtı döndü [kut kazandı].",
+      "cekimler": [
+        "qutâlur",
+        "qutalmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "455",
+      "notlar": "Bunun kökü qut aldı ifadesidir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qutân",
+      "anlam": "Bir erkek adı.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "455",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qutandı",
+      "anlam": "Zenginlik sağlayan bir şey haline geldi.",
+      "ornek_metin": "qutandı nerig: Nesne zenginlik sağlayan bir şey haline geldi,",
+      "cekimler": [
+        "cjutünur",
+        "qutanmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "455",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qutattı",
+      "anlam": "Kut sahibi oldu.",
+      "ornek_metin": "er qutattı: Adam kut sahibi oldu.",
+      "cekimler": [
+        "qutâtur",
+        "qutatmdq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "455",
+      "notlar": "Kut kazanan, değeri artan, talihli herhangi bir şeyi anlatmak için yine bu sözcük kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qutgardı",
+      "anlam": "Sıkıntılardan kurtardı.",
+      "ornek_metin": "tengri meni qutgardı: Tann beni sıkıntılardan kurtardı.",
+      "cekimler": [
+        "qutgarur",
+        "qutgarmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "455",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qutlug",
+      "anlam": "Kutlu (mübarek) herhangi bir şey. Bir erkek adı.",
+      "ornek_metin": "qutlug neng: Kutlu (mübarek) herhangi bir şey.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "456",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qutruldı",
+      "anlam": "Su testiden boşaltıldı.",
+      "ornek_metin": "sûw olmadın qutruldı: Su testiden boşaltıldı.",
+      "cekimler": [
+        "qutrulûr",
+        "qutrulmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "456",
+      "notlar": "Herhangi bir sıvı için de bu sözcük kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qutruşdı (oglân)",
+      "anlam": "Oğlanlar neşe içinde hep birlikte oynadılar.",
+      "ornek_metin": "oglân qutruşdı: Oğlanlar neşe içinde hep birlikte oynadılar.",
+      "cekimler": [
+        "qutruşür",
+        "qutruşmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "456",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qutruşdı (kap)",
+      "anlam": "Kabı boşaltmakta yardım etti.",
+      "ornek_metin": "ol manga qâp qutruşdı: O, bana kabı [başka bir şeyi de olabiliri boşaltmakta yardım etti.",
+      "cekimler": [
+        "qutruşür",
+        "qutruşmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "456",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qutsuz",
+      "anlam": "Bahtı kara, talihi kapalı, şanssız.",
+      "ornek_metin": "qutsuz qudugqa kirse qum yagâr: Bahtsız kuyuya girse, gökten (üzerine) kum yağar.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "456",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qutuldı",
+      "anlam": "Sıkıntıdan kurtuldu / kadın doğurdu.",
+      "ornek_metin": "er emgektin qutuldı: Adam sıkıntıdan kurtuldu. Urâgut qutuldı: Kadın doğurdu ve yükünden kurtuldu.",
+      "cekimler": [
+        "qutlur",
+        "qutulmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "456",
+      "notlar": "Bu sözcüğün kökenine ilişkin iki olası yorum vardır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qutulgân",
+      "anlam": "Düşmanın elinden kaçan adam.",
+      "ornek_metin": "bu er olyagfdın qutulgân: Bu daima düşmanın [başka birinin de olabilir] elinden kaçan adamdır.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "456",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "quturdı (un)",
+      "anlam": "Unu boşalttı.",
+      "ornek_metin": "ol unug quturdı: O unu (bir kaptan başka bir kaba) boşalttı.",
+      "cekimler": [
+        "quturur",
+        "quturmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "456",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "quturdı (oglân)",
+      "anlam": "Bebek çok hareketli ve afacandı / tohum hızla büyüdü.",
+      "ornek_metin": "oglân quturdı: Bebek çok hareketli ve afacandı. tarıg quturdı: Tohum (ya da bitki ya da başka bir şey) hızla büyüdü.",
+      "cekimler": [
+        "quturmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "456",
+      "notlar": "Bunun kök-anlamı bir şeyin “haddini aşması, sınırlarının ötesine geçmesi”dir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "quturma",
+      "anlam": "Önünde ve arkasında iki kanat bulunan başlık.",
+      "ornek_metin": "quturma börk: Önünde ve arkasında iki kanat bulunan başlık.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "456",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "quyâr",
+      "anlam": "Sığırlara ve kölelere sövmek için kullanılan bir sözcük.",
+      "ornek_metin": "bu quyâr qîzı: Bu, kızı yağmur gibi tüküren adamdır.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "457",
+      "notlar": "Bu sözcük, süw quydı ifadesinden türetilmiştir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "quşuz ıt",
+      "anlam": "Kuduz köpek.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "457",
+      "notlar": "Metinde qutuz ıt olarak geçmektedir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qüy",
+      "anlam": "Vadinin dibi, düzlüğü.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "457",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "quyâş",
+      "anlam": "Yazın olan şiddetli sıcak; çok parlak güneş ışığı.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "457",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "quydı",
+      "anlam": "Suyu boşalttı.",
+      "ornek_metin": "er küpke süvv quydı: Adam suyu küpe boşalttı.",
+      "cekimler": [
+        "quyar",
+        "quymâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "457",
+      "notlar": "Herhangi bir şeyin boşaltılmasını anlatmak için bu sözcük kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "quydı (at)",
+      "anlam": "At ürkerek ileri atıldı.",
+      "ornek_metin": "at quydt: At [başka bir şey de olabilir] ürkerek ileri atıldı.",
+      "cekimler": [
+        "quyar",
+        "quymâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "457",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "quyluşdı",
+      "anlam": "Sular boşandı [sürekli ve hızlı bir biçimde aktı].",
+      "ornek_metin": "tâgdın süwldr qamug quyluşdı: Dağdan sular boşandı [sürekli ve hız» bir biçimde akü).",
+      "cekimler": [
+        "quyluşûr",
+        "quyluşmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "457",
+      "notlar": "Sıvılar için de bu sözcük kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "quyma",
+      "anlam": "Bir tür yağlı ekmek / madenin eritilip kalıba dökülmesiyle yapılan araç.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "457",
+      "notlar": "Hamuru kadayıf hamuru gibi inceltilir...",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "quyqa",
+      "anlam": "Deri / kürk.",
+      "ornek_metin": "ol qöyug quyqâladı: O, deriyi ortaya çıkartmak için hayvanın tüylerini yaktı, ancak deriyi işlemedi.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "457",
+      "notlar": "Bu, kaynar suda derideki tüyleri temizleme işlemidir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "quyturdı",
+      "anlam": "Su dökülmesini emretti.",
+      "ornek_metin": "ol menig eligke süw quyturdı: O, benim elime su dökülmesini emretti.",
+      "cekimler": [
+        "quyturur",
+        "quyturmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "457",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "quyug",
+      "anlam": "Kuyu.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "457",
+      "notlar": "qudug sözcüğünün değişik sesletimidir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "quyurçaq",
+      "anlam": "Kuyruksokumu.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "457",
+      "notlar": "bkz. qudüçaq.",
+      "kontrol_gerekli": true
+    },
+    {
+      "kelime": "quyundı",
+      "anlam": "Kendine su döktü.",
+      "ornek_metin": "ol Özinge sûw quyundt: O, kendine (kendi eline, vücuduna) su döktü.",
+      "cekimler": [
+        "quyunür",
+        "quyunmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "457",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "quyuşdı",
+      "anlam": "Suyu boşaltmakta yardım etti.",
+      "ornek_metin": "ol angar süvv quyuşdı: O, ona suyu boşaltmakta yardım etti.",
+      "cekimler": [
+        "quyuşür",
+        "quyuşmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "457",
+      "notlar": "",
+      "kontrol_gerekli": false
+    }
+  ]
+}

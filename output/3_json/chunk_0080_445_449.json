@@ -1,0 +1,826 @@
+{
+  "chunk_no": 80,
+  "kaynak_sayfa_baslangic": 445,
+  "kaynak_sayfa_bitis": 449,
+  "kelimeler": [
+    {
+      "kelime": "qowdı",
+      "anlam": "Köpek avı kovaladı - avın peşinden gitti. Bir şeyi kovalayan veya izlerini takip eden herhangi birini anlatmak için de bu sözcük kullanılır.",
+      "ornek_metin": "ıt keyikni qowdt: Köpek avı kovaladı - avın peşinden gitti. Bir şeyi kovalayan veya izlerini takip eden herhangi birini anlatmak için de bu sözcük kullanılır. er atın qöwdı: Adam atını sürdü. Herhangi bir şeyin sürülmesini anlatmak için de yi­ne bu sözcük kullanılır.",
+      "cekimler": [
+        "qowâr",
+        "qowmaq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "445",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qowı",
+      "anlam": "İçi koflaşmış, çürümüş agaç.",
+      "ornek_metin": "qowı yıgâç: İçi koflaşmış, çürümüş agaç. Aynı zamanda vav’la söylenip qovı da denir.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "445",
+      "notlar": "Aynı zamanda vav’la söylenip qovı da denir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qowı",
+      "anlam": "Talihsiz adam.",
+      "ornek_metin": "qowı er: Talihsiz adam (Argu lehçesi). Şu atasözünde de geçer, qowı er qudugqa kirse yel alir: Talihsiz adam kuyuya girse bile rüzgâr onu oradan çekip çıkarır [dolayısıyla sıkıntılar peşini bırakmaz]",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Argu lehçesi",
+      "kaynak_sayfa": "445",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qowşâdı",
+      "anlam": "Adam okunu düzgünleştirdi.",
+      "ornek_metin": "er ocjm qowşâdı: Adam okunu düzgünleştirdi.",
+      "cekimler": [
+        "qowşâr",
+        "qowşâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "445",
+      "notlar": "gayn'la (g) söylenen bir değişik sesletimi vardır [qogşadı]",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qowşaldı",
+      "anlam": "Oku düzgünleştirmeye yarayan bir şey kullanılarak ok düzgünleştirildi.",
+      "ornek_metin": "oq qowşaldı: Oku düzgünleştirmeye yarayan bir şey kullanılarak ok düzgünleştirildi.",
+      "cekimler": [
+        "qowşalür",
+        "qowşalmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "445",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qowşaşdı",
+      "anlam": "O, ona, ok düzgünleştiricisiyle okunu düzgünleştirmekte yardım etti.",
+      "ornek_metin": "ol anıg oqın qorvşaşdı: O, ona, ok düzgünleştiricisiyle okunu düzgünleştirmekte yardım etti.",
+      "cekimler": [
+        "qowşaşür",
+        "qowşaşmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "445",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qowşattı",
+      "anlam": "O, okun düzgünleştirilmesini emretti.",
+      "ornek_metin": "ol oq qowşattı: O, okun düzgünleştirilmesini emretti.",
+      "cekimler": [
+        "qowşatür",
+        "qowşatmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "445",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qowuq",
+      "anlam": "İçi boş, oyuk herhangi bir şey.",
+      "ornek_metin": "qowuq nerig: İçi boş, oyuk herhangi bir şey.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "445",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qowuşdı",
+      "anlam": "Onlar birbirlerini kovdular.",
+      "ornek_metin": "olar bir ekindhi qowuşdilâr: Onlar birbirlerini kovdular.",
+      "cekimler": [
+        "qowuşür",
+        "qomtşmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "445",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qoxşaşdı",
+      "anlam": "bkz. qogşaşdı",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "belirsiz",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "445",
+      "notlar": "bkz. qogşaşdı",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qoxşattı",
+      "anlam": "bkz. qogşatıı",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "belirsiz",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "445",
+      "notlar": "bkz. qogşatıı",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qöy",
+      "anlam": "Koyun.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "445",
+      "notlar": "bkz. qön.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qöy",
+      "anlam": "Kaftanın göğüs kısmı.",
+      "ornek_metin": "elig qöyqa sııq: Sini kaftanın gögüs kısmından içeri sok.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "445",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qöy yılı",
+      "anlam": "Türklerin oniki yılından biri",
+      "ornek_metin": "qoy yılı. Türklerin oniki yılından biri [koyun yılı - bkz. bars]",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "446",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qoyluşdı",
+      "anlam": "Süt Ibaşka bir sıvı da olabilir] koyulaştı.",
+      "ornek_metin": "sütler qoyluşdi: Süt Ibaşka bir sıvı da olabilir] koyulaştı.",
+      "cekimler": [
+        "qoyluşür",
+        "qoyluşmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "446",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qoyug",
+      "anlam": "Koyu olan sıvılar.",
+      "ornek_metin": "qoyug neng: Koyu olan sıvılar. “Üzüm şurubu”na da qoyug sûçig: Koyu şekerli-şarap denir.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "446",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qoyugluq",
+      "anlam": "Sıvıların koyuluğu.",
+      "ornek_metin": "Sıvıların koyuluğu.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "446",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qoyuldı",
+      "anlam": "Yoğurt koyulaştı; sertleşti. Koyulaşan herhangi bir sıvıyı anlatmak için de bu sözcük kullanılır.",
+      "ornek_metin": "yogrut qoyuldı: Yoğurt koyulaştı; sertleşti. Koyulaşan herhangi bir sıvıyı anlatmak için de bu sözcük kullanılır.",
+      "cekimler": [
+        "qoyulür",
+        "qoyulmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "446",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qozandı",
+      "anlam": "Kadın süslendi.",
+      "ornek_metin": "urâgut bezendi qozandı: Kadın süslendi.",
+      "cekimler": [
+        "qozânur",
+        "qozanmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "446",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qozı",
+      "anlam": "Kuzu.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "446",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "quba",
+      "anlam": "Rengi kestane ile san arasında olan at - başka bir şey de olabilir.",
+      "ornek_metin": "quba at: Rengi kestane ile san arasında olan at - başka bir şey de olabilir.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "446",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "quburçâq",
+      "anlam": "Ahşap sandık.",
+      "ornek_metin": "Ahşap sandık. Genellikle “tabut\" anlamında kullanılır.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "446",
+      "notlar": "Genellikle “tabut\" anlamında kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "quçam",
+      "anlam": "Herhangi bir şeyin bir demeti.",
+      "ornek_metin": "bir quçam neng: Herhangi bir şeyin bir demeti.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "446",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "quçaq",
+      "anlam": "Bir bohça kumaş.",
+      "ornek_metin": "bir quçaq böz: Bir bohça kumaş.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "446",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "quçaqlâdı",
+      "anlam": "O, ipek kumaşı kolunun altına aldı.",
+      "ornek_metin": "ol barçm quçaqlâdı: O, ipek kumaşı kolunun altına aldı.",
+      "cekimler": [
+        "quçaqlâr",
+        "quçaqlâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "446",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "quçdı",
+      "anlam": "O, beni kucakladı.",
+      "ornek_metin": "ol mini quçdı: O, beni kucakladı.",
+      "cekimler": [
+        "quçâr",
+        "quçmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "446",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "quçgundı",
+      "anlam": "Soğan.",
+      "ornek_metin": "Soğan (Çigil lehçesi).",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Çigil lehçesi",
+      "kaynak_sayfa": "446",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "quçturdı",
+      "anlam": "O, bana kendisini kucaklattı.",
+      "ornek_metin": "ol meni quçturdı: O, bana kendisini kucaklattı.",
+      "cekimler": [
+        "quçturur",
+        "quçturmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "446",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "quçuş",
+      "anlam": "Kucaklaşma.",
+      "ornek_metin": "Kucaklaşma.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "446",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "quçuşdı",
+      "anlam": "O, benimle kucaklaştı.",
+      "ornek_metin": "ol menig birle quçuşdı: O, benimle kucaklaştı.",
+      "cekimler": [
+        "quçuşur",
+        "quçuşmdq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "446",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qudgu",
+      "anlam": "Sinek.",
+      "ornek_metin": "Sinek.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "447",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qudruq",
+      "anlam": "Bütün hayvanların kuyruğunu anlatan bir sözcük.",
+      "ornek_metin": "qöyqudruqı: Koyunun yağlı kuyruğu; atqudruqı: atkuyruğu. Şu dörtlükte de kullanılır, qudruq qatıg tügdûmiz Atlann kuyruklarını sıkıca bağladık tengrıg üküş ögdümiz Cenab-ı Hakk’a çok şükrettik [Kâfirlerin saflarına doğru Allahüekber diye bağırarak yürüdük] ketnşip atıg tegdimiz Atlan sürdük ve onlara saldırdık aldap yana qaçtımız Kaçarmış gibi yaptık (böylece arkamızdan geldiler ve biz onlann etrafinı çevirip bozguna uğrattık quş qudruqı: Kuş kuyruğu. Şu atasözünde de geçer, toqum yüzüp qııdruqta biçek s ima: Deriyi yüzdükten sonra bıçağı kuyrukta kırma. Bu Arapçadaki şevvâ ehuke hatta idâ endece rammada (“kardeşin eti öylesine kızarttı ki piştiği zaman kömür gibi oldu”) sözüne benzer.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "447",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qudruq",
+      "anlam": "Kıç deliği (bunu ima eden sözcük).",
+      "ornek_metin": "qudnıqı ötgen kişi: Kıç deliği konuşkan kimse - çok osuran kimse.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "447",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qudurdı",
+      "anlam": "O, çok çaba sarf etti; bu işte yapabileceğinin en iyisini yaptı.",
+      "ornek_metin": "ol bu îşta qudurdı: O, çok çaba sarf etti; bu işte yapabileceğinin en iyisini yaptı.",
+      "cekimler": [
+        "qudurur",
+        "qudurmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "447",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qudurgâq",
+      "anlam": "Kaftanın iki kuyruğundan biri.",
+      "ornek_metin": "Kaftanın iki kuyruğundan biri.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "447",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qudgulandı",
+      "anlam": "At kuyruğunu sallayarak üzerindeki sinekleri kovdu.",
+      "ornek_metin": "at qudgulandı: At kuyruğunu sallayarak üzerindeki sinekleri kovdu.",
+      "cekimler": [
+        "qudgulanür",
+        "qudgulanmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "447",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qudüçaq",
+      "anlam": "Kuyruksokumu",
+      "ornek_metin": "Kuyruksokumu [bkz. quyurçaq]",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "447",
+      "notlar": "Soru işareti ile verilmiştir.",
+      "kontrol_gerekli": true
+    },
+    {
+      "kelime": "qudug",
+      "anlam": "Kuyu.",
+      "ornek_metin": "qudugda süvv bâr, U bumı tegmis: Kuyuda su vardır, ama köpeğin burnu buna erişemez. Bu atasözü, bir şeyi isteyen ama bunu elde edemeyen ya da başka bilinin yemeğini gören ve bu yiyeceği arzulayan, ancak alamayan kimseyi anlatmak için kullanılır. bkz. quyug.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "447",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "quduglug",
+      "anlam": "Kuyusu olan ev.",
+      "ornek_metin": "quduglug ew: Kuyusu olan ev.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "447",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "quduzgün",
+      "anlam": "Kuskun; eyerin kaymasını önlemek için atın kuyruğu altından geçirilerek eyere bağlanan kayış.",
+      "ornek_metin": "Kuskun; eyerin kaymasını önlemek için atın kuyruğu altından geçirilerek eyere bağlanan kayış.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "447",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qugu",
+      "anlam": "Kuğu.",
+      "ornek_metin": "Kuğu.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "447",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qul",
+      "anlam": "Kul; köle.",
+      "ornek_metin": "qul. Kul; köle. Şu atasözünde de geçer, qulyagı, ıtböri: Köle (eğer efendisinin malı üzerinde tasarruf hakkına sahip olursa ona el koyar, fırsat peşinde koşar ve onu alır götürür, bu nedenle tıpkı bir) düşman gibidir, köpek (bir kez ele geçirdikten sonra yenilebilir hiç bir şeyi korumaması, yiyip bitirmesi nedeniyle bulunduğu ev için) kurt gibidir. Bu atasözü, kölenin sahibine bağlılıktan yoksun olduğunu vurgulamak için kullanılır.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "447-448",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qulâbuz",
+      "anlam": "Kılavuz.",
+      "ornek_metin": "qulâbuz (qulâvuz). Kılavuz, be (b) vav’dan (v) dönüşmüştür. Şu atasözünde de geçer, qalm qâz qulâvuzsûz bolmâs: Kaz sürüsü kılavuzsuz uçmaz. Bu atasözü birine, kendisinden daha iyi rehberlik yapabilecek birinin peşinden gitmesini öğütlemek için kullanılır.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "448",
+      "notlar": "be (b) vav’dan (v) dönüşmüştür.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qulaç",
+      "anlam": "İki yana iyice açıldıklarında iki kol arasındaki uzaklık.",
+      "ornek_metin": "bir qulaç barçın: Bir kulaç ipekli kumaş.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "448",
+      "notlar": "Bunun kökü qol âç: kollarını yana doğru aç ifadesidir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qulaçlâdı",
+      "anlam": "O, ipin İbaşka bir şeyin de olabilir] uzunluğunu kulaç cinsinden ölçtü.",
+      "ornek_metin": "ol uruqnı qulaçlâdı: O, ipin İbaşka bir şeyin de olabilir] uzunluğunu kulaç cinsinden ölçtü.",
+      "cekimler": [
+        "qulaçlâr",
+        "qulaçlâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "448",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qulân",
+      "anlam": "Yaban eşeği.",
+      "ornek_metin": "Yaban eşeği.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "448",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qulaq",
+      "anlam": "Kulak.",
+      "ornek_metin": "qulaq. Kulak. Bazı Türkler qulxâq, bazıları da qulqâq der; ancak en doğru kullanım ilkidir. qulaq. qulaq tön: Kollan kısa olan giysi.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "448",
+      "notlar": "Bazı Türkler qulxâq, bazıları da qulqâq der; ancak en doğru kullanım ilkidir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qulaqlâdı",
+      "anlam": "O, oğlunun kulağına vurdu.",
+      "ornek_metin": "ol ogltn qulaqlâdı: O, oğlunun kulağına vurdu.",
+      "cekimler": [
+        "qulaqlâr",
+        "qulaqlâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "448",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qulâqlıg",
+      "anlam": "Kulağı olan nesne.",
+      "ornek_metin": "qulâqlıg nerig: Kulağı olan nesne.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "448",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qulâvuz",
+      "anlam": "bkz. qulâbuz.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "belirsiz",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "448",
+      "notlar": "bkz. qulâbuz.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qulbâq",
+      "anlam": "Bir Türk çilecisinin adı; Balâsâgün dağlarında görünürdü.",
+      "ornek_metin": "Rivayet olunur ki, bir gün kara kayanın üzerine parmaklarıyla tengri qulı qulbâq: Tanrinın kulu qulbâq yazmış ve yazı beyaz renkteymiş; ardından ak kayanın üzerine aynı şeyi yazmış ve yazı bu kez siyah renkteymiş. Bu yazıların izleri bugün bile görülebilir.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "448",
+      "notlar": "Balâsâgün dağlarında görünürdü.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qulnaçı",
+      "anlam": "Doğurmak üzere olan kısrak.",
+      "ornek_metin": "qulrıaçt qısrâq: Doğurmak üzere olan kısrak.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "448",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qulnâdı",
+      "anlam": "Kısrak tay doğurdu.",
+      "ornek_metin": "qısrâq qulnâdı: Kısrak tay doğurdu.",
+      "cekimler": [
+        "qulnâr",
+        "qulnâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "448",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qulsıg",
+      "anlam": "Huyu köleye benzeyen adam.",
+      "ornek_metin": "qulsıg er: Huyu köleye benzeyen adam.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "449",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "quluç",
+      "anlam": "Bir erkek adı.",
+      "ornek_metin": "Bir erkek adı.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "449",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qulun",
+      "anlam": "Tay.",
+      "ornek_metin": "Tay.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "449",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qulunlug",
+      "anlam": "Peşinden gelen bir tayı olan kısrak.",
+      "ornek_metin": "qulunlug qısrâq: Peşinden gelen bir tayı olan kısrak.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "449",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qum",
+      "anlam": "Kum.",
+      "ornek_metin": "Kum (Çigil lehçesi). Oğuzlar bu sözcüğü bilmezler.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Çigil lehçesi",
+      "kaynak_sayfa": "449",
+      "notlar": "Oğuzlar bu sözcüğü bilmezler.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qumgân",
+      "anlam": "İbrik, güğüm, gülsuyu şişesi.",
+      "ornek_metin": "İbrik, güğüm, gülsuyu şişesi",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Oğuz lehçesi dışındaki bütün Türk lehçeleri",
+      "kaynak_sayfa": "449",
+      "notlar": "Oğuzlar, Farsîlerle karışınca bu sözcüğü unutmuş ve yerine Farsçadan gelen aftabe sözcüğünü kullanır olmuşlardır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qumlâq",
+      "anlam": "Qıfçâq ülkesinde yetişen, sarmaşığa benzeyen bir bitki.",
+      "ornek_metin": "Qıjçâqlar bunu balla karıştırarak bir içki hazırlarlar. Eğer bu ot bir gemiye alınacak olursa, denizde şiddetli dalgalar oluşur ve yolcular boğulacak gibi olur [şerbetçiotu -çn ]",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Kıpçak",
+      "kaynak_sayfa": "449",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qumşüy",
+      "anlam": "Kanla dolmuş kene.",
+      "ornek_metin": "Bu sözcük, yaygın bir biçimde, idrar tutulmasından şikâyetçi olan ve işeyemeyen bir kimseyi anlatmak için kullanılır.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "449",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qumuq",
+      "anlam": "Bir süre yanında bulunduğum beylerden birinin adı.",
+      "ornek_metin": "Bir süre yanında bulunduğum beylerden birinin adı.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "449",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qumuq",
+      "anlam": "At gübresi.",
+      "ornek_metin": "at qumuqlâdı: At pisledi. Birinin Qumuq’a -b ir beyin adı- bağlanmasını, oriun himayesine girmesini anlatmak için de bu sözcük kullanılır.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "449",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qumuqlâdı",
+      "anlam": "At pisledi.",
+      "ornek_metin": "at qumuqlâdı: At pisledi. Birinin Qumuq’a -b ir beyin adı- bağlanmasını, oriun himayesine girmesini anlatmak için de bu sözcük kullanılır.",
+      "cekimler": [
+        "qumuqlâr",
+        "qumuqlâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "449",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qunçüy",
+      "anlam": "Qâtün’dan bir derece aşağıda bulunan soylu kadın ya da prenses.",
+      "ornek_metin": "qâtün qunçüy da denir.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "449",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qundı",
+      "anlam": "Hırsız malı çaldı.",
+      "ornek_metin": "ogn tavvâr qundı: Hırsız malı çaldı. Şu dizelerde de kullanılır, kiçig bolup yâgınt yergü emes edgermedip qodsa anı elni qunâr Düşmanım küçük görüp aşağılamamalısın Onu önemsemeyip yalnız bırakırsan, ülkeni senden çalar",
+      "cekimler": [
+        "qunâr",
+        "qunmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "449",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qunduz",
+      "anlam": "Kunduz.",
+      "ornek_metin": "Kunduz.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "449",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qunduz",
+      "anlam": "Kunduz taşağından yapılan bir ilaç.",
+      "ornek_metin": "qunduz qayrı: Kunduz taşağından yapılan bir ilaç.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "449",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "qunuşdı",
+      "anlam": "Onlar birbirlerinin mallarını çaldılar.",
+      "ornek_metin": "olâr ekki tawâr qunuşdı: Onlar birbirlerinin mallarını çaldılar. Bu işte rekabet etmeyi ya da",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "449",
+      "notlar": "Metin sayfa sonunda kesilmektedir.",
+      "kontrol_gerekli": true
+    }
+  ]
+}

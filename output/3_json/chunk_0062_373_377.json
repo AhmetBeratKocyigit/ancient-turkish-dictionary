@@ -1,0 +1,796 @@
+{
+  "chunk_no": 62,
+  "kaynak_sayfa_baslangic": 373,
+  "kaynak_sayfa_bitis": 377,
+  "kelimeler": [
+    {
+      "kelime": "ölse",
+      "anlam": "Öküz",
+      "ornek_metin": "öküz adâqı bolgmça buzâgu başı bolsa yeg: öküz ayağı olmaktansa, buzağı başı olmak yeğdir. Bu atasözü, kendi kendini yönetmenin, başka birine itaat etmekten daha iyi olduğunu belirtmek için kullanılır,",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "373",
+      "notlar": "Şu atasözünde de geçer",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "öküzlendi",
+      "anlam": "Adam öküz sahibi oldu.",
+      "ornek_metin": "er öküzlendi: Adam öküz sahibi oldu.",
+      "cekimler": [
+        "ökûzlenür",
+        "öküzlenmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "373",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "öl",
+      "anlam": "Nemlenmiş herhangi bir şey.",
+      "ornek_metin": "öl neng: Nemlenmiş herhangi bir şey. Nitekim öl tön: nemli (ıslak) giysi denir.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "Oğuzlar",
+      "kaynak_sayfa": "373",
+      "notlar": "Oğuzlar bu sözcüğü bilmez.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "öldürdi",
+      "anlam": "O, hırsızı öldürdü.",
+      "ornek_metin": "ol Ognnı öldürdi: O, hırsızı [başka birini de olabilir) öldürdü.",
+      "cekimler": [
+        "öldürür",
+        "öldürmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "373",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "öles",
+      "anlam": "Mahmur bakışlara sahip göz; sarhoş bir adamın süzgün gözleri gibi.",
+      "ornek_metin": "öles köz: Mahmur bakışlara sahip göz; sarhoş bir adamın süzgün gözleri gibi. Şu dörtlükte de kullanılır, bulndr mini öles köz (Bu) süzgün gözler büyüler beni qara mengın qızıl yüz (Bu) aydınlık çehre ve alımlı benle andın tamâr tükel tûz Sanki yanaklarından akmaktadır çekicilik bulnâp yana öl qaçâr Beni cezbettikten sonra kaçarsın şimdi",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "373",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ölidi",
+      "anlam": "Giysi ıslandı.",
+      "ornek_metin": "tön ölidi: Giysi [başka bir şey de olabilir) ıslandı. kedüklüg ölımes, küweç1ig kürimes: Keçeden yapılmış başlığı olan kimse (yağmur yağınca) ıslanmaz, gem vurulursa (at) ileri atılmaz. Bu atasözü her şeye hazırlıklı olmayı öğütlemek için kullanılır,",
+      "cekimler": [
+        "ölir",
+        "ölimek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "373",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ölige",
+      "anlam": "Ökseotu.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "373",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ölişdi",
+      "anlam": "Islaklık herhangi bir şeyin içine işledi.",
+      "ornek_metin": "ölişdi neng: Islaklık herhangi bir şeyin içine işledi.",
+      "cekimler": [
+        "ölişür",
+        "ölişmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "373",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ölitti",
+      "anlam": "O, giysiyi ıslattı.",
+      "ornek_metin": "ol tön ölitti: O, giysiyi [başka bir şeyi de olabiliri ıslattı.",
+      "cekimler": [
+        "ölitür",
+        "ölitmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "373",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ölsedi",
+      "anlam": "Adam ölmeye niyet etti ve bunu arzuladı.",
+      "ornek_metin": "ol er ölsedi: Adam ölmeye niyet etti ve bunu arzuladı.",
+      "cekimler": [
+        "ölser",
+        "ölsemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "373",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ölşedi",
+      "anlam": "Adam o kadar acıktı ki gözleri karardı ve neredeyse açlıktan bayılacaktı.",
+      "ornek_metin": "er açıp ölşedi: Adam o kadar acıktı ki gözleri karardı ve neredeyse açlıktan bayılacaktı - bayılayazdı.",
+      "cekimler": [
+        "ölşer",
+        "ölşemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "Çigil lehçesi",
+      "kaynak_sayfa": "373-374",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ölşetti",
+      "anlam": "O, onu o kadar acıktırdı ki gözleri karardı.",
+      "ornek_metin": "ol aru ölşetti: O, onu o kadar acıktırdı ki gözleri karardı,",
+      "cekimler": [
+        "ölşetür",
+        "ölşetmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "374",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ölüg",
+      "anlam": "Ölü.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "374",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ölügsedi",
+      "anlam": "Adam ölü olmak istedi.",
+      "ornek_metin": "er ölügsedi: Adam ölü olmak istedi,",
+      "cekimler": [
+        "ölügser",
+        "ölûgsemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "374",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ölüm",
+      "anlam": "Ölüm.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "374",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ölüt",
+      "anlam": "Öldürme.",
+      "ornek_metin": "Buradan hareketle bir “katife öîütçi denir,",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "374",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ölütledi",
+      "anlam": "Adam biriyle tartıştı ve neredeyse kavgaya tutuşuyordu.",
+      "ornek_metin": "er ölütledi: Adam (biriyle) tartıştı ve neredeyse kavgaya tutuşuyordu.",
+      "cekimler": [
+        "ölütler",
+        "ölütlemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "374",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ömgen",
+      "anlam": "Şahdamarı.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "374",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "öndi",
+      "anlam": "Bitki büyüdü / O, eve gitti.",
+      "ornek_metin": "ot öndi: Bitki büyüdü. ol ewke öndi: O, eve gitti,",
+      "cekimler": [
+        "öner",
+        "önmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "Uygur lehçesi",
+      "kaynak_sayfa": "374",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "öndürdi",
+      "anlam": "Tanrı bitkilerin büyümesini sağladı / O, onu eve gönderdi.",
+      "ornek_metin": "tengri öt öndürdi: Tann bitkilerin büyümesini sağladı. ol anı ewke öndürdi: O, onu eve gönderdi (Uygur lehçesi).",
+      "cekimler": [
+        "öndürür",
+        "öndürmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "Uygur lehçesi",
+      "kaynak_sayfa": "374",
+      "notlar": "Oğuzlar bu ikinci kullanımı bilmez.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "öngig",
+      "anlam": "Ön.",
+      "ornek_metin": "ol minde öngdün bardı: O benim önümden gitti,",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "374",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "öngig",
+      "anlam": "Bir şeyin rengi.",
+      "ornek_metin": "yaşıl önglüg tön: Yeşil renkli giysi,",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "374",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "öngidün",
+      "anlam": "Ön anlamına gelen bir ilgeç.",
+      "ornek_metin": "öngdün yort: En önde (at) sür.",
+      "cekimler": [],
+      "kelime_turu": "edat",
+      "dil_veya_lehce": "Oğuzlar",
+      "kaynak_sayfa": "374",
+      "notlar": "Oğuzlar dal'ı (d) ve nun'u (n) atarak ong der. Oğuzların kullanımı daha doğrudur.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "öngeyük",
+      "anlam": "Belli bir şeye özgü olan. Bir kişinin diğerlerinden ayrılmasını sağlayan herhangi bir şey.",
+      "ornek_metin": "öngeyük neng: Belli bir s e y e özgü olan. Bir kişinin diğerlerinden ayrılmasını sağlayan herhangi bir şey o kişi için öngeyük’tür.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "374",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "öngi",
+      "anlam": "Başka; başkası anlamına gelen bir ilgeç.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "edat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "374-375",
+      "notlar": "ye (i), nun'dan (n) değişmiştir - kökü öngin'dir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "öngik",
+      "anlam": "Kadınların keçi tüyünden yaptıkları sahte saç lülesi.",
+      "ornek_metin": "Buna öngik yörgeyek de denir.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "375",
+      "notlar": "Kökü “başka” anlamına gelen öngi sözcüğüdür.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "öngik",
+      "anlam": "Yastıkların ipek püskülleri.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "375",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "öngiklendi",
+      "anlam": "Kadın, keçi tüyünden yaptığı sahte saç lülelerini taktı.",
+      "ornek_metin": "urâgut öngiklendi: Kadın, keçi tüyünden yaptığı sahte saç lülelerini taktı.",
+      "cekimler": [
+        "öngiklenür",
+        "öngiklenmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "375",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "öngin",
+      "anlam": "Bundan başka; başkası anlamına gelen bir ilgeç.",
+      "ornek_metin": "bu atta öngigin keldür: Bundan başka bir at getir,",
+      "cekimler": [],
+      "kelime_turu": "edat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "375",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "önglendi",
+      "anlam": "Üzümler renklendi - kızardı.",
+      "ornek_metin": "ûziim önglendi: Üzümler renklendi - kızardı. Hastalıktan kurtulduktan sonra eline yüzüne renk gelen bir adamı anlatmak için de bu sözcük kullanılır,",
+      "cekimler": [
+        "öngîenür",
+        "önglenmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "375",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "öngre",
+      "anlam": "Sırtüstü.",
+      "ornek_metin": "er öngre yattı: Adam sırtüstü yattı,",
+      "cekimler": [],
+      "kelime_turu": "zarf",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "375",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "öpdi",
+      "anlam": "O beni öptü.",
+      "ornek_metin": "ol meni öpdi: O beni öptü. taşıg ısrûmasa öpmiş herek: Taşı ısıramayan (kişi) onu öpmeli. Bu atasözü birine, amacına ulaşmak için belli bir işte nazik olmasını öğütlemek için kullanılır,",
+      "cekimler": [
+        "öper",
+        "öpmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "375",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "öpdi",
+      "anlam": "Çorbayı yudumladı.",
+      "ornek_metin": "mün öpdi: Çorbayı [başka bir şeyi de olabilir] yudumladı.",
+      "cekimler": [
+        "öper",
+        "öpmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "375",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "öpke",
+      "anlam": "Akciğer.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "375",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "öpke",
+      "anlam": "Öfke.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "375",
+      "notlar": "Bunun nedeni öfkenin akciğerin derinliklerinden yükselmesidir ve bu ikisi birbiriyle yakından ilişkilidir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "öpkeledi",
+      "anlam": "O, onun ciğerlerine vurdu.",
+      "ornek_metin": "ol angar öpkeledi: O, onun ciğerlerine vurdu.",
+      "cekimler": [
+        "öpkeler",
+        "öpkelemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "375",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "öpkiledi",
+      "anlam": "O, öfkeli olduğu için ondan uzak durdu.",
+      "ornek_metin": "ol andın öpklledi: O, öfkeli olduğu için ondan uzak durdu.",
+      "cekimler": [
+        "öpkıler",
+        "öpküemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "375-376",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "öprüldi",
+      "anlam": "Çorba yudumlandı.",
+      "ornek_metin": "mün öprüldi: Çorba (başka bir şey de olabilir] yudumlandı.",
+      "cekimler": [
+        "öprülür",
+        "öprülmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "376",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "öprüşdi",
+      "anlam": "O, benim çorbayı yudumlamama yardım etti.",
+      "ornek_metin": "ol manga mün öprüşdi: O, benim çorbayı yudumlamama yardım etti. Çorba içme konusunda yarışmayı anlatmak için de bu sözcük kullanılır.",
+      "cekimler": [
+        "öprüşür",
+        "öprüşmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "376",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "öpsedim",
+      "anlam": "Ben onu öpmek istedim.",
+      "ornek_metin": "men anı öpsedim: Ben onu öpmek istedim,",
+      "cekimler": [
+        "öpser men",
+        "öpsemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "376",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "öptürdi",
+      "anlam": "O, birine başka birini öpmesini emretti.",
+      "ornek_metin": "anı öptürdi: O, birine başka birini öpmesini emretti.",
+      "cekimler": [
+        "öptürür",
+        "öptürmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "376",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "öpüldi",
+      "anlam": "Süt yudumlandı.",
+      "ornek_metin": "süt öpüldi: Süt [başka bir şey de olabilir] yudumlandı.",
+      "cekimler": [
+        "öplür",
+        "öpülmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "376",
+      "notlar": "Burada temel bir kural söz konusudur, geçmiş zaman kipine lâm (1) eklenirse eylem edilgen olur.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "öpüm",
+      "anlam": "Bir yudum.",
+      "ornek_metin": "bir öpüm mün: Bir yudum çorba,",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "376",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "öpündi",
+      "anlam": "O, çorbayı yudumluyormuş gibi göründü.",
+      "ornek_metin": "ol mün öpündi: O, çorbayı yudumluyormuş gibi göründü.",
+      "cekimler": [
+        "öpnür",
+        "öpünmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "376",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "öpürdi",
+      "anlam": "O, bana yudumlamam için süt verdi.",
+      "ornek_metin": "ol manga süt öpürdi: O, bana yudumlamam için süt (başka bir şey de olabilir] verdi.",
+      "cekimler": [
+        "öprür",
+        "öpürmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "376",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "öpürgen",
+      "anlam": "Bu her zaman insanlara yudumlamaları için süt veren adamdır.",
+      "ornek_metin": "bu er ol süt öpürgen: Bu her zaman insanlara yudumlamaları için süt veren adamdır,",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "376",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "öpürttüm",
+      "anlam": "Ben ona su içirttim.",
+      "ornek_metin": "men angar süw öpürttüm: Ben ona su [başka bir şey de olabiliri içirttim,",
+      "cekimler": [
+        "öpürtür men",
+        "öpürtmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "376",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "öpüş",
+      "anlam": "Öpücük.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "376",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "öpüşdi",
+      "anlam": "O, benimle öpüştü - o beni öptü ve ben de onu öptüm.",
+      "ornek_metin": "ol menig birle öpüşdi: O, benimle öpüştü - o beni öptü ve ben de onu öptüm.",
+      "cekimler": [
+        "öpşür",
+        "öpüşmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "376-377",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ör",
+      "anlam": "Kaftanın bel kesimi.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "377",
+      "notlar": "ör ince okunur.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "örçüg",
+      "anlam": "Saç örgüsü, belik.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Oğuz lehçesi",
+      "kaynak_sayfa": "377",
+      "notlar": "örgüç sözcüğünün göçüşmeye maruz kalmış biçimidir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ördek",
+      "anlam": "Ördek.",
+      "ornek_metin": "qâz qopsa ördek kölüg ellenür: Kaz (gölden) uçup giderse ördek gölü sahiplenir. Bu atasözü, gerçek efendileri gittikten sonra yalnız kalan halka liderlik taslayan taranmamış bir adamı anlatmak için kullanılır,",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "377",
+      "notlar": "Şu atasözünde de geçer",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ördi",
+      "anlam": "O, saç ördü.",
+      "ornek_metin": "ol saç ördi: O, saç [başka bir şey de olabilir] ördü.",
+      "cekimler": [
+        "örer",
+        "örmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "377",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ördi",
+      "anlam": "Bulut yükseldi / Koyunlar ağıldan çıktı, otlamak için çayıra salındı / O, sepet ördü.",
+      "ornek_metin": "bulıt ördi: Bulut yükseldi. qöy ördi: Koyunlar ağıldan çıktı, otlamak için çayıra salındı. Koyunlann gece otlamasını anlatmak için de bu sözcük kullanılır. ol sawdıç ördi: O, sepet ördü. Elle örülen herhangi bir malzemeyi, örneğin ipliği ya da hurma yapraklannı anlatmak için bu sözcük kullanılır.",
+      "cekimler": [
+        "örer",
+        "örmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "377",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ören",
+      "anlam": "Her şeyin kötüsü.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Oğuz lehçesi",
+      "kaynak_sayfa": "377",
+      "notlar": "Bu sözcüğün Farsça viran: harap sözcüğünden türediğini düşünüyorum. Oğuzlar Farsîlerle karıştıkları için pek çok Türkçe sözcüğü unutmuş, bunların yerine Farsça sözcükler kullanmıştır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "örgen",
+      "anlam": "Urgan.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Oğuz lehçesi",
+      "kaynak_sayfa": "377",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "örgü",
+      "anlam": "Hörgüç.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "377",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "örgüç",
+      "anlam": "Kadınların saç örgüsü.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "377",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "örgüç",
+      "anlam": "Sacayağı.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "377",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "örgüçlendi",
+      "anlam": "Kız örülü saça sahip oldu.",
+      "ornek_metin": "qız örgüçlendi: Kız örülü saça sahip oldu,",
+      "cekimler": [
+        "örgüçlenür",
+        "örgüçlenmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "377",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "örgüçlendi",
+      "anlam": "Tencere bir sacayağa sahip oldu.",
+      "ornek_metin": "eşiç örgüçlendi: Tencere bir sacayağa sahip oldu,",
+      "cekimler": [
+        "örgüçlenür",
+        "örgüçlenmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "377",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "örk",
+      "anlam": "Yular; hayvanı bağlamaya yarayan ip.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "377",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "örkledi",
+      "anlam": "O, atı kazığa bağladı.",
+      "ornek_metin": "ol atıg örkledi: O, ab kazığa bağladı,",
+      "cekimler": [
+        "örkler",
+        "örklemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "377",
+      "notlar": "",
+      "kontrol_gerekli": false
+    }
+  ]
+}

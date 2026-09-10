@@ -1,0 +1,665 @@
+{
+  "chunk_no": 125,
+  "kaynak_sayfa_baslangic": 625,
+  "kaynak_sayfa_bitis": 629,
+  "kelimeler": [
+    {
+      "kelime": "usdı",
+      "anlam": "Adam susadı",
+      "ornek_metin": "er usdı: Adam susadı",
+      "cekimler": [
+        "usar",
+        "usmdq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "625",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "usdum",
+      "anlam": "Ben öyle sandım",
+      "ornek_metin": "usdum: Ben öyle sandım",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "Oğuz lehçesi",
+      "kaynak_sayfa": "625",
+      "notlar": "[yukarıdaki maddedeki kullanımlarla] aynıdır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "usıtgân",
+      "anlam": "Yaz sıcağının insanı susatması, susatan",
+      "ornek_metin": "quyâş ol kişini usıtgân: Bu, insanı susatan bir yaz sıcağıdır. Şu dörtlükte de kullanılır, usmı tanın: İslam ülkesinden Uygur ülkesine dek akan ve burada kumlann arasında emilerek usuqmışqa sâqıg qamug sûw kömür: Susamışa bütün seraplar su görünür. Bu atasözü, ihti­yaç içinde olan bir adamın, gördüğü her şeyi, ihtiyaç duyduğu nesne olarak al­ker dökülmesiyle yapılan bir yemek, usıtgân quyâş qapsadı \n Yaz sıcağı bizi sardı\numunçlug adaş tepsedi \n özlenen yoldaş bize haset etti\nertiş suvvm keçsedi \n Düşman Ertiş nehrini geçeyazdı\nbödün anın ürküşür \n (Bu nedenle) halk korkuya kapılır",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "625",
+      "notlar": "",
+      "kontrol_gerekli": true
+    },
+    {
+      "kelime": "usıttı",
+      "anlam": "Susattı",
+      "ornek_metin": "tûzlug et mini usıttı: Tuzlu et beni susattı.",
+      "cekimler": [
+        "usıtur",
+        "usıtmdq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "625",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "uslâdı",
+      "anlam": "İyi ile kötüyü ayırt etti",
+      "ornek_metin": "ol uslâdı nengni: O, iyi ile kötüyü ayırt etti",
+      "cekimler": [
+        "uslar",
+        "uslâmdcj"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "Oğuz lehçesi",
+      "kaynak_sayfa": "625",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "usmı",
+      "anlam": "Kaybolan büyük bir nehir",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "625",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "usrıq",
+      "anlam": "Uyuklayan, uyku bastırmış adam",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "625",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "usuqtı",
+      "anlam": "Adam susadı",
+      "ornek_metin": "erusuqtı: Adam susadı.",
+      "cekimler": [
+        "usuqâr",
+        "usuqmdq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "625",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "üsüz",
+      "anlam": "Uykusuz",
+      "ornek_metin": "üsüz kişi: Uykusuz kimse",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "625",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "uşaldı",
+      "anlam": "Ufalandı",
+      "ornek_metin": "etmek uşaldı : Ekmek ufalandı",
+      "cekimler": [
+        "uşdlur",
+        "uşâlmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "625",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "uşâq",
+      "anlam": "İftira",
+      "ornek_metin": "uşdq söz': İftira eden sözler.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "626",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "uşaq",
+      "anlam": "Küçük olan şeyler",
+      "ornek_metin": "uşaq neng: Küçük olan şeyler. Buradan hareketle “bebekler”e uşaq oglân, “odun kıymıklarTna da uşaq öturiğ denir.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "626",
+      "notlar": "Bu sözcük tekil anlam verecek biçimde kullanılmaz; yalnızca çoğul olarak kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "uşaqlâdı",
+      "anlam": "Küçümsedi",
+      "ornek_metin": "ol anı uşaqlâdı: O, onun küçük olduğunu düşündü - onu küçümsedi. Şu atasözünde de geçer, yağını uşaqlâsa başqa çıqar: Düşmanı küçümsersen başına gelir.",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "626",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "uşaqlâdı",
+      "anlam": "Yanlış anladı ve onlara kara çaldı",
+      "ornek_metin": "ol menig sözümni uşaqlâdı: O, benim sözlerimi yanlış anladı ve onlara kara çaldı.",
+      "cekimler": [
+        "uşaqlâr",
+        "uşaqlâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "626",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "uşaqlıq",
+      "anlam": "Çocuk gibi davranma",
+      "ornek_metin": "uşaq!ıq qılma: Çocuk olma",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "626",
+      "notlar": "Bir meselede çocuk gibi davranmayı anlatmak için kullanılan sözcük.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "uşattı",
+      "anlam": "Ufalattı",
+      "ornek_metin": "ol etmek uşattı: O, ekmeği ufalattı.",
+      "cekimler": [
+        "uşatur",
+        "uşatmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "626",
+      "notlar": "bkz. uwşattı.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "uşgün",
+      "anlam": "",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "belirsiz",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "626",
+      "notlar": "bkz. quşgün.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "uşuq",
+      "anlam": "Miğfer; tolga",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "626",
+      "notlar": "Bu sözcükteki elif, ye’den (y) dönüşmüştür [yuşuq]; bu [Arapçada] alma'i ya da yalma'i (“parlak”) denmesine benzer.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "utandı",
+      "anlam": "Utandı",
+      "ornek_metin": "ol mendin utandı: O, benden utandı.",
+      "cekimler": [
+        "utanür",
+        "utanmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "Oğuz lehçesi",
+      "kaynak_sayfa": "626",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "utgun",
+      "anlam": "Eyerin sol yanındaki enli kayış",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "626",
+      "notlar": "Kolan halkası bu kayışa geçirilir ve dille bağlanır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "utluq",
+      "anlam": "Taraz [talâs] kenti yakınlarındaki bir kentin adı / Ahır",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Argu lehçesi",
+      "kaynak_sayfa": "626",
+      "notlar": "Onların lehçesinde utluq, “ahır” anlamına gelir. Bu lehçeye ait olduğu belirtilen bir başka sözcük de çubulmak: kurutulmuş elma’dır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "utmış",
+      "anlam": "Bir erkek adı",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "626",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "utru",
+      "anlam": "Karşı karşıya olma, yüz yüze bakma",
+      "ornek_metin": "ol manga utru keldi: O, benimle karşı karşıya geldi - o, benimle tanışmaya geldi. ol yarmÂq utsuqtı: O, oyunda ütüldü - para kaybetti. Başka şeyler için de kullanılır. sınâmasa arsıqâr saqınmasa utsuqâr: Bir şeyi sınamazsa kişi onla aldablabilir, qıngır közün baqıştı Söz ucuyla bakıştı [her ikisi de birbirine kızgın gözlerle baktı] tutuşqalı yaqıştı Tutsak etmek için [her ikisi de birbirine] yaklaştı",
+      "cekimler": [],
+      "kelime_turu": "edat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "627",
+      "notlar": "",
+      "kontrol_gerekli": true
+    },
+    {
+      "kelime": "utrülandı",
+      "anlam": "Yüz yüze gelecek biçimde durdu",
+      "ornek_metin": "ol angar utrülandı: O, onunla yüz yüze gelecek biçimde durdu.",
+      "cekimler": [
+        "utrulanur",
+        "utrulanmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "627",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "utrundı",
+      "anlam": "Karşı koymak istedi / Üstüne doğru esti",
+      "ornek_metin": "ol manga utrundı: O, bana karşı koymak istedi. yel yıgâçqa utrundı: Rüzgâr ağacın üstüne doğru esti.",
+      "cekimler": [
+        "utrunur",
+        "utrunmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "627",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "utruşdı",
+      "anlam": "Karşı çıktı / Karşı karşıya geldi",
+      "ornek_metin": "ol angar utruşdı: O, belli bir meselede ona karşı çıktı. ol manga utruşdı: O, benimle karşı karşıya geldi.",
+      "cekimler": [
+        "utruşûr",
+        "utruşmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "627",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "utsuqtı",
+      "anlam": "Oyunda ütüldü, para kaybetti",
+      "ornek_metin": "ol yarmâq utsuqtı: O, oyunda ütüldü - para kaybetti.",
+      "cekimler": [
+        "utsuqâr",
+        "utsuqmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "627",
+      "notlar": "Şu atasözünde de geçer, başında) öğüt almazsa kişi alt edilir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "uttı",
+      "anlam": "Yendi, üttü",
+      "ornek_metin": "ol anı uttı: O (oyunda ya da başka bir şey de) onu yendi [üttü]. qış yay bile toqıştı Kış, yaz ile dalaştı utgâlımat ugraşür Birbirlerini mağlup etmeyi arzularlar",
+      "cekimler": [
+        "utar",
+        "utmaıj"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "627",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ütün",
+      "anlam": "Utanmaz; rezil",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "627",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "utunç",
+      "anlam": "Utanç verici, rezil iş",
+      "ornek_metin": "ûtunç iş: Utanç verici, rezil bir iş",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "Oğuz lehçesi",
+      "kaynak_sayfa": "627",
+      "notlar": "Kökü “haya; edep” anlamına gelen uwut sözcüğüdür.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "utuş",
+      "anlam": "Bir erkek adı",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "627",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "utuşdı",
+      "anlam": "Bahse girdi",
+      "ornek_metin": "ol amg birle yarmâq utuşdı: O onunla bir parasına bahse girdi",
+      "cekimler": [
+        "utşur",
+        "utuşmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "627",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "uvut",
+      "anlam": "Haya, edep",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "628",
+      "notlar": "“Haya” anlamına gelen uwut’un değişik sesletimi.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "uwa",
+      "anlam": "Serinletici bir yemek adı",
+      "ornek_metin": "Pirinç pişirildikten sonra soğuk suya konulur, daha sonra suyu süzülerek içerisine şeker ve buz atılır. Serinletici bir yiyecek olarak yenir.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "628",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "uwdı",
+      "anlam": "Ufaladı",
+      "ornek_metin": "ol etmek uwdt: O, ekmeği ufaladı",
+      "cekimler": [
+        "ınvâr",
+        "uwmaq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "628",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "uwşattı",
+      "anlam": "Ufalattı",
+      "ornek_metin": "ol etmek uwşatti: O, ekmeği ufalattı",
+      "cekimler": [
+        "uvvşatur",
+        "uwşatmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "628",
+      "notlar": "Bu doğru olan biçimdir; uşattı da denir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "uwuldı",
+      "anlam": "Ufalandı",
+      "ornek_metin": "uwuldı neng: Nesne ufalandı",
+      "cekimler": [
+        "uvvîur",
+        "uvvulmöcj"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "628",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "uwundı",
+      "anlam": "Kendisi için ekmek ufaladı / Ellerini ovuşturdu",
+      "ornek_metin": "ol özinge etmek uwundr. O, kendisi için ekmek ufaladı. ol elgin uwundt: O, ellerini ovuşturdu.",
+      "cekimler": [
+        "uwnur",
+        "uwunmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "628",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "uwuş",
+      "anlam": "Kırıntı",
+      "ornek_metin": "uvvuş etmek: Ekmek kırıntıları.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "628",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "uvvuşdı",
+      "anlam": "Ufalama işinde yardım etti / Rekabet etti",
+      "ornek_metin": "ol manga etmek uvvuşdı: O, ekmeği ufalama işinde bana yardım etti.",
+      "cekimler": [
+        "uvvşür",
+        "uwuşmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "628",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "uwutgardı",
+      "anlam": "Utandırdı",
+      "ornek_metin": "ol meni uwutgardı: O, beni utandırdı.",
+      "cekimler": [
+        "uwutgarur",
+        "uwutgarmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "628",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "uwutlandı",
+      "anlam": "Utandı",
+      "ornek_metin": "er uwutlandı: Adam utandı.",
+      "cekimler": [
+        "uwutlanur",
+        "uwutlanmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "Oğuz",
+      "kaynak_sayfa": "628",
+      "notlar": "Oğuzlar birkaç yazacı atarak utandı der.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "uyaldı",
+      "anlam": "Benden utandı ve sürdürmekten çekindi",
+      "ornek_metin": "ol mendin uyaldı: O, bu iş nedeniyle benden utandı ve sürdürmekten çekindi.",
+      "cekimler": [
+        "uyalur",
+        "uyalmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "629",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "uyattı",
+      "anlam": "Benden utandı",
+      "ornek_metin": "ol mindin uyattı: O, benden utandı.",
+      "cekimler": [
+        "uyâdur",
+        "uyâdmâı\""
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "629",
+      "notlar": "Kök-biçimi u y u r d u - benzeşime maruz kalmıştır.",
+      "kontrol_gerekli": true
+    },
+    {
+      "kelime": "uydı",
+      "anlam": "Unu çuvala bastı",
+      "ornek_metin": "ol ünug uydı: O, unu çuvala bastı.",
+      "cekimler": [
+        "uyâr",
+        "uym âq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "629",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "uygur",
+      "anlam": "Türk hakanıyla barış yaptıktan sonra Zülkarneynin inşa ettirdiği beş kentten oluşan bir ülkenin adı",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "629",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "uwutlug",
+      "anlam": "Utangaç",
+      "ornek_metin": "uıvutlug kişi: Utangaç kimse",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "629",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "uxşâdı",
+      "anlam": "",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "belirsiz",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "629",
+      "notlar": "bkz. oxşâdım.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "uya",
+      "anlam": "Kuş yuvası",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "629",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "uya",
+      "anlam": "Kardeş; hısım",
+      "ornek_metin": "tavâr üçün tengrini eflem edip uya qadaş oglmı çınla bogâr Kendi kardeşinin oğlunu gerçekten mal uğruna boğazlar",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "629",
+      "notlar": "(Kardeşler arasındaki sevgi yoksunluğunu anlatıyor)",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "uyadsılıq",
+      "anlam": "Utancın hâkim olduğu kimse",
+      "ornek_metin": "uyadsılıq er: Utancın hâkim olduğu kimse.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "629",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "uyâlâdı",
+      "anlam": "Yuva yaptı",
+      "ornek_metin": "quş uyâlâdı: Kuş yuva yaptı.",
+      "cekimler": [
+        "uyâlâr",
+        "uyâlâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "629",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "uyaz",
+      "anlam": "Küçük sivrisinekler",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Oğuz lehçesi",
+      "kaynak_sayfa": "629",
+      "notlar": "",
+      "kontrol_gerekli": false
+    }
+  ]
+}

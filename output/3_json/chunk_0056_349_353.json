@@ -1,0 +1,664 @@
+{
+  "chunk_no": 56,
+  "kaynak_sayfa_baslangic": 349,
+  "kaynak_sayfa_bitis": 353,
+  "kelimeler": [
+    {
+      "kelime": "nâg",
+      "anlam": "Timsah",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "349",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "nâg yılân",
+      "anlam": "Ejderha",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "349",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "nâg yılı",
+      "anlam": "Türk takviminin oniki yılından biri",
+      "ornek_metin": "Bu kitabı yazdığımız [der Kâşgarlı Mahmûd] altmışdokuz [469] yılı nâg yılı’dır.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "349",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "naınîja",
+      "anlam": "Zevcenin kız kardeşinin kocası; bacanak",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Çigil lehçesi",
+      "kaynak_sayfa": "349",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "naru",
+      "anlam": "Yön anlatan bir ilgeç",
+      "ornek_metin": "nam bar: Bu yana git.",
+      "cekimler": [],
+      "kelime_turu": "ilgeç",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "349",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ne",
+      "anlam": "Ne",
+      "ornek_metin": "ne ter sen: Ne dersin?",
+      "cekimler": [],
+      "kelime_turu": "ilgeç",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "349",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ne",
+      "anlam": "Arapçadaki o şey ki, acaba öyle mi? anlamına gelen mâ sözcüğüne karşılık gelen bir ilgeç",
+      "ornek_metin": "ne me edgü kişi ol: O, ne iyi bir adamdır [başka biri de olabilir]; ne meyawuz neng ol bu: Bu ne kötü bir şey.",
+      "cekimler": [],
+      "kelime_turu": "ilgeç",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "349",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "neçe",
+      "anlam": "Kaç",
+      "ornek_metin": "neçe yarm âq berding: Kaç para verdin?",
+      "cekimler": [],
+      "kelime_turu": "ilgeç",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "349",
+      "notlar": "Aynı zamanda soru eki olarakta kullanılır",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "neçük",
+      "anlam": "Niçin",
+      "ornek_metin": "neçük bardîrig: Niçin gittin?",
+      "cekimler": [],
+      "kelime_turu": "ilgeç",
+      "dil_veya_lehce": "Yabâqu lehçesi",
+      "kaynak_sayfa": "349",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "negü",
+      "anlam": "ne",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "belirsiz",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "349",
+      "notlar": "bkz. nü.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "nelük",
+      "anlam": "neçük'le aynı anlama gelen bir ilgeç",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "ilgeç",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "349",
+      "notlar": "diğer Türkler bu sözcüğü kullanır",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "neme",
+      "anlam": "Bilmem",
+      "ornek_metin": "neme ne qıidi: Ne yaptı bilmem",
+      "cekimler": [],
+      "kelime_turu": "ilgeç",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "349",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "neng",
+      "anlam": "Nesne, şey",
+      "ornek_metin": "bu neng ol: Bu nedir?",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "349",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "neng",
+      "anlam": "Mal ya da zenginlik",
+      "ornek_metin": "bulmış nenğig sev/er sen \nBulduğun zenginliği seversin\naqmn angar sevingil \nOna ilişkin hoşnutluğunda tereddütlü ol (belki de seni terk eder)\nbarmış nengig saqınma \nKaybettiğin zenginliğin arkasından üzülme\nazrâıj angar öküngil \nBirazcık kederlen (çünkü keder onu sana geri getirmez)",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "349",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "nerek",
+      "anlam": "Ne gerek",
+      "ornek_metin": "bu sanga nerek: Bu, senin neyine gerek?",
+      "cekimler": [],
+      "kelime_turu": "ilgeç",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "349",
+      "notlar": "Kök-biçimi ne kerek’tir; bazı yazaçlar düşmüştür.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "neteg",
+      "anlam": "Nasıl",
+      "ornek_metin": "neieg sen: Nasılsın?",
+      "cekimler": [],
+      "kelime_turu": "soru adılı",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "350",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "nıjdâg",
+      "anlam": "Bilegitaşı",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "350",
+      "notlar": "iki eklemleme noktası arasındaki ze’yle (j).",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "nöm",
+      "anlam": "Din",
+      "ornek_metin": "tengri nömı: Allah’ın dini - İslam. Aynı zamanda bunun dışındaki dinler de nöm olarak adlandırılır.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "350",
+      "notlar": "Bu Çince bir sözcüktür",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "nü",
+      "anlam": "ne",
+      "ornek_metin": "nü tersen: Ne diyorsun?",
+      "cekimler": [],
+      "kelime_turu": "ilgeç",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "350",
+      "notlar": "Bunun kök-biçimi negudür; söyleyişte yuvarlanmaktadır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ö",
+      "anlam": "Bir emrin yerine getirilmesinin reddedildiğini belirten ilgeç",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "ilgeç",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "351",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ob ob",
+      "anlam": "Eşek sendelediğinde kullanılan bir ifade",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "ünlem",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "351",
+      "notlar": "Bu, Araplann kalk anlamına gelen laan sözcüğüne benzer",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "öb öb",
+      "anlam": "Bir şey hakkında palavra atan, ancak bunu kanıtlayamayan kişiye söylenir",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "ünlem",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "351",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "oba",
+      "anlam": "Kavim",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Oğuz lehçesi",
+      "kaynak_sayfa": "351",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "obuz",
+      "anlam": "Engebeli, bozuk arazi",
+      "ornek_metin": "öy obuz: Sarp arazi.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "351",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "obuzlug",
+      "anlam": "Arazisi sarp olan ülke",
+      "ornek_metin": "öy obuzlug yer: Arazisi sarp olan ülke.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "351",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "oçaq",
+      "anlam": "Ocak",
+      "ornek_metin": "evv oçaqlandı: Eve ocak yapıldı.",
+      "cekimler": [
+        "oçaqlanur",
+        "oçaqlanmâq"
+      ],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "351",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "oçaqlıg",
+      "anlam": "Bir ocağa sahip olan ev",
+      "ornek_metin": "oçaqlıg ew: Bir ocağa sahip olan ev.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "351",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "oçaqlıq",
+      "anlam": "Ocak yeri veya ocak yapımında kullanılacak kil",
+      "ornek_metin": "oçaqlıq yer: Ocak yeri. oçaqlıq titig: Ocak yapımında kullanılacak her türlü kil.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "351",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "odgardı",
+      "anlam": "Bir süre düşündükten sonra onu tanıdı",
+      "ornek_metin": "ol anı kedin odgardı: Bir süre düşündükten sonra onu tanıdı.",
+      "cekimler": [
+        "odgarur",
+        "odgarmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "351",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "odguç",
+      "anlam": "Yanan odun parçası",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "351",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "odgurdı",
+      "anlam": "Uyandırdı",
+      "ornek_metin": "ol meni odgurdı: O, beni uyandırdı.",
+      "cekimler": [
+        "odgurur",
+        "odgurmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "351",
+      "notlar": "bkz. olxuttı",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "odug",
+      "anlam": "Uyanık, uyumayan",
+      "ornek_metin": "odug er: Uyanık (uyumayan) adam. odug korigüllüg er: Uyanık kalpli adam - anlayışlı adam.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "351",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "odugluq",
+      "anlam": "Uyanıklık ya da bilinçlilik",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "351",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "odundı",
+      "anlam": "Uykudan uyandı",
+      "ornek_metin": "er odundı: Adam uykudan uyandı.",
+      "cekimler": [
+        "odnur",
+        "odunmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "351",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ogar",
+      "anlam": "Alnında beyaz bir leke olan at",
+      "ornek_metin": "ogar at: Alnında beyaz bir leke olan at.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "352",
+      "notlar": "Bu sözcük hem anlam hem ses olarak Arapçaya uygundur; ancak Arapçasmda lagarr -çn] elif, feth a'h [Arapçada a ya da e okutan üstün imi], Türkçesinde zamme'lidir [Arapçada o, ö, u, ü okutan ötre imi].",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ogıdı",
+      "anlam": "bkz. oqıdı",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "belirsiz",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "352",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "oğla",
+      "anlam": "Genç erkek",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Argu lehçesi",
+      "kaynak_sayfa": "352",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "oglâgu",
+      "anlam": "Bolluk içinde büyümüş ya da buna alışmış kimse",
+      "ornek_metin": "Nitekim Qâtünlara [prensesler] oglâgu qdtün denir.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "352",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "oglâq",
+      "anlam": "Oğlak",
+      "ornek_metin": "oglâq yiliksiz oglân biligsiz: Oğlakta (kemiklerinde) ilik olmadığı gibi, bebekte de akıl yoktur",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "352",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "oglı",
+      "anlam": "Yabani havuç",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "352",
+      "notlar": "Kâşgar kenti yakınlarında yetişen, beyaz ve tatlı bir havuç.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ogrâq",
+      "anlam": "qara y,gâç adındaki bir sınır bölgesinde ikamet eden bir Türk kavmi",
+      "ornek_metin": "er ograqlandı: Adam Ogrâq giysileri giydi.",
+      "cekimler": [
+        "ograqlanur",
+        "ograqlanmâq"
+      ],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "352",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ogrı",
+      "anlam": "Hırsız",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "352",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ogn",
+      "anlam": "Aşağıda olma",
+      "ornek_metin": "bu neng anıg ogrı ol: Bu nesne ondan aşağıdadır.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "352",
+      "notlar": "Bunun kök-biçimi [ogın] gayn nın (g) besre’lisidir [Arapçada ı, i okutan im], ancak ses düşmesi yaşanmıştır; tıpkı [Arapçada] ibil’in ibl (“develer), uzunun üzn (“kulak) olması gibi.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ogrîlâdı",
+      "anlam": "Çaldı",
+      "ornek_metin": "ol neng ognlâdı: O, nesneyi çaldı.",
+      "cekimler": [
+        "ogrildr",
+        "ogrildmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "352",
+      "notlar": "Halk bunu re’ye M ünlü [bu sözcükte i] eklemeksizin söyler [ogurlâdı - bkz. uğurladı], bu hatalı bir kullanımdır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ogrug",
+      "anlam": "Boyundaki ilk omur",
+      "ornek_metin": "ogrug süngübi: Boyundaki ilk omur.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "352",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ogrug",
+      "anlam": "Vadinin kıvrımı",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "352",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ogrug",
+      "anlam": "Dağın kenarı, sivri çıkıntısı",
+      "ornek_metin": "tâg ogrugı: Dağın kenarı, sivri çıkıntısı.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "352",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ıgruldı",
+      "anlam": "Kemiğin eklem yerlerinden ayrılması",
+      "ornek_metin": "sünğüfe ogruldı: Kemiğin eklem yerlerinden aynlması. \nbalçıq bahq yoğrulur \nK» ve çamur yığılır\nçıgây yawuz yıgnlür \nZavallı yoksul iki büklüm olup yere çöker\nerngekleri ogrulû r \n(Soğuğun şiddeti nedeniyle) parmaklan birbirinden ayrılır\nodguç bile ewrişür \nBir ateş parçasıyla kendini avutur",
+      "cekimler": [
+        "ogrulur",
+        "ogrulmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "352-353",
+      "notlar": "Kaynak metinde ıgruldı olarak geçmektedir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ogruştı",
+      "anlam": "Kemiği ayırmakta yardım etti veya bu işte çekişmeyi an lanzók",
+      "ornek_metin": "d manga süngü)? ogruştı: O bana kemiği ayırmakta yardım etti. Bu işte çekişmeyi anlatmak için de bu sözcük kullanılır",
+      "cekimler": [
+        "ogruşur",
+        "ogruşmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "353",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "oğul",
+      "anlam": "Oğul",
+      "ornek_metin": "bu oğul ne ter: Bu çocuk ne der?",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "353",
+      "notlar": "Bir kişi kendi oğlu olmayan bir çocuğu da bu şekilde çağırabilir. Bunun çoğulu ogîân’d ır-an cak bu kullanım kurala aykırıdır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ogulçuq",
+      "anlam": "Kadının rahmi",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "353",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ogulmuq",
+      "anlam": "Fasulyenin etrafına sarıldığı, destekleyici düz çubuk, sırık",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "353",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ogurdı",
+      "anlam": "Adam kemiği eklem yerinden ayırdı",
+      "ornek_metin": "er sunul? ogurdı; Adam kemiği eklem yerinden ayırdı",
+      "cekimler": [
+        "ogrur",
+        "ogurmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "353",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ogurlâdı",
+      "anlam": "bkz. uğurladı",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "belirsiz",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "353",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "oguş",
+      "anlam": "Boy",
+      "ornek_metin": "er oguşlandı: Adam bir topluluğun parçası oldu - adam akraba sahibi oldu",
+      "cekimler": [
+        "oguşlanur",
+        "oguşlanmâq"
+      ],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "353",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "oguşlug",
+      "anlam": "Bir boya bağlı olan adam",
+      "ornek_metin": "oguşlug er: Bir boya bağlı olan adam",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "353",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "oğuz",
+      "anlam": "Bir Türk kavmi; Türkmen",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "353",
+      "notlar": "Her biri hayvanlarına vurdukları ayırt edici bir damgaya sahip yirmiiki koldan oluşur. Bu kollar birbirlerinin hayvanlarını bu damgalarla tanırlar.",
+      "kontrol_gerekli": false
+    }
+  ]
+}

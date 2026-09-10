@@ -1,0 +1,750 @@
+{
+  "chunk_no": 34,
+  "kaynak_sayfa_baslangic": 261,
+  "kaynak_sayfa_bitis": 265,
+  "kelimeler": [
+    {
+      "kelime": "eren",
+      "anlam": "Terazi Takımyıldızı ve bir burç adı.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "261",
+      "notlar": "Erkekler anlamına da gelir, kuraldışı bir çoğul formdur.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "eretti",
+      "anlam": "Çocuk erginleşti - bir erkek olarak kabul edildi.",
+      "ornek_metin": "oğlan eretti.: Çocuk erginleşti - bir erkek olarak kabul edildi.",
+      "cekimler": [
+        "eredür",
+        "eredmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "261",
+      "notlar": "Bunun kök-biçimi erekti dir ve benzeşime maruz kalmıştır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ergürdi",
+      "anlam": "Bir şeyi eritti.",
+      "ornek_metin": "ol yâg ergürdi: O, yağı [başka bir şeyi de olabiliri eritti.",
+      "cekimler": [
+        "ergürür",
+        "ergürmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "261",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ergürdi",
+      "anlam": "Ortadan kalkmadan önce yetişti.",
+      "ornek_metin": "(ol) aşqa ergürdi: O, ortadan kalkmadan önce yemeğe yetişti.",
+      "cekimler": [
+        "ergürür",
+        "ergürmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "261",
+      "notlar": "Herhangi bir şeye tam gittiği sırada yetişmeyi anlatmak için de kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ergüz",
+      "anlam": "Baharın başında buzların erimesi sonucu oluşan su.",
+      "ornek_metin": "yay yarüban ergüzi / açtı aqın munduzı / tugdı yaruq yulduzı / tıngla sözüm küıgusüz: Baharın şafağı söktü / kar suları ve coşkun seller aktı / Parıldayan yıldız doğdu / (Şaşırtıcı olsalar da) sözlerimi gülmeden dinle",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "261",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "erig",
+      "anlam": "Yağ ya da yağa benzeyen, eriyen herhangi bir şey - donduktan sonra eriyen herhangi bir şey.",
+      "ornek_metin": "erig neng: Yağ ya da yağa benzeyen, eriyen herhangi bir şey",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "261",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "erig",
+      "anlam": "Cevval, etkileyici hayvan.",
+      "ornek_metin": "erig yılqı: Cevval, etkileyici hayvan. Buradan hareketle erig at: görkemli at denir.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "Oğuz",
+      "kaynak_sayfa": "261",
+      "notlar": "Oğuzlar bu sözcüğü bilmez.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "eriglik",
+      "anlam": "Hayvanın çevikliği, canlılığı.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "261",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "erildi",
+      "anlam": "Keder ve pişmanlıkla sarsıldı.",
+      "ornek_metin": "er erildi sarıldı: Adam keder ve pişmanlıkla sarsıldı.",
+      "cekimler": [
+        "erlür",
+        "erilmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "261",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "erildi",
+      "anlam": "Duvarda bir gedik açıldı.",
+      "ornek_metin": "tâm erildi: Duvarda [başka bir yerde de olabiliri bir gedik açıldı.",
+      "cekimler": [
+        "erilür",
+        "erilmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "261",
+      "notlar": "Buradan hareketle ay erildi: (ayın sonu yakalaştıkça) ay giderek küçülmeye başladı denir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "erin",
+      "anlam": "Dudak.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "262",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "erinç",
+      "anlam": "\"Belki de\" anlamına gelen bir ilgeç.",
+      "ornek_metin": "ol keldi erinç: Belki de o geldi.",
+      "cekimler": [],
+      "kelime_turu": "ilgeç",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "262",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "erinç",
+      "anlam": "\"Belki de\" anlamına gelen bir ilgeç.",
+      "ornek_metin": "ol bardı erinç: Belki de o (gideceği yere) vardı.",
+      "cekimler": [],
+      "kelime_turu": "ilgeç",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "262",
+      "notlar": "Ana madde olarak bu sözcük, sözlükte iki kez yer almaktadır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "erinç",
+      "anlam": "Huzur, rahatlık, mutluluk.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "262",
+      "notlar": "Bazı lehçelerde iki eklemleme noktası arasındaki ze'yle (j), erej biçiminde söylenir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "erindi",
+      "anlam": "Üşendi.",
+      "ornek_metin": "er işqa erindi: Adam, kendisi için sıkıcı olan o işi yapmaya üşendi.",
+      "cekimler": [
+        "erinür",
+        "erinmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "262",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "erk",
+      "anlam": "Yetki, bir şeyi yapabilme kudreti.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "262",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "erkeç",
+      "anlam": "Dalga.",
+      "ornek_metin": "süw erkeçlendi: Su dalgalandı.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "262",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "erkeç",
+      "anlam": "Erkek keçi.",
+      "ornek_metin": "erkeç eti em bolür, eçkü eti yel bolür: Erkek keçinin eti tedavi edicidir, dişi keçinin eti midede gaz yapar.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "262",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "erkeçlendi",
+      "anlam": "Su dalgalandı.",
+      "ornek_metin": "süw erkeçlendi: Su dalgalandı.",
+      "cekimler": [
+        "erkeçlenür",
+        "erkeçlenmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "262",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "erkek",
+      "anlam": "Bütün hayvanların erkeği.",
+      "ornek_metin": "erkek taqâgu: Horoz",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "262",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "erkeklendi",
+      "anlam": "Su dalgalandı / Tüyleri ürperdi.",
+      "ornek_metin": "anıg yüregi erkeklendi: Onun tüyleri ürperdi.",
+      "cekimler": [
+        "erkeklenür",
+        "erkeklenmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "262",
+      "notlar": "Birinin erkeklik taslamasını anlatmak için de bu sözcük kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "erken",
+      "anlam": "\"İken\" anlamına gelen bir ilgeç; açık olarak belirtilmemiş bir zamanda gerçekleşen bir eylemi anlatır.",
+      "ornek_metin": "ol kelür erken kördüm: O gelirken gördüm",
+      "cekimler": [],
+      "kelime_turu": "ilgeç",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "262",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "erki",
+      "anlam": "Kuşku belirten bir ilgeç.",
+      "ornek_metin": "ol kelır mu erki: O gelir mi ki? - O geliyor mu, gelmiyor mu?",
+      "cekimler": [],
+      "kelime_turu": "ilgeç",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "262",
+      "notlar": "Bu ilgeç soru ekinin yerini alır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "erlendi",
+      "anlam": "Kadın evlendi.",
+      "ornek_metin": "urâgut erlendi: Kadın evlendi.",
+      "cekimler": [
+        "erlenür",
+        "erlenmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "263",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "erleşdi",
+      "anlam": "Onlar birbirleriyle erkeklik konusunda yarıştı.",
+      "ornek_metin": "olâr ekki erleşdi: Onlar birbirleriyle erkeklik konusunda yarıştı.",
+      "cekimler": [
+        "erleşür",
+        "erleşmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "263",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "erlik",
+      "anlam": "Erkeklik.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "263",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ermegü",
+      "anlam": "Tembel, miskin.",
+      "ornek_metin": "ermegüke bulıt yük bolür: Miskin kişiye bulut (bulutun gölgesi) bile yük olur",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "263",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ernek",
+      "anlam": "Parmak.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "263",
+      "notlar": "errigek'in değişik sesletimidir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "erngek",
+      "anlam": "Parmak.",
+      "ornek_metin": "beş errigik tuz ermes: Beş parmak birbirine denk değildir",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "263",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "errigen",
+      "anlam": "Bekar erkek.",
+      "ornek_metin": "erngenke ellig qan bözün üm tükemes: (Yabancı biri ona bunu dikmeyeceği için) elli arşın bezden bile bekar erkeğe pantolon çıkmaz.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "263",
+      "notlar": "Bu atasözü birine evlenmesini öğütlemek için kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "errigeyü",
+      "anlam": "Altı parmağı olan adam.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "263",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "errigeyü",
+      "anlam": "Çok kısa boylu adam - boyu neredeyse iki arşın olan adam.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "263",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ersek",
+      "anlam": "Fahişe.",
+      "ornek_metin": "ersek erke tegmes ewek ewke tegmes: Aceleci fahişe erkek bulamaz",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "263",
+      "notlar": "Yukarıdaki atasözü acelecilikten uzak durmayı öğütlemek için kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "erseklendi",
+      "anlam": "Kadın ihtiraslı bir biçimde bir erkeği arzuladı.",
+      "ornek_metin": "eşler erseklendi: Kadın ihtiraslı bir biçimde bir erkeği arzuladı.",
+      "cekimler": [
+        "erseklenür",
+        "erseklenmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "263",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ersindi",
+      "anlam": "Çocuk erkeklik sergiledi.",
+      "ornek_metin": "oğul ersindi: Çocuk erkeklik sergiledi.",
+      "cekimler": [
+        "ersinür",
+        "ersinmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "263",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ersü",
+      "anlam": "Süfli, ahlaksız.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "Oğuz",
+      "kaynak_sayfa": "263",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "erte",
+      "anlam": "Sabahın körü.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "263",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "erteledi",
+      "anlam": "Adam iş için erken kalktı.",
+      "ornek_metin": "er ışqa erteledi: Adam iş için erken kalktj.",
+      "cekimler": [
+        "erteler",
+        "ertelemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "264",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ertik",
+      "anlam": "İşlek yol.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "264",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ertiş",
+      "anlam": "Yemek bozkırlarında bulunan bir nehrin adı.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "264",
+      "notlar": "Bu ad ertiş: bir yerden bir yere geçerken hangimizin daha güçlü olduğunu belirlemek için benimle boy ölçüş kökünden türemiştir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ertişti",
+      "anlam": "Aslanın yanından geçme konusunda boy ölçüştü.",
+      "ornek_metin": "ol menig birle arslândan ertişti: O, aslanın yanından geçme konusunda benle boy ölçüştü.",
+      "cekimler": [
+        "ertişür",
+        "ertişmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "264",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ertti",
+      "anlam": "Zaman geçti / Evinin yanından geçip gitti.",
+      "ornek_metin": "öçüleg ertti: Zaman geçti. er e\nvinden ertti: Adam evinin yanından geçip gitti.",
+      "cekimler": [
+        "erter",
+        "ertmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "264",
+      "notlar": "Herhangi bir yerin yanından geçmeyi anlatmak için de bu sözcük kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ertürdi",
+      "anlam": "Günahını bağışlattı / İşini olanaklı kıldı - kabul ettirdi.",
+      "ornek_metin": "anıg yâzuqm ertürdi: O, günahını bağışlattı. anıg ışın ertürdi: O, işini olanaklı kıldı",
+      "cekimler": [
+        "ertürür",
+        "ertürmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "264",
+      "notlar": "Bir şeyin belli bir yerden geçmesine izin verilmesini anlatmak için de bu sözcük kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "ertüt",
+      "anlam": "Beyin ya da başka bir soylunun huzurunda sunulan at ya da benzeri hediye.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "264",
+      "notlar": "Sonraları tüm hediyeler bu şekilde adlandırıldı.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "erüdi",
+      "anlam": "Yağ eridi.",
+      "ornek_metin": "yâg erüdi: Yag eridi.",
+      "cekimler": [
+        "erür",
+        "erümek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "264",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "erük",
+      "anlam": "Şeftali, kayısı, erik gibi meyveleri anlatmak için kullanılan genel bir ifade.",
+      "ornek_metin": "tülüg erük: şeftali, sâng erük: kayısı, qara erük: erik",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "264",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "erük",
+      "anlam": "Deri sepilemeye yarayan her şey.",
+      "ornek_metin": "teri erükledi: Deriyi sepiledi",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "264",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "erük",
+      "anlam": "Duvar ya da duvara benzer şeylerin üzerindeki gedik veya çatlak.",
+      "ornek_metin": "künde erükyöq, begde qıyıqyöq: Güneşte çatlak yoktur, tıpkı beyde verdiği sözden dönme huyu olmadığı gibi.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "264",
+      "notlar": "Bu atasözü beylere vaatlerini yerine getirmelerini öğütlemek için kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "erükledi",
+      "anlam": "Deriyi sepiledi.",
+      "ornek_metin": "teri erükledi: O deriyi sepiledi",
+      "cekimler": [
+        "erükler",
+        "erüklemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "265",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "erüklendi",
+      "anlam": "Ağaçlar meyveye durup şeftali, kayısı ve erik doldu.",
+      "ornek_metin": "yıgâç erüklendi: Ağaçlar meyveye durup şeftali, kayısı ve erik doldu.",
+      "cekimler": [
+        "erüklenür",
+        "erüklenmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "265",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "erüklük",
+      "anlam": "Eriklik; şeftali bahçesi.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "265",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "erüksedi",
+      "anlam": "Adamın canı şeftali/kayısı/erik istedi.",
+      "ornek_metin": "er erüksedi: Adamın canı şeftali istedi.",
+      "cekimler": [
+        "erükser",
+        "erüksemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "265",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "erüşdi",
+      "anlam": "Yağ tamamen eridi.",
+      "ornek_metin": "yâg erüşdi: Yağ tamamen eridi.",
+      "cekimler": [
+        "erüşür",
+        "erüşmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "265",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "erütti",
+      "anlam": "Yağı eritti.",
+      "ornek_metin": "ol yâg erütti: O yagı eritti.",
+      "cekimler": [
+        "erütür",
+        "erütmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "265",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "es",
+      "anlam": "Yırtıcı hayvanların avı olan hayvan.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "265",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "esdi",
+      "anlam": "İpi gerdi.",
+      "ornek_metin": "ol yişig esdi: O, ipi gerdi.",
+      "cekimler": [
+        "eser",
+        "esmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "265",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "esdi",
+      "anlam": "Hafif ve tatlı rüzgar esti / Buğdayı savurarak taneleri kabuğundan ayırdı.",
+      "ornek_metin": "esin esdi: Hafif ve tatlı bir rüzgâr esti. tang esdi: O, buğdayı savurarak taneleri kabuğundan ayırdı.",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "265",
+      "notlar": "Rüzgâr esip tozu toprağı havalandırdığında da bu sözcüğe başvurulur. Bu sözcük hem geçişli hem de geçişsiz olarak kullanılabilir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "esen",
+      "anlam": "Herhangi bir şeyin sağlıklı ve iyi durumda olması (salim), esenlik.",
+      "ornek_metin": "esen mü sen: İyi misin? esende ewvek yoq: Esenlikte acele olmaz",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "265",
+      "notlar": "Esende ewvek yoq atasözü birine sakin ve yavaş hareket etmesini öğütlemek için söylenir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "esenledi",
+      "anlam": "O beni selamladı ve elimi sıktı.",
+      "ornek_metin": "ol manga esenledi: O beni selamladı ve elimi sıktı.",
+      "cekimler": [
+        "esenler",
+        "esenlemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "265",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "esgü",
+      "anlam": "Harman savurma işinde kullanılan sepet.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "265",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "esik",
+      "anlam": "Uzayıp giden bozkırlara sahip bir ülke.",
+      "ornek_metin": "esik yer: Uzayıp giden bozkırlara sahip bir ülke.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "265",
+      "notlar": "",
+      "kontrol_gerekli": false
+    }
+  ]
+}

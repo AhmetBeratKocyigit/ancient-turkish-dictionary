@@ -1,0 +1,825 @@
+{
+  "chunk_no": 114,
+  "kaynak_sayfa_baslangic": 581,
+  "kaynak_sayfa_bitis": 585,
+  "kelimeler": [
+    {
+      "kelime": "toqıttı",
+      "anlam": "Kumaş dokutmak, kılıç veya bıçak dövdürmek, kapı çaldırmak",
+      "ornek_metin": "ol böz toqıttı: O, kumaş dokutuldu. / ol qıh( toqıttı: O, kılıç (ya da bıçak) dövdürdü. / ol qapug toqıttı: O, kapı çaldırdı [kapıyı vurdurdu]",
+      "cekimler": [
+        "toqıtur",
+        "toqıtmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "581",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "toqlı",
+      "anlam": "Altı aylık koyun",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "581",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "toqluq",
+      "anlam": "Tokluk",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "581",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "toqluq",
+      "anlam": "İnsanın kelliği; hayvanın boynuzsuz olması",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "581",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "toqsön",
+      "anlam": "Doksan sayısı",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "581",
+      "notlar": "Kökü toqüz ön: dokuz tane on’dur. İki sözcük birleşerek tek sözcük haline gelmiştir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "toqu",
+      "anlam": "Kemer tokası",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "581",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "toqûlâdı",
+      "anlam": "Adam kayışa bir halka taktı",
+      "ornek_metin": "er qadış toqûlâdı: Adam kayışa bir halka taktı.",
+      "cekimler": [
+        "toqûlâr",
+        "toqülâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "581",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "toqum",
+      "anlam": "Kesilecek hayvan",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "581",
+      "notlar": "Bu sözcük genellikle atlar için kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "toqurqa",
+      "anlam": "Küp ya da ibrik gibi şeylerin üzerindeki musluk",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "581",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "toqurqa",
+      "anlam": "Kâşgar'ın yaylalarındaki bir yerin adı",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "581",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "toquşgân",
+      "anlam": "Savaşmayı seven, kavgacı ve öfkeli kimse",
+      "ornek_metin": "ol er ol yawlâq toquşgân: O, savaşmayı seven, kavgacı ve öfkeli bir adamdır.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "581",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tör",
+      "anlam": "Kuş ya da balık avlamakta kullanılan kapan ya da ağ",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "581",
+      "notlar": "İşba' söz konusudur.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "torîga",
+      "anlam": "Tarlakuşu",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "581",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "torpı",
+      "anlam": "Henüz bir yaşına gelmemiş buzağı",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "581",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "torplâdı",
+      "anlam": "Bir şey hakkında sormak, soruşturmak",
+      "ornek_metin": "er torplâdı nengni: Adam bir şey hakkında sordu soruşturdu.",
+      "cekimler": [
+        "torplâr",
+        "torplâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "581",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "torpun",
+      "anlam": "Araştırma, soruşturma; tahmin etme",
+      "ornek_metin": "anıg ewin torpınla (?): Onun evinin nerede olduğunu araştır.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "581",
+      "notlar": "",
+      "kontrol_gerekli": true
+    },
+    {
+      "kelime": "torpunlandt",
+      "anlam": "Bir meseleyi soruşturmak",
+      "ornek_metin": "er torpunlandt: Adam bir meseleyi soruşturdu.",
+      "cekimler": [
+        "torpunlanür",
+        "torpunlanmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "581",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "torqu",
+      "anlam": "İpek",
+      "ornek_metin": "tawgöç xânnıg torqusı telim teriglemedip bıçmâs: Çin Hakanının ipeği çoktur, ancak (kumaş yapmak için) kesmeden önce (o bile) ölçer.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "581",
+      "notlar": "Bu atasözü, birine, israftan kaçınmasını ve ölçülü olmasını öğütlemek için kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "torug",
+      "anlam": "Doru rengini anlatan, at anlamında kullanılan sözcük",
+      "ornek_metin": "bu oglânıgbir torugqa aldım : Bu köleyi bir at karşılığı satın aldım. / torug at: Doru at.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "582",
+      "notlar": "Kaplam söz konusu olduğu için develeri ya da sığırları anlatmak için de bu sözcük kullanılabilir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "torum",
+      "anlam": "Yeni doğmuş deve",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "582",
+      "notlar": "Dişisine, tişi torum denir - işba' söz konusudur.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "torumlug",
+      "anlam": "Yeni doğmuş bir deveye sahip olan adam",
+      "ornek_metin": "torumlug er: Yeni doğmuş bir deveye sahip olan adam.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "582",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tos tos",
+      "anlam": "Yumuşak bir şeye, örneğin kumaşa ya da keçeye vurulurken çıkan sesin yansıması",
+      "ornek_metin": "tos tos urdı: Böylesi bir ses çıkacak biçimde vurdu.",
+      "cekimler": [],
+      "kelime_turu": "ünlem",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "582",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tös tös",
+      "anlam": "Giysilerin üzerinden hızlı hızlı vurulma sesi",
+      "ornek_metin": "anı tös tös urdı: O, ona giysilerinin üzerinden hızlı hızlı vurdu.",
+      "cekimler": [],
+      "kelime_turu": "ünlem",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "582",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tosun",
+      "anlam": "Henüz binilmemiş tay",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "582",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "toşgurdı",
+      "anlam": "Doldurmak",
+      "ornek_metin": "ol ewin tawâr birle toşgurdı: O, evini malla doldurdu.",
+      "cekimler": [
+        "toşgurur",
+        "toşgurmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "582",
+      "notlar": "Küpü, su ya da benzer bir şeyle doldurmayı anlatmak için de bu sözcük kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "töy",
+      "anlam": "Ordunun konakladığı, çadır kurduğu yer; ordu karargâhı; ordugâh",
+      "ornek_metin": "xân töy: Hakanın çadır kurduğu yer; karargâh.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Oğuzlar bilmez",
+      "kaynak_sayfa": "582",
+      "notlar": "Oğuzlar bu sözcüğü bilmezler.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "töy",
+      "anlam": "İlaç olarak kullanılan bir ot",
+      "ornek_metin": "töy otı: İlaç olarak kullanılan bir ot.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "582",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "töy",
+      "anlam": "Kap kacak yapmakta kullanılan kil",
+      "ornek_metin": "toy eşiç: Çömlek.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "582",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "töy",
+      "anlam": "Toy kuşu",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Çigil lehçesi",
+      "kaynak_sayfa": "582",
+      "notlar": "Bu, lehçelerindeki d->y dönüşüm kurallarına dayanır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "toydı",
+      "anlam": "Karnı doymak",
+      "ornek_metin": "qarın toydı: Karın doydu.",
+      "cekimler": [
+        "toyâr",
+        "toymâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "582",
+      "notlar": "Kök-biçimi tödtı'dır; zel ye'ye dönüşmüştür, gündelik kullanıma aittir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "toyın",
+      "anlam": "Kâfirlerin din büyüğü, âlim veya müftü gibi",
+      "ornek_metin": "bîr toyın başı ağrısa, qamug toyın başı agrimös: (Müslüman olmayan) bir din büyüğünün başı ağrısa, bütün (Müslüman olmayan) din büyüklerinin başı ağrımaz.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "582-583",
+      "notlar": "Her zaman putların yanında bulunur ve kâfirlerin kitaplarını okur.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "töz",
+      "anlam": "Toz",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "583",
+      "notlar": "İşba' söz konusudur.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "töz",
+      "anlam": "Yayların etrafına sarılan, huş kabuğuyla yapılmış kayış",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "583",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tozardı",
+      "anlam": "Tozun yükselmesi",
+      "ornek_metin": "töz tozardı: Toz yükseldi.",
+      "cekimler": [
+        "tözdrur",
+        "tözarmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "583",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tozgırdı",
+      "anlam": "Toprağın üzerinden toz kalkacak duruma gelmesi, kuruması",
+      "ornek_metin": "yer tozgırdı: Toprak, üzerinden toz kalkacak duruma geldi [çok kurudu].",
+      "cekimler": [
+        "tozgırâr",
+        "tozgırmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "583",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tozıtgân",
+      "anlam": "Çok toz kaldıran at",
+      "ornek_metin": "bu at ol telim toprâıj tozıtgân: Bu, genellikle çok toz kaldıran bir attır.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "583",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tozıttı",
+      "anlam": "Toz kaldırmak, toprağı toza boğmak",
+      "ornek_metin": "ol toprâq tozıttı: O, toz kaldırdı [toprağı toza boğdu].",
+      "cekimler": [
+        "tozıtür",
+        "tozıtmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "583",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tögdi",
+      "anlam": "Ezerek öğütmek",
+      "ornek_metin": "er tüz tögdi: Adam tuzu [başka bir şeyi de olabilir] ezerek öğüttü.",
+      "cekimler": [
+        "töger",
+        "tögmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "583",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tögnedi",
+      "anlam": "Yarasını dağlamak",
+      "ornek_metin": "ol başın tögnedi: O, yarasını dağladı.",
+      "cekimler": [
+        "tögner",
+        "tögnemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "583",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tögun",
+      "anlam": "Dağlamak, yakarak işaret koymak",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "583",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tögüşdi",
+      "anlam": "Öğütme işinde yarışmak, yardımlaşmak",
+      "ornek_metin": "ol menig birle tüz tögüşdi: O, tuzu [başka bir şeyi de olabilir] öğütme işinde benimle yarıştı.",
+      "cekimler": [
+        "tögüşür",
+        "tögüşmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "583",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tögüz",
+      "anlam": "Alnında beyaz bir leke bulunan at",
+      "ornek_metin": "tögüz at: Alnında beyaz bir leke bulunan at.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "583",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tögüzlük",
+      "anlam": "Alnında beyaz bir leke bulunan at",
+      "ornek_metin": "at tögüzlüki ây bolmâs: Atın alnındaki beyaz leke ayın yerini tutmaz.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "583",
+      "notlar": "Bu atasözü, daha büyük bir şeyin yerine geçmesi için küçük bir şey isteyen kimse için kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tökdi",
+      "anlam": "Su dökmek",
+      "ornek_metin": "oglân süw tökdi: Oğlan su döktü. / oglân süw töker ulug yânı sınür: Oğlan çocuğu yere su döker, yaşlı adam (bu suda kayıp düşerek) bacağını kırar.",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "584",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tökleşdi",
+      "anlam": "Bir şeyler dökülmek, akmak",
+      "ornek_metin": "tökleşdi neng: Bir şeyler döküldü, aktı.",
+      "cekimler": [
+        "tökleşür",
+        "tökleşmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "584",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "töklündi",
+      "anlam": "Su dökülmek",
+      "ornek_metin": "süw töklündi: Su döküldü.",
+      "cekimler": [
+        "töklünur",
+        "töklünmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "584",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "töktürdi",
+      "anlam": "Dökülmesini emretmek",
+      "ornek_metin": "ol sûw töktürdi: O, suyun [başka bir şeyin de olabilir] dökülmesini emretti.",
+      "cekimler": [
+        "töktürür",
+        "töktürmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "584",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "töküklüg",
+      "anlam": "Dökülmüş buğday ya da başka bir şey",
+      "ornek_metin": "töküklüg tarıg: Dökülmüş buğday ya da başka bir şey.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "584",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "töküldi",
+      "anlam": "Su, buğday veya un gibi taneli şeylerin dökülmesi",
+      "ornek_metin": "sûw töküldi: Su döküldü.",
+      "cekimler": [
+        "tökülür",
+        "tökülmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "584",
+      "notlar": "Bu eylem hem geçişli hem de geçişsizdir [hem edilgen hem de etken].",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "töküşdi",
+      "anlam": "Buğdayı dökmekte yardım etmek, rekabet etmek veya suyu etrafa saçacak biçimde dökmek",
+      "ornek_metin": "ol manga tarıg töküşdi: O, (harmanı dövmek için) buğdayı (kümeler halinde) dökmekte bana yardım etti.",
+      "cekimler": [
+        "töküşür",
+        "töküşmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "584",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "töl",
+      "anlam": "Yavrulama mevsimi veya yavru",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Oğuz lehçesi",
+      "kaynak_sayfa": "584",
+      "notlar": "İmâle söz konusudur.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "töledi",
+      "anlam": "Dişi koyunun yavrulamsı",
+      "ornek_metin": "qöy töledi: Dişi koyun yavruladı.",
+      "cekimler": [
+        "töler",
+        "tölemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "Oğuz lehçesi",
+      "kaynak_sayfa": "584",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tölek",
+      "anlam": "Sessiz, rahat, sakin",
+      "ornek_metin": "aç ewek toq tölek: Aç (yemek için) telaşlı, tok sakin olur [yemek geç kalırsa sinirlenmez].",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "Oğuz lehçesi",
+      "kaynak_sayfa": "584",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "töletti",
+      "anlam": "Dişi koyuna yavrularken yardımcı olmak",
+      "ornek_metin": "ol qöy töletti: O, dişi koyuna yavrularken yardımcı oldu.",
+      "cekimler": [
+        "töletur",
+        "töletmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "Oğuz lehçesi",
+      "kaynak_sayfa": "584-585",
+      "notlar": "Kök-anlamı “kışlık asıl sesçil imini vurgulama” söz konusudur.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tondi",
+      "anlam": "Evine dönmek",
+      "ornek_metin": "ol ewirige töndi: O, evine döndü.",
+      "cekimler": [
+        "töner",
+        "tönmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "Oğuz lehçesi",
+      "kaynak_sayfa": "585",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "töngderdi",
+      "anlam": "Kabı döndürmek, ters çevirmek",
+      "ornek_metin": "ol ayâq töngderdi: O, kabı [başka bir şeyi de olabilir] döndürdü [ters çevirdi].",
+      "cekimler": [
+        "törigderür",
+        "törigdermek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "585",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "top",
+      "anlam": "Arpa unuyla karıştırılıp yoğrularak hamur haline getirilen ve keçeden yapılmış bir beze sarılarak mayalanması için sıcak bir yere bırakılan haşlanmış buğday",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "585",
+      "notlar": "Daha sonra bu karışım yenir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "töpü",
+      "anlam": "Bir dağın zirvesi (tâg töpüsi)",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "585",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "töpü",
+      "anlam": "İnsanın başının tepesi",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "585",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "töpüledi",
+      "anlam": "Düşmanın başının tepesine vurmak, tepelemek",
+      "ornek_metin": "ol yağını töpüledi: O, düşmanın başının tepesine vurdu [düşmanını tepeledi].",
+      "cekimler": [
+        "töpüler",
+        "töpülemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "585",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "tör",
+      "anlam": "Evin saygı duyulan kimselere ayrılmış en önemli yeri",
+      "ornek_metin": "törke keç: Evin başköşesine geç.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "585",
+      "notlar": "İşmâm söz konusudur.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "törçidi",
+      "anlam": "İşe başlamak",
+      "ornek_metin": "er ış törçidi: Adam işe başladı.",
+      "cekimler": [
+        "törçîr",
+        "törçîmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "585",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "törçitti",
+      "anlam": "İşe başlatmak",
+      "ornek_metin": "ol angar iş törçitti: O, onu işe başlattı.",
+      "cekimler": [
+        "törçitür",
+        "törçitmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "585",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "törigitti",
+      "anlam": "Başını eğmek",
+      "ornek_metin": "er başın töngitti: Adam başını eğdi.",
+      "cekimler": [
+        "törigitür",
+        "törigitmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "585",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "törigre",
+      "anlam": "Yüzüstü düşmek",
+      "ornek_metin": "er törigre tüşti: Adam yüzüstü düştü.",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "585",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "törigüşdi",
+      "anlam": "Başını eğmek",
+      "ornek_metin": "er törigüşdi: Adam başını eğdi.",
+      "cekimler": [
+        "törigüşür",
+        "törigüşmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "585",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "törigütti",
+      "anlam": "Başını eğmek",
+      "ornek_metin": "er başın töngütti: Adam [başka biri de olabilir] başını eğdi.",
+      "cekimler": [
+        "törigütûr",
+        "törigütmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "585",
+      "notlar": "",
+      "kontrol_gerekli": false
+    }
+  ]
+}

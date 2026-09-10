@@ -1,0 +1,828 @@
+{
+  "chunk_no": 50,
+  "kaynak_sayfa_baslangic": 325,
+  "kaynak_sayfa_bitis": 329,
+  "kelimeler": [
+    {
+      "kelime": "körse",
+      "anlam": "Yüze bakma, insandaki erdeme ve terbiyeye bak.",
+      "ornek_metin": "yüzke körme erdem tik: Yüze (ve onun solgun haline) bakma, (insanın içindeki) erdeme ve terbiyeye bak.",
+      "cekimler": [],
+      "kelime_turu": "belirsiz",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "325",
+      "notlar": "Şu atasözünde de geçer",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "körge",
+      "anlam": "Tahtadan yapılmış tabak.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Kençek lehçesi",
+      "kaynak_sayfa": "325",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "körgitti",
+      "anlam": "Gösterdi.",
+      "ornek_metin": "ol manga neng körgitti: O, bana bir şey gösterdi.",
+      "cekimler": [
+        "körgitür",
+        "körgitmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "325",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "körişdi",
+      "anlam": "Birbirimize baktık, birbirini gördü.",
+      "ornek_metin": "o! menig birle kûrişdi: O ve ben birbirimize baktık. Birbirini görmeyi anlatmak için de bu sözcük kullanılır.",
+      "cekimler": [
+        "körişür",
+        "körişmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "325",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "körk",
+      "anlam": "Güzellik.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "325",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "körklüg",
+      "anlam": "Güzel.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "325",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "körketti",
+      "anlam": "Güzelleşti.",
+      "ornek_metin": "qîzkörketti: Kız güzelleşti.",
+      "cekimler": [
+        "körketur",
+        "körketmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "325",
+      "notlar": "Kök-biçimi körhedti’dir, benzeşime maruz kalmıştır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "körpe",
+      "anlam": "Geç filizlenmiş bitki, geç olgunlaşan meyve, mevsimi geçtikten sonra doğan kuzu, deve, buzağı ve yazın doğan çocuk.",
+      "ornek_metin": "körpe öt: Geç filizlenmiş bitki; körpe yemiş: Geç olgunlaşan meyve. Bu, ilk ortaya çıktığı dönem geçtikten sonra gelişen bir şeyi anlatmak için kullanılır. Benzer bir şekilde “yazın doğan çocuk\"a körpe oğul denir. “Mevsimi geçtikten sonra doğan kuzu, deve ve buzağı”ya da körpe denir.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "325",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "körpeledi",
+      "anlam": "Körpe çimeni yedi.",
+      "ornek_metin": "at körpeledi: At körpe çimeni yedi.",
+      "cekimler": [
+        "körpeler",
+        "körpelemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "325",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "körpelendi",
+      "anlam": "Bitki geç filizlendi.",
+      "ornek_metin": "ot körpelendi: Bitki geç filizlendi.",
+      "cekimler": [
+        "körpelenür",
+        "körpelenmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "325",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "körpledi",
+      "anlam": "Toprağa açtığı bir çukurda kuzuyu kızarttı.",
+      "ornek_metin": "o! qozı körpledi: O, toprağa açtığı bir çukurda kuzuyu kızarttı.",
+      "cekimler": [
+        "körpler",
+        "körplemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "325",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "körsedim",
+      "anlam": "Buluşmak, görüşmek istedi.",
+      "ornek_metin": "men anı körsedim: Ben onunla buluşmak, görüşmek istedim.",
+      "cekimler": [
+        "kör ser men",
+        "körsemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "325",
+      "notlar": "Kök-biçimi körûgsedim’dir. Burada akıcı yazaçlara ilişkin bir kural söz konusudur, “bir şeyi isteme”yi (temenni) ifade etmek için eylem gövdesine -gse eki getirilir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "körtürdi",
+      "anlam": "Görmesini sağladı.",
+      "ornek_metin": "ol angar nerig körtürdi: O, onun belli bir şeyi görmesine sağladı.",
+      "cekimler": [
+        "körtürür",
+        "körtürmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "326",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "körügsedi",
+      "anlam": "Görüşmek istedi.",
+      "ornek_metin": "ol meni körügsedi: O, benimle görüşmek istedi.",
+      "cekimler": [
+        "körügser",
+        "körügsemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "326",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "körük",
+      "anlam": "Körük.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "326",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "körükledi",
+      "anlam": "Ateşi körükledi.",
+      "ornek_metin": "ol ötug körükledi: O, ateşi körükledi.",
+      "cekimler": [
+        "körükler",
+        "körüklemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "326",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "körüldi",
+      "anlam": "Bakıldı, izlendi.",
+      "ornek_metin": "körüldi nerig: Nesneye bakıldı; nesne izlendi.",
+      "cekimler": [
+        "körlür",
+        "körülmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "326",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "körürig",
+      "anlam": "Kâşgar'a yakın küçük bir gölün adı.",
+      "ornek_metin": "körüng köl: Kâşgat'a yakın küçük bir gölün adı.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "326",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "körürig",
+      "anlam": "Kâşgar Dağlarında, Tez yaylasında bulunan bir gölün adı.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "326",
+      "notlar": "Çevresi 30 fersahtır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "körünç",
+      "anlam": "İzleyici ya da seyirciler.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "326",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "köründi",
+      "anlam": "Beyle görüştü, uzaktan karaltı biçiminde belirdi.",
+      "ornek_metin": "ol begke köründi: O, beyle görüştü. tdg köründi: Dağ İbaşka bir şey de olabilir] göründü.",
+      "cekimler": [
+        "köm ür",
+        "hörünmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "326",
+      "notlar": "Uzaktan karaltı biçiminde beliren herhangi bir şeyi anlatmak için de bu sözcük kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "körüş",
+      "anlam": "Bakış, görüş.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "326",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kösgük",
+      "anlam": "Kem gözlerden sakınmak için küçük bahçelere ve üzüm bağlarına dikilen korkuluk.",
+      "ornek_metin": "âlin arslân tutâr küçün kösgük tutmös: Hileyle aslan bile yakalanır, ama zor kullanarak korkuluk bile yakalanamaz.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "326",
+      "notlar": "Şu atasözünde de geçer",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kösrük",
+      "anlam": "Atın önayaklarına vurulan köstek.",
+      "ornek_metin": "kösrüfc tuşdg: Atın önayaklarına vurulan köstek",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "326",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kösüldi",
+      "anlam": "Ayaklarını uzattı.",
+      "ornek_metin": "er adaq kösüldi: Adam ayaklarını uzattı. yogurqanda artuq adaq kösüise üşiyür: Ayak yorgandan fazla uzatılırsa üşür.",
+      "cekimler": [
+        "kösülûr",
+        "kösülmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "326",
+      "notlar": "Bu atasözü insana haddini bilmesini öğütlemek için kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kösürdi",
+      "anlam": "Atın önayaklarını köstekledi.",
+      "ornek_metin": "ol atıg kösürdi: O, atın önayaklarını köstekledi.",
+      "cekimler": [
+        "kösrür",
+        "kösürmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "327",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kösürge",
+      "anlam": "Bir tür sıçan.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "327",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kösürgek",
+      "anlam": "Evine misafir geldiği zaman canı sıkılan, içi daralan kimse.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "327",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kösürgen",
+      "anlam": "Bir tür köstebek.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "327",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "köşerdi",
+      "anlam": "Su birikintisi ağzına kadar doldu, taştı.",
+      "ornek_metin": "köl köşerdi: Su birikintisi ağzına kadar doldu. kölnig suwm köşerdi: Gölcükler taşacak kadar doldu",
+      "cekimler": [
+        "köşerûr",
+        "köşermek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "327",
+      "notlar": "Ağzına kadar suyla dolu olan, neredeyse taşacak durumdaki kapları anlatmak için de bu sözcük kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "köşidi",
+      "anlam": "Duvar güneşi kapattı, güneş ışınlarının gelişine engel oldu.",
+      "ornek_metin": "tam künüg köşıdi: Duvar güneşi kapattı - güneş ışınlarının gelişine engel oldu.",
+      "cekimler": [
+        "köşlr",
+        "köşımek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "327",
+      "notlar": "Işığın gelişini engelleyen herhangi bir şeyi anlatmak için de bu sözcük kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "köşıge",
+      "anlam": "Zayıf gölge.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "327",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "köşik",
+      "anlam": "Örtü, perde.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "327",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "köşiklig",
+      "anlam": "Gölgelik yer.",
+      "ornek_metin": "köşikligyer: Gölgelik yer.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "327",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "köşindi",
+      "anlam": "Kendini güneşten korumak için gölgeye çekildi.",
+      "ornek_metin": "er kûnke köşindi: Adam kendini güneşten korumak için gölgeye çekildi.",
+      "cekimler": [
+        "köşinür",
+        "köşinmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "327",
+      "notlar": "Birinden saklanmayı anlatmak için de bu sözcük kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "köşitti",
+      "anlam": "Bulut gökyüzünü kapladı.",
+      "ornek_metin": "bulıt köküg köşitti: Bulut gökyüzünü kapladı.",
+      "cekimler": [
+        "köşitür",
+        "köşitmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "327",
+      "notlar": "Herhangi bir şeyi örten başka bir şeyi anlatmak için bu sözcük kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "köt",
+      "anlam": "Kıç; zaman ya da sıra bakımından daha sonra gelen.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "327",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kötiç",
+      "anlam": "Ah kokan göt (genç bir çocuğa söverken kullanılır).",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "328",
+      "notlar": "köt sözcüğünden türetilmiştir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kötki",
+      "anlam": "Toprak yığın, tepecik.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "328",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kötledi",
+      "anlam": "Oğlan çocuğuyla ters ilişkiye girdi, gulamperestlik yaptı.",
+      "ornek_metin": "oglânıg kötledi: O, oğlan çocuğuyla ters ilişkiye girdi - gulamperestlik yaptı.",
+      "cekimler": [
+        "kötler",
+        "kötlemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "328",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kotletti",
+      "anlam": "Oğlan çocuğuyla ters ilişkiye girilmesine izin verdi, gulamperestliğe ön ayak oldu.",
+      "ornek_metin": "ol oglânıg kotletti : O, oğlan çocuğuyla [başka biriyle de olabilir] ters ilişkiye girilmesine izin verdi - gulamperestliğe ön ayak oldu.",
+      "cekimler": [
+        "kotlettir",
+        "kötletmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "328",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kötlük",
+      "anlam": "Seni gidi yüreksiz (bir sövgü sözcüğü).",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "328",
+      "notlar": "Gerçek anlamı \"seni gidi gulam\"dır (ters cinsel ilişki kurmak için sahip olunan genç oğlan çocuğu ya da köle).",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kötrüm",
+      "anlam": "Üzerine oturulan kanepe.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "328",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kötrüşdi",
+      "anlam": "Yükü kaldırma işinde yardım etti.",
+      "ornek_metin": "ol manga yük kötrüşdi: O bana yükü [başka bir şeyi de olabilir] kaldırma işinde yardım etti.",
+      "cekimler": [
+        "kötrüşür",
+        "kötrüşmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "328",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kötürdi",
+      "anlam": "Yükü taşıdı, hamile kaldı.",
+      "ornek_metin": "er yük kötürdi: Adam yükü taşıdı. Hamile bir kadın için de bu sözcük kullanılır. tewe yük kötürse qamıç yeme kötrür: Deve (bütün bu) yükü taşıyabiliyorsa, (küçük) bir kaşığı da taşıyabilir.",
+      "cekimler": [
+        "kötrür",
+        "kötürmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "328",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kötürgen",
+      "anlam": "İyi yük taşır.",
+      "ornek_metin": "bu buğra ol yük kötürgen: Bu damızlık deve iyi yük [başka bir şey de olabilir] taşır.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "328",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kötürgü",
+      "anlam": "Taşıma, nakil.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "328",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "kövüz",
+      "anlam": "Kilim, yünden dokunmuş şilte ya da örtü.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "328",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "köwij",
+      "anlam": "Ağacın oyuğu, söğüdün çürümüş kısmı.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "328",
+      "notlar": "iki eklemleme noktası arasındaki ze'yle (j).",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "köwij turma",
+      "anlam": "Çürümüş turp ya da tadı bozulan herhangi bir şey.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "328",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "köwiz",
+      "anlam": "Kilim.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "328",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "köwre",
+      "anlam": "Ölü bir hayvanın, iç organları çürümüş ve kemiklerin üzerinde kurumuş et parçaları kalmış bedeni.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "328",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "köwşek",
+      "anlam": "Yumuşak et.",
+      "ornek_metin": "köwşek et: Yumuşak et.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "328",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "köwşek",
+      "anlam": "İyi mayalanmış hamurdan yapılan ekmek.",
+      "ornek_metin": "köwşek etmek: İyi mayalanmış hamurdan yapılan ekmek.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "329",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "köwürgen (kömürgen)",
+      "anlam": "Dağ soğanı.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Oğuz lehçesi",
+      "kaynak_sayfa": "329",
+      "notlar": "Oğuzlar buna kömürgen der.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "köyde",
+      "anlam": "Tasfiye etmek için altın ve gümüş filizlerinin eritildiği kazan.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "329",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "köydi",
+      "anlam": "Yandı.",
+      "ornek_metin": "Otung köy di: Odun [başka bir şey de olabilir] yandı.",
+      "cekimler": [
+        "köyer",
+        "köymek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "329",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "köytürdi",
+      "anlam": "Yakılmasını emretti.",
+      "ornek_metin": "ol amg tönın köylürdi: O, onun giysisinin [başka bir şeyin de olabiliri yakılmasını emretti.",
+      "cekimler": [
+        "köytürür",
+        "köytümek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "329",
+      "notlar": "Bu bozulmuş (lûga gayrifasîha) bir sözcüktür [bkz. koyurdı].",
+      "kontrol_gerekli": true
+    },
+    {
+      "kelime": "köyük",
+      "anlam": "Yanan bir şey.",
+      "ornek_metin": "köyük neng: Yanan bir şey.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "329",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "köyürdi",
+      "anlam": "Yaktı.",
+      "ornek_metin": "er otung köyürdi: Adam odunu [başka bir şeyi de olabiliri yaktı.",
+      "cekimler": [
+        "köyrür",
+        "köyürmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "329",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "köz",
+      "anlam": "Göz.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "329",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "közedi",
+      "anlam": "Ateşi maşayla karıştır.",
+      "ornek_metin": "ol öt közedi: O, ateşi maşayla kanştırdı.",
+      "cekimler": [
+        "közer",
+        "közemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "329",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "közedi",
+      "anlam": "Salkımından üzüm koparttı.",
+      "ornek_metin": "ol üzümm közedi: O, salkımından üzüm koparttı.",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "329",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "közegü",
+      "anlam": "Köseği (ateşi karıştırmakta kullanılan demir ya da odundan çubuk).",
+      "ornek_metin": "közegü uzun bolsa elig köymes: Köseği uzun olursa, el yanmaz.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "329",
+      "notlar": "Bu atasözü kendisi dinlendiği zamanlarda onun işlerini çekip çeviren oğullara, hizmetkârlara sahip kişiyi anlatmak için kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "közeşti",
+      "anlam": "Ateşi karıştırmakta yardım etti, boy ölçüştü.",
+      "ornek_metin": "ol manga öt közeşti: O, bana ateşi kanştırmakta yardım etti.",
+      "cekimler": [
+        "közeşür",
+        "közeşmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "329",
+      "notlar": "Bu işte boy ölçüşmeyi anlatmak için de bu sözcük kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "közetlig",
+      "anlam": "Korunan, sakınılan bir şey.",
+      "ornek_metin": "közetlig neng: Korunan, sakınılan bir şey.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "329",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "közetti",
+      "anlam": "Bekledi.",
+      "ornek_metin": "ol meni közetti: O, beni bekledi.",
+      "cekimler": [
+        "közetür",
+        "közetmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "329",
+      "notlar": "Bu sözcüğün kökü köz attı: O (beklerken) gözlerini benim üzerime dikti'dir.",
+      "kontrol_gerekli": false
+    }
+  ]
+}

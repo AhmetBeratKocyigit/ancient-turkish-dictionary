@@ -1,0 +1,891 @@
+{
+  "chunk_no": 133,
+  "kaynak_sayfa_baslangic": 657,
+  "kaynak_sayfa_bitis": 661,
+  "kelimeler": [
+    {
+      "kelime": "yamız",
+      "anlam": "Cinsel organın her iki yanında, uyluğun içten en üst kesiminde yer alan bölge [kasık]",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "657",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yamlâdı",
+      "anlam": "Süpürdü",
+      "ornek_metin": "ol ewin yamlâdı: O, evini süpürdü.",
+      "cekimler": [
+        "yamlâr",
+        "yamlâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "657",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yamlân",
+      "anlam": "Bir tür sıçan",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "657",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yamlaşdı",
+      "anlam": "Süpürme işinde yardım etti",
+      "ornek_metin": "ol angar ew yamlaşdı : O, ona evi [başka bir yeri de olabilir] süpürme işinde yardım etti.",
+      "cekimler": [
+        "yamlaşür",
+        "yamlaşmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "657",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yamlattı",
+      "anlam": "Evinin süpürülmesini emretti",
+      "ornek_metin": "ol evsin yamlattı: O, evinin süpülmesini emretti.",
+      "cekimler": [
+        "yamlatür",
+        "yamlatmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "657",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yamlıg",
+      "anlam": "Toz kaçmış göz",
+      "ornek_metin": "yamlıg köz: Toz kaçmış göz. Kök-biçimi yâm lıgm .",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "657",
+      "notlar": "Kök-biçimi yâm lıgm.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yamraşdı",
+      "anlam": "Dişi koyunlarla kanştı (kaynaştı)",
+      "ornek_metin": "qözı yamraşdı: Kuzular dişi koyunlarta kanştı (kaynaştı). Şu dörtlükte de kullanılır, (Yazı anlatıyor) qoçrigâr teke seşildi (Yazın gelişiyle) koç ve tekeler (dişi ve koyun ve keçilerden) ayrıldı saglıq sürüg qoşuldt Sağılmak için dişi koyun sürüleri birleştirildi sütler qamug yuşuldı (Memelerden) bolca süt aktı oglaq qözı yamraşür Oğlaklar ve kuzular (süt emmek için) anneleriyle kaynaşır",
+      "cekimler": [
+        "yamraşür"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "657",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yamu",
+      "anlam": "“Bu sözleri kabul ettin ve sana söylenen şeyi yapmak için bunları iyice anladın mı?” anlamına gelen bir ilgeç",
+      "ornek_metin": "sen bargıl yamu: Gideceksin, değil mi?",
+      "cekimler": [],
+      "kelime_turu": "ilgeç",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "657",
+      "notlar": "Bunun kökü, “evet” anlamına gelen bir ilgeç olan yah sözcüğüdür. Sondaki mîm (m) ve vav (u) [ya (yah)-mu] soru ekidir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yân",
+      "anlam": "Kalça kemiğinin uçları. Kalça kemiğinin kendisine de yân denir",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "657",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yana",
+      "anlam": "Yine; ikinci kez",
+      "ornek_metin": "yana keldi: Yine [ikinci kez] geldi",
+      "cekimler": [],
+      "kelime_turu": "ilgeç",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "657",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yana",
+      "anlam": "Geri dönme",
+      "ornek_metin": "yana keldim: Geri döndüm, ikinci kez geldim",
+      "cekimler": [],
+      "kelime_turu": "ilgeç",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "657",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yançıldı",
+      "anlam": "Ezildi",
+      "ornek_metin": "qâgün yançıldı (yençildi): Kavun (ya da benzer bir şey) ezildi.",
+      "cekimler": [
+        "yançılür",
+        "yançılmâq",
+        "yençilür",
+        "yençilmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "657",
+      "notlar": "Yençildi şeklinde de söylenir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yançuq",
+      "anlam": "Kese",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "657",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yandaq tiken",
+      "anlam": "Kitre ağacı [geven]",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "657",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yandaq çeker",
+      "anlam": "Farsîlerin kudret helvası [terencübîn]",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "658",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yandı",
+      "anlam": "Seyahatten (başka bir yerden de olabilir) döndü",
+      "ornek_metin": "er yoldan yandı : Adam seyahatten Ibaşka bir yerden de olabiliri döndü.",
+      "cekimler": [
+        "yanar",
+        "yanmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "658",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yandı",
+      "anlam": "Tehdit etti",
+      "ornek_metin": "beg anı yandı: Bey [başka biri de olabilir] onu tehdit etti. Şu atasözünde de geçer, yalnguq menggû tirilmes, sınqa kirip kerü yanm âs: Âdemoğlu sonsuza dek yaşayamaz, mezara bir kez girdikten sonra oradan geri dönüş yoktur.",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "658",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yandı",
+      "anlam": "Ateş alevlendi",
+      "ornek_metin": "öt yandı: Ateş alevlendi",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "Qıfçâq lehçesi",
+      "kaynak_sayfa": "658",
+      "notlar": "I'li biçimin [yaldı] değişik sesletimidir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yandı",
+      "anlam": "Kustu",
+      "ornek_metin": "er yandı: Adam kustu.",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "658",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yandıq",
+      "anlam": "Bir kusuru, sakatlığı olan at",
+      "ornek_metin": "yandıcj at: Bir kusuru, sakatlığı olan at.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "658",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yandurdı",
+      "anlam": "Eve (başka bir yere de olabilir) döndürdü",
+      "ornek_metin": "ol anı ewke yandurdı: O, onu eve [başka bir yere de olabilir] döndürdü.",
+      "cekimler": [
+        "yandurur",
+        "yandurmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "658",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yandurdı",
+      "anlam": "Kustu",
+      "ornek_metin": "er yandurdı: Adam kustu",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "658",
+      "notlar": "Yandı sözcüğünün değişik sesletimidir. Tehdit etme'yi anlatmak için de bu sözcük [yandurdı] kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yanıg",
+      "anlam": "Kusma",
+      "ornek_metin": "ol yanıg yandı: O, çok kustu",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "658",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yanıg",
+      "anlam": "Tehdit",
+      "ornek_metin": "beg yangında tüşme: Beyin [başka birinin de olabilir) tehdidine maruz kalma.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "658",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yanlıq",
+      "anlam": "Çoban heybesi",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "658",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yanüdı",
+      "anlam": "Bıçağı (ya da kılıcı ya da benzer bir şeyi) biledi",
+      "ornek_metin": "er biçek yanüdı: Adam bıçağı (ya da kılıcı ya da benzer bir şeyi) biledi.",
+      "cekimler": [
+        "yanür",
+        "yanûmâcj"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "658",
+      "notlar": "Bu, bıçağın usta eline teslim edilip onarılmasını ve bilenmesini anlatır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yanuldı",
+      "anlam": "Bıçak [başka bir şey de olabilir] elden geçirildi ve bilendi",
+      "ornek_metin": "biçek yanuldı: Bıçak [başka bir şey de olabilir] elden geçirildi ve bilendi.",
+      "cekimler": [
+        "yanülur",
+        "yanulmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "658",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yanüt",
+      "anlam": "Yanıt",
+      "ornek_metin": "sozyanütı: Bir söze verilen karşılık",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "659",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yanut",
+      "anlam": "Karşılık (ivaz); bedel",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "659",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yanuttı",
+      "anlam": "Bıçağın bilenmesini ya da elden geçirilmesini emretti",
+      "ornek_metin": "ol angar biçek yanuttı: O, bıçağın bilenmesini ya da elden geçirilmesini emretti.",
+      "cekimler": [
+        "yanutür",
+        "yanutmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "659",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yang",
+      "anlam": "Bir şeyin kalıbı ya da örneği; aynı şekle sahip başka bir şey yapmak için ölçülerin alınmasında kullanılır",
+      "ornek_metin": "bork yangı: Başlık kalıbı - kâğıttan üçgenler veya yuvarlaklar kesilir ya da kilden topa benzer bir şey şekillendirilir ve başlık yapılacak ipekli kumaş bunlar uyarınca ölçülerek kesilir. Herhangi bir şeyin kalıbı da bu şekilde kullanılır",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "659",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yariga",
+      "anlam": "Bir nehrin kıyısı; bir arkın kenarı",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Oğuz lehçesi",
+      "kaynak_sayfa": "659",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yangalduruq",
+      "anlam": "Kepeneğin omuz bölgesine dikilen ve bir tipi ya da fırtınadan korunmak için başın üzerine örtülen keçe parçası",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "659",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yarigân",
+      "anlam": "Fil",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Oğuzlar",
+      "kaynak_sayfa": "659",
+      "notlar": "Oğuzlar bu sözcüğü bilmez [bkz. yagân]",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yangâq",
+      "anlam": "Dişlerin ağzın her iki yanında üzerine dizildiği kemik [yanak kemiği]",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "659",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yarfgâq",
+      "anlam": "Herhangi bir şeyin yanı. Buradan hareketle “kapının yanında bulunan direkler”e qapugyarigâqı denir",
+      "ornek_metin": "qapugyarigâqı: kapının yanında bulunan direkler",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "659",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yangı",
+      "anlam": "Herhangi bir şeyin yeni olanı",
+      "ornek_metin": "yangı nerig: Herhangi bir şeyin yeni olanı",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "659",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yangîla",
+      "anlam": "Yeniden yaptı; yeniden başladı",
+      "ornek_metin": "ol işıg yangîla qıldı: O, işi yeniden yaptı; yeniden başladı",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "659",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yangîlâdı",
+      "anlam": "Giysisini [başka bir şeyi de olabilir] onararak yeniledi",
+      "ornek_metin": "ol tonın yarigîlâdı: O, giysisini [başka bir şeyi de olabilir] onararak yeniledi",
+      "cekimler": [
+        "yangılar",
+        "yarigîlâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "659",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yangılgân",
+      "anlam": "Yapmaya başladığı her işi unutan ya da yanlış yapan adam",
+      "ornek_metin": "yangilgün er: Yapmaya başladığı her işi unutan ya da yanlış yapan adam.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "659",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yangluq",
+      "anlam": "Olaylarda, konuşmada ya da eylemlerde ortaya çıkan bir hata",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "659",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yarigqu",
+      "anlam": "Yankı",
+      "ornek_metin": "yazmâs atm yağmur, yarigılmâs bilge yarigqu: Kusursuz abcı yağmurdur (çünkü hedefi oldukça geniş olan yeryüzüdür, bu nedenle hedefini asla ıskalamaz), yanılmaz bilge ise yankıdır (çünkü ne söylediyseniz yanıt olarak size tam olarak aynısı verir).",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "659",
+      "notlar": "Bu atasözü, hata yapan bir kimse adına özür dilemek için söylenir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yangqülâdı",
+      "anlam": "Dağ yankıladı. Bu, bağırdığın sesi sana geri yansıtarak dağın yanıt vermesi durumunu anlatır",
+      "ornek_metin": "tâgyarigqülâdı: Dağ yankıladı.",
+      "cekimler": [
+        "yangqülâr",
+        "yarigqülâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "659-660",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yangqurdı",
+      "anlam": "Adam sanki bir ses ya da çağrı duymuş gibi sağma soluna bakındı",
+      "ornek_metin": "er yangqurdı: Adam sanki bir ses ya da çağrı duymuş gibi sağma soluna bakındı.",
+      "cekimler": [
+        "yarigqurâr",
+        "yangqurmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "660",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yarigrâdı",
+      "anlam": "Bir sır olarak saklanması gereken bir şey söyledi",
+      "ornek_metin": "ol bir söz yarigrâdı: O, bir sır olarak saklanması gereken bir şey söyledi.",
+      "cekimler": [
+        "yangrâr",
+        "yarigrâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "660",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yangraq",
+      "anlam": "Dibinde insanın üzerinden atlayarak ya da benzer yöntemlerle aşabileceği bir su akan sarp dağ vadisi",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "660",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yarigrattı",
+      "anlam": "Ona bir sır olarak saklanması gereken sözü söyletti",
+      "ornek_metin": "ol angar sözü-g yangrattı: O, ona bir sır olarak saklanması gereken sözü söyletti.",
+      "cekimler": [
+        "yarigratûr",
+        "yangratmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "660",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yarigşaq",
+      "anlam": "Geveze bir adam",
+      "ornek_metin": "yangşaq er: Geveze bir adam",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "660",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yarigşattı",
+      "anlam": "Onun kulaklarını uğuldatacak ve başını ağrıtacak kadar çok konuştu",
+      "ornek_metin": "ol anıg başın yarigşattı: O, onun kulaklarını uğuldatacak ve başını ağrıtacak kadar çok konuştu.",
+      "cekimler": [
+        "yangşatür",
+        "yangşatmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "660",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yâp yöp",
+      "anlam": "Hile; üçkâğıt",
+      "ornek_metin": "yâpyöp qıldı: Hile yaptı",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "660",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yap",
+      "anlam": "Herhangi bir şeyin yuvarlak olanı",
+      "ornek_metin": "yap yarmâq yöq: Hiç yuvarlak param -değerini kaybetmemiş, sağlam param- yok.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "660",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yap",
+      "anlam": "Kırpık yün; yapağı",
+      "ornek_metin": "yüng yap: Yün ve yapağı",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "660",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yapang",
+      "anlam": "Yutan kum; batak. Bu, hayvanların bacaklarının içine battığı kumluk bir alandır",
+      "ornek_metin": "yapang yer: Yutan kum; batak.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "660",
+      "notlar": "Hayvanı buradan çıkarmak oldukça zordur.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yapâqu",
+      "anlam": "Kırpık yün; yapağı",
+      "ornek_metin": "Saçlar keçeleşir, birbirine dolanırsa yapâqu boldı denir",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "660",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yapâqu",
+      "anlam": "Kâşgar dağlanndan çıkarak Fergâna Özçend [özkend] boyunca akan bir nehir",
+      "ornek_metin": "yapâqu sûwı: Kâşgar dağlanndan çıkarak Fergâna Özçend [özkend] boyunca akan bir nehir.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "660",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yapâqulâq",
+      "anlam": "Yüksek ateş nedeniyle titreme",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Yabâqu ve Yemek lehçelerinde",
+      "kaynak_sayfa": "660",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yapâqulaq",
+      "anlam": "Baykuş",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Yabâqu ve Yemek lehçelerinde",
+      "kaynak_sayfa": "660",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yapçundı",
+      "anlam": "Okun tüyüne zamk yapıştırıldı",
+      "ornek_metin": "oqqayelim yapçundı: Okun tüyüne zamk yapıştınldı - Tüye zamk sürülerek oka yapıştırıldı.",
+      "cekimler": [
+        "yapçunür",
+        "yapçunmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "660-661",
+      "notlar": "Hem şm’lı (ş) [yapşundı] hem de fe ’li (w) [yawçundı] değişik sesletimleri vardır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yapçurdı",
+      "anlam": "Tüyü oka yapıştırdı",
+      "ornek_metin": "ol öqqayüg yapçurdı: O,tüyü oka yapıştırdı",
+      "cekimler": [
+        "yapçurur",
+        "yapçurmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "661",
+      "notlar": "fe’yle (w) söylenen yawçurdı bir değişik sesletimdir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yapgâq",
+      "anlam": "Kuş avlamakta kullanılan bir tür tuzak",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "661",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yapguç",
+      "anlam": "Eşek ve benzer hayvanları sürerken kullanılan bir değnek",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "661",
+      "notlar": "Ayrıca bkz. yaptaç",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yapgut",
+      "anlam": "Yastık; kırpık yün ya da kıl",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "661",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yapı",
+      "anlam": "Eyer örtüsü",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Çigil lehçesi",
+      "kaynak_sayfa": "661",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yapıglıg",
+      "anlam": "Sürgü vurulmuş [kapalı] kapı",
+      "ornek_metin": "yapıghg qapug: Sürgü vurulmuş [kapalı] kapı",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "661",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yapındı",
+      "anlam": "Kendini bir kalkanla korudu - kalkanla örtündü",
+      "ornek_metin": "er qalqan yapındı: Adam kendini bir kalkanla korudu - kalkanla örtündü.",
+      "cekimler": [
+        "yapınür",
+        "yapınmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "661",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yapındı",
+      "anlam": "Kapıyı kendi başına kapattı",
+      "ornek_metin": "ol qapugyapındı: O, kapıyı kendi başına kapattı.",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "661",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yaprı yer",
+      "anlam": "Engebesiz ve geniş arazi",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "661",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yaprı qulâq",
+      "anlam": "Sarkık kulak",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "661",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yaprıttı",
+      "anlam": "At kulaklarını dikti",
+      "ornek_metin": "at qulâqın yapnttı: At kulaklarını dikti.",
+      "cekimler": [
+        "yaprıtür",
+        "yaprıtmdq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "661",
+      "notlar": "Bu durum, atın bir şeye tekme atacağı ya da bir şeyden korktuğu zamanlarda görülür.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yapruldı",
+      "anlam": "Bir şey başka bir şeye yapıştı",
+      "ornek_metin": "bir neng birke yapruldı: Bir şey başka bir şeye yapıştı.",
+      "cekimler": [
+        "yaprulür",
+        "yaprulmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "661",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yapruldı",
+      "anlam": "Giysi, iç kısımları birbirine yapışacak kadar yıprandı",
+      "ornek_metin": "tön yapruldı: Giysi, iç kısımları birbirine yapışacak kadar yıprandı.",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "661",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yapruşdı",
+      "anlam": "Ona yeri düzleştirmekte yardım etti",
+      "ornek_metin": "ol angar yer yapruşdı: O, ona yeri düzleştirmekte yardım etti.",
+      "cekimler": [
+        "yapruşür",
+        "yapruşmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "661",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yapsâdı",
+      "anlam": "Ekmek yapmak [ekmeği fırına koyup pişirmek] istedi",
+      "ornek_metin": "er etmek yapsâdı: Adam ekmek yapmak jckmeÇ finna koyup pişirmek] istedi.",
+      "cekimler": [
+        "yapsâr",
+        "yapsâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "661",
+      "notlar": "Kapıyı kapamak isteme”yi anlatmak için de bu sözcük kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "yapsâdı",
+      "anlam": "Kapanı (yakalamak için kuşun üzerine) atmak istedi",
+      "ornek_metin": "er tûzdq yapsâdı: Adam kapanı (yakalamak için kuşun üzerine) atmak istedi.",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "661",
+      "notlar": "",
+      "kontrol_gerekli": false
+    }
+  ]
+}

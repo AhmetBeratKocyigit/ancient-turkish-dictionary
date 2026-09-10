@@ -1,0 +1,672 @@
+{
+  "chunk_no": 89,
+  "kaynak_sayfa_baslangic": 481,
+  "kaynak_sayfa_bitis": 485,
+  "kelimeler": [
+    {
+      "kelime": "sekrik",
+      "anlam": "Dağda atlanarak geçilen herhangi bir yer.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "481",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sekripiti",
+      "anlam": "Atlatmak, atlamak.",
+      "ornek_metin": "ol atın arıqtm sekritti: O, atını arkın [başka bir şeyin de olabilir] üzerinden atlattı. / ol bitig oqır erken sekritti: O, kitap (ya da Kur'an-ı Kerim) okurken bir satın atladı.",
+      "cekimler": [
+        "sekritmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "481",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "seksön",
+      "anlam": "Seksen sayısı.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "481",
+      "notlar": "Kökü sekiz ön: sekiz kere on ifadesidir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sekü",
+      "anlam": "Kanepe; seki.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "481",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "selçük",
+      "anlam": "Günümüz Sultanlarının büyükbabasının adı.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "481",
+      "notlar": "Ona selçük sü başı da denirdi.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sem",
+      "anlam": "bkz. em.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "belirsiz",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "481",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "semiz",
+      "anlam": "Herhangi bir hayvanın şişman, yağlı olanı.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "481",
+      "notlar": "Bu sözcük Arapçaya da uygundur, ancak Araplar z'yi n'yle değiştirirler.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "semizlik",
+      "anlam": "Semizlik.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "481",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "semridi",
+      "anlam": "Semirdi.",
+      "ornek_metin": "qöy semridi: Koyun [başka bir şey de olabilir] semirdi.",
+      "cekimler": [
+        "semrir",
+        "semrimek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "481",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "semrişdi",
+      "anlam": "Semirdiler.",
+      "ornek_metin": "atlar qamug semrişdi: Atlar [başkası da olabilir] semirdi.",
+      "cekimler": [
+        "semrişür",
+        "semrişmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "481",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "semritti",
+      "anlam": "Semirtti.",
+      "ornek_metin": "er atın semritti: Adam, atını (başkasını da olabiliri semirtti.",
+      "cekimler": [
+        "semritür",
+        "semritmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "481",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "semürgük",
+      "anlam": "Bülbüle benzeyen bir kuş.",
+      "ornek_metin": "buç buç öter semürgük boggı üçün menglenür: Süzel şakıyan kuş (acıktığı zaman) / Boğazı için tohumları toplar [gagalayarak onlan toprağın içinden çıkanrj",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Balâsagün lehçesi",
+      "kaynak_sayfa": "481",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sen",
+      "anlam": "Sen (İkinci tekil kişi zamiri).",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "zamir",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "481-482",
+      "notlar": "Türkler bu sözcüğü çocuklar, uşaklar ya da sözcüğü kullanan kişiden yaşça veya mevki olarak daha aşağıda olanlar için kullanırlar. Oğuzlar ise bunun tam tersini yapar.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sen",
+      "anlam": "Sen.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "zamir",
+      "dil_veya_lehce": "Kençek lehçesi",
+      "kaynak_sayfa": "482",
+      "notlar": "Her zaman kesreli okumayı tercih ettikleri için Kençek lehçesi oldukça bozulmuştur.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sengeç",
+      "anlam": "Fındık büyüklüğünde, tatlı, kırmızı-beyaz renkte bir elma cinsi.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "482",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "senledi",
+      "anlam": "Ona (kendisinden aşağı seviyede olan biri gibi) seslendi.",
+      "ornek_metin": "ol anı senledi: O, ona (kendisinden aşağı seviyede olan biri gibi) seslendi.",
+      "cekimler": [
+        "şenler",
+        "senlemek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "482",
+      "notlar": "Bu, ikinci tekil kişi kullanarak çağırma anlamına gelir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "senletti",
+      "anlam": "Onun kendisine ondan daha aşağı seviyede bulunan biriymiş gibi hitap etmesine neden oldu / Birini küçümsemesini göstermek için bir başkasını 'sen' diyerek çağırmaya sevk etti.",
+      "ornek_metin": "ol anı senletti: O, onun kendisine ondan daha aşağı seviyede bulunan biriymiş gibi hitap etmesine neden oldu. / ol anı senletti: O, birini, küçümsemesine göstermek için bir başkasını \"sen\" diyerek çağırmaya sevk etti.",
+      "cekimler": [
+        "senletür",
+        "senletmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "482",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "serigek",
+      "anlam": "Su içilen testi; ibrik.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Oğuz lehçesi",
+      "kaynak_sayfa": "482",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "seriggeç",
+      "anlam": "Bir elma cinsi; küçük, neredeyse fındık büyüklüğünde ve tatlıdır.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "482",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "serigir",
+      "anlam": "Dağın zirvesi; duvarın sonu.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "482",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "serigregü",
+      "anlam": "Sakağı hastalığına yakalanmış at.",
+      "ornek_metin": "serigregü at: Sakağı hastalığına yakalanmış at.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "482",
+      "notlar": "Atın burnundan irine benzeyen bir salya akar. Burnu sürekli akan bir çocuğa sövmek için de bu sözcük kullanılabilir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sep",
+      "anlam": "Gelinin çeyizi.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "482",
+      "notlar": "Bu tamamen ona ait olan bir maldır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sepgil",
+      "anlam": "Yüzde oluşan çil.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "483",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "septürdi",
+      "anlam": "Kızının çeyizle donatılmasını ve güveyin evine giden düğün alayının önüne katılmasını emretti.",
+      "ornek_metin": "ol anıg qızm septürdi: O, kızının (çeyizle) donatılmasını ve güveyin evine giden düğün alayının önüne katılmasını emretti.",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "483",
+      "notlar": "Bunun eylemliği keledir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "serdi",
+      "anlam": "Sabretti.",
+      "ornek_metin": "ol serdi: O, (bir işte) sabretti.",
+      "cekimler": [
+        "serer",
+        "sermek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "483",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sergek",
+      "anlam": "Sarhoşluk ya da başka bir şey nedeniyle sallanma ve yalpalama.",
+      "ornek_metin": "esrük sergekledi: Sarhoş yalpaladı.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "483",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "serildi",
+      "anlam": "Yalladı ve düşeyazdı.",
+      "ornek_metin": "er serildi: Sarhoş adam yalpaladı ve düşeyazdı.",
+      "cekimler": [
+        "seriür",
+        "serilmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "483",
+      "notlar": "Sallanan ve düşmek üzere olan başka şeyleri anlatmak için de bu sözcük kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "serim",
+      "anlam": "Şarabı süzmek için testinin ya da ibriğin ağzına gerilen, ipek veya bir başka malzemeden yapılmış kumaş parçası.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "483",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "serindi",
+      "anlam": "Aslında onun istediği işi alanların arasında sabırla kendine hâkim oldu.",
+      "ornek_metin": "er işqa serindi: Adam, aslında onun istediği işi alanların arasında sabırla kendine hâkim oldu.",
+      "cekimler": [
+        "serinür",
+        "serinmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "483",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "serk",
+      "anlam": "Çanak çömlek ya da kırılmış çanak çömlek parçaları.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "483",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "serker",
+      "anlam": "Haydut, eşkıya.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Qarluk lehçesi",
+      "kaynak_sayfa": "483",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "serü",
+      "anlam": "Evlerde üzerine eşya konan raf.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "483",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "seş",
+      "anlam": "Bir borç için kefil olma, teminat verme.",
+      "ornek_metin": "men angar seş herdim: Ben onun borcuna kefil oldum.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "483",
+      "notlar": "İmâle'yle okunur.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "seşdi",
+      "anlam": "Çözdü.",
+      "ornek_metin": "er atttn kişen seşdi: Adam, atın kösteğini çözdü.",
+      "cekimler": [
+        "seşer",
+        "seşmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "483",
+      "notlar": "Bağlarından kurtarılan, çözülen herhangi bir şeyi anlatmak için de bu sözcük kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "seşildi",
+      "anlam": "Çözüldü.",
+      "ornek_metin": "tügiiın seşildi: Düğüm (kendi kendine ya da biri tarafından) çözüldü.",
+      "cekimler": [
+        "seşilür",
+        "seşilmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "483",
+      "notlar": "Hem geçişli hem geçişsiz olarak kullanılabilir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "seşilgen",
+      "anlam": "Her zaman çözülen.",
+      "ornek_metin": "bu tügün ol seşilgen: Bu, her zaman çözülen bir düğümdür.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "483",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "seşindi",
+      "anlam": "Döveyazdı / Çözülmek üzereydi.",
+      "ornek_metin": "er qultn urgâlı şeşindi: Adam, kölesini neredeyse dövüyordu [döveyazdı].",
+      "cekimler": [
+        "seşinör",
+        "seşinmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "483-484",
+      "notlar": "At, bağından çözülmek üzereyse yine bu sözcük kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "seşlindi",
+      "anlam": "Çözüldü.",
+      "ornek_metin": "at seşlindi: At [başkası da olabiliri çözüldü.",
+      "cekimler": [
+        "seşlinür",
+        "seşlinmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "484",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "seştürdi",
+      "anlam": "Çözdürdü.",
+      "ornek_metin": "ol tügün seştürdi: O, düğümü (başka bir şeyi de olabilir] çözdürdü.",
+      "cekimler": [
+        "seştürür",
+        "seştürmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "484",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "seştürdi",
+      "anlam": "Borcunu alacağıyla dengeleyerek aralarındaki hesabı düzeltti.",
+      "ornek_metin": "ol alım berim birle seştürdi: O, borcunu alacağıyla dengeleyerek aralarındaki hesabı düzeltti.",
+      "cekimler": [
+        "seşturur",
+        "seşturmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "484",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "seşüdi",
+      "anlam": "Gevşedi ve neredeyse çözülüyordu.",
+      "ornek_metin": "tügün seşüdi: Düğüm gevşedi ve neredeyse çözülüyordu [çözüleyazdı].",
+      "cekimler": [
+        "seşür",
+        "seşümek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "484",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "seşük",
+      "anlam": "Bağlan çözülen herhangi bir şey.",
+      "ornek_metin": "seşük at: Çözülmüş at.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "484",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sewdi",
+      "anlam": "Sevdi.",
+      "ornek_metin": "ol meni sewdi: O beni sevdi. / toygarı yûgriikin tilkü sewmes: Tazının hızlı koşanını tilki sevmez [çünkü onu yakalayacaktır].",
+      "cekimler": [
+        "sewer",
+        "sewmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "484",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sevinç",
+      "anlam": "Sevinç.",
+      "ornek_metin": "üfeüş sewinç bulsa, qatıgoxsinür: Çok sevinen kişi, kendisine şiddetli bir keder yaşatacak bir şeyi üzerine çeker. / â: mende bulnur sewinç otı qadgu otar / qarşı körüp sağdıç anı uçmaq atar: Kederi yok eden neşe otu bulunur bende / (Onun latifliği içindeki) bir dost görse sarayımı der cennet burda",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "484",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sewişdi",
+      "anlam": "Birbirlerini sevdiler.",
+      "ornek_metin": "olâr ekki seıvişdi: Onlar birbirlerini sevdiler.",
+      "cekimler": [
+        "seıvişür",
+        "sewişmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "484",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sewredi",
+      "anlam": "İş tamamlandı / İyileşti.",
+      "ornek_metin": "işsewredi: İş tamamlandı. / sökel ıgdin sewredi: Hasta adam iyileşti.",
+      "cekimler": [
+        "sevvrer",
+        "sevremek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "485",
+      "notlar": "İşi tamamlayan kişiyi anlatırken de bu sözcük kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sewretti",
+      "anlam": "Boşalttı / Tamamladı ve son noktayı koydu.",
+      "ornek_metin": "ol ewin sewretti: O, onun evini [evdeki eşyalan) boşalttı. / ol îşın sewretti: O, işini tamamladı ve son noktayı koydu.",
+      "cekimler": [
+        "sewretür",
+        "sewretmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "485",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sewtürdi",
+      "anlam": "Gönlümde sevgi zuhur etmesine neden oldu.",
+      "ornek_metin": "tengri seni manga sewtürdi: Tanrı gönlümde sana karşı bir sevgi zuhur etmesine neden oldu.",
+      "cekimler": [
+        "sewtûrür",
+        "servtürmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "485",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sewük",
+      "anlam": "Sevilen herhangi bir şey.",
+      "ornek_metin": "sewük neng: Sevilen herhangi bir şey.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "485",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sewündi",
+      "anlam": "Sevindi.",
+      "ornek_metin": "er sewündi: Adam sevindi. / sewünmegil yond öğür adgır atın / altun kümüş bulnupan agı tawâr: Sevinme sürüler halinde atlar, aygırlar ve kısraklar / İpekler, gümüşler ve altınlar bulduğunda",
+      "cekimler": [
+        "sevvünur",
+        "sewünmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "485",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sezig",
+      "anlam": "Sezgi; düşünce ve şüphe.",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "485",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "seziktim",
+      "anlam": "Sezdim.",
+      "ornek_metin": "bu Işıg angâr seziktim: Bu işi ondan sezdim.",
+      "cekimler": [
+        "seziker men",
+        "sezikmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "485",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "sezindi",
+      "anlam": "Sezgiye [şüpheye] sahipti.",
+      "ornek_metin": "ol angar sezig sezindi: O, ona ilişkin bir sezgiye [şüpheye] sahipti.",
+      "cekimler": [
+        "sezinür",
+        "sezinmek"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "485",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "-sı",
+      "anlam": "İyelik anlatan bir tamlamada ünlüyle biten adlara sonek olarak gelen bir ilgeç.",
+      "ornek_metin": "anıg atası: onun babası / anıg anası: onun annesi",
+      "cekimler": [],
+      "kelime_turu": "edat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "485",
+      "notlar": "Eğer son yazaç ünsüzse bir ı eklenmesi yeterlidir.",
+      "kontrol_gerekli": false
+    }
+  ]
+}

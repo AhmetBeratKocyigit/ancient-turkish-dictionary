@@ -1,0 +1,759 @@
+{
+  "chunk_no": 24,
+  "kaynak_sayfa_baslangic": 221,
+  "kaynak_sayfa_bitis": 225,
+  "kelimeler": [
+    {
+      "kelime": "çapsâdı",
+      "anlam": "acı çıkan bir ses çıkarma",
+      "ornek_metin": "Kaba saba, küfürlü konuşan birine telim çangîlâdıng: çok patırtı yaptın çok bakırdın denir.",
+      "cekimler": [
+        "çangilâr",
+        "çarıgilâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "221",
+      "notlar": "Metinde 'çangîlâdıng' örneği verilmiştir.",
+      "kontrol_gerekli": true
+    },
+    {
+      "kelime": "çanglı mariglı",
+      "anlam": "Bir çocuk oyununun adı",
+      "ornek_metin": "Araplar buna davdât der.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "221",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çangşı",
+      "anlam": "Bir Hoten beyinin adı",
+      "ornek_metin": "Bu adı taşıyan kent bu bey zamanında alınmıştır. Adın Cemşit sözcüğünden dönüştüğü söylenir",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "221",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çarigşu",
+      "anlam": "Küçük hırka",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "221",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çap çap",
+      "anlam": "Kamçının şaklamasını ve dudağın şapırdamasını anlatan yansıma ifade",
+      "ornek_metin": "ol erük çap çap yedi: Eriği böylesi bir ses çıkacak biçimde yedi.",
+      "cekimler": [],
+      "kelime_turu": "ünlem",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "221",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çapaq",
+      "anlam": "Bir balık türü",
+      "ornek_metin": "Bunlar küçük balıklardır ve Türk göllerinde bulunur. Bunlara benzetilerek çelimsiz, sıska adamlara çapaq er denir.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "221",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çapdi",
+      "anlam": "yüzmek, vurmak veya sıvamak",
+      "ornek_metin": "er suvvda çapdi: Adam suda yüzdü. ol atnı çıpıq birle çapdi: O, atına değnekle yavaşça vurdu. çomaq tat boynm çapdi: Müslüman, zındığın boynunu vurdu (Uygur lehçesi). er ewin çapdi: Adam evini yumuşak çamurla sıvadı.",
+      "cekimler": [
+        "çapar",
+        "çapm âq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "221",
+      "notlar": "Farklı bağlamlarda farklı anlamlar içerir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çapgut",
+      "anlam": "Çaput, şilte",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "221",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çapıldı",
+      "anlam": "ince ve yumuşak çamurla sıvandı",
+      "ornek_metin": "anıg ewi çapıldı: Onun evi ince ve yumuşak çamurla sıvandı.",
+      "cekimler": [
+        "çapılür",
+        "çapılmdq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "Uygur lehçesi",
+      "kaynak_sayfa": "221",
+      "notlar": "Birinin boynunun vurulmasını anlatmak için de kullanılır.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çapındı",
+      "anlam": "atını kamçılamak veya suda yüzmek",
+      "ornek_metin": "er atın çapındı: Adam atını kamçıladı. er suwda çapdi: Adam suda yüzdü - çapındı, çapdı’mn değişik sesletimidir.",
+      "cekimler": [
+        "çapmür",
+        "çapmmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "221",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çapıtgân",
+      "anlam": "sürekli insanlara saldıran veya boyun kesen adam, cellat",
+      "ornek_metin": "bu ıt ol kişike çapıtgân: Bu, (ısırmak için) sürekli insanlara saldıran bir köpektir. çapıtgân er: Boyun kesen adam, cellat (Uygur lehçesi)",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "221",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çapıttı",
+      "anlam": "saldırmak veya boynunun vurulmasını emretmek",
+      "ornek_metin": "ıt kişike çapıttı: Köpek (ısırmak için) adama saldırdı. beg anıg boynm çapıttı: Bey onun boynunun vurulmasını emretti (Uygur lehçesi).",
+      "cekimler": [
+        "çapıtûr",
+        "çapıtmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "221",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çapsâdı",
+      "anlam": "suda yüzmek istemek",
+      "ornek_metin": "ol suwda çapsâdı: O, suda yüzmek istedi.",
+      "cekimler": [
+        "çapsâr",
+        "çapsâm âq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "221-222",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çapturdı",
+      "anlam": "yüzdürmek, boynunun vurulmasını emretmek veya sıvanmasını emretmek",
+      "ornek_metin": "er qulın suwda çapturdı: Adam kölesini suda yüzdürdü. ol anıg boynm çapturdı: O, onun boynunun vurulmasını emretti (Uygur lehçesi). ol ewin çapturdı: O, evinin yumuşak çamurla sıvanmasını emretti.",
+      "cekimler": [
+        "çapturur",
+        "çapturm âq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "222",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çaq",
+      "anlam": "Bir şeyin kesin ve öz halini vurgulayan bir sözcük",
+      "ornek_metin": "çaq ol atm tutgıl: Şu (hakiki) atı yakala; çaq amaçnı urgıl: Hedefi tam göbeğinden vur.",
+      "cekimler": [],
+      "kelime_turu": "zarf",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "222",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çaq çoq",
+      "anlam": "Odun, ceviz, kemik gibi şeylerin kırılması sırasında çıkan çatırdama sesi",
+      "ornek_metin": "çaq çoq etti: böylesi bir ses çıkarttı denir.",
+      "cekimler": [],
+      "kelime_turu": "ünlem",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "222",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çaqdı",
+      "anlam": "işittirmek, husumeti kışkırtmak veya çakmak çakmak",
+      "ornek_metin": "ol sozüg anıg qulâqqa çaqdı: O, sözleri onun kulağına işittirdi (Oğuz lehçesi). ol eki?i kişi ara çaqdı: O, iki kişi arasında husumeti kışkırttı. ol çaqm âq çaqdı: O çakmak çaktı.",
+      "cekimler": [
+        "çaqâr",
+        "çaqm aq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "222",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çaqıldı",
+      "anlam": "çakılmak veya ulaştırılmak",
+      "ornek_metin": "çaqmâq çaqıldı: Çakmak çakıldı; taş çaqıldı: Taşlar birbirine vurularak kıvılcım çıkartıldı. söz qulâqqa çaqıldı: Söz kulağa ulaştı.",
+      "cekimler": [
+        "çaqılur",
+        "çaqılmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "222",
+      "notlar": "Dörtlük örneği içerir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çaqındı",
+      "anlam": "çakmağı çakarmış gibi yapmak",
+      "ornek_metin": "er özinge çaqm âq çaqındı: Adam çakmağı çakarmış gibi yaptı.",
+      "cekimler": [
+        "çaqmûr",
+        "çaqmmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "222",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çaqır",
+      "anlam": "Mavi",
+      "ornek_metin": "ıt çaqm atqa tegir, at çaqırı ıtqa tegmes: Mavi gözlü köpek ata denktir, mavi gözlü at bir köpek etmez.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "222",
+      "notlar": "Atasözü içerir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çaqışdı",
+      "anlam": "çakmak çakmakta yardım etmek",
+      "ornek_metin": "ol manga çaqmâq çaqışdı: O, bana çakmak çakmakta yardım etti.",
+      "cekimler": [
+        "çaqışür",
+        "çaqımâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "222",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çaqmâq",
+      "anlam": "Ateşi yakmak için kullanılan tutuşturucu çubuk, kibrit",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "223",
+      "notlar": "Hem ad hem eylem olarak kullanılabilir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çaqmaqlandı",
+      "anlam": "çöreklendi",
+      "ornek_metin": "yılan çaqmaqlandı: Yılan çöreklendi.",
+      "cekimler": [
+        "çaqmaqlanür",
+        "çaqma<jlanmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "223",
+      "notlar": "",
+      "kontrol_gerekli": true
+    },
+    {
+      "kelime": "çaqrattı",
+      "anlam": "gözlerini fıldır fıldır oynatarak mavi gözlüymüş gibi yapmak",
+      "ornek_metin": "er közin çaqrattı: Adam gözlerini fıldır fıldır oynatarak sanki mavi gözlüymüş gibi yaptı.",
+      "cekimler": [
+        "çaqratür",
+        "çaqratm âq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "223",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çaqrıştı",
+      "anlam": "birbirlerini çağırmak",
+      "ornek_metin": "böy bîr birke çaqnştı : İnsanlar birbirlerini çağırdı (Oğuz lehçesi).",
+      "cekimler": [
+        "çaqrışür",
+        "çaqnşmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "Oğuz lehçesi",
+      "kaynak_sayfa": "223",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çaqturdı",
+      "anlam": "çakmak çaktırmak veya uzlaşmazlık, gerginlik yaratmak",
+      "ornek_metin": "ol çaqm âq çaqturdı: O, ona çakmak çaktırdı.",
+      "cekimler": [
+        "çaqturur",
+        "çaqturmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "223",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çar çarmaq",
+      "anlam": "Çoluk çocuk",
+      "ornek_metin": "çdr çam raq olarak da geçer",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "223",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çar çur",
+      "anlam": "bulabildiği her şeyi yemek, geriye hiçbir şey bırakmamak",
+      "ornek_metin": "ol çar çur yedi: O bulabildiği her şeyi yedi, geriye hiçbir şey bırakmadı [bkz. şar şur].",
+      "cekimler": [],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "223",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çarlâdı",
+      "anlam": "ağlamak veya boru gibi ses çıkartmak",
+      "ornek_metin": "ogîdn çarlâdı: Bebek ağladı. yarigân çarlâdı: Fil boru gibi ses çıkarttı.",
+      "cekimler": [
+        "çarlar",
+        "çarlâm âq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "223",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çarlaşdı",
+      "anlam": "ağlaşmak veya bağrışmak",
+      "ornek_metin": "oglân çarlaşdı: Bebekler ağlaştı. yangânlâr çarlaşdı: Filler bağrıştı.",
+      "cekimler": [
+        "çarlaşûr",
+        "çarlaşm âq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "223",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çarlattı",
+      "anlam": "ağlatmak veya bağırtmak",
+      "ornek_metin": "ol oglânıg çarlattı: O, bebeği ağlattı.",
+      "cekimler": [
+        "çarlatür",
+        "çarlatm âq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "223",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çars çars",
+      "anlam": "birine böylesi bir ses çıkaracak biçimde vurmak",
+      "ornek_metin": "ol anı çars çars urdı: O, ona böylesi bir ses çıkaracak biçimde vurdu.",
+      "cekimler": [],
+      "kelime_turu": "ünlem",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "223",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çarün",
+      "anlam": "Çınar ağacı",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Yağma lehçesi",
+      "kaynak_sayfa": "224",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çaruq",
+      "anlam": "Çarık",
+      "ornek_metin": "yadâg atı çaruq Mçi azuq: Yayanın atı çarığı, gücü azığıdır.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "224",
+      "notlar": "Atasözü içerir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çaruqlâdı",
+      "anlam": "ayağına Türk çarığı giymek",
+      "ornek_metin": "ol aââqın çaruqlâdı: O, ayağına Türk çarığı giydi.",
+      "cekimler": [
+        "çaruqlâr",
+        "çaruqldmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "224",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çaruqlandı",
+      "anlam": "çarık giymek, çarık sahibi olmak",
+      "ornek_metin": "er çaruqlandı: Adam çarıklarını giydi - çarık sahibi oldu.",
+      "cekimler": [
+        "çaruqlanür",
+        "çaruqlanmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "224",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çaruqlug",
+      "anlam": "Çarığı olan",
+      "ornek_metin": "çaruqlug er: Çarığı olan adam.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "224",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çaruqluq",
+      "anlam": "Çarık yapılmak üzere ayrılmış deri parçası",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "224",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çâşır",
+      "anlam": "bkz. çâçır",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "224",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çat çat",
+      "anlam": "Bir darbe sonucu çıkan ses",
+      "ornek_metin": "çat çat urdı: Çat çat vurdu.",
+      "cekimler": [],
+      "kelime_turu": "ünlem",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "224",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çât",
+      "anlam": "Kuyu",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Oğuz lehçesi",
+      "kaynak_sayfa": "224",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çatîlâdı",
+      "anlam": "kamçı şaklamak, benzer ses çıkarmak",
+      "ornek_metin": "berge çatîlâdı: Kamçı şakladı.",
+      "cekimler": [
+        "çatılar",
+        "çatîldmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "224",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çatır",
+      "anlam": "Çadır",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "224",
+      "notlar": "bkz. çâçır, çâşır",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çâtır",
+      "anlam": "Nışadır",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Kuça lehçesi",
+      "kaynak_sayfa": "224",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çattı",
+      "anlam": "birleştirmek",
+      "ornek_metin": "er oglaq qozıqa çattı: Adam oğlakları kuzularla birleştirdi.",
+      "cekimler": [
+        "çatar",
+        "çatm dq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "Oğuz lehçesi",
+      "kaynak_sayfa": "224-225",
+      "notlar": "Dize örnekleri içerir.",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çatuq",
+      "anlam": "bkz. xutu",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "belirsiz",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "225",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çawa",
+      "anlam": "Genç erkekleri anlatmakta kullanılan bir ad",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "225",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çawâr",
+      "anlam": "Ateş yakmak için kullanılan çalı çırpı",
+      "ornek_metin": "çawâr çuvvdr biçiminde ikileme olarak da kullanılır.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "225",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çawârlıg",
+      "anlam": "Çalı çırpısı bol yer",
+      "ornek_metin": "çawdrhg yer: Çalı çırpısı bol yer.",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "225",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çawıg",
+      "anlam": "Kamçı ucu, kamçı darbesi",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "225",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çawıqtı",
+      "anlam": "ünlenmek, ün sahibi olmak",
+      "ornek_metin": "er çawıqtı: Adam ünlendi, ün sahibi oldu.",
+      "cekimler": [
+        "çawıqâr",
+        "çam qm âq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "225",
+      "notlar": "",
+      "kontrol_gerekli": true
+    },
+    {
+      "kelime": "çawju",
+      "anlam": "Gövdesi ve dalları kırmızı olan ve dağlarda büyüyen bir ağaç",
+      "ornek_metin": "Bu, kızların parmak uçlarının kırmızılığı kendisine benzetilen 'anem ağacıdır.",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "225",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çawlâdı",
+      "anlam": "et hafifçe pişti",
+      "ornek_metin": "et çawlâdı: Et hafifçe pişti.",
+      "cekimler": [
+        "çawlâr",
+        "çawlâmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "225",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çaw landı",
+      "anlam": "et hafifçe pişirildi",
+      "ornek_metin": "et çawlarıdı : Et hafifçe pişirildi.",
+      "cekimler": [
+        "çawlanür",
+        "çawlanmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "225",
+      "notlar": "OCR hatası nedeniyle kelime 'çaw landı' şeklinde geçiyor.",
+      "kontrol_gerekli": true
+    },
+    {
+      "kelime": "çavdandı",
+      "anlam": "ünlenmek, ün sahibi olmak",
+      "ornek_metin": "er çawlandı: Adam ünlendi, ün sahibi oldu.",
+      "cekimler": [
+        "çawlanür",
+        "çawlanmâq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "225",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çawlı",
+      "anlam": "Şahin",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "225",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çâwlı",
+      "anlam": "Ateş yakmakta kullanılan şeftali çekirdekleri ve ceviz kabukları",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Kençek lehçesi",
+      "kaynak_sayfa": "225",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çavvşâng",
+      "anlam": "Koyunun yününü kırkmakta kullanılan makas",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "Çigil lehçesi",
+      "kaynak_sayfa": "225",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çavvşârig",
+      "anlam": "Gözü kızarmış, sulanmış kimse",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "sıfat",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "225",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çawuş",
+      "anlam": "Savaşta birliklerin düzen içinde durmasını sağlayan ve onların gereksiz şiddet uygulamalarını önleyen yönetici",
+      "ornek_metin": "",
+      "cekimler": [],
+      "kelime_turu": "isim",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "225",
+      "notlar": "",
+      "kontrol_gerekli": false
+    },
+    {
+      "kelime": "çaxşâdı",
+      "anlam": "takırdamak, tıkırtı çıkarmak",
+      "ornek_metin": "taş çaxşâdı: Çakıl taşları takırdadı.",
+      "cekimler": [
+        "çaxşâr",
+        "çaxşâm âq"
+      ],
+      "kelime_turu": "fiil",
+      "dil_veya_lehce": "",
+      "kaynak_sayfa": "225",
+      "notlar": "Süslerin ya da takıların tıkırtısını anlatmak için de kullanılır.",
+      "kontrol_gerekli": false
+    }
+  ]
+}
