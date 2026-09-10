@@ -1,0 +1,117 @@
+<!doctype html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Divânu Lügati't-Türk dijital sözlüğü">
+  <title>Divânu Lügati't-Türk | Dijital Sözlük</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Libre+Baskerville:wght@400;700&family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="grain" aria-hidden="true"></div>
+  <header class="site-header">
+    <div class="header-inner">
+      <a class="brand" href="#top" aria-label="Ana sayfa">
+        <span class="brand-mark">د</span>
+        <span><strong>Divânu</strong><em>Lügati't-Türk</em></span>
+      </a>
+      <div class="header-actions">
+        <button class="icon-button" id="favoritesToggle" type="button" aria-label="Favorileri göster" title="Favoriler">
+          <span aria-hidden="true">☆</span><b id="favoriteCount">0</b>
+        </button>
+        <button class="text-button" id="aboutButton" type="button">Hakkında</button>
+      </div>
+    </div>
+  </header>
+
+  <main id="top" class="page-shell">
+    <section class="hero">
+      <div class="hero-copy">
+        <p class="eyebrow"><span></span> 11. yüzyılın söz varlığı, yeniden okunuyor</p>
+        <h1>Türkçenin ilk büyük<br><i>hazine sandığı.</i></h1>
+        <p class="hero-lede">Kaşgarlı Mahmud'un izinde, binlerce madde başını anlamı, örneği ve kaynak sayfasıyla keşfedin.</p>
+      </div>
+      <div class="hero-note" aria-label="Koleksiyon özeti">
+        <span class="note-label">KOLEKSİYON</span>
+        <strong id="heroTotal">—</strong>
+        <span>madde başı</span>
+        <div class="note-rule"></div>
+        <span class="note-small">Dijital derleme · v1.0</span>
+      </div>
+    </section>
+
+    <section class="search-panel" aria-label="Sözlük arama ve filtreleri">
+      <div class="search-row">
+        <label class="search-box" for="searchInput">
+          <span class="search-icon" aria-hidden="true">⌕</span>
+          <input id="searchInput" type="search" placeholder="Kelime, anlam, örnek veya not ara..." autocomplete="off">
+          <kbd>/</kbd>
+        </label>
+        <button class="filter-toggle" id="filterToggle" type="button" aria-expanded="false"><span>Filtreler</span><b id="activeFilterCount">0</b><span class="chevron">⌄</span></button>
+      </div>
+      <div class="filter-drawer" id="filterDrawer" hidden>
+        <div class="filter-field">
+          <label for="typeFilter">Kelime türü</label>
+          <select id="typeFilter"><option value="">Tümü</option></select>
+        </div>
+        <div class="filter-field">
+          <label for="dialectFilter">Dil / lehçe</label>
+          <select id="dialectFilter"><option value="">Tümü</option></select>
+        </div>
+        <div class="filter-field">
+          <label for="pageFilter">Kaynak sayfası</label>
+          <input id="pageFilter" type="number" min="1" placeholder="Örn. 129">
+        </div>
+        <label class="check-field"><input id="reviewFilter" type="checkbox"><span>Kontrol gerekenleri göster</span></label>
+        <button class="clear-button" id="clearFilters" type="button">Filtreleri temizle</button>
+      </div>
+      <div class="search-meta"><span id="resultSummary">Veriler yükleniyor...</span><button id="sortButton" type="button" class="sort-button">A–Z <span>↕</span></button></div>
+    </section>
+
+    <section class="content-grid">
+      <aside class="index-rail" aria-label="Hızlı alfabetik gezinme">
+        <span class="rail-label">Dizin</span>
+        <div id="letterNav" class="letter-nav"></div>
+      </aside>
+      <div class="results-area">
+        <div id="loadingState" class="state-panel"><div class="loader"></div><p>Sözlük sayfaları açılıyor...</p></div>
+        <div id="welcomeState" class="welcome-state" hidden>
+          <div class="welcome-seal">د</div>
+          <div>
+            <p class="eyebrow"><span></span> Keşfetmeye başlayın</p>
+            <h2>Sözlükte bir iz arayın.</h2>
+            <p>Bir kelime yazın, soldan bir harf seçin veya filtreleri açın. Maddeler burada, seçtiğiniz anda görünecek.</p>
+            <div class="quick-searches"><button type="button" data-query="aç">“aç” ara</button><button type="button" data-query="su">“su” ara</button><button type="button" data-query="at">“at” ara</button></div>
+          </div>
+        </div>
+        <div id="emptyState" class="state-panel" hidden><span class="empty-glyph">∅</span><h2>Aradığınız madde bulunamadı</h2><p>Arama ifadenizi veya filtreleri değiştirerek yeniden deneyin.</p></div>
+        <div id="resultsGrid" class="results-grid" aria-live="polite"></div>
+        <nav class="pagination" id="pagination" aria-label="Sayfalar"></nav>
+      </div>
+    </section>
+  </main>
+
+  <div class="modal-backdrop" id="modalBackdrop" hidden>
+    <article class="detail-modal" role="dialog" aria-modal="true" aria-labelledby="modalWord">
+      <button class="modal-close" id="modalClose" type="button" aria-label="Kapat">×</button>
+      <div id="modalContent"></div>
+    </article>
+  </div>
+
+  <div class="modal-backdrop" id="aboutBackdrop" hidden>
+    <article class="about-modal" role="dialog" aria-modal="true" aria-labelledby="aboutTitle">
+      <button class="modal-close" id="aboutClose" type="button" aria-label="Kapat">×</button>
+      <p class="eyebrow"><span></span> Dijital arşiv</p>
+      <h2 id="aboutTitle">Sözlüğün izinde</h2>
+      <p>Bu arayüz, Divânu Lügati't-Türk maddelerini kaynak sayfaları, örnekleri ve lehçe bilgileriyle birlikte keşfetmek için hazırlandı.</p>
+      <div class="about-stats"><span><strong id="aboutTotal">—</strong> kayıt</span><span><strong id="aboutPages">—</strong> sayfa</span></div>
+    </article>
+  </div>
+
+  <footer class="site-footer"><span>Divânu Lügati't-Türk</span><span>Kaynağa sadık, aramaya hazır.</span></footer>
+  <script src="app.js"></script>
+</body>
+</html>
