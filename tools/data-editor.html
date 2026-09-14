@@ -1,0 +1,540 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sözlük Veri Denetim & Temizleme Studio</title>
+    <style>
+        :root {
+            --bg-color: #0f172a;
+            --panel-bg: #1e293b;
+            --border-color: #334155;
+            --accent-color: #3b82f6;
+            --text-main: #f8fafc;
+            --text-muted: #94a3b8;
+            --success: #10b981;
+            --warning: #f59e0b;
+            --danger: #ef4444;
+        }
+
+        * { 
+            box-sizing: border-box; 
+            margin: 0; 
+            padding: 0; 
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; 
+        }
+
+        html, body {
+            height: 100%;
+            width: 100%;
+            overflow: hidden;
+            background-color: var(--bg-color); 
+            color: var(--text-main); 
+        }
+
+        .app-container { 
+            display: flex;
+            flex-direction: column;
+            height: 100vh;
+            width: 100vw;
+        }
+
+        header {
+            height: 60px;
+            min-height: 60px;
+            background-color: var(--panel-bg);
+            border-bottom: 1px solid var(--border-color);
+            padding: 0 20px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            flex-shrink: 0;
+        }
+
+        .stats-container { display: flex; gap: 12px; }
+        .stats-badge {
+            background: #090d16;
+            padding: 6px 12px;
+            border-radius: 6px;
+            font-size: 12px;
+            border: 1px solid var(--border-color);
+        }
+
+        .main-layout { 
+            display: flex;
+            flex: 1;
+            height: calc(100vh - 60px);
+            overflow: hidden;
+        }
+
+        /* Sol Panel */
+        .sidebar {
+            width: 360px;
+            min-width: 360px;
+            background-color: var(--panel-bg);
+            border-right: 1px solid var(--border-color);
+            display: flex;
+            flex-direction: column;
+            height: 100%;
+        }
+
+        .search-box { 
+            padding: 12px; 
+            border-bottom: 1px solid var(--border-color); 
+            display: flex; 
+            flex-direction: column; 
+            gap: 8px;
+            flex-shrink: 0;
+        }
+        .search-box input, .search-box select {
+            width: 100%;
+            padding: 8px 12px;
+            border-radius: 6px;
+            border: 1px solid var(--border-color);
+            background: var(--bg-color);
+            color: white;
+            font-size: 13px;
+        }
+
+        .word-list { 
+            flex: 1;
+            overflow-y: auto; 
+            overflow-x: hidden;
+        }
+
+        .word-item {
+            padding: 12px 16px;
+            border-bottom: 1px solid var(--border-color);
+            cursor: pointer;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            transition: background 0.15s;
+        }
+        .word-item:hover { background-color: #273549; }
+        .word-item.active { background-color: var(--accent-color); color: white; }
+        
+        .badge {
+            font-size: 10px;
+            padding: 3px 6px;
+            border-radius: 4px;
+            text-transform: uppercase;
+            font-weight: bold;
+        }
+        .badge-pending { background: var(--warning); color: #000; }
+        .badge-done { background: var(--success); color: #fff; }
+        .badge-duplicate { background: var(--danger); color: #fff; margin-right: 4px; }
+
+        /* Editör Alanı */
+        .editor-container {
+            flex: 1;
+            height: 100%;
+            overflow-y: auto;
+            padding: 24px;
+            display: flex;
+            flex-direction: column;
+            gap: 16px;
+        }
+
+        .duplicate-alert {
+            background: rgba(239, 68, 68, 0.15);
+            border: 1px solid var(--danger);
+            padding: 12px 16px;
+            border-radius: 6px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            flex-shrink: 0;
+        }
+
+        .form-grid {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 16px;
+        }
+
+        .form-group { display: flex; flex-direction: column; gap: 6px; }
+        .form-group.full-width { grid-column: span 3; }
+
+        label { font-size: 11px; color: var(--text-muted); text-transform: uppercase; font-weight: 700; letter-spacing: 0.5px; }
+        input[type="text"], textarea {
+            padding: 10px;
+            border-radius: 6px;
+            border: 1px solid var(--border-color);
+            background: var(--panel-bg);
+            color: var(--text-main);
+            font-size: 14px;
+        }
+        textarea { resize: vertical; min-height: 85px; }
+
+        .actions {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-top: 10px;
+            padding-top: 16px;
+            border-top: 1px solid var(--border-color);
+            flex-shrink: 0;
+        }
+
+        .btn {
+            padding: 8px 16px;
+            border-radius: 6px;
+            border: none;
+            cursor: pointer;
+            font-weight: 600;
+            font-size: 13px;
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            transition: opacity 0.2s;
+        }
+        .btn:hover { opacity: 0.9; }
+        .btn-primary { background: var(--accent-color); color: white; }
+        .btn-success { background: var(--success); color: white; }
+        .btn-danger { background: var(--danger); color: white; }
+        .btn-file { background: #475569; color: white; }
+
+        .checkbox-container { display: flex; align-items: center; gap: 8px; cursor: pointer; }
+    </style>
+</head>
+<body>
+
+<div class="app-container">
+    <header>
+        <h3>Sözlük Studio v2.0</h3>
+        <div class="stats-container">
+            <div class="stats-badge" id="statTotal">Toplam: 0</div>
+            <div class="stats-badge" id="statUnique">Benzersiz: 0</div>
+            <div class="stats-badge" id="statDuplicates">Mükerrer: 0</div>
+            <div class="stats-badge" id="statChecked">İncelenen: 0</div>
+        </div>
+        <div>
+            <input type="file" id="jsonInput" accept=".json" style="display: none;">
+            <button class="btn btn-file" onclick="document.getElementById('jsonInput').click()">JSON Yükle</button>
+            <button class="btn btn-success" onclick="downloadJSON()">JSON İndir</button>
+        </div>
+    </header>
+
+    <div class="main-layout">
+        <div class="sidebar">
+            <div class="search-box">
+                <input type="text" id="searchInput" placeholder="Ara... (Kelime, Anlam)" oninput="filterWords()">
+                <select id="filterMode" onchange="filterWords()">
+                    <option value="all">Tüm Kayıtlar</option>
+                    <option value="duplicates">Sadece Mükerrer Kayıtlar</option>
+                    <option value="pending">Denetim Bekleyenler</option>
+                    <option value="checked">Tamamlananlar</option>
+                </select>
+            </div>
+            <div class="word-list" id="wordList"></div>
+        </div>
+
+        <div class="editor-container" id="editor" style="display: none;">
+            <div class="duplicate-alert" id="duplicateNotice" style="display: none;">
+                <span>⚠️ Bu kelimeden birden fazla kayıt tespit edildi!</span>
+                <button class="btn btn-danger" onclick="mergeDuplicates()">Aynı Kelimeleri Birleştir ve Temizle</button>
+            </div>
+
+            <div class="form-grid">
+                <div class="form-group">
+                    <label>Kelime (Madde Başı)</label>
+                    <input type="text" id="field_kelime" oninput="checkDuplicateStatus()">
+                </div>
+                <div class="form-group">
+                    <label>Kelime Türü</label>
+                    <input type="text" id="field_kelime_turu">
+                </div>
+                <div class="form-group">
+                    <label>Kaynak Sayfa</label>
+                    <input type="text" id="field_kaynak_sayfa">
+                </div>
+                <div class="form-group">
+                    <label>Dil / Lehçe</label>
+                    <input type="text" id="field_dil_veya_lehce">
+                </div>
+                <div class="form-group">
+                    <label>Çekimler (Virgülle Ayırın)</label>
+                    <input type="text" id="field_cekimler">
+                </div>
+                <div class="form-group">
+                    <label>İnceleme Durumu</label>
+                    <label class="checkbox-container" style="margin-top: 10px;">
+                        <input type="checkbox" id="field_kontrol_gerekli">
+                        <span>Denetim Bekliyor</span>
+                    </label>
+                </div>
+
+                <div class="form-group full-width">
+                    <label>Anlam</label>
+                    <textarea id="field_anlam"></textarea>
+                </div>
+                <div class="form-group full-width">
+                    <label>Örnek Metin / Tanık</label>
+                    <textarea id="field_ornek_metin"></textarea>
+                </div>
+                <div class="form-group full-width">
+                    <label>Notlar</label>
+                    <textarea id="field_notlar"></textarea>
+                </div>
+            </div>
+
+            <div class="actions">
+                <button class="btn btn-danger" onclick="deleteCurrentWord()">Kaydı Sil</button>
+                <span style="font-size: 11px; color: var(--text-muted);">
+                    [Ctrl+Enter] Kaydet & Sonraki | [Alt+N] Sonraki | [Alt+P] Önceki
+                </span>
+                <button class="btn btn-primary" onclick="saveAndNext()">Kaydet ve Sonraki &rarr;</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    let dictionaryData = [];
+    let currentIndex = -1;
+    let filteredIndices = [];
+    let duplicateMap = {};
+
+    document.getElementById('jsonInput').addEventListener('change', function(e) {
+        const file = e.target.files[0];
+        if (!file) return;
+
+        const reader = new FileReader();
+        reader.onload = function(e) {
+            try {
+                dictionaryData = JSON.parse(e.target.result);
+                analyzeDuplicates();
+                filterWords();
+                if (dictionaryData.length > 0) selectWord(0);
+            } catch (err) {
+                alert("Geçersiz JSON dosyası!");
+            }
+        };
+        reader.readAsText(file);
+    });
+
+    function analyzeDuplicates() {
+        duplicateMap = {};
+        dictionaryData.forEach((item, index) => {
+            const k = item.kelime ? item.kelime.trim().toLowerCase() : '';
+            if (!duplicateMap[k]) duplicateMap[k] = [];
+            duplicateMap[k].push(index);
+        });
+        updateStats();
+    }
+
+    function updateStats() {
+        const total = dictionaryData.length;
+        const uniqueKeys = Object.keys(duplicateMap).length;
+        let dupCount = 0;
+        Object.values(duplicateMap).forEach(arr => { if (arr.length > 1) dupCount += arr.length; });
+        const checked = dictionaryData.filter(x => x.checked === true).length;
+
+        document.getElementById('statTotal').innerText = `Toplam: ${total}`;
+        document.getElementById('statUnique').innerText = `Benzersiz: ${uniqueKeys}`;
+        document.getElementById('statDuplicates').innerText = `Mükerrer: ${dupCount}`;
+        document.getElementById('statChecked').innerText = `İncelenen: ${checked}`;
+    }
+
+    function filterWords() {
+        const query = document.getElementById('searchInput').value.toLowerCase();
+        const mode = document.getElementById('filterMode').value;
+        const listContainer = document.getElementById('wordList');
+        listContainer.innerHTML = '';
+        filteredIndices = [];
+
+        dictionaryData.forEach((item, index) => {
+            const wordLower = item.kelime ? item.kelime.toLowerCase() : '';
+            const meaningLower = item.anlam ? item.anlam.toLowerCase() : '';
+            const isDup = duplicateMap[wordLower] && duplicateMap[wordLower].length > 1;
+            const matchesQuery = wordLower.includes(query) || meaningLower.includes(query);
+
+            let matchesMode = true;
+            if (mode === 'duplicates') matchesMode = isDup;
+            else if (mode === 'pending') matchesMode = !item.checked;
+            else if (mode === 'checked') matchesMode = item.checked === true;
+
+            if (matchesQuery && matchesMode) {
+                filteredIndices.push(index);
+                
+                const div = document.createElement('div');
+                div.className = `word-item ${index === currentIndex ? 'active' : ''}`;
+                div.onclick = () => selectWord(index);
+                
+                const isDone = item.checked === true;
+                const badgeClass = isDone ? 'badge-done' : 'badge-pending';
+                const badgeText = isDone ? 'Tamam' : 'Bekliyor';
+
+                div.innerHTML = `
+                    <div>
+                        <strong>${item.kelime || ''}</strong>
+                        <div style="font-size: 11px; color: var(--text-muted);">${(item.anlam || '').substring(0, 28)}...</div>
+                    </div>
+                    <div>
+                        ${isDup ? '<span class="badge badge-duplicate">Mükerrer</span>' : ''}
+                        <span class="badge ${badgeClass}">${badgeText}</span>
+                    </div>
+                `;
+                listContainer.appendChild(div);
+            }
+        });
+    }
+
+    function populateEditor(item) {
+        document.getElementById('editor').style.display = 'flex';
+        document.getElementById('field_kelime').value = item.kelime || '';
+        document.getElementById('field_kelime_turu').value = item.kelime_turu || '';
+        document.getElementById('field_kaynak_sayfa').value = item.kaynak_sayfa || '';
+        document.getElementById('field_dil_veya_lehce').value = item.dil_veya_lehce || '';
+        document.getElementById('field_cekimler').value = Array.isArray(item.cekimler) ? item.cekimler.join(', ') : '';
+        document.getElementById('field_anlam').value = item.anlam || '';
+        document.getElementById('field_ornek_metin').value = item.ornek_metin || '';
+        document.getElementById('field_notlar').value = item.notlar || '';
+        document.getElementById('field_kontrol_gerekli').checked = item.kontrol_gerekli || false;
+
+        checkDuplicateStatus();
+    }
+
+    function selectWord(index) {
+        if (currentIndex !== -1 && dictionaryData[currentIndex]) saveCurrentFields();
+
+        currentIndex = index;
+        if (dictionaryData[index]) {
+            populateEditor(dictionaryData[index]);
+        }
+        filterWords();
+    }
+
+    function checkDuplicateStatus() {
+        const k = document.getElementById('field_kelime').value.trim().toLowerCase();
+        const notice = document.getElementById('duplicateNotice');
+        if (duplicateMap[k] && duplicateMap[k].length > 1) {
+            notice.style.display = 'flex';
+        } else {
+            notice.style.display = 'none';
+        }
+    }
+
+    function saveCurrentFields() {
+        if (currentIndex === -1 || !dictionaryData[currentIndex]) return;
+        const item = dictionaryData[currentIndex];
+
+        item.kelime = document.getElementById('field_kelime').value;
+        item.kelime_turu = document.getElementById('field_kelime_turu').value;
+        item.kaynak_sayfa = document.getElementById('field_kaynak_sayfa').value;
+        item.dil_veya_lehce = document.getElementById('field_dil_veya_lehce').value;
+        
+        const cekimlerRaw = document.getElementById('field_cekimler').value;
+        item.cekimler = cekimlerRaw ? cekimlerRaw.split(',').map(s => s.trim()).filter(Boolean) : [];
+        
+        item.anlam = document.getElementById('field_anlam').value;
+        item.ornek_metin = document.getElementById('field_ornek_metin').value;
+        item.notlar = document.getElementById('field_notlar').value;
+        item.kontrol_gerekli = document.getElementById('field_kontrol_gerekli').checked;
+        item.checked = true;
+
+        analyzeDuplicates();
+    }
+
+    function saveAndNext() {
+        saveCurrentFields();
+        const pos = filteredIndices.indexOf(currentIndex);
+        if (pos < filteredIndices.length - 1) {
+            selectWord(filteredIndices[pos + 1]);
+        }
+    }
+
+    function mergeDuplicates() {
+        const wordKey = document.getElementById('field_kelime').value.trim().toLowerCase();
+        const targetIndices = duplicateMap[wordKey];
+
+        if (!targetIndices || targetIndices.length <= 1) return;
+
+        const mainIndex = targetIndices[0];
+        const mainItem = dictionaryData[mainIndex];
+
+        let combinedAnlam = [];
+        let combinedOrnek = [];
+
+        targetIndices.forEach(idx => {
+            const itm = dictionaryData[idx];
+            if (itm.anlam && !combinedAnlam.includes(itm.anlam)) combinedAnlam.push(itm.anlam);
+            if (itm.ornek_metin && !combinedOrnek.includes(itm.ornek_metin)) combinedOrnek.push(itm.ornek_metin);
+        });
+
+        mainItem.anlam = combinedAnlam.join(" / ");
+        mainItem.ornek_metin = combinedOrnek.join(" / ");
+        mainItem.checked = true;
+
+        // İndis kaymasını önlemek için tersten silme işlemi
+        const indicesToDelete = targetIndices.slice(1).sort((a, b) => b - a);
+        indicesToDelete.forEach(idx => {
+            dictionaryData.splice(idx, 1);
+        });
+
+        currentIndex = -1; // İndeksleri sıfırla
+        analyzeDuplicates();
+        filterWords();
+        
+        // Birleştirilen ana elemanı seç
+        const newMainIndex = dictionaryData.findIndex(item => item.kelime && item.kelime.trim().toLowerCase() === wordKey);
+        if (newMainIndex !== -1) {
+            selectWord(newMainIndex);
+        }
+    }
+
+    function deleteCurrentWord() {
+        if (currentIndex === -1 || !dictionaryData[currentIndex]) return;
+        
+        if (confirm("Bu kaydı silmek istediğinize emin misiniz?")) {
+            const posInFiltered = filteredIndices.indexOf(currentIndex);
+            
+            dictionaryData.splice(currentIndex, 1);
+            currentIndex = -1; // Sıfırla
+            
+            analyzeDuplicates();
+            filterWords();
+
+            if (dictionaryData.length > 0) {
+                // Silinen konuma en yakın bir sonraki veya bir önceki elemanı seç
+                const nextPos = Math.min(posInFiltered, filteredIndices.length - 1);
+                if (nextPos >= 0 && filteredIndices[nextPos] !== undefined) {
+                    selectWord(filteredIndices[nextPos]);
+                } else if (filteredIndices.length > 0) {
+                    selectWord(filteredIndices[0]);
+                }
+            } else {
+                document.getElementById('editor').style.display = 'none';
+            }
+        }
+    }
+
+    document.addEventListener('keydown', function(e) {
+        if (e.ctrlKey && e.key === 'Enter') saveAndNext();
+        if (e.altKey && e.key.toLowerCase() === 'n') {
+            const pos = filteredIndices.indexOf(currentIndex);
+            if (pos < filteredIndices.length - 1) selectWord(filteredIndices[pos + 1]);
+        }
+        if (e.altKey && e.key.toLowerCase() === 'p') {
+            const pos = filteredIndices.indexOf(currentIndex);
+            if (pos > 0) selectWord(filteredIndices[pos - 1]);
+        }
+    });
+
+    function downloadJSON() {
+        if (currentIndex !== -1) saveCurrentFields();
+        
+        const cleanData = dictionaryData.map(({ checked, ...rest }) => rest);
+        
+        const dataStr = "data:text/json;charset=utf-8," + encodeURIComponent(JSON.stringify(cleanData, null, 2));
+        const downloadAnchor = document.createElement('a');
+        downloadAnchor.setAttribute("href", dataStr);
+        downloadAnchor.setAttribute("download", "tam_sozluk_temizlenmis.json");
+        document.body.appendChild(downloadAnchor);
+        downloadAnchor.click();
+        downloadAnchor.remove();
+    }
+</script>
+</body>
+</html>

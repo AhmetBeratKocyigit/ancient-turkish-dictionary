@@ -1,5 +1,12 @@
-PyMuPDF
-Pillow
-pydantic
-google-genai
-python-dotenv
+PyMuPDF>=1.24.0
+Pillow>=10.0.0
+pydantic>=2.9.0
+google-genai>=1.0.0
+python-dotenv>=1.0.1
+
+# Gerekli ek bağımlılıklar:
+# - google-genai: Gemini API istemcisi
+# - PyMuPDF: PDF metin çıkarma
+# - pydantic: yapılandırılmış JSON doğrulama ve şema modeli
+# - python-dotenv: .env dosyasından API anahtarını okuma
+# - Pillow: bazı yardımcı görsel/işleme senaryoları için
