@@ -1,0 +1,5 @@
+Paket 24: 920 - 959 aralığı
+Paket 68: 2680 - 2719 aralığı 
+Paket 90: 3560 - 3599 aralığı 
+Paket 132: 5240 - 5279 aralığı 
+Paket 158: 6280 - 6319 aralığı 

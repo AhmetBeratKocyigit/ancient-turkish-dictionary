@@ -58,7 +58,7 @@ function buildLetterNav() {
 }
 
 function updateFilterCount() {
-  const count = [$('#typeFilter').value, $('#dialectFilter').value, $('#pageFilter').value, $('#reviewFilter').checked].filter(Boolean).length;
+  const count = [$('#typeFilter').value, $('#dialectFilter').value].filter(Boolean).length;
   $('#activeFilterCount').textContent = count;
 }
 
@@ -66,16 +66,12 @@ function applyFilters() {
   const query = normalize(searchInput.value.trim());
   const selectedType = $('#typeFilter').value;
   const selectedDialect = $('#dialectFilter').value;
-  const selectedPage = $('#pageFilter').value.trim();
-  const reviewOnly = $('#reviewFilter').checked;
-  const hasFilters = Boolean(query || state.activeLetter || selectedType || selectedDialect || selectedPage || reviewOnly || state.favoritesOnly);
+  const hasFilters = Boolean(query || state.activeLetter || selectedType || selectedDialect || state.favoritesOnly);
   state.filtered = state.all.filter((entry) => {
     if (query && !searchableText(entry).includes(query)) return false;
     if (state.activeLetter && normalize(entry.kelime).charAt(0).toLocaleUpperCase('tr-TR') !== state.activeLetter) return false;
     if (selectedType && entry.kelime_turu !== selectedType) return false;
     if (selectedDialect && entry.dil_veya_lehce !== selectedDialect) return false;
-    if (selectedPage && !String(entry.kaynak_sayfa || '').split('-').some((part) => part === selectedPage)) return false;
-    if (reviewOnly && !entry.kontrol_gerekli) return false;
     if (state.favoritesOnly && !state.favorites.has(entryId(entry))) return false;
     return true;
   });
@@ -106,7 +102,7 @@ function cardTemplate(entry, index) {
     <button class="favorite ${favorite ? 'is-favorite' : ''}" type="button" data-favorite="${escapeHtml(entryId(entry))}" aria-label="${favorite ? 'Favoriden çıkar' : 'Favoriye ekle'}">${favorite ? '★' : '☆'}</button></div>
     <p class="entry-meaning">${escapeHtml(entry.anlam || 'Anlam belirtilmemiş')}</p>
     ${example ? `<p class="entry-example">${escapeHtml(example)}</p>` : '<p class="entry-example"></p>'}
-    <div class="entry-footer"><span>sf. ${escapeHtml(entry.kaynak_sayfa || '—')}</span><span>${entry.kontrol_gerekli ? '<b class="review-dot">● kontrol</b>' : escapeHtml(entry.dil_veya_lehce || '')}</span></div>
+    <div class="entry-footer"><span>${escapeHtml(entry.dil_veya_lehce || '')}</span></div>
   </article>`;
 }
 
@@ -144,7 +140,7 @@ function openDetail(entry) {
     ${entry.ornek_metin ? `<div class="detail-section"><span class="detail-label">Örnek / kullanım</span><p class="detail-value">${escapeHtml(entry.ornek_metin)}</p></div>` : ''}
     ${forms ? `<div class="detail-section"><span class="detail-label">Çekimler</span><p class="detail-value">${escapeHtml(forms)}</p></div>` : ''}
     ${entry.notlar ? `<div class="detail-section"><span class="detail-label">Notlar</span><p class="detail-value">${escapeHtml(entry.notlar)}</p></div>` : ''}
-    <div class="detail-section detail-meta"><div><span class="detail-label">Kaynak sayfa</span><p class="detail-value">${escapeHtml(entry.kaynak_sayfa || '—')}</p></div><div><span class="detail-label">Dil / lehçe</span><p class="detail-value">${escapeHtml(entry.dil_veya_lehce || 'Belirtilmemiş')}</p></div></div>`;
+    <div class="detail-section"><span class="detail-label">Dil / lehçe</span><p class="detail-value">${escapeHtml(entry.dil_veya_lehce || 'Belirtilmemiş')}</p></div>`;
   modalBackdrop.hidden = false;
   document.body.classList.add('modal-open');
 }
@@ -167,9 +163,9 @@ resultsGrid.addEventListener('click', (event) => {
 
 pagination.addEventListener('click', (event) => { const button = event.target.closest('[data-page]'); if (button && !button.disabled) { state.page = Number(button.dataset.page); render(); window.scrollTo({ top: $('.content-grid').offsetTop - 90, behavior: 'smooth' }); } });
 searchInput.addEventListener('input', () => { state.activeLetter = ''; applyFilters(); });
-['typeFilter', 'dialectFilter', 'pageFilter', 'reviewFilter'].forEach((id) => $(`#${id}`).addEventListener('input', applyFilters));
+['typeFilter', 'dialectFilter'].forEach((id) => $(`#${id}`).addEventListener('input', applyFilters));
 $('#filterToggle').addEventListener('click', () => { const isHidden = filterDrawer.hidden; filterDrawer.hidden = !isHidden; $('#filterToggle').setAttribute('aria-expanded', String(isHidden)); });
-$('#clearFilters').addEventListener('click', () => { searchInput.value = ''; state.activeLetter = ''; $('#typeFilter').value = ''; $('#dialectFilter').value = ''; $('#pageFilter').value = ''; $('#reviewFilter').checked = false; applyFilters(); });
+$('#clearFilters').addEventListener('click', () => { searchInput.value = ''; state.activeLetter = ''; $('#typeFilter').value = ''; $('#dialectFilter').value = ''; applyFilters(); });
 $('#sortButton').addEventListener('click', () => { state.sortAscending = !state.sortAscending; $('#sortButton').firstChild.textContent = state.sortAscending ? 'A–Z ' : 'Z–A '; applyFilters(); });
 $('#favoritesToggle').addEventListener('click', () => { state.favoritesOnly = !state.favoritesOnly; $('#favoritesToggle').classList.toggle('is-active', state.favoritesOnly); applyFilters(); });
 $('#modalClose').addEventListener('click', () => closeModal(modalBackdrop));
@@ -187,7 +183,8 @@ async function init() {
     state.filtered = [];
     $('#heroTotal').textContent = state.all.length.toLocaleString('tr-TR');
     $('#aboutTotal').textContent = state.all.length.toLocaleString('tr-TR');
-    $('#aboutPages').textContent = new Set(state.all.flatMap((entry) => String(entry.kaynak_sayfa || '').split('-'))).size.toLocaleString('tr-TR');
+    $('#aboutTypes').textContent = new Set(state.all.map((entry) => entry.kelime_turu).filter(Boolean)).size.toLocaleString('tr-TR');
+    $('#aboutDialects').textContent = new Set(state.all.map((entry) => entry.dil_veya_lehce).filter(Boolean)).size.toLocaleString('tr-TR');
     $('#favoriteCount').textContent = state.favorites.size;
     populateFilters();
     buildLetterNav();

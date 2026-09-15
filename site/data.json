@@ -2142,17 +2142,6 @@
     "kontrol_gerekli": false
   },
   {
-    "kelime": "amşüy",
-    "anlam": "bir erik türü, sarı renkte olmak.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "141",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
     "kelime": "amul",
     "anlam": "hareketsiz, sakin, yumuşak huylu.",
     "ornek_metin": "qança bardıhğ ay oğul / Nereye gittin ey oğul? / erdirig mende enç amul / Sen burada rahat idin / attın amdı sen tüngûî / Attan şimdi sen geçtin / qildihg erse qtlmâgu / Yapacağını yaptın",
@@ -2483,31 +2472,6 @@
     "kontrol_gerekli": false
   },
   {
-    "kelime": "angdîdı",
-    "anlam": "kapan hazırlamak, tuzak kurmak.",
-    "ornek_metin": "awçı keyikni angdîdı: Avcı geyik için bir kapan hazırladı; ol anı angdîdı: O, onu yakalamak için tuzak kurdu.",
-    "cekimler": [
-      "arigdîr",
-      "angdimâq"
-    ],
-    "kelime_turu": "fiil",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "145",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "angra-",
-    "anlam": "infilak etmek, inlemek.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "fiil",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "145",
-    "notlar": "bkz. ınğra-",
-    "kontrol_gerekli": false
-  },
-  {
     "kelime": "angra-",
     "anlam": "infilak etmek, inlemek.",
     "ornek_metin": "",
@@ -2618,17 +2582,6 @@
     "dil_veya_lehce": "Qıfçâq lehçesi",
     "kaynak_sayfa": "145",
     "notlar": "elif (a) işba‘lıdır [vezin gerektirdiği için sözcüğe bir yazaç ekleyerek ya da yazacı eğerek uzatmak].",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "apa başı",
-    "anlam": "tannûm bitkisi, salatalığa benzer ve dikenli bir gövdesi vardır, dağlarda yenilir.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "145",
-    "notlar": "",
     "kontrol_gerekli": false
   },
   {
@@ -3325,17 +3278,6 @@
       "anglâmâq"
     ],
     "kelime_turu": "fiil",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "149",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "arıglıq",
-    "anlam": "temizlik, arılık.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
     "dil_veya_lehce": "",
     "kaynak_sayfa": "149",
     "notlar": "",
@@ -4174,28 +4116,6 @@
     "kontrol_gerekli": false
   },
   {
-    "kelime": "arübât",
-    "anlam": "demirhindi.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "153",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "arüdün",
-    "anlam": "boya.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "153",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
     "kelime": "arüdün",
     "anlam": "boya.",
     "ornek_metin": "",
@@ -4787,17 +4707,6 @@
     "dil_veya_lehce": "Hoten ve Kençek",
     "kaynak_sayfa": "157",
     "notlar": "Hoten ve Kençek halkı ata’ya hata der.",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "ata sâgün",
-    "anlam": "hekim.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "157",
-    "notlar": "",
     "kontrol_gerekli": false
   },
   {
@@ -5453,20 +5362,6 @@
     "kontrol_gerekli": false
   },
   {
-    "kelime": "axsattı",
-    "anlam": "aksatmak.",
-    "ornek_metin": "ol anı axsattı: O, onu aksattı.",
-    "cekimler": [
-      "axsatur",
-      "axsatmâq"
-    ],
-    "kelime_turu": "fiil",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "161",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
     "kelime": "axsunger",
     "anlam": "gürültü patırdı çıkaran, kavga eden sarhoş adam.",
     "ornek_metin": "",
@@ -5592,17 +5487,6 @@
     "kontrol_gerekli": false
   },
   {
-    "kelime": "axşam",
-    "anlam": "akşam, günbatımı zamanı.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "161",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
     "kelime": "aya",
     "anlam": "avuç içi.",
     "ornek_metin": "",
@@ -5611,28 +5495,6 @@
     "dil_veya_lehce": "",
     "kaynak_sayfa": "161",
     "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "aya",
-    "anlam": "avuç içi.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "161",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "aya yersgü",
-    "anlam": "yarasa.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "Çigil lehçesi",
-    "kaynak_sayfa": "161",
-    "notlar": "Bazıları yarasa der.",
     "kontrol_gerekli": false
   },
   {
@@ -5670,17 +5532,6 @@
   },
   {
     "kelime": "ây",
-    "anlam": "ay.",
-    "ornek_metin": "tölun ây: Dolunay",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "161",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "ây",
     "anlam": "otuz günlük zaman dilimi.",
     "ornek_metin": "qışqa anun kelse qalı qutlug yây / tün kün keçe alqmür ödleg bile ây: Kış için hazırlan, gelse de kutlu yaz / Gece gündüz geçerek tükenir zaman ile ay",
     "cekimler": [],
@@ -5688,17 +5539,6 @@
     "dil_veya_lehce": "",
     "kaynak_sayfa": "161",
     "notlar": "Yılın on iki bölümünden her birine ay denmesinin nedeni, bu sürenin ayın bir geçişiyle ölçülmesidir.",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "ây kol",
-    "anlam": "su yakınında bir yer adı.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "161",
-    "notlar": "",
     "kontrol_gerekli": false
   },
   {
@@ -6300,20 +6140,6 @@
     "kontrol_gerekli": false
   },
   {
-    "kelime": "azuqlandı",
-    "anlam": "azık sahibi olmak.",
-    "ornek_metin": "er azuqlandı: Adam azık sahibi oldu.",
-    "cekimler": [
-      "azuqlanur",
-      "azuqlanmâq"
-    ],
-    "kelime_turu": "fiil",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "165",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
     "kelime": "azuqlug",
     "anlam": "azığı olan.",
     "ornek_metin": "azuqlug er: Azığı olan adam.",
@@ -6344,17 +6170,6 @@
     "dil_veya_lehce": "",
     "kaynak_sayfa": "165",
     "notlar": "Şu atasözünde de geçer.",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "azuqluq",
-    "anlam": "erzak olarak hazırlanan şey.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "165",
-    "notlar": "",
     "kontrol_gerekli": false
   },
   {
@@ -8845,34 +8660,6 @@
     "kontrol_gerekli": false
   },
   {
-    "kelime": "bekütti",
-    "anlam": "işi sağlamlaştırmak.",
-    "ornek_metin": "ol işıg bekütti: O, işi sağlamlaştırdı.",
-    "cekimler": [
-      "bekûtür",
-      "bekütmek"
-    ],
-    "kelime_turu": "fiil",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "181",
-    "notlar": "Kök-anlamı “bir düğümün sıkılmasıdır.",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "beküşdi",
-    "anlam": "nesne sağlamlaşmak.",
-    "ornek_metin": "beküşdi nerig: Nesne sağlamlaştı.",
-    "cekimler": [
-      "beküşür",
-      "beküşmek"
-    ],
-    "kelime_turu": "fiil",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "181",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
     "kelime": "beküşdi",
     "anlam": "nesne sağlamlaşmak.",
     "ornek_metin": "beküşdi nerig: Nesne sağlamlaştı.",
@@ -8960,20 +8747,6 @@
   },
   {
     "kelime": "beledi",
-    "anlam": "koyun melemek.",
-    "ornek_metin": "qöy beledi: Koyun meledi.",
-    "cekimler": [
-      "beler",
-      "belemek"
-    ],
-    "kelime_turu": "fiil",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "181",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "beledi",
     "anlam": "bebeğini beşiğe yatırıp sıkıca bağlamak, kan bulaştırmak.",
     "ornek_metin": "ol kençin beledi: O, bebeğini beşiğe yatırdı ve sıkıca bağladı, o! anı qântga beledi: O, ona kanını bulaştırdı.",
     "cekimler": [
@@ -9014,20 +8787,6 @@
     "ornek_metin": "",
     "cekimler": [],
     "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "181",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "belegledi",
-    "anlam": "bir armağanla ödüllendirmek.",
-    "ornek_metin": "ol manga belegledi: O beni bir armağanla ödüllendirdi.",
-    "cekimler": [
-      "belegler",
-      "beleglemek"
-    ],
-    "kelime_turu": "fiil",
     "dil_veya_lehce": "",
     "kaynak_sayfa": "181",
     "notlar": "",
@@ -10152,20 +9911,6 @@
     "kontrol_gerekli": false
   },
   {
-    "kelime": "bilgetti",
-    "anlam": "zekileşmek.",
-    "ornek_metin": "oğlan bilgetti: Çocuk zekileşti.",
-    "cekimler": [
-      "bilgetür",
-      "bilgetmek"
-    ],
-    "kelime_turu": "fiil",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "189",
-    "notlar": "Kök-biçimi bilgedti'dır.",
-    "kontrol_gerekli": false
-  },
-  {
     "kelime": "bilig",
     "anlam": "bilgi, bilgelik, akıl.",
     "ornek_metin": "bilig öğren: Bilgi öğren. ozâqt bilgeler: Eski bilgeler. oglân biligsiz: Çocuklarda akıl yoktur.",
@@ -10215,20 +9960,6 @@
     "ornek_metin": "biliglig kişi: Bilgili, zeki, bilge kişi.",
     "cekimler": [],
     "kelime_turu": "sıfat",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "189",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "biligsedi",
-    "anlam": "bilgeliğe sahip olmayı arzu etmek.",
-    "ornek_metin": "oglân biligsedi: Çocuk bilgeliğe |hikmete] sahip olmayı arzuladı.",
-    "cekimler": [
-      "biligser",
-      "biligsemek"
-    ],
-    "kelime_turu": "fiil",
     "dil_veya_lehce": "",
     "kaynak_sayfa": "189",
     "notlar": "",
@@ -10390,20 +10121,6 @@
     "dil_veya_lehce": "",
     "kaynak_sayfa": "189",
     "notlar": "Bunun daha iyi bir söylenişi bilimsindi: Adam kendisini akıllı gösterdi’dir. Diğer örnekler için de bu kural geçerlidir. Buyrum kipinin gövdesine -msin eki getirilerek gerçekte olmayan bir şey olmuş gibi gösterilir.",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "bilişdi",
-    "anlam": "tanışmak.",
-    "ornek_metin": "ol menig birle bilişdi: O benimle tanıştı.",
-    "cekimler": [
-      "bilişûr",
-      "bilişmek"
-    ],
-    "kelime_turu": "fiil",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "189",
-    "notlar": "",
     "kontrol_gerekli": false
   },
   {
@@ -12287,20 +12004,6 @@
     "kontrol_gerekli": false
   },
   {
-    "kelime": "bögüşdi",
-    "anlam": "suyun önüne bir bent çekme işinde yardım etmek.",
-    "ornek_metin": "ol manga sûvv bögüşdi: O, suyun önüne bir bent çekme işinde bana yardım etti.",
-    "cekimler": [
-      "bögûşür",
-      "bögüşmek"
-    ],
-    "kelime_turu": "fiil",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "201",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
     "kelime": "bök",
     "anlam": "aşık oyununda aşığın sırtının yukarı gelmesi.",
     "ornek_metin": "Buradan hareketle çik bök denir.",
@@ -12334,17 +12037,6 @@
     "kontrol_gerekli": false
   },
   {
-    "kelime": "böke",
-    "anlam": "ejderha, büyük yılan.",
-    "ornek_metin": "yetti başlıgyel böke: Yedi başlı ejderha.",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "201",
-    "notlar": "Bu sözcük savaşçılara verilen bir ad olarak kullanılır, örneğin Yabâqu şeflerinden birinin adı böke budraç'tır.",
-    "kontrol_gerekli": false
-  },
-  {
     "kelime": "bökseg",
     "anlam": "göğüs ile boyun arasındaki bölge, göğsün yukarı kısmı.",
     "ornek_metin": "",
@@ -12364,50 +12056,6 @@
     "dil_veya_lehce": "",
     "kaynak_sayfa": "201",
     "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "bökseg",
-    "anlam": "göğüs ile boyun arasındaki bölge, göğsün yukarı kısmı.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "201",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "bökseg",
-    "anlam": "kadınların göğsü.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "201",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "böğür",
-    "anlam": "böğür.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "201",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "böğür",
-    "anlam": "kuça kenti ile Uygur ülkesi arasında bulunan bir dağın zirvesinde bulunan bir kale.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "201",
-    "notlar": "Burası sınır noktasıdır.",
     "kontrol_gerekli": false
   },
   {
@@ -13776,20 +13424,6 @@
     "kontrol_gerekli": false
   },
   {
-    "kelime": "busuqtı",
-    "anlam": "bir pusuyla yakalanmak.",
-    "ornek_metin": "er busuqtı: Adam bir pusuyla yakalandı.",
-    "cekimler": [
-      "busuqâr",
-      "busuqmâq"
-    ],
-    "kelime_turu": "fiil",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "209",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
     "kelime": "busuşdı",
     "anlam": "beylerin birbirlerine karşı pusu kurması.",
     "ornek_metin": "begler busuşdı: Beyler birbirlerine karşı pusu kurdu.",
@@ -14504,17 +14138,6 @@
     "kontrol_gerekli": false
   },
   {
-    "kelime": "bürkek",
-    "anlam": "gökyüzünün kara bulutlarla kaplanması.",
-    "ornek_metin": "kök bürkek boldı: Gökyüzü kara bulutlarla kaplandı",
-    "cekimler": [],
-    "kelime_turu": "sıfat",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "213",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
     "kelime": "bürkürdi",
     "anlam": "aralıksız yağmur yağmak, su tutmak, kan fışkırmak.",
     "ornek_metin": "kök bürkürdi: Gökyüzünden aralıksız yağmur yağdı. yugçı tönqa süw bürkürdi: Çırpıcı, giysiyi nemlendirmek için üzerine su tuttu. qdn bürkürdi: (Yaradan) kan fışkırdı.",
@@ -14535,20 +14158,6 @@
     "cekimler": [
       "bürkürer",
       "bürkürmek"
-    ],
-    "kelime_turu": "fiil",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "213",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "bürlendi",
-    "anlam": "tomurcuklanmak.",
-    "ornek_metin": "yıgâç bürlendi: Ağaçlar tomurcuklandı.",
-    "cekimler": [
-      "bürlenür",
-      "hürlenmek"
     ],
     "kelime_turu": "fiil",
     "dil_veya_lehce": "",
@@ -14659,20 +14268,6 @@
     "ornek_metin": "",
     "cekimler": [],
     "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "213",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "bürüldi",
-    "anlam": "katlanmak, bükülmek.",
-    "ornek_metin": "bitig bürüldi: Kitap [başka bir şey de olabilir] katlandı, büküldü.",
-    "cekimler": [
-      "bürülür",
-      "bürülmek"
-    ],
-    "kelime_turu": "fiil",
     "dil_veya_lehce": "",
     "kaynak_sayfa": "213",
     "notlar": "",
@@ -15047,17 +14642,6 @@
     "kontrol_gerekli": false
   },
   {
-    "kelime": "-ça/-çe",
-    "anlam": "karşılaştırma eki.",
-    "ornek_metin": "ol menigçe: O bana benziyor; bu anıgça: Bu ona benziyor.",
-    "cekimler": [],
-    "kelime_turu": "ek",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "217",
-    "notlar": "Arapçadaki karşılaştırma kâfına benzer.",
-    "kontrol_gerekli": false
-  },
-  {
     "kelime": "Çag çog",
     "anlam": "gürültü patırtı koptu.",
     "ornek_metin": "çâgçö&gpptı: Gürültü patırb koptu; aynı zamanda yalnızca çögı gopdı: gurultu koptu şeklinde de kullanılır.",
@@ -15122,20 +14706,6 @@
     "cekimler": [
       "çagırlanür",
       "çagırlanmâq"
-    ],
-    "kelime_turu": "fiil",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "217",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "çagırlâdı",
-    "anlam": "şıra yapmak",
-    "ornek_metin": "ol ûzümni çagırlâdı: O, üzümü şıra yaptı. Biri şıra içtiği zaman da bu sözcük kullanılır.",
-    "cekimler": [
-      "çagırlâr",
-      "çagırlâmâq"
     ],
     "kelime_turu": "fiil",
     "dil_veya_lehce": "",
@@ -15870,20 +15440,6 @@
     "kontrol_gerekli": false
   },
   {
-    "kelime": "çapındı",
-    "anlam": "atını kamçılamak veya suda yüzmek.",
-    "ornek_metin": "er atın çapındı: Adam atını kamçıladı. er suwda çapdi: Adam suda yüzdü - çapındı, çapdı’mn değişik sesletimidir.",
-    "cekimler": [
-      "çapmür",
-      "çapmmâq"
-    ],
-    "kelime_turu": "fiil",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "221",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
     "kelime": "çapıtgân",
     "anlam": "sürekli insanlara saldıran köpek, boyun kesen adam, cellat.",
     "ornek_metin": "bu ıt ol kişike çapıtgân: Bu, (ısırmak için) sürekli insanlara saldıran bir köpektir. çapıtgân er: Boyun kesen adam, cellat (Uygur lehçesi)",
@@ -16370,31 +15926,6 @@
     "kontrol_gerekli": false
   },
   {
-    "kelime": "çatuq",
-    "anlam": "bkz. xutu.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "belirsiz",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "225",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "çavdandı",
-    "anlam": "ünlenmek, ün sahibi olmak.",
-    "ornek_metin": "er çawlandı: Adam ünlendi, ün sahibi oldu.",
-    "cekimler": [
-      "çawlanür",
-      "çawlanmâq"
-    ],
-    "kelime_turu": "fiil",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "225",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
     "kelime": "çavdandı",
     "anlam": "ünlenmek, ün sahibi olmak.",
     "ornek_metin": "er çawlandı: Adam ünlendi, ün sahibi oldu.",
@@ -16415,28 +15946,6 @@
     "cekimler": [],
     "kelime_turu": "isim",
     "dil_veya_lehce": "Çigil lehçesi",
-    "kaynak_sayfa": "225",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "çavvşâng",
-    "anlam": "koyunun yününü kırkmakta kullanılan makas.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "Çigil lehçesi",
-    "kaynak_sayfa": "225",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "çavvşârig",
-    "anlam": "gözü kızarmış, sulanmış kimse.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "sıfat",
-    "dil_veya_lehce": "",
     "kaynak_sayfa": "225",
     "notlar": "",
     "kontrol_gerekli": false
@@ -16465,17 +15974,6 @@
     "kaynak_sayfa": "225",
     "notlar": "OCR hatası nedeniyle kelime 'çaw landı' şeklinde geçiyor.",
     "kontrol_gerekli": true
-  },
-  {
-    "kelime": "çawa",
-    "anlam": "genç erkekleri anlatmakta kullanılan bir ad.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "225",
-    "notlar": "",
-    "kontrol_gerekli": false
   },
   {
     "kelime": "çawa",
@@ -16539,44 +16037,8 @@
     "kontrol_gerekli": false
   },
   {
-    "kelime": "çawlâdı",
-    "anlam": "et hafifçe pişmek.",
-    "ornek_metin": "et çawlâdı: Et hafifçe pişti.",
-    "cekimler": [
-      "çawlâr",
-      "çawlâmâq"
-    ],
-    "kelime_turu": "fiil",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "225",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
     "kelime": "çawlı",
     "anlam": "şahin.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "225",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "çawlı",
-    "anlam": "şahin.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "225",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "çawuş",
-    "anlam": "savaşta birliklerin düzen içinde durmasını sağlayan ve onların gereksiz şiddet uygulamalarını önleyen yönetici.",
     "ornek_metin": "",
     "cekimler": [],
     "kelime_turu": "isim",
@@ -16608,44 +16070,11 @@
     "kontrol_gerekli": false
   },
   {
-    "kelime": "çawâr",
-    "anlam": "ateş yakmak için kullanılan çalı çırpı.",
-    "ornek_metin": "çawâr çuvvdr biçiminde ikileme olarak da kullanılır.",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "225",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
     "kelime": "çawârlıg",
     "anlam": "çalı çırpısı bol yer.",
     "ornek_metin": "çawdrhg yer: Çalı çırpısı bol yer.",
     "cekimler": [],
     "kelime_turu": "sıfat",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "225",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "çawârlıg",
-    "anlam": "çalı çırpısı bol yer.",
-    "ornek_metin": "çawdrhg yer: Çalı çırpısı bol yer.",
-    "cekimler": [],
-    "kelime_turu": "sıfat",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "225",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "çawıg",
-    "anlam": "kamçı ucu, kamçı darbesi.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
     "dil_veya_lehce": "",
     "kaynak_sayfa": "225",
     "notlar": "",
@@ -16728,17 +16157,6 @@
     ],
     "kelime_turu": "fiil",
     "dil_veya_lehce": "",
-    "kaynak_sayfa": "225",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "çâwlı",
-    "anlam": "ateş yakmakta kullanılan şeftali çekirdekleri ve ceviz kabukları.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "Kençek lehçesi",
     "kaynak_sayfa": "225",
     "notlar": "",
     "kontrol_gerekli": false
@@ -18089,20 +17507,6 @@
     "kontrol_gerekli": false
   },
   {
-    "kelime": "çıpırttı",
-    "anlam": "yaş bir dalla dövmek.",
-    "ornek_metin": "ol oglın çıpırttı: O, oğlunu yaş bir dalla dövdü.",
-    "cekimler": [
-      "çıpırtür",
-      "çıpırtmâq"
-    ],
-    "kelime_turu": "fiil",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "233",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
     "kelime": "çıq",
     "anlam": "yansıma sözcük, ses çıkarmamak.",
     "ornek_metin": "ol aııı urdı, çıq etmedi: O ona vurdu, ancak o ne acı hissetti ne de inledi.",
@@ -18217,20 +17621,6 @@
     "dil_veya_lehce": "",
     "kaynak_sayfa": "233",
     "notlar": "Buna benzer herhangi bir sesi anlatmak için bu sözcük kullanılır.",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "çırigrattı",
-    "anlam": "çanları çaldırmak, tıkırdatmak.",
-    "ornek_metin": "ol qoriğrâgu çırigrattı: O çanları çaldı ve gemi tıkırdattı.",
-    "cekimler": [
-      "çırigratûr",
-      "çırigratmâq"
-    ],
-    "kelime_turu": "fiil",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "233",
-    "notlar": "",
     "kontrol_gerekli": false
   },
   {
@@ -18948,17 +18338,6 @@
   },
   {
     "kelime": "çilgü",
-    "anlam": "doru at.",
-    "ornek_metin": "çilgü at: Doru at.",
-    "cekimler": [],
-    "kelime_turu": "sıfat",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "237",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "Çilgü",
     "anlam": "doru at.",
     "ornek_metin": "çilgü at: Doru at.",
     "cekimler": [],
@@ -21053,17 +20432,6 @@
     "kontrol_gerekli": false
   },
   {
-    "kelime": "eget",
-    "anlam": "gerdek gecesi geline hizmet için yollanan genç kız.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "249",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
     "kelime": "egetledi",
     "anlam": "güveyin evine, kızına hizmet etmesi için genç bir kız yollamak.",
     "ornek_metin": "ol qîzm egetledi: O güveyin evine, kızına (geline) hizmet etmesi için genç bir kız yolladı.",
@@ -21163,20 +20531,6 @@
   },
   {
     "kelime": "egeşdi",
-    "anlam": "demiri eğelemekte yardım etmek.",
-    "ornek_metin": "ol manga temür egeşdi: O, bana demiri eğelemekte yardım etti.",
-    "cekimler": [
-      "egeşur",
-      "egeşmek"
-    ],
-    "kelime_turu": "fiil",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "249",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "egeşdi",
     "anlam": "iki aygır (deve) itişmek, hırlaşmak.",
     "ornek_metin": "ekki buğra egeşdi: İki aygır (deve) itişti ve hırlaştı. Şu atasözünde de geçer, ikki buğra egeşür otra kökegün yançılür: İki deve çarpışır, aralannda gök sinek ezilir. Bu atasözü iki beyin savaşı sırasında sonuçta hep zayıfların öldüğünü belirtmek için kullanılır.",
     "cekimler": [
@@ -21223,28 +20577,6 @@
       "eğmek"
     ],
     "kelime_turu": "fiil",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "249",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "eğdi",
-    "anlam": "mezbaha.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "249",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "eğeme",
-    "anlam": "bir lavta çeşidi.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
     "dil_veya_lehce": "",
     "kaynak_sayfa": "249",
     "notlar": "",
@@ -23642,17 +22974,6 @@
     "kontrol_gerekli": false
   },
   {
-    "kelime": "erüklük",
-    "anlam": "eriklik, şeftali bahçesi.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "265",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
     "kelime": "erüksedi",
     "anlam": "canı şeftali, kayısı veya erik istemek.",
     "ornek_metin": "er erüksedi: Adamın canı şeftali istedi.",
@@ -23717,17 +23038,6 @@
       "erüşmek"
     ],
     "kelime_turu": "fiil",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "265",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "es",
-    "anlam": "yırtıcı hayvanların avı olan hayvan.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
     "dil_veya_lehce": "",
     "kaynak_sayfa": "265",
     "notlar": "",
@@ -23825,17 +23135,6 @@
       "esenlemek"
     ],
     "kelime_turu": "fiil",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "265",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "esgü",
-    "anlam": "harman savurma işinde kullanılan sepet.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
     "dil_veya_lehce": "",
     "kaynak_sayfa": "265",
     "notlar": "",
@@ -25116,31 +24415,6 @@
       "ewişmek"
     ],
     "kelime_turu": "fiil",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "273",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "ewişdi",
-    "anlam": "telaş etmek.",
-    "ornek_metin": "kişiler işqa ewişdi: Halk bu konuda telaş içindeydi.",
-    "cekimler": [
-      "ewişfir",
-      "ewişmek"
-    ],
-    "kelime_turu": "fiil",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "273",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "ewren",
-    "anlam": "demirci ocağı biçiminde yapılan ekmek fırını.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
     "dil_veya_lehce": "",
     "kaynak_sayfa": "273",
     "notlar": "",
@@ -26577,20 +25851,6 @@
     "kontrol_gerekli": false
   },
   {
-    "kelime": "içsedi",
-    "anlam": "su içmek istemek.",
-    "ornek_metin": "ol SÛVV İçsedi: O, SU [başka bir şey de olabilir] içmek istedi,",
-    "cekimler": [
-      "içser",
-      "içsemek"
-    ],
-    "kelime_turu": "fiil",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "285",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
     "kelime": "içtonlandı",
     "anlam": "bkz. iştonlandı.",
     "ornek_metin": "",
@@ -26646,20 +25906,6 @@
     "ornek_metin": "",
     "cekimler": [],
     "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "285",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "içükledi",
-    "anlam": "giysisine kürk diktirmek.",
-    "ornek_metin": "ol tönug içükledi: O, giysisine (samur, sincap ya da benzeri hayvanlara ait) kürk diktirdi.",
-    "cekimler": [
-      "içükler",
-      "içüklemek"
-    ],
-    "kelime_turu": "fiil",
     "dil_veya_lehce": "",
     "kaynak_sayfa": "285",
     "notlar": "",
@@ -27926,17 +27172,6 @@
     "kontrol_gerekli": false
   },
   {
-    "kelime": "isiglik",
-    "anlam": "aşk, sevgi.",
-    "ornek_metin": "köngül isigliki herek: Yürekte âşkın ateşi olmalıdır.",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "293",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
     "kelime": "isindi",
     "anlam": "sevmek, ısınmak, gevşeyerek uzanmak.",
     "ornek_metin": "men angâr isindim: Ben onu sevdim; ol ötqa isindi: O, ateşin kenannda kendini ısıttı",
@@ -28569,17 +27804,6 @@
     "kontrol_gerekli": false
   },
   {
-    "kelime": "kebit",
-    "anlam": "dükkân.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "297",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
     "kelime": "keç",
     "anlam": "gecikmek.",
     "ornek_metin": "keç keldi: Seç geldi",
@@ -28625,28 +27849,6 @@
   },
   {
     "kelime": "keçe",
-    "anlam": "keçe.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "Oğuz lehçesi",
-    "kaynak_sayfa": "297",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "keçe",
-    "anlam": "karpuz, hıyar ya da benzer şeyleri taşımaya yarayan sepet.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "297",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "keçe",
     "anlam": "gece.",
     "ornek_metin": "keçe türup yorır erdim: Sece kalkıp yürüdüm; qara qızıl böri kördüm: Kara, kızıl kurt gördüm; qatıg yânı qura kördüm: Sert ve güçlü yayımı gerdim; qaya körüp baqu ağdı: (Kurt) dönüp bakınca beni gördü kaçarak tepeye tırmandı",
     "cekimler": [],
@@ -28654,17 +27856,6 @@
     "dil_veya_lehce": "",
     "kaynak_sayfa": "297",
     "notlar": "Dörtlük içermektedir.",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "keçi",
-    "anlam": "keçi.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "Oğuz lehçesi",
-    "kaynak_sayfa": "297",
-    "notlar": "",
     "kontrol_gerekli": false
   },
   {
@@ -28732,20 +27923,6 @@
     "kelime": "keçildi",
     "anlam": "su veya başka bir şeyi geçmek.",
     "ornek_metin": "süvv keçildi: Su [başka bir şey de olabiliri geçildi.",
-    "cekimler": [
-      "keçilür",
-      "keçilmek"
-    ],
-    "kelime_turu": "fiil",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "297",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "keçildi",
-    "anlam": "gecikmek.",
-    "ornek_metin": "iş keçildi: İş gecikti.",
     "cekimler": [
       "keçilür",
       "keçilmek"
@@ -29376,28 +28553,6 @@
     "kontrol_gerekli": false
   },
   {
-    "kelime": "kelegü",
-    "anlam": "tarla sıçanı soyundan, uzun arka ayakları olan küçük bir hayvan.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "301",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "kelep",
-    "anlam": "türk yaylalarında biten, davarları çabuk semirten körpe bir ot.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "301",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
     "kelime": "kelep",
     "anlam": "türk yaylalarında biten, davarları çabuk semirten körpe bir ot.",
     "ornek_metin": "",
@@ -29442,34 +28597,12 @@
     "kontrol_gerekli": false
   },
   {
-    "kelime": "keler",
-    "anlam": "kertenkele.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "301",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
     "kelime": "keleçü",
     "anlam": "sözcüklerle anlatmak, konuşmak.",
     "ornek_metin": "",
     "cekimler": [],
     "kelime_turu": "isim",
     "dil_veya_lehce": "Oğuz lehçesi",
-    "kaynak_sayfa": "301",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "kelgin",
-    "anlam": "gelgit döngüsünde suların kabarması ve bu nedenle oluşan seller.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
     "kaynak_sayfa": "301",
     "notlar": "",
     "kontrol_gerekli": false
@@ -29506,20 +28639,6 @@
     "cekimler": [
       "kelgirer",
       "kelgirmek"
-    ],
-    "kelime_turu": "fiil",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "301",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "keligsedi",
-    "anlam": "gelmeyi arzulamak.",
-    "ornek_metin": "ol manga keligsedi: O, bana gelmeyi arzuladı.",
-    "cekimler": [
-      "keligsir",
-      "keligsemek"
     ],
     "kelime_turu": "fiil",
     "dil_veya_lehce": "",
@@ -30186,20 +29305,6 @@
     "kontrol_gerekli": false
   },
   {
-    "kelime": "kerigürdi",
-    "anlam": "evini genişletmek.",
-    "ornek_metin": "er ewin kerigürdi: Adam evini genişletti.",
-    "cekimler": [
-      "kengrür",
-      "kerigürmek"
-    ],
-    "kelime_turu": "fiil",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "305",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
     "kelime": "kereklig",
     "anlam": "gerekli olan şey.",
     "ornek_metin": "bu neng ol bizke kereklig: Bu bizim için gerekli olan bir şeydir.",
@@ -30762,20 +29867,6 @@
     "kontrol_gerekli": false
   },
   {
-    "kelime": "keslindi",
-    "anlam": "kesilmek.",
-    "ornek_metin": "keslindi neng: Nesne kesildi.",
-    "cekimler": [
-      "keslinür",
-      "keslinmek"
-    ],
-    "kelime_turu": "fiil",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "309",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
     "kelime": "keslinçü",
     "anlam": "büyük kertenkele.",
     "ornek_metin": "",
@@ -30821,17 +29912,6 @@
   },
   {
     "kelime": "kesme",
-    "anlam": "demirden yapılmış, geniş temren.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "309",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "kesme",
     "anlam": "perçem.",
     "ornek_metin": "tünle bile bastımız / Onlara gece saldırdık / tegme yangaq bustımız / Her yanda pusuya yattık / kesmelerin kestimiz / Atlarının perçemlerini kestik",
     "cekimler": [],
@@ -30856,37 +29936,12 @@
     "kontrol_gerekli": false
   },
   {
-    "kelime": "kesmelendi",
-    "anlam": "zülüftenmek, perçemi uzamak.",
-    "ornek_metin": "qîZ kesmelendi: Kız zülüftendi, perçemi uzadı.",
-    "cekimler": [
-      "kesmelenür",
-      "kesmelenmek"
-    ],
-    "kelime_turu": "fiil",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "309",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
     "kelime": "kestem",
     "anlam": "önceden sözleşmeden, aniden konuk olarak gelenler için verilen ziyafet.",
     "ornek_metin": "",
     "cekimler": [],
     "kelime_turu": "isim",
     "dil_veya_lehce": "",
-    "kaynak_sayfa": "309",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "kester",
-    "anlam": "çanak, çömlek.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "Uç lehçesi",
     "kaynak_sayfa": "309",
     "notlar": "",
     "kontrol_gerekli": false
@@ -30934,28 +29989,6 @@
     "kelime": "kesürgü",
     "anlam": "deri heybe, dağarcık.",
     "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "309",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "kesürgü",
-    "anlam": "deri heybe, dağarcık.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "309",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "keten",
-    "anlam": "zahmet, sıkıntı.",
-    "ornek_metin": "keten kördi kerekiı yüdti: (O kadar çok) sıkıntıyla karşı karşıya kaldı ki, (kişisel eşyalarının azlığı nedeniyle) çadırını (tek başına) yüklendi (taşıyabildi) denir.",
     "cekimler": [],
     "kelime_turu": "isim",
     "dil_veya_lehce": "",
@@ -31618,20 +30651,6 @@
     "kontrol_gerekli": false
   },
   {
-    "kelime": "kezledi",
-    "anlam": "okun gezini düzeltmek, ayarlamak.",
-    "ornek_metin": "ol oqın kezledi: O, okunun gezini düzeltti, ayarladı.",
-    "cekimler": [
-      "bezler",
-      "kezlemek"
-    ],
-    "kelime_turu": "fiil",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "313",
-    "notlar": "Birinin tencerede kalan yemek artığını temizlemesini anlatmak için de bu sözcük kullanılır.",
-    "kontrol_gerekli": false
-  },
-  {
     "kelime": "kezlendi",
     "anlam": "okun gezi düzeltilmek, yiyecek artığı tencerenin dibine yapışmak.",
     "ornek_metin": "oq kezlendi: Ok gezlendi. eşiç kezlendi: Yiyecek artığı tencerenin dibine yapıştı.",
@@ -31652,20 +30671,6 @@
     "cekimler": [
       "kezlenür",
       "kezlenmek"
-    ],
-    "kelime_turu": "fiil",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "313",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "kezletti",
-    "anlam": "okun gezinin onarılmasını, ayarlanmasını emretmek.",
-    "ornek_metin": "ol oq kezletti: O, okun gezinin onarılmasını, ayarlanmasını emretti.",
-    "cekimler": [
-      "kezletür",
-      "kezletmek"
     ],
     "kelime_turu": "fiil",
     "dil_veya_lehce": "",
@@ -31722,28 +30727,6 @@
     "cekimler": [],
     "kelime_turu": "isim",
     "dil_veya_lehce": "",
-    "kaynak_sayfa": "313",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "kezlik",
-    "anlam": "kadınların kaftanlarına tutturulmuş olarak sakladıkları küçük bıçak.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "313",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "kibe",
-    "anlam": "az sayıda gün.",
-    "ornek_metin": "kibe boldı: Kısa bir süre geçti.",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "Oğuz lehçesi",
     "kaynak_sayfa": "313",
     "notlar": "",
     "kontrol_gerekli": false
@@ -32370,20 +31353,6 @@
     "ornek_metin": "kizdeki kizyıpâr: Kutuda saklanan bir misk kesesi - bu ifade genç kızların mis kokulu nefesini anlatan bir benzetme olarak kullanılır",
     "cekimler": [],
     "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "317",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "kizledi",
-    "anlam": "nesneyi gizlemek.",
-    "ornek_metin": "ol kizledi nengni: O, nesneyi gizledi.",
-    "cekimler": [
-      "kizler",
-      "kizlemek"
-    ],
-    "kelime_turu": "fiil",
     "dil_veya_lehce": "",
     "kaynak_sayfa": "317",
     "notlar": "",
@@ -33067,17 +32036,6 @@
     "kontrol_gerekli": false
   },
   {
-    "kelime": "kölük",
-    "anlam": "yük hayvanı.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "321",
-    "notlar": "at, eşek ya da katır gibi.",
-    "kontrol_gerekli": false
-  },
-  {
     "kelime": "kölük neng",
     "anlam": "ödünç alınan herhangi bir şey.",
     "ornek_metin": "",
@@ -33742,20 +32700,6 @@
     "kontrol_gerekli": false
   },
   {
-    "kelime": "körgitti",
-    "anlam": "göstermek.",
-    "ornek_metin": "ol manga neng körgitti: O, bana bir şey gösterdi.",
-    "cekimler": [
-      "körgitür",
-      "körgitmek"
-    ],
-    "kelime_turu": "fiil",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "325",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
     "kelime": "körişdi",
     "anlam": "bakışmak, görüşmek.",
     "ornek_metin": "ol menig birle kûrişdi: O ve ben birbirimize baktık.",
@@ -33792,20 +32736,6 @@
     "dil_veya_lehce": "",
     "kaynak_sayfa": "325",
     "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "körketti",
-    "anlam": "güzelleşmek.",
-    "ornek_metin": "qîzkörketti: Kız güzelleşti.",
-    "cekimler": [
-      "körketur",
-      "körketmek"
-    ],
-    "kelime_turu": "fiil",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "325",
-    "notlar": "Kök-biçimi körhedti’dir, benzeşime maruz kalmıştır.",
     "kontrol_gerekli": false
   },
   {
@@ -33870,20 +32800,6 @@
     "kontrol_gerekli": false
   },
   {
-    "kelime": "körpeledi",
-    "anlam": "körpe çimeni yemek.",
-    "ornek_metin": "at körpeledi: At körpe çimeni yedi.",
-    "cekimler": [
-      "körpeler",
-      "körpelemek"
-    ],
-    "kelime_turu": "fiil",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "325",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
     "kelime": "körpelendi",
     "anlam": "geç filizlenmek.",
     "ornek_metin": "ot körpelendi: Bitki geç filizlendi.",
@@ -33920,20 +32836,6 @@
     "dil_veya_lehce": "",
     "kaynak_sayfa": "325",
     "notlar": "Şu atasözünde de geçer",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "körsedim",
-    "anlam": "buluşmak, görüşmek istemek.",
-    "ornek_metin": "men anı körsedim: Ben onunla buluşmak, görüşmek istedim.",
-    "cekimler": [
-      "kör ser men",
-      "körsemek"
-    ],
-    "kelime_turu": "fiil",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "325",
-    "notlar": "Kök-biçimi körûgsedim’dir. Burada akıcı yazaçlara ilişkin bir kural söz konusudur, “bir şeyi isteme”yi (temenni) ifade etmek için eylem gövdesine -gse eki getirilir.",
     "kontrol_gerekli": false
   },
   {
@@ -34569,20 +33471,6 @@
     "kontrol_gerekli": false
   },
   {
-    "kelime": "köyürdi",
-    "anlam": "yakmak.",
-    "ornek_metin": "er otung köyürdi: Adam odunu [başka bir şeyi de olabiliri yaktı.",
-    "cekimler": [
-      "köyrür",
-      "köyürmek"
-    ],
-    "kelime_turu": "fiil",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "329",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
     "kelime": "köz",
     "anlam": "göz.",
     "ornek_metin": "",
@@ -34612,20 +33500,6 @@
     "anlam": "salkımından üzüm koparmak.",
     "ornek_metin": "ol üzümm közedi: O, salkımından üzüm koparttı.",
     "cekimler": [],
-    "kelime_turu": "fiil",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "329",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "közedi",
-    "anlam": "ateşi maşayla karıştırmak.",
-    "ornek_metin": "ol öt közedi: O, ateşi maşayla kanştırdı.",
-    "cekimler": [
-      "közer",
-      "közemek"
-    ],
     "kelime_turu": "fiil",
     "dil_veya_lehce": "",
     "kaynak_sayfa": "329",
@@ -35955,17 +34829,6 @@
     "kontrol_gerekli": false
   },
   {
-    "kelime": "küveç",
-    "anlam": "bir çeşit at başlığı.",
-    "ornek_metin": "küveç yügün: Bir çeşit at başlığı.",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "337",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
     "kelime": "küvük",
     "anlam": "erkek kedi.",
     "ornek_metin": "küvük muş: Erkek kedi.",
@@ -35999,17 +34862,6 @@
     "kontrol_gerekli": false
   },
   {
-    "kelime": "küvük",
-    "anlam": "saman.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "Oğuz lehçesi",
-    "kaynak_sayfa": "337",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
     "kelime": "küwendi",
     "anlam": "övünmek.",
     "ornek_metin": "o! menig birle küwendi: O, benimle övündü.",
@@ -36022,31 +34874,6 @@
     "kaynak_sayfa": "337",
     "notlar": "",
     "kontrol_gerekli": true
-  },
-  {
-    "kelime": "küwendi",
-    "anlam": "övünmek.",
-    "ornek_metin": "o! menig birle küwendi: O, benimle övündü.",
-    "cekimler": [
-      "kütvenür",
-      "küwenmek"
-    ],
-    "kelime_turu": "fiil",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "337",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "küwez",
-    "anlam": "mağrur, kibirli kimse.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "sıfat",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "337",
-    "notlar": "",
-    "kontrol_gerekli": false
   },
   {
     "kelime": "küwez",
@@ -36093,28 +34920,6 @@
     "kontrol_gerekli": false
   },
   {
-    "kelime": "küwlük",
-    "anlam": "kilden yapılmış ufak misketler; kurumadan önce veya kuruduktan sonra yuvarlanarak oynanır.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "337",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "küwrüg",
-    "anlam": "kös.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "337",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
     "kelime": "küwrüg",
     "anlam": "kös.",
     "ornek_metin": "",
@@ -36143,17 +34948,6 @@
     "cekimler": [],
     "kelime_turu": "isim",
     "dil_veya_lehce": "Çigil lehçesi",
-    "kaynak_sayfa": "337",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "küye",
-    "anlam": "güve, keçe veya keçeye benzeyen şeyleri yiyen böcek.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
     "kaynak_sayfa": "337",
     "notlar": "",
     "kontrol_gerekli": false
@@ -36649,17 +35443,6 @@
     ],
     "kelime_turu": "fiil",
     "dil_veya_lehce": "",
-    "kaynak_sayfa": "341",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "mandırı",
-    "anlam": "gelinle güveyin gece bir araya getirildiği ve insanların başlarından aşağı para attığı yer.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "Çigil lehçesi",
     "kaynak_sayfa": "341",
     "notlar": "",
     "kontrol_gerekli": false
@@ -37451,17 +36234,6 @@
     "dil_veya_lehce": "",
     "kaynak_sayfa": "345",
     "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "münu",
-    "anlam": "bu.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "ilgeç",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "345",
-    "notlar": "Özel olan bir şeyi işaret etmek için kullanılır.",
     "kontrol_gerekli": false
   },
   {
@@ -39128,17 +37900,6 @@
     "kontrol_gerekli": false
   },
   {
-    "kelime": "ongüjin",
-    "anlam": "çölde insanlara saldıran gulyabani.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "357",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
     "kelime": "op",
     "anlam": "harman dövmekte kullanılan öküz.",
     "ornek_metin": "",
@@ -39162,20 +37923,6 @@
     "kaynak_sayfa": "357",
     "notlar": "Herhangi bir şeyin başkasından gizlenmesini anlatmak için de bu sözcük kullanılır.",
     "kontrol_gerekli": true
-  },
-  {
-    "kelime": "opldı",
-    "anlam": "halktan gizlemek.",
-    "ornek_metin": "ol anı kişîdtn opidı: O, onu halktan gizledi.",
-    "cekimler": [
-      "opfr",
-      "opimâq"
-    ],
-    "kelime_turu": "fiil",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "357",
-    "notlar": "Herhangi bir şeyin başkasından gizlenmesini anlatmak için de bu sözcük kullanılır.",
-    "kontrol_gerekli": false
   },
   {
     "kelime": "opındı",
@@ -39822,17 +38569,6 @@
     "kontrol_gerekli": false
   },
   {
-    "kelime": "orgâq",
-    "anlam": "orak.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "361",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
     "kelime": "orilaştı",
     "anlam": "bkz. orlaşdı.",
     "ornek_metin": "",
@@ -39866,34 +38602,6 @@
     "dil_veya_lehce": "",
     "kaynak_sayfa": "361",
     "notlar": "Kök-biçimi orîlaştı’dır.",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "orlaşdı",
-    "anlam": "halktan bir haykırış yükselmek.",
-    "ornek_metin": "bödun qamug orlaşdı: Halktan bir haykınş yükseldi.",
-    "cekimler": [
-      "orlaşür",
-      "orlaşmâq"
-    ],
-    "kelime_turu": "fiil",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "361",
-    "notlar": "Kök-biçimi orîlaştı’dır.",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "ornattım",
-    "anlam": "bir şeyi yerine koymak.",
-    "ornek_metin": "men neng ornattım: Ben, o şeyi yerine koydum.",
-    "cekimler": [
-      "om atur men",
-      "ornatmâq"
-    ],
-    "kelime_turu": "fiil",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "361",
-    "notlar": "",
     "kontrol_gerekli": false
   },
   {
@@ -39947,17 +38655,6 @@
     "kontrol_gerekli": false
   },
   {
-    "kelime": "ortu",
-    "anlam": "herhangi bir şeyin ortası.",
-    "ornek_metin": "ortu er: Orta yaşlı adam. / ew ortüsı: Evin ortası. / kün ortusı: Öğle vakti",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "Çigil lehçesi",
-    "kaynak_sayfa": "361",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
     "kelime": "orî qıqı",
     "anlam": "uğultu ve bağrış çağrış.",
     "ornek_metin": "",
@@ -39994,20 +38691,6 @@
     "dil_veya_lehce": "",
     "kaynak_sayfa": "361",
     "notlar": "Şu dörtlükte de kullanılır: özin ögnüp orîlâdı / yorıp terig qanlâdı / atıg kemşip orîlâdı / uwut bölüp töpü ağdı",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "orîlâdı",
-    "anlam": "bağırmak.",
-    "ornek_metin": "er orîlâdı: Adam bağırdı.",
-    "cekimler": [
-      "orîlâr",
-      "orîlâmâq"
-    ],
-    "kelime_turu": "fiil",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "361",
-    "notlar": "",
     "kontrol_gerekli": false
   },
   {
@@ -40590,50 +39273,11 @@
     "kontrol_gerekli": false
   },
   {
-    "kelime": "oxsındı",
-    "anlam": "yaptığı şeyden dolayı pişmanlık duymak.",
-    "ornek_metin": "ol qılmış îşınga oxsmdı: O, yaptığı şeyden dolayı pişmanlık duydu.",
-    "cekimler": [
-      "oxsmür",
-      "oxsınmdq"
-    ],
-    "kelime_turu": "fiil",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "365",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
     "kelime": "oxâq",
     "anlam": "kurutulmuş kayısılardan yapılan meyve suyu.",
     "ornek_metin": "",
     "cekimler": [],
     "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "365",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "oxâq",
-    "anlam": "kurutulmuş kayısılardan yapılan meyve suyu.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "365",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "oxşattı",
-    "anlam": "bir şeyi başka bir şeye benzetmek.",
-    "ornek_metin": "ol meni atâma oxşattı: O, beni babama benzetti.",
-    "cekimler": [
-      "oxşatur",
-      "oxşatmdq"
-    ],
-    "kelime_turu": "fiil",
     "dil_veya_lehce": "",
     "kaynak_sayfa": "365",
     "notlar": "",
@@ -41109,20 +39753,6 @@
     "kontrol_gerekli": false
   },
   {
-    "kelime": "ögdi",
-    "anlam": "övmek.",
-    "ornek_metin": "ol meni Ögdi: O, beni övdü.",
-    "cekimler": [
-      "öger",
-      "ögmek"
-    ],
-    "kelime_turu": "fiil",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "369",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
     "kelime": "öge",
     "anlam": "akıllı, olgun ve görmüş geçirmiş kimse.",
     "ornek_metin": "",
@@ -41543,20 +40173,6 @@
     "kontrol_gerekli": false
   },
   {
-    "kelime": "öküzlendi",
-    "anlam": "öküz sahibi olmak.",
-    "ornek_metin": "er öküzlendi: Adam öküz sahibi oldu.",
-    "cekimler": [
-      "ökûzlenür",
-      "öküzlenmek"
-    ],
-    "kelime_turu": "fiil",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "373",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
     "kelime": "öl",
     "anlam": "nemlenmiş, ıslak.",
     "ornek_metin": "öl neng: Nemlenmiş herhangi bir şey. Nitekim öl tön: nemli (ıslak) giysi denir.",
@@ -41668,17 +40284,6 @@
     "kontrol_gerekli": false
   },
   {
-    "kelime": "ölige",
-    "anlam": "ökseotu.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "373",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
     "kelime": "ölitti",
     "anlam": "ıslatmak.",
     "ornek_metin": "ol tön ölitti: O, giysiyi ıslattı.",
@@ -41699,20 +40304,6 @@
     "cekimler": [
       "ölitür",
       "ölitmek"
-    ],
-    "kelime_turu": "fiil",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "373",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "ölişdi",
-    "anlam": "ıslaklığın içine işlemesi.",
-    "ornek_metin": "ölişdi neng: Islaklık herhangi bir şeyin içine işledi.",
-    "cekimler": [
-      "ölişür",
-      "ölişmek"
     ],
     "kelime_turu": "fiil",
     "dil_veya_lehce": "",
@@ -42421,52 +41012,8 @@
     "kontrol_gerekli": false
   },
   {
-    "kelime": "örgen",
-    "anlam": "urgan.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "Oğuz lehçesi",
-    "kaynak_sayfa": "377",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
     "kelime": "örgü",
     "anlam": "hörgüç.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "377",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "örgü",
-    "anlam": "hörgüç.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "377",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "örgüç",
-    "anlam": "kadınların saç örgüsü.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "377",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "örgüç",
-    "anlam": "sacayağı.",
     "ornek_metin": "",
     "cekimler": [],
     "kelime_turu": "isim",
@@ -42565,17 +41112,6 @@
     "kontrol_gerekli": false
   },
   {
-    "kelime": "örk",
-    "anlam": "yular, hayvanı bağlamaya yarayan ip.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "377",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
     "kelime": "örkledi",
     "anlam": "örklemek, hayvanı kazığa bağlamak.",
     "ornek_metin": "ol atıg örkledi: O, ab kazığa bağladı,",
@@ -42612,17 +41148,6 @@
     "dil_veya_lehce": "Oğuz lehçesi",
     "kaynak_sayfa": "377",
     "notlar": "örgüç sözcüğünün göçüşmeye maruz kalmış biçimidir.",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "örçüg",
-    "anlam": "saç örgüsü, belik.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "Oğuz lehçesi",
-    "kaynak_sayfa": "377",
-    "notlar": "Örgüç sözcüğünün göçüşmeye maruz kalmış biçimidir.",
     "kontrol_gerekli": false
   },
   {
@@ -43711,17 +42236,6 @@
     "kontrol_gerekli": false
   },
   {
-    "kelime": "özütlük",
-    "anlam": "belli bir şey konusunda cimri davranma.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "385",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
     "kelime": "-qa",
     "anlam": "içine, üzerine anlamına gelen belirteç işlevli ilgeç, -e, -a, -ye, -ya yönelme anlamları katan ilgeç.",
     "ornek_metin": "bâgqa kir: Bağa [bağın içine] gir; tâgqayoqla: Dağa [dağın üzerine] tırman. atâm qa berdim yarm üq: Babama para verdim; anâmqa tawâr berdim: Anama mal verdim. atam qa söz aydım: Babama söz söyledim.",
@@ -44187,17 +42701,6 @@
     "kontrol_gerekli": false
   },
   {
-    "kelime": "qadgu",
-    "anlam": "kaygı, üzüntü.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "389",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
     "kelime": "qadgulandı",
     "anlam": "kaygılanmak.",
     "ornek_metin": "ol bu işqa qadgulandı: O, bu mesele [başka bir şey de olabilir] nedeniyle kaygılandı.",
@@ -44281,17 +42784,6 @@
     "dil_veya_lehce": "",
     "kaynak_sayfa": "389",
     "notlar": "Kayın; evlilik sonucu edinilen akrabalar. Qıfçâq lehçesinde z’yle söylenir. [qazın] olarak da geçer.",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "qadıq",
-    "anlam": "içi oyulmuş bir tahta parçası.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "Argu lehçesi",
-    "kaynak_sayfa": "389",
-    "notlar": "",
     "kontrol_gerekli": false
   },
   {
@@ -45648,31 +44140,6 @@
     "kontrol_gerekli": false
   },
   {
-    "kelime": "qândı",
-    "anlam": "suyla dolmak, olabildiğince çok su içmek, kana kana içmek.",
-    "ornek_metin": "ol sûıvdın qândr. O, suyla doldu - olabildiğince çok su içti; kana kana içti.",
-    "cekimler": [
-      "qânar",
-      "qânmâq"
-    ],
-    "kelime_turu": "fiil",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "397",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "qânı",
-    "anlam": "nerede anlamına gelen bir ilgeç.",
-    "ornek_metin": "oğlum qâm: Oğlum nerede?",
-    "cekimler": [],
-    "kelime_turu": "edat",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "397",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
     "kelime": "qânı",
     "anlam": "nerede anlamına gelen bir ilgeç.",
     "ornek_metin": "oğlum qâm: Oğlum nerede?",
@@ -46224,34 +44691,6 @@
     "kontrol_gerekli": false
   },
   {
-    "kelime": "qaqlattı",
-    "anlam": "kurutulmasını emretmek.",
-    "ornek_metin": "ol angar et qaqlattı: O, etin kurutulmasını emretti.",
-    "cekimler": [
-      "qaqlatür",
-      "qaqlatmâq"
-    ],
-    "kelime_turu": "fiil",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "401",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "qaqrattı",
-    "anlam": "kuşları kaçırmak için davul çaldırmak.",
-    "ornek_metin": "ol qaqratgu qaqrattı: O, tohumların yeni saçıldığı tarladan serçe ve benzer kuşlan kaçırmak için bekçi davulunu çaldı.",
-    "cekimler": [
-      "qaqratur",
-      "qaqratmâq"
-    ],
-    "kelime_turu": "fiil",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "401",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
     "kelime": "qaqrattı",
     "anlam": "kuşları kaçırmak için davul çaldırmak.",
     "ornek_metin": "ol qaqratgu qaqrattı: O, tohumların yeni saçıldığı tarladan serçe ve benzer kuşlan kaçırmak için bekçi davulunu çaldı.",
@@ -46272,34 +44711,6 @@
     "cekimler": [
       "qaqsîr",
       "qaqsimâq"
-    ],
-    "kelime_turu": "fiil",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "401",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "qaqsıdı",
-    "anlam": "dilimlenip kurutulmak, kuruyayazmak.",
-    "ornek_metin": "et qaqsıdı: Et dilimlendi ve kurutuldu [kuruyayazdı].",
-    "cekimler": [
-      "qaqsîr",
-      "qaqsimâq"
-    ],
-    "kelime_turu": "fiil",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "401",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "qaqturdı",
-    "anlam": "başkasına kafasına vurulması görevini vermek.",
-    "ornek_metin": "ol anı başra qaqturdı: O, ona, başka birinin kafasına vurulması görevini verdi.",
-    "cekimler": [
-      "qaqturur",
-      "qaqturmâq"
     ],
     "kelime_turu": "fiil",
     "dil_veya_lehce": "",
@@ -46355,31 +44766,6 @@
     "ornek_metin": "bu er ol meni tütçı qaqıtgân: Bu, sürekli beni kızdıran ve canımı sıkan bir adamdır.",
     "cekimler": [],
     "kelime_turu": "sıfat",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "401",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "qaqıtgân",
-    "anlam": "kızdıran, can sıkan.",
-    "ornek_metin": "bu er ol meni tütçı qaqıtgân: Bu, sürekli beni kızdıran ve canımı sıkan bir adamdır.",
-    "cekimler": [],
-    "kelime_turu": "sıfat",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "401",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "qaqıttı",
-    "anlam": "öfkelendirmek, rahatsız etmek.",
-    "ornek_metin": "ol anı qaqıttı: O, onu öylesine öfkelendirdi ve rahatsız etti ki, ondan uzak durmaya başladı.",
-    "cekimler": [
-      "qaqıtür",
-      "qaqıtmâq"
-    ],
-    "kelime_turu": "fiil",
     "dil_veya_lehce": "",
     "kaynak_sayfa": "401",
     "notlar": "",
@@ -46491,17 +44877,6 @@
     "dil_veya_lehce": "",
     "kaynak_sayfa": "401",
     "notlar": "Hâqânılerin Hanlarına verilen bir ad olarak kullanılır. Buğra Qara Xâqan gibi; bu adın alınışına ilişkin bir hikâye vardır.",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "qâr",
-    "anlam": "kar.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "401",
-    "notlar": "",
     "kontrol_gerekli": false
   },
   {
@@ -47164,31 +45539,6 @@
     "kontrol_gerekli": false
   },
   {
-    "kelime": "qarıldı",
-    "anlam": "karıştırılmak.",
-    "ornek_metin": "bir neng birke qarıldı: Bir şey başka bir şeyle karıştırıldı.",
-    "cekimler": [
-      "qardur",
-      "qarıldmaq"
-    ],
-    "kelime_turu": "fiil",
-    "dil_veya_lehce": "Oğuz lehçesi",
-    "kaynak_sayfa": "405",
-    "notlar": "Diğer Türkler bunu söz uzatımıyla kullanır ve qatıldı qarıldı derler.",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "qarın",
-    "anlam": "karın.",
-    "ornek_metin": "qarın atmak: Hayvan kesildikten sonra midesi hedef yapılır ve ok atılır; bunu vuranlar etten bir pay almaya hak kazanırlar.",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "405",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
     "kelime": "qarın",
     "anlam": "karın.",
     "ornek_metin": "qarın atmak: Hayvan kesildikten sonra midesi hedef yapılır ve ok atılır; bunu vuranlar etten bir pay almaya hak kazanırlar.",
@@ -47233,28 +45583,6 @@
     "kontrol_gerekli": false
   },
   {
-    "kelime": "qarınça",
-    "anlam": "karınca.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "Oğuz lehçesi",
-    "kaynak_sayfa": "405",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "qarınçaq",
-    "anlam": "karınca.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "Oğuz lehçesi",
-    "kaynak_sayfa": "405",
-    "notlar": "Oğuzlar buna qarmça da derler.",
-    "kontrol_gerekli": false
-  },
-  {
     "kelime": "qarınçaq",
     "anlam": "karınca.",
     "ornek_metin": "",
@@ -47277,31 +45605,6 @@
     "dil_veya_lehce": "",
     "kaynak_sayfa": "405",
     "notlar": "Eğer bu eylem qâr sözcüğünden türetilmişse qârıqtı biçiminde olmalı ve eksikli sayılmalıdır; ancak eğer eylem qaraq sözcüğünden türemişse kullanım uygundur.",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "qarıqtı",
-    "anlam": "gözü kamaşmak.",
-    "ornek_metin": "er kozi qarıqtı: (Kar yüzünden) adamın gözü kamaştı.",
-    "cekimler": [
-      "qarıqâr",
-      "qarıqmâq"
-    ],
-    "kelime_turu": "fiil",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "405",
-    "notlar": "Eğer bu eylem qâr sözcüğünden türetilmişse qârıqtı biçiminde olmalı ve eksikli sayılmalıdır; ancak eğer eylem qaraq sözcüğünden türemişse kullanım uygundur.",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "qarış",
-    "anlam": "karış.",
-    "ornek_metin": "bir qarış: Bir karış.",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "405",
-    "notlar": "",
     "kontrol_gerekli": false
   },
   {
@@ -47932,28 +46235,6 @@
     "kontrol_gerekli": false
   },
   {
-    "kelime": "qası",
-    "anlam": "bize (kâşgar iline) tabi olan bir yerin adı.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "409",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "qasıg",
-    "anlam": "ağzın her iki yanındaki boşluk, yanak içleri.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "409",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
     "kelime": "qasıg",
     "anlam": "ağzın her iki yanındaki boşluk, yanak içleri.",
     "ornek_metin": "",
@@ -47987,17 +46268,6 @@
       "qasıglâmâq"
     ],
     "kelime_turu": "fiil",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "409",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "qasırqu",
-    "anlam": "kasırga.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
     "dil_veya_lehce": "",
     "kaynak_sayfa": "409",
     "notlar": "",
@@ -48461,42 +46731,9 @@
     "kontrol_gerekli": false
   },
   {
-    "kelime": "qatlış",
-    "anlam": "nehrin kollarının buluştuğu yer.",
-    "ornek_metin": "süvv qatlıştı: nehrin kolları birleşti denir.",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "413",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
     "kelime": "qatma",
     "anlam": "yağda pişirilen katlanmış ekmek, yufka.",
     "ornek_metin": "qatmö yuvga: Yağda pişirilen katlanmış ekmek [yufka]",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "413",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "qatma",
-    "anlam": "yağda pişirilen katlanmış ekmek, yufka.",
-    "ornek_metin": "qatmö yuvga: Yağda pişirilen katlanmış ekmek [yufka]",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "413",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "qatmış",
-    "anlam": "bir erkek adı.",
-    "ornek_metin": "",
     "cekimler": [],
     "kelime_turu": "isim",
     "dil_veya_lehce": "",
@@ -48602,20 +46839,6 @@
     "kontrol_gerekli": false
   },
   {
-    "kelime": "qatındı",
-    "anlam": "arpa ununa yağ karıştırıyormuş gibi görünmek.",
-    "ornek_metin": "ol talqânqa yâg qatmdı: O, arpa ununa yağ karıştırıyormuş gibi göründü.",
-    "cekimler": [
-      "qatmür",
-      "qatınmâq"
-    ],
-    "kelime_turu": "fiil",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "413",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
     "kelime": "qatıq",
     "anlam": "tutmaç yemeğine katılan lezzet verici madde, sirke ya da yoğurt, herhangi bir şeyin içine katılan şey.",
     "ornek_metin": "",
@@ -48671,28 +46894,6 @@
     "kontrol_gerekli": false
   },
   {
-    "kelime": "qatır",
-    "anlam": "katır.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "413",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "qatırlıg",
-    "anlam": "katır sahibi adam.",
-    "ornek_metin": "qatırlıg e r Katır sahibi adam.",
-    "cekimler": [],
-    "kelime_turu": "sıfat",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "413",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
     "kelime": "qatırlıg",
     "anlam": "katır sahibi adam.",
     "ornek_metin": "qatırlıg e r Katır sahibi adam.",
@@ -48729,20 +46930,6 @@
     "dil_veya_lehce": "",
     "kaynak_sayfa": "413",
     "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "qâtlandı",
-    "anlam": "ağaç meyvelenmek.",
-    "ornek_metin": "yıgâç qâtlandı: Ağaç meyvelendi",
-    "cekimler": [
-      "qâtlânür",
-      "qdtlanmâq"
-    ],
-    "kelime_turu": "fiil",
-    "dil_veya_lehce": "Qıfçâq, Yemek, Ogrâk lehçeleri",
-    "kaynak_sayfa": "413",
-    "notlar": "Diğer Türkler arasında bu sözcük akasya ağacının meyvesi için kullanılır.",
     "kontrol_gerekli": false
   },
   {
@@ -49805,31 +47992,6 @@
     "kontrol_gerekli": false
   },
   {
-    "kelime": "qazışdı",
-    "anlam": "kazmakta yardım etmek, rekabet etmek.",
-    "ornek_metin": "ol manga yer qazışdı: O, bana yeri kazmakta yardım etti.",
-    "cekimler": [
-      "qazışür",
-      "qazışmâq"
-    ],
-    "kelime_turu": "fiil",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "421",
-    "notlar": "Bu işte rekabet etmeyi anlatmak için de bu sözcük kullanılır.",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "qîçı",
-    "anlam": "hardal.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "421",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
     "kelime": "qîçı",
     "anlam": "hardal.",
     "ornek_metin": "",
@@ -49913,17 +48075,6 @@
       "qiçurmâq"
     ],
     "kelime_turu": "fiil",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "421",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "qıçurgân",
-    "anlam": "konaklayan birine her zaman görgüsüzce ve küçümseyerek davranan kimse.",
-    "ornek_metin": "bu er ol kişıke qıçurgân: Bu, onun mekânında konaklayan birine her zaman görgüsüzce ve küçümseyerek davranan bir adamdır.",
-    "cekimler": [],
-    "kelime_turu": "sıfat",
     "dil_veya_lehce": "",
     "kaynak_sayfa": "421",
     "notlar": "",
@@ -50491,17 +48642,6 @@
     "dil_veya_lehce": "",
     "kaynak_sayfa": "425",
     "notlar": "Türkler Allah'ın lanetlemesini anlatan sözcük",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "qırâgu",
-    "anlam": "kırağı, soğuk havalarda bitkiler ya da nesneler üzerinde oluşan ince buz billurları.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "425",
-    "notlar": "",
     "kontrol_gerekli": false
   },
   {
@@ -51675,17 +49815,6 @@
     "kontrol_gerekli": false
   },
   {
-    "kelime": "qoçngâr bâşı",
-    "anlam": "bir kentin adı.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "433",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
     "kelime": "qızlandı",
     "anlam": "çok pahalı bulmak, evlat edinmek.",
     "ornek_metin": "ol bu atıg qizlandl: O, bu atı [başka bir şeyi de olabiliro çok pahalı buldu. ol anı qızlaııdı: O, onu kızı olarak evlat edindi.",
@@ -51767,47 +49896,11 @@
     "kontrol_gerekli": false
   },
   {
-    "kelime": "qızlâmuq",
-    "anlam": "kızamık ya da benzer lekeler.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "433",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
     "kelime": "qızlâq",
     "anlam": "kırmızı kuyruklu bir kuş.",
     "ornek_metin": "köti qızlâq: Kırmızı kuyruklu bir kuş.",
     "cekimler": [],
     "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "433",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "qızlâq",
-    "anlam": "kırmızı kuyruklu bir kuş.",
-    "ornek_metin": "köti qızlâq: Kırmızı kuyruklu bir kuş.",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "433",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "qızüdı",
-    "anlam": "malın ederi artmak.",
-    "ornek_metin": "tawâr qızüdı: Malın ederi arttı.",
-    "cekimler": [
-      "qızür",
-      "qızümâq"
-    ],
-    "kelime_turu": "fiil",
     "dil_veya_lehce": "",
     "kaynak_sayfa": "433",
     "notlar": "",
@@ -51855,31 +49948,6 @@
     "ornek_metin": "",
     "cekimler": [],
     "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "433",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "qızıl çüvit",
-    "anlam": "parlak kırmızı renk.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "433",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "qızıldı",
-    "anlam": "ibret verici bir cezaya maruz kalmak, yaptığı işin sonuçlarına katlanmak.",
-    "ornek_metin": "eryazuqtın qızıldı: Adam ibret verici bir cezaya maruz kaldı ve yaptığı işin sonuçlanna katlandı (ve bir daha böyle bir suç işlemedi).",
-    "cekimler": [
-      "qızıhr",
-      "qıztlmâq"
-    ],
-    "kelime_turu": "fiil",
     "dil_veya_lehce": "",
     "kaynak_sayfa": "433",
     "notlar": "",
@@ -52358,20 +50426,6 @@
     "kontrol_gerekli": false
   },
   {
-    "kelime": "qomturdı",
-    "anlam": "dalgalandırmak.",
-    "ornek_metin": "yel süwug qomturdı: Rüzgâr, suyu dalgalandırdı.",
-    "cekimler": [
-      "qomturur",
-      "qomturmâq"
-    ],
-    "kelime_turu": "fiil",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "437",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
     "kelime": "qomıtgân",
     "anlam": "özleten.",
     "ornek_metin": "ogui meni cwke qomıtgân ol: Oğlum bana her zaman evi [başka bir şeyi de olabilir] özletir.",
@@ -52469,34 +50523,6 @@
     "kontrol_gerekli": false
   },
   {
-    "kelime": "qonattı",
-    "anlam": "yerleşmesine izin vermek.",
-    "ornek_metin": "ol özinge qonum qonattı: O, hizmetkârian ve destekçileriyle birlikte bir kavmin evinin çevresine [kendi yurduna] yerleşmesine izin verdi.",
-    "cekimler": [
-      "qonatür",
-      "qonatmâq"
-    ],
-    "kelime_turu": "fiil",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "437",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "qondidı",
-    "anlam": "parlatmak.",
-    "ornek_metin": "ol qılıç qondîdı: O, cila taşıyla kılıcı parlattı.",
-    "cekimler": [
-      "qondir",
-      "qondîmâq"
-    ],
-    "kelime_turu": "fiil",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "437",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
     "kelime": "qondidı",
     "anlam": "parlatmak.",
     "ornek_metin": "ol qılıç qondîdı: O, cila taşıyla kılıcı parlattı.",
@@ -52527,17 +50553,6 @@
     "ornek_metin": "ogui meni cwke qomıtgân ol: Oğlum bana her zaman evi [başka bir şeyi de olabilir] özletir.",
     "cekimler": [],
     "kelime_turu": "belirsiz",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "437",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "qondıgu",
-    "anlam": "cila taşı.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
     "dil_veya_lehce": "",
     "kaynak_sayfa": "437",
     "notlar": "",
@@ -53139,28 +51154,6 @@
     "dil_veya_lehce": "",
     "kaynak_sayfa": "441",
     "notlar": "Herkese açık olmayan, çevrilmiş bir yeri anlatmak için bu sözcük kullanılır.",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "qorıg",
-    "anlam": "beylere ve benzerlerine ait korunaklı, özel olarak tahsis edilmiş yer.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "441",
-    "notlar": "Herkese açık olmayan, çevrilmiş bir yeri anlatmak için bu sözcük kullanılır.",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "qorıgçı",
-    "anlam": "korucu, beylerin özel olarak ayrılmış arazilerini koruyan kimse.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "441",
-    "notlar": "",
     "kontrol_gerekli": false
   },
   {
@@ -53779,34 +51772,6 @@
     "kontrol_gerekli": false
   },
   {
-    "kelime": "qowşaldı",
-    "anlam": "oku düzgünleştirmeye yarayan bir şey kullanılarak ok düzgünleştirilmek.",
-    "ornek_metin": "oq qowşaldı: Oku düzgünleştirmeye yarayan bir şey kullanılarak ok düzgünleştirildi.",
-    "cekimler": [
-      "qowşalür",
-      "qowşalmâq"
-    ],
-    "kelime_turu": "fiil",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "445",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "qowşattı",
-    "anlam": "okun düzgünleştirilmesini emretmek.",
-    "ornek_metin": "ol oq qowşattı: O, okun düzgünleştirilmesini emretti.",
-    "cekimler": [
-      "qowşatür",
-      "qowşatmâq"
-    ],
-    "kelime_turu": "fiil",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "445",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
     "kelime": "qowşattı",
     "anlam": "okun düzgünleştirilmesini emretmek.",
     "ornek_metin": "ol oq qowşattı: O, okun düzgünleştirilmesini emretti.",
@@ -53833,34 +51798,6 @@
     "kaynak_sayfa": "445",
     "notlar": "",
     "kontrol_gerekli": true
-  },
-  {
-    "kelime": "qowşaşdı",
-    "anlam": "ok düzgünleştiricisiyle okunu düzgünleştirmekte yardım etmek.",
-    "ornek_metin": "ol anıg oqın qorvşaşdı: O, ona, ok düzgünleştiricisiyle okunu düzgünleştirmekte yardım etti.",
-    "cekimler": [
-      "qowşaşür",
-      "qowşaşmâq"
-    ],
-    "kelime_turu": "fiil",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "445",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "qowşâdı",
-    "anlam": "okunu düzgünleştirmek.",
-    "ornek_metin": "er ocjm qowşâdı: Adam okunu düzgünleştirdi.",
-    "cekimler": [
-      "qowşâr",
-      "qowşâmâq"
-    ],
-    "kelime_turu": "fiil",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "445",
-    "notlar": "gayn'la (g) söylenen bir değişik sesletimi vardır [qogşadı]",
-    "kontrol_gerekli": false
   },
   {
     "kelime": "qowşâdı",
@@ -53929,17 +51866,6 @@
     "dil_veya_lehce": "",
     "kaynak_sayfa": "445",
     "notlar": "bkz. qön.",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "qöy",
-    "anlam": "kaftanın göğüs kısmı.",
-    "ornek_metin": "elig qöyqa sııq: Sini kaftanın gögüs kısmından içeri sok.",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "445",
-    "notlar": "",
     "kontrol_gerekli": false
   },
   {
@@ -55379,31 +53305,6 @@
     "kontrol_gerekli": false
   },
   {
-    "kelime": "quruldı",
-    "anlam": "elin veya ayağın kasılması ya da sıkışması.",
-    "ornek_metin": "er elgi quruldı: Adamın eli [ayağı da olabilir) kasıldı ya da sıkıştı. ya quruldı: Vay gerildi.",
-    "cekimler": [
-      "qurîur",
-      "qurulmâq"
-    ],
-    "kelime_turu": "fiil",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "453",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "qurulgân",
-    "anlam": "kasları sürekli kasılıp kalmak.",
-    "ornek_metin": "bu er ol singin qurulgân: Bu, kaslan sürekli kasılıp kalan bir adamdır.",
-    "cekimler": [],
-    "kelime_turu": "sıfat",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "453",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
     "kelime": "qurulgân",
     "anlam": "kasları sürekli kasılıp kalmak.",
     "ornek_metin": "bu er ol singin qurulgân: Bu, kaslan sürekli kasılıp kalan bir adamdır.",
@@ -56044,31 +53945,6 @@
     "kontrol_gerekli": false
   },
   {
-    "kelime": "quyturdı",
-    "anlam": "su dökülmesini emretmek.",
-    "ornek_metin": "ol menig eligke süw quyturdı: O, benim elime su dökülmesini emretti.",
-    "cekimler": [
-      "quyturur",
-      "quyturmâq"
-    ],
-    "kelime_turu": "fiil",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "457",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "quyug",
-    "anlam": "kuyu.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "457",
-    "notlar": "qudug sözcüğünün değişik sesletimidir.",
-    "kontrol_gerekli": false
-  },
-  {
     "kelime": "quyug",
     "anlam": "kuyu.",
     "ornek_metin": "",
@@ -56117,31 +53993,6 @@
     "kaynak_sayfa": "457",
     "notlar": "bkz. qudüçaq.",
     "kontrol_gerekli": true
-  },
-  {
-    "kelime": "quyurçaq",
-    "anlam": "kuyruksokumu.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "457",
-    "notlar": "bkz. qudüçaq.",
-    "kontrol_gerekli": true
-  },
-  {
-    "kelime": "quyuşdı",
-    "anlam": "suyu boşaltmakta yardım etmek.",
-    "ornek_metin": "ol angar süvv quyuşdı: O, ona suyu boşaltmakta yardım etti.",
-    "cekimler": [
-      "quyuşür",
-      "quyuşmâq"
-    ],
-    "kelime_turu": "fiil",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "457",
-    "notlar": "",
-    "kontrol_gerekli": false
   },
   {
     "kelime": "quyuşdı",
@@ -56435,34 +54286,6 @@
     "cekimler": [
       "saçlanür",
       "saçlanmâq"
-    ],
-    "kelime_turu": "fiil",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "461",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "saçlandı",
-    "anlam": "saçı uzamak.",
-    "ornek_metin": "er saçlandı: Adamın saçı uzadı.",
-    "cekimler": [
-      "saçlanür",
-      "saçlanmâq"
-    ],
-    "kelime_turu": "fiil",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "461",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "saçlaşdı",
-    "anlam": "birbirlerinin saçlarını yakalamak.",
-    "ornek_metin": "d ekki bile saçlaşdı: O ikisi birbirlerinin saçlarını yakaladılar.",
-    "cekimler": [
-      "saçlaşûr",
-      "saçlaşmâq"
     ],
     "kelime_turu": "fiil",
     "dil_veya_lehce": "",
@@ -57953,28 +55776,6 @@
     "kontrol_gerekli": false
   },
   {
-    "kelime": "saqa",
-    "anlam": "dağın etekleri.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "469",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "saqalduruq",
-    "anlam": "ipekten dokunmuş ip.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "469",
-    "notlar": "Düşmemesini sağlamak için başlığın kenarlarına dikilir, çenenin altından geçirilerek sıkıca bağlanır.",
-    "kontrol_gerekli": false
-  },
-  {
     "kelime": "saqalduruq",
     "anlam": "ipekten dokunmuş ip.",
     "ornek_metin": "",
@@ -58002,17 +55803,6 @@
     "ornek_metin": "saqâl oxşâr saqaq bıçdr: (O, oyunbaz bir biçimde) sakalını okşar, (gizlice) çeneni keser. Bu, anlam olarak, Araplann yusirruhasvenfirtigâ (“O, köpüğü içerken gizlice bir yudum alır”) sözüne benzer.",
     "cekimler": [],
     "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "469",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "saqldı",
-    "anlam": "görünmek.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "fiil",
     "dil_veya_lehce": "",
     "kaynak_sayfa": "469",
     "notlar": "",
@@ -59797,17 +57587,6 @@
     "kontrol_gerekli": false
   },
   {
-    "kelime": "sekü",
-    "anlam": "kanepe, seki.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "481",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
     "kelime": "selçük",
     "anlam": "günümüz sultanlarının büyükbabasının adı.",
     "ornek_metin": "",
@@ -59816,28 +57595,6 @@
     "dil_veya_lehce": "",
     "kaynak_sayfa": "481",
     "notlar": "Ona selçük sü başı da denirdi.",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "selçük",
-    "anlam": "günümüz sultanlarının büyükbabasının adı.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "481",
-    "notlar": "Ona selçük sü başı da denirdi.",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "sem",
-    "anlam": "bkz. em.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "belirsiz",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "481",
-    "notlar": "",
     "kontrol_gerekli": false
   },
   {
@@ -59885,31 +57642,6 @@
     "kontrol_gerekli": false
   },
   {
-    "kelime": "semizlik",
-    "anlam": "semizlik.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "481",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "semridi",
-    "anlam": "semirmek.",
-    "ornek_metin": "qöy semridi: Koyun [başka bir şey de olabilir] semirdi.",
-    "cekimler": [
-      "semrir",
-      "semrimek"
-    ],
-    "kelime_turu": "fiil",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "481",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
     "kelime": "semridi",
     "anlam": "semirmek.",
     "ornek_metin": "qöy semridi: Koyun [başka bir şey de olabilir] semirdi.",
@@ -59944,20 +57676,6 @@
     "cekimler": [
       "semritür",
       "semritmek"
-    ],
-    "kelime_turu": "fiil",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "481",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "semrişdi",
-    "anlam": "semrişmek.",
-    "ornek_metin": "atlar qamug semrişdi: Atlar [başkası da olabilir] semirdi.",
-    "cekimler": [
-      "semrişür",
-      "semrişmek"
     ],
     "kelime_turu": "fiil",
     "dil_veya_lehce": "",
@@ -62344,20 +60062,6 @@
     "kontrol_gerekli": false
   },
   {
-    "kelime": "singillendi",
-    "anlam": "kız kardeşi olarak kabul etmek.",
-    "ornek_metin": "ol qîzıg singillendi : O, kızı [cariyeyi], kız kardeşi olarak kabul etti.",
-    "cekimler": [
-      "singillenür",
-      "singillenmek"
-    ],
-    "kelime_turu": "fiil",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "497",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
     "kelime": "singir",
     "anlam": "sinir.",
     "ornek_metin": "",
@@ -62517,20 +60221,6 @@
     "kontrol_gerekli": false
   },
   {
-    "kelime": "sirigürdi",
-    "anlam": "yutmak.",
-    "ornek_metin": "ol tançu sirigürdi: O, lo k m y ı [başka b ir şeyi de o la b ilir] y u ttu .",
-    "cekimler": [
-      "singrür",
-      "singürmek"
-    ],
-    "kelime_turu": "fiil",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "497",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
     "kelime": "sirke",
     "anlam": "sirke.",
     "ornek_metin": "",
@@ -62573,20 +60263,6 @@
     "cekimler": [
       "sirkeler",
       "sirkelemek"
-    ],
-    "kelime_turu": "fiil",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "497",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "sirkelendi",
-    "anlam": "sirkeyle dolmak.",
-    "ornek_metin": "oglân sirkelendi: Bebeğin başı sirkeyle doldu.",
-    "cekimler": [
-      "sirkelenür",
-      "sirkelenmek"
     ],
     "kelime_turu": "fiil",
     "dil_veya_lehce": "",
@@ -63208,20 +60884,6 @@
     "kontrol_gerekli": false
   },
   {
-    "kelime": "sorplâdı",
-    "anlam": "parmakla kura çekmek.",
-    "ornek_metin": "ol erngek bile sorplâdı: Adam parmağıyla kura çekti.",
-    "cekimler": [
-      "sorplâr",
-      "sorplâmdq"
-    ],
-    "kelime_turu": "fiil",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "501",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
     "kelime": "sorturdı",
     "anlam": "kayıp, başıboş hayvanların takip edilmesini emretmek.",
     "ornek_metin": "ol sorug sorturdı: O, kayıp, başıboş hayvanların takip edilmesini emretti.",
@@ -63283,20 +60945,6 @@
     "dil_veya_lehce": "",
     "kaynak_sayfa": "501",
     "notlar": "Kök-biçimi iki fcaladır (q - soqqu) ancak sadeleştirilmiştir.",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "sorışdı",
-    "anlam": "suratın asılması, somurtulması.",
-    "ornek_metin": "anıgyüzi sorışdı: Onun suratı asıldı [somurttu].",
-    "cekimler": [
-      "sonşür",
-      "sorışmâq"
-    ],
-    "kelime_turu": "fiil",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "501",
-    "notlar": "",
     "kontrol_gerekli": false
   },
   {
@@ -63950,31 +61598,6 @@
     "ornek_metin": "",
     "cekimler": [],
     "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "505",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "söz",
-    "anlam": "söz, kelam, konuşma.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "505",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "sözledi",
-    "anlam": "söz söylemek, kelam etmek.",
-    "ornek_metin": "ol manga söz sözledi: O, bana söz söyledi [kelam etti].",
-    "cekimler": [
-      "sözler",
-      "sözlemek"
-    ],
-    "kelime_turu": "fiil",
     "dil_veya_lehce": "",
     "kaynak_sayfa": "505",
     "notlar": "",
@@ -64679,20 +62302,6 @@
     "kontrol_gerekli": false
   },
   {
-    "kelime": "suqıdı",
-    "anlam": "parmağıyla dürtüklemek.",
-    "ornek_metin": "ol anı suqldı: O, onu parmağıyla dürtükledi.",
-    "cekimler": [
-      "suqîr",
-      "suqîmâq"
-    ],
-    "kelime_turu": "fiil",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "509",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
     "kelime": "suqım",
     "anlam": "çam kozalağı biçiminde kesilerek içi oyulan, üç yanından delinerek oka takılan ve oktan ıslık sesi çıkmasını sağlayan ağaç parçası.",
     "ornek_metin": "",
@@ -65328,17 +62937,6 @@
     "dil_veya_lehce": "",
     "kaynak_sayfa": "513",
     "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "süglin",
-    "anlam": "sülün.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "513",
-    "notlar": "süwlîn bir değişim sesletimdir.",
     "kontrol_gerekli": false
   },
   {
@@ -66633,17 +64231,6 @@
     "kontrol_gerekli": false
   },
   {
-    "kelime": "şutı",
-    "anlam": "özgün dile ait bir sözcük olmamak.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "belirsiz",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "521",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
     "kelime": "şuwşattı",
     "anlam": "kulağa söz fısıldattırmak.",
     "ornek_metin": "ol menig qulâqqa söz şuwşattı: O, benim kulağıma söz fısıldattı.",
@@ -66664,20 +64251,6 @@
     "cekimler": [
       "şuwşatür",
       "şuwşatmaq"
-    ],
-    "kelime_turu": "fiil",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "521",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "şuwşaşdı",
-    "anlam": "fısıldaşarak bir şeyler konuşmak.",
-    "ornek_metin": "ol anıg birle şuwşaşdı: O, onunla fısıldaşarak bir şeyler konuştu.",
-    "cekimler": [
-      "şuwşaşür",
-      "şuwşaşmâq"
     ],
     "kelime_turu": "fiil",
     "dil_veya_lehce": "",
@@ -67314,28 +64887,6 @@
     "kontrol_gerekli": false
   },
   {
-    "kelime": "talqıg",
-    "anlam": "sıradağların çakıştığı yer.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "525",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "talqıg",
-    "anlam": "işlerin gerçekleşmesini engelleyen şey.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "525",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
     "kelime": "talqıldı",
     "anlam": "itilmek, sürüklenmek, ertelenmek.",
     "ornek_metin": "talqıldı nerig: Nesne itildi, sürüklendi. iş talqıldı: İş ertelendi; ilerki bir zamana itildi; gerçekleşmesi engellendi. yük talqıldı: Yük çekilerek sıraya yerleştirildi.",
@@ -67434,20 +64985,6 @@
     "kontrol_gerekli": false
   },
   {
-    "kelime": "talturdı",
-    "anlam": "neredeyse bayıltana kadar dövmek.",
-    "ornek_metin": "anı urup talturdı: O, onu neredeyse bayıltana kadar dövdü.",
-    "cekimler": [
-      "talturur",
-      "talturmâq"
-    ],
-    "kelime_turu": "fiil",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "525",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
     "kelime": "talu",
     "anlam": "seçilmiş şey.",
     "ornek_metin": "talu neng: Seçilmiş bir şey.",
@@ -67482,20 +65019,6 @@
     "kaynak_sayfa": "525",
     "notlar": "",
     "kontrol_gerekli": true
-  },
-  {
-    "kelime": "talülâdı",
-    "anlam": "seçmek.",
-    "ornek_metin": "ol talülâdı nengni: O, bir şeyi seçti.",
-    "cekimler": [
-      "talülâr",
-      "talüldmâq"
-    ],
-    "kelime_turu": "fiil",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "525",
-    "notlar": "",
-    "kontrol_gerekli": false
   },
   {
     "kelime": "tam",
@@ -68155,20 +65678,6 @@
     "kontrol_gerekli": false
   },
   {
-    "kelime": "tarigdı",
-    "anlam": "başına kuşak bağlamak.",
-    "ornek_metin": "ol anıg başın tarigdı: O, onun başına kuşak bağladı.",
-    "cekimler": [
-      "tarigâr",
-      "tarigmâq"
-    ],
-    "kelime_turu": "fiil",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "529",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
     "kelime": "tarigmdı",
     "anlam": "kendi başına kuşak bağlamak.",
     "ornek_metin": "er başın tarigmdı: Adam kendi başına kuşak bağladı.",
@@ -68177,31 +65686,6 @@
       "tangınmâq"
     ],
     "kelime_turu": "fiil",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "529",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "tarigmdı",
-    "anlam": "kendi başına kuşak bağlamak.",
-    "ornek_metin": "er başın tarigmdı: Adam kendi başına kuşak bağladı.",
-    "cekimler": [
-      "tarigınür",
-      "tangınmâq"
-    ],
-    "kelime_turu": "fiil",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "529",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "tarigân",
-    "anlam": "başı beyaz bir karga.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
     "dil_veya_lehce": "",
     "kaynak_sayfa": "529",
     "notlar": "",
@@ -68939,28 +66423,6 @@
     "ornek_metin": "taquqlug er: Tavukları olan adam.",
     "cekimler": [],
     "kelime_turu": "sıfat",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "533",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "taquqlug",
-    "anlam": "tavukları olan.",
-    "ornek_metin": "taquqlug er: Tavukları olan adam.",
-    "cekimler": [],
-    "kelime_turu": "sıfat",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "533",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "taquzmaq",
-    "anlam": "taguzmaq kelimesine bakmak.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "belirsiz",
     "dil_veya_lehce": "",
     "kaynak_sayfa": "533",
     "notlar": "",
@@ -69752,20 +67214,6 @@
     "kontrol_gerekli": false
   },
   {
-    "kelime": "tarundı",
-    "anlam": "kederli ve kızgın olmak.",
-    "ornek_metin": "er işta buştı tarundı: Adam bu mesele nedeniyle kederli ve kızgındı.",
-    "cekimler": [
-      "tarünur",
-      "tarunmâq"
-    ],
-    "kelime_turu": "fiil",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "537",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
     "kelime": "tarus",
     "anlam": "çatı.",
     "ornek_metin": "",
@@ -70344,20 +67792,6 @@
     "dil_veya_lehce": "",
     "kaynak_sayfa": "541",
     "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "tatruşdı",
-    "anlam": "tattırmak.",
-    "ornek_metin": "olâr bîr ekindîke et tatruşdı: Onlar birbirlerine et tattırdılar.",
-    "cekimler": [
-      "tatruşür",
-      "tatruşmâq"
-    ],
-    "kelime_turu": "fiil",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "541",
-    "notlar": "başka bir şey de olabilir",
     "kontrol_gerekli": false
   },
   {
@@ -71004,34 +68438,6 @@
     "kontrol_gerekli": false
   },
   {
-    "kelime": "tazgırdı",
-    "anlam": "kelleşmek.",
-    "ornek_metin": "er başı tazgırdı: Adamın başı kelleşti.",
-    "cekimler": [
-      "tazgırâr",
-      "tazgtrmâq"
-    ],
-    "kelime_turu": "fiil",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "545",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "tazlâdı",
-    "anlam": "kel saymak.",
-    "ornek_metin": "ol anı tazlâdı: O, onu kel saydı.",
-    "cekimler": [
-      "tazlâr",
-      "tazlâmâq"
-    ],
-    "kelime_turu": "fiil",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "545",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
     "kelime": "tazlâdı",
     "anlam": "kel saymak.",
     "ornek_metin": "ol anı tazlâdı: O, onu kel saydı.",
@@ -71520,31 +68926,6 @@
     "kontrol_gerekli": false
   },
   {
-    "kelime": "teltürdi",
-    "anlam": "duvarın delinmesini emretmek.",
-    "ornek_metin": "ol tâm teltürdi: O, duvarın delinmesini emretti.",
-    "cekimler": [
-      "tellürür",
-      "teltürmek"
-    ],
-    "kelime_turu": "fiil",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "549",
-    "notlar": "Buradaki ikinci te (t), dal'dan (d) değişmiştir [teldürdi].",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "telwe",
-    "anlam": "deli.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "sıfat",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "549",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
     "kelime": "telwe",
     "anlam": "deli.",
     "ornek_metin": "",
@@ -71562,28 +68943,6 @@
     "cekimler": [],
     "kelime_turu": "sıfat",
     "dil_veya_lehce": "Oğuz lehçesi",
-    "kaynak_sayfa": "549",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "telü",
-    "anlam": "ahmak.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "sıfat",
-    "dil_veya_lehce": "Oğuz lehçesi",
-    "kaynak_sayfa": "549",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "temen",
-    "anlam": "çuvaldız.",
-    "ornek_metin": "temenyingne: Çuvaldız",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
     "kaynak_sayfa": "549",
     "notlar": "",
     "kontrol_gerekli": false
@@ -72885,20 +70244,6 @@
     "kontrol_gerekli": false
   },
   {
-    "kelime": "teşükledi",
-    "anlam": "obur olduğunu düşünmek.",
-    "ornek_metin": "ol anı teşükledi: O, onun obur olduğunu düşündü.",
-    "cekimler": [
-      "teşükîer",
-      "teşüklemek"
-    ],
-    "kelime_turu": "fiil",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "557",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
     "kelime": "tetti",
     "anlam": "karşı koymak, dik dik bakmak, yan yan bakmak.",
     "ornek_metin": "qu! begke tetti: Köle ]kul], beye Ibaşka birine dc olabilir! karşı koydu. ol angâr tetrü baqdı: O, ona dik dik baktı [sabit bakışlarla onun yüzüne baktı]. Güzel bir insan için angar tetrü baqsa bolmâs: İnsan ona bakarken bakışlarını sabitleyemez denir. Bu aynı zamanda “yan yan bakmak” anlamı da verebilir.",
@@ -73483,20 +70828,6 @@
     "dil_veya_lehce": "",
     "kaynak_sayfa": "561",
     "notlar": "Bu sözcük tıgrâq: dayanıklı sözcüğünden türetilmiştir.",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "tıgrâdı",
-    "anlam": "dayanıklılaşmak, bedeni sağlamlaşmak.",
-    "ornek_metin": "er tıgrâdı: Adam dayanıklılaştı, bedeni sağlamlaştı.",
-    "cekimler": [
-      "tıgrâr",
-      "tıgrâmâq"
-    ],
-    "kelime_turu": "fiil",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "561",
-    "notlar": "bkz. tawrâdı",
     "kontrol_gerekli": false
   },
   {
@@ -75890,20 +73221,6 @@
     "kontrol_gerekli": false
   },
   {
-    "kelime": "torigâlâdı",
-    "anlam": "kahramanca bir iş yapmak.",
-    "ornek_metin": "er torigâlâdı: Adam kahramanca bir iş yaptı.",
-    "cekimler": [
-      "torigâldr",
-      "toriğâlâmâq"
-    ],
-    "kelime_turu": "fiil",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "577",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
     "kelime": "tön",
     "anlam": "giysi.",
     "ornek_metin": "Giysi",
@@ -76681,31 +73998,6 @@
     "kontrol_gerekli": false
   },
   {
-    "kelime": "torplâdı",
-    "anlam": "bir şey hakkında sormak, soruşturmak.",
-    "ornek_metin": "er torplâdı nengni: Adam bir şey hakkında sordu soruşturdu.",
-    "cekimler": [
-      "torplâr",
-      "torplâmâq"
-    ],
-    "kelime_turu": "fiil",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "581",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "torpun",
-    "anlam": "araştırma, soruşturma, tahmin etme.",
-    "ornek_metin": "anıg ewin torpınla (?): Onun evinin nerede olduğunu araştır.",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "581",
-    "notlar": "",
-    "kontrol_gerekli": true
-  },
-  {
     "kelime": "torpun",
     "anlam": "araştırma, soruşturma, tahmin etme.",
     "ornek_metin": "anıg ewin torpınla (?): Onun evinin nerede olduğunu araştır.",
@@ -76756,17 +74048,6 @@
     "kontrol_gerekli": false
   },
   {
-    "kelime": "torpı",
-    "anlam": "henüz bir yaşına gelmemiş buzağı.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "581",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
     "kelime": "torqu",
     "anlam": "ipek.",
     "ornek_metin": "tawgöç xânnıg torqusı telim teriglemedip bıçmâs: Çin Hakanının ipeği çoktur, ancak (kumaş yapmak için) kesmeden önce (o bile) ölçer.",
@@ -76775,28 +74056,6 @@
     "dil_veya_lehce": "",
     "kaynak_sayfa": "581",
     "notlar": "Bu atasözü, birine, israftan kaçınmasını ve ölçülü olmasını öğütlemek için kullanılır.",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "torqu",
-    "anlam": "ipek.",
-    "ornek_metin": "tawgöç xânnıg torqusı telim teriglemedip bıçmâs: Çin Hakanının ipeği çoktur, ancak (kumaş yapmak için) kesmeden önce (o bile) ölçer.",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "581",
-    "notlar": "Bu atasözü, birine, israftan kaçınmasını ve ölçülü olmasını öğütlemek için kullanılır.",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "torîga",
-    "anlam": "tarlakuşu.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "581",
-    "notlar": "",
     "kontrol_gerekli": false
   },
   {
@@ -77510,34 +74769,6 @@
     "kontrol_gerekli": false
   },
   {
-    "kelime": "törigütti",
-    "anlam": "başını eğmek.",
-    "ornek_metin": "er başın töngütti: Adam [başka biri de olabilir] başını eğdi.",
-    "cekimler": [
-      "törigütûr",
-      "törigütmek"
-    ],
-    "kelime_turu": "fiil",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "585",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "törigüşdi",
-    "anlam": "başını eğmek.",
-    "ornek_metin": "er törigüşdi: Adam başını eğdi.",
-    "cekimler": [
-      "törigüşür",
-      "törigüşmek"
-    ],
-    "kelime_turu": "fiil",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "585",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
     "kelime": "törigüşdi",
     "anlam": "başını eğmek.",
     "ornek_metin": "er törigüşdi: Adam başını eğdi.",
@@ -77558,34 +74789,6 @@
     "cekimler": [
       "törçîr",
       "törçîmek"
-    ],
-    "kelime_turu": "fiil",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "585",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "törçidi",
-    "anlam": "işe başlamak.",
-    "ornek_metin": "er ış törçidi: Adam işe başladı.",
-    "cekimler": [
-      "törçîr",
-      "törçîmek"
-    ],
-    "kelime_turu": "fiil",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "585",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "törçitti",
-    "anlam": "işe başlatmak.",
-    "ornek_metin": "ol angar iş törçitti: O, onu işe başlattı.",
-    "cekimler": [
-      "törçitür",
-      "törçitmek"
     ],
     "kelime_turu": "fiil",
     "dil_veya_lehce": "",
@@ -79504,17 +76707,6 @@
     "kontrol_gerekli": false
   },
   {
-    "kelime": "tutsug",
-    "anlam": "istek ya da vasiyet.",
-    "ornek_metin": "men angar tutsug tutuzdum: Ben ona vasiyetimi sundum.",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "597",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
     "kelime": "tutsuqdı",
     "anlam": "tutsak alınmak",
     "ornek_metin": "eryagıqa tutsuqdı: Adam tutsak alındı.",
@@ -80198,17 +77390,6 @@
     "kontrol_gerekli": false
   },
   {
-    "kelime": "tuzluq",
-    "anlam": "tuzluk.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "601",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
     "kelime": "tü",
     "anlam": "tüy.",
     "ornek_metin": "bîr tü saç: Bir tutam saç.",
@@ -80243,30 +77424,8 @@
   },
   {
     "kelime": "tü",
-    "anlam": "tüy.",
-    "ornek_metin": "bîr tü saç: Bir tutam saç.",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "601",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "tü",
     "anlam": "renk.",
     "ornek_metin": "tüdeş tonlar: Hepsi aynı renkte olan kumaşlar,",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "601",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "tü",
-    "anlam": "atın derisinin rengi.",
-    "ornek_metin": "atııig ne tülüg: Atının rengi ne?",
     "cekimler": [],
     "kelime_turu": "isim",
     "dil_veya_lehce": "",
@@ -80291,20 +77450,6 @@
     "ornek_metin": "",
     "cekimler": [],
     "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "601",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "tübütledi",
-    "anlam": "tübüt saymak, onlarla ilişkilendirmek.",
-    "ornek_metin": "ol anı tübütledi: O, onu tübüt saydı, onlarla ilişkilendirdi. Tübüt bir kavimdir.",
-    "cekimler": [
-      "tübütler",
-      "tübütlemek"
-    ],
-    "kelime_turu": "fiil",
     "dil_veya_lehce": "",
     "kaynak_sayfa": "601",
     "notlar": "",
@@ -80915,20 +78060,6 @@
     "kontrol_gerekli": false
   },
   {
-    "kelime": "tüpgerdi",
-    "anlam": "işin aslını merak etmek, izleri takip etmeye başlamak.",
-    "ornek_metin": "ol fşıg tüpgerdi: O, işin aslını merak etti ve izleri takip etmeye başladı.",
-    "cekimler": [
-      "tûpgerûr",
-      "tüpgermek"
-    ],
-    "kelime_turu": "fiil",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "605",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
     "kelime": "tüpi",
     "anlam": "şiddetli rüzgâr.",
     "ornek_metin": "qalm bulutug tüpi sürer qarangqu fşıg unınç açâr: Kalın, karanlık bulutlan ancak güçlü rüzgâr sürer götürür.",
@@ -80976,20 +78107,6 @@
     "dil_veya_lehce": "",
     "kaynak_sayfa": "605",
     "notlar": "Şu atasözünde de geçer: tütüşmeginçe füzülmes tüpirmeginçe açılmâs.",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "tüpledi",
-    "anlam": "meselenin kökenine inmek, konuyu derinlemesine araştırmak.",
-    "ornek_metin": "ol îşıg tüpledi: O, meselenin kökenine indi, konuyu derinlemesine araştırdı.",
-    "cekimler": [
-      "tüpler",
-      "tüplemek"
-    ],
-    "kelime_turu": "fiil",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "605",
-    "notlar": "",
     "kontrol_gerekli": false
   },
   {
@@ -81944,31 +79061,6 @@
     "ornek_metin": "",
     "cekimler": [],
     "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "613",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "uçguq",
-    "anlam": "nezle.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "613",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "uçlandı",
-    "anlam": "sivrilmek, ucu oluşmak.",
-    "ornek_metin": "uçlandı neng: Bir şey sivrileşti - ucu oluştu.",
-    "cekimler": [
-      "uçlanur",
-      "uçlanmâq"
-    ],
-    "kelime_turu": "fiil",
     "dil_veya_lehce": "",
     "kaynak_sayfa": "613",
     "notlar": "",
@@ -83264,17 +80356,6 @@
     "kontrol_gerekli": false
   },
   {
-    "kelime": "ulyân",
-    "anlam": "bir bitkinin güzel kokan ve yenebilen kökü.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "621",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
     "kelime": "uma",
     "anlam": "anne.",
     "ornek_metin": "",
@@ -83299,17 +80380,6 @@
   {
     "kelime": "umdu",
     "anlam": "imrenmek, yalvararak istemek.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "621",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "umdücı",
-    "anlam": "dilenci.",
     "ornek_metin": "",
     "cekimler": [],
     "kelime_turu": "isim",
@@ -83419,17 +80489,6 @@
     "kontrol_gerekli": false
   },
   {
-    "kelime": "umây",
-    "anlam": "doğum yaptıktan sonra kadının rahminden çıkan şey, plasenta, çocuğun rahimdeki eşi.",
-    "ornek_metin": "umâyqa tapınsa oğul bulür: umâya tapan kimse çocuk sahibi olur.",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "621",
-    "notlar": "Kadınlar bunu iyi bir alamet olarak kabul eder.",
-    "kontrol_gerekli": false
-  },
-  {
     "kelime": "unattı",
     "anlam": "razı etmek, memnun etmek.",
     "ornek_metin": "men unâmâs erdim ol mini unattı: Ben bu işten memnun olmadım, ama o beni işe razı etti.",
@@ -83519,28 +80578,6 @@
     "ornek_metin": "bu er ol söz unıtgân: Bu adam sık sık sözünü unutur.",
     "cekimler": [],
     "kelime_turu": "sıfat",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "621",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "unıtgân",
-    "anlam": "sık sık sözünü unutmak.",
-    "ornek_metin": "bu er ol söz unıtgân: Bu adam sık sık sözünü unutur.",
-    "cekimler": [],
-    "kelime_turu": "sıfat",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "621",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "ün",
-    "anlam": "un.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
     "dil_veya_lehce": "",
     "kaynak_sayfa": "621",
     "notlar": "",
@@ -84316,17 +81353,6 @@
     "kontrol_gerekli": false
   },
   {
-    "kelime": "üsüz",
-    "anlam": "uykusuz.",
-    "ornek_metin": "üsüz kişi: Uykusuz kimse",
-    "cekimler": [],
-    "kelime_turu": "sıfat",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "625",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
     "kelime": "utandı",
     "anlam": "utanmak.",
     "ornek_metin": "ol mendin utandı: O, benden utandı.",
@@ -84808,32 +81834,10 @@
   },
   {
     "kelime": "uya",
-    "anlam": "kuş yuvası.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "629",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "uya",
     "anlam": "kardeş, hısım.",
     "ornek_metin": "taıvâr üçün tengrini eflem edip uya qadaş oglmı çınla bogâr: Kendi kardeşinin oğlunu gerçekten [mal uğruna) boğazlar",
     "cekimler": [],
     "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "629",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "uyadsılıq",
-    "anlam": "utancın hâkim olduğu kimse.",
-    "ornek_metin": "uyadsılıq er: Utancın hâkim olduğu kimse.",
-    "cekimler": [],
-    "kelime_turu": "sıfat",
     "dil_veya_lehce": "",
     "kaynak_sayfa": "629",
     "notlar": "",
@@ -84898,17 +81902,6 @@
     "dil_veya_lehce": "",
     "kaynak_sayfa": "629",
     "notlar": "Kök-biçimi uyurdü- benzeşime maruz kalmıştır.",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "uyaz",
-    "anlam": "küçük sivrisinekler.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "Oğuz lehçesi",
-    "kaynak_sayfa": "629",
-    "notlar": "",
     "kontrol_gerekli": false
   },
   {
@@ -86223,17 +83216,6 @@
     "kontrol_gerekli": false
   },
   {
-    "kelime": "ürigür",
-    "anlam": "in, mağara.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "637",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
     "kelime": "üpledi",
     "anlam": "malını yağmalamak.",
     "ornek_metin": "ol anıg tawönn üpledi: O, onun malını yağmaladı.",
@@ -86715,20 +83697,6 @@
     "kontrol_gerekli": false
   },
   {
-    "kelime": "üşidi",
-    "anlam": "üşümek, soğuğun insanı alt etmesi.",
-    "ornek_metin": "er üşidi: Adam üşüdü - soğuk adamı alt etti.",
-    "cekimler": [
-      "üşir",
-      "üşmek"
-    ],
-    "kelime_turu": "fiil",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "641",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
     "kelime": "üşik",
     "anlam": "meyveleri donduran, yakan ve büyümelerini engelleyen soğuk.",
     "ornek_metin": "",
@@ -86832,20 +83800,6 @@
     "dil_veya_lehce": "",
     "kaynak_sayfa": "641",
     "notlar": "Bu çığlığı kötü bir kehanet olarak yorumlarlar.",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "üşkürdi",
-    "anlam": "unuttuğu sözleri hatırlamak.",
-    "ornek_metin": "ol unitmış SÖZÜg üşkürdi: O, unuttuğu [başka bir durum da söz konusu olabiliri sözleri hatırladı.",
-    "cekimler": [
-      "üşkürür",
-      "üşkürmek"
-    ],
-    "kelime_turu": "fiil",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "641",
-    "notlar": "",
     "kontrol_gerekli": false
   },
   {
@@ -87266,28 +84220,6 @@
     "kontrol_gerekli": false
   },
   {
-    "kelime": "xanda",
-    "anlam": "qanu, qanda.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "belirsiz",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "645",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "xara",
-    "anlam": "xün.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "belirsiz",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "645",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
     "kelime": "xara",
     "anlam": "xün.",
     "ornek_metin": "",
@@ -87304,17 +84236,6 @@
     "ornek_metin": "",
     "cekimler": [],
     "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "645",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "xayu",
-    "anlam": "qayu, qanu.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "belirsiz",
     "dil_veya_lehce": "",
     "kaynak_sayfa": "645",
     "notlar": "",
@@ -87453,17 +84374,6 @@
     "kontrol_gerekli": false
   },
   {
-    "kelime": "xuçünek",
-    "anlam": "çüçûnek.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "belirsiz",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "645",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
     "kelime": "xân",
     "anlam": "türklerin en büyük hakanı, afrâsiyab'ın torunlarına verilen ad.",
     "ornek_metin": "",
@@ -87510,28 +84420,6 @@
   {
     "kelime": "xıyâr",
     "anlam": "maraz.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "belirsiz",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "645",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "xıyâr",
-    "anlam": "maraz.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "belirsiz",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "645",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "xız",
-    "anlam": "qız.",
     "ornek_metin": "",
     "cekimler": [],
     "kelime_turu": "belirsiz",
@@ -88596,17 +85484,6 @@
     "kontrol_gerekli": false
   },
   {
-    "kelime": "yalgu",
-    "anlam": "dedikoducu, rezil kimse.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "Oğuz lehçesi",
-    "kaynak_sayfa": "653",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
     "kelime": "yalıg",
     "anlam": "horoz ibiği.",
     "ornek_metin": "taquq yalgı: Horoz ibiği.",
@@ -89231,17 +86108,6 @@
     "kontrol_gerekli": false
   },
   {
-    "kelime": "yamlân",
-    "anlam": "bir tür sıçan.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "657",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
     "kelime": "yamlıg",
     "anlam": "toz kaçmış göz.",
     "ornek_metin": "yamlıg köz: Toz kaçmış göz.",
@@ -89321,17 +86187,6 @@
     "kontrol_gerekli": false
   },
   {
-    "kelime": "yamız",
-    "anlam": "cinsel organın her iki yanında, uyluğun içten en üst kesiminde yer alan bölge, kasık.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "657",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
     "kelime": "yana",
     "anlam": "yine, ikinci kez.",
     "ornek_metin": "yana keldi: Yine [ikinci kez] geldi,",
@@ -89378,28 +86233,6 @@
   {
     "kelime": "yandaq tiken",
     "anlam": "kitre ağacı, geven.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "657",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "yandaq tiken",
-    "anlam": "kitre ağacı, geven.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "657",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "yançuq",
-    "anlam": "kese.",
     "ornek_metin": "",
     "cekimler": [],
     "kelime_turu": "isim",
@@ -90004,17 +86837,6 @@
     "kontrol_gerekli": false
   },
   {
-    "kelime": "yapgut",
-    "anlam": "yastık, kırpık yün, kıl.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "661",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
     "kelime": "yapguç",
     "anlam": "değnek.",
     "ornek_metin": "",
@@ -90023,17 +86845,6 @@
     "dil_veya_lehce": "",
     "kaynak_sayfa": "661",
     "notlar": "Ayrıca bkz. yaptaç",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "yapgâq",
-    "anlam": "tuzak.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "661",
-    "notlar": "",
     "kontrol_gerekli": false
   },
   {
@@ -90079,20 +86890,6 @@
     "cekimler": [
       "yaprulür",
       "yaprulmâq"
-    ],
-    "kelime_turu": "fiil",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "661",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "yapruşdı",
-    "anlam": "yardım etmek",
-    "ornek_metin": "ol angar yer yapruşdı: O, ona yeri düzleştirmekte yardım etti.",
-    "cekimler": [
-      "yapruşür",
-      "yapruşmâq"
     ],
     "kelime_turu": "fiil",
     "dil_veya_lehce": "",
@@ -90748,31 +87545,6 @@
     "kontrol_gerekli": false
   },
   {
-    "kelime": "yaraglıg",
-    "anlam": "gerçekleşmesi mümkün olan iş.",
-    "ornek_metin": "yaraglıg fş: (Gerçekleşmesi) mümkün olan bir iş.",
-    "cekimler": [],
-    "kelime_turu": "sıfat",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "665",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "yarandı",
-    "anlam": "atın yarışa alışması için bir yolda koşturulması, yaltaklanmak.",
-    "ornek_metin": "at yarandı: At, yanşa alışması için bir yolda koşturuldu. ol manga yarandı: O, bana yaltaklandı.",
-    "cekimler": [
-      "yaranür",
-      "yaranm âı}"
-    ],
-    "kelime_turu": "fiil",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "665",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
     "kelime": "yarandı",
     "anlam": "atın yarışa alışması için bir yolda koşturulması, yaltaklanmak.",
     "ornek_metin": "at yarandı: At, yanşa alışması için bir yolda koşturuldu. ol manga yarandı: O, bana yaltaklandı.",
@@ -90798,31 +87570,6 @@
     "dil_veya_lehce": "",
     "kaynak_sayfa": "665",
     "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "yaranışındı",
-    "anlam": "yaltaklanmak.",
-    "ornek_metin": "ol manga yaranışındı: O bana yaltaklandı.",
-    "cekimler": [
-      "yaramsınür",
-      "yaram smm âq"
-    ],
-    "kelime_turu": "fiil",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "665",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "yarasa",
-    "anlam": "yarasa.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "belirsiz",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "665",
-    "notlar": "bkz. yersgû.",
     "kontrol_gerekli": false
   },
   {
@@ -91624,17 +88371,6 @@
     "kontrol_gerekli": false
   },
   {
-    "kelime": "yası",
-    "anlam": "geniş, enli şey, yassı.",
-    "ornek_metin": "yası neng: Geniş, enli bir şey; yassı.",
-    "cekimler": [],
-    "kelime_turu": "sıfat",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "669",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
     "kelime": "yâs",
     "anlam": "kayıp, hüsran.",
     "ornek_metin": "anğıg telim yâsı tegdi: O çok fazla kayıp yaşayarak aa çekti.",
@@ -92153,20 +88889,6 @@
     "kontrol_gerekli": false
   },
   {
-    "kelime": "yatgaşdı",
-    "anlam": "birlikte yatmak.",
-    "ornek_metin": "öl anıg birle yatgaşdı: O, onunla birlikte yattı.",
-    "cekimler": [
-      "yatgaşür",
-      "yatgaşmâq"
-    ],
-    "kelime_turu": "fiil",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "673",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
     "kelime": "yatgaşuq",
     "anlam": "yatak arkadaşı.",
     "ornek_metin": "Yatak arkadaşı.",
@@ -92241,20 +88963,6 @@
     "ornek_metin": "yatgâq yattı: Adam geceyi muhafızlıkta geçirdi",
     "cekimler": [],
     "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "673",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "yaşurdı",
-    "anlam": "gizlemek.",
-    "ornek_metin": "ol neng yaşurdı: O, bir şeyi gizledi.",
-    "cekimler": [
-      "yaşrur",
-      "yaşurmâıj"
-    ],
-    "kelime_turu": "fiil",
     "dil_veya_lehce": "",
     "kaynak_sayfa": "673",
     "notlar": "",
@@ -93605,39 +90313,6 @@
     "kontrol_gerekli": false
   },
   {
-    "kelime": "yek",
-    "anlam": "şeytan.",
-    "ornek_metin": "bilmiş yek bilmedük kişiden yeğ: Bildiğin şeytan bilmediğin adamdan hayırlıdır.",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "681",
-    "notlar": "Bu atasözü, birine, tanıdıklarına saygı göstermesini öğütlemek için kullanılır.",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "yel",
-    "anlam": "esinti.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "681",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "yel",
-    "anlam": "cin.",
-    "ornek_metin": "eryelpindi: Adamı cin çarptı.",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "681",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
     "kelime": "yel",
     "anlam": "esinti.",
     "ornek_metin": "",
@@ -93668,45 +90343,6 @@
     "dil_veya_lehce": "",
     "kaynak_sayfa": "681",
     "notlar": "bkz. kögen.",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "yel kögen",
-    "anlam": "kögen.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "681",
-    "notlar": "bkz. kögen.",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "yeldi",
-    "anlam": "acele etmek.",
-    "ornek_metin": "atlıg yeldi: Atlı acele etti.",
-    "cekimler": [
-      "yeler",
-      "yelmek"
-    ],
-    "kelime_turu": "fiil",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "681",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "yeldi",
-    "anlam": "yemek yenmek.",
-    "ornek_metin": "aş yeldi: Yemek yendi.",
-    "cekimler": [
-      "yelür",
-      "yelmek"
-    ],
-    "kelime_turu": "fiil",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "681",
-    "notlar": "",
     "kontrol_gerekli": false
   },
   {
@@ -93766,20 +90402,6 @@
     "kontrol_gerekli": false
   },
   {
-    "kelime": "yeldirdi",
-    "anlam": "rüzgâr esmek.",
-    "ornek_metin": "yel yeldirdi: Rüzgâr esti.",
-    "cekimler": [
-      "yeldirer",
-      "yeldirmek"
-    ],
-    "kelime_turu": "fiil",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "681",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
     "kelime": "yelgin",
     "anlam": "acele eden, koşturan atlı.",
     "ornek_metin": "yelgin atlıg: Acele eden, koşturan atlı.",
@@ -93788,28 +90410,6 @@
     "dil_veya_lehce": "Oğuzlar",
     "kaynak_sayfa": "681",
     "notlar": "Oğuzlar ye'yi (y) elif e'ye (e) çevirerek gezgine elgin der.",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "yelgin",
-    "anlam": "acele eden, koşturan atlı.",
-    "ornek_metin": "yelgin atlıg: Acele eden, koşturan atlı.",
-    "cekimler": [],
-    "kelime_turu": "sıfat",
-    "dil_veya_lehce": "Oğuzlar",
-    "kaynak_sayfa": "681",
-    "notlar": "Oğuzlar ye'yi (y) elif e'ye (e) çevirerek gezgine elgin der.",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "yelim",
-    "anlam": "oka tüy yapıştırmakta ya da benzer yapıştırma işlerinde kullanılan zamk.",
-    "ornek_metin": "yaru yelim: Balık tutkalı",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "681",
-    "notlar": "",
     "kontrol_gerekli": false
   },
   {
@@ -93853,20 +90453,6 @@
   },
   {
     "kelime": "yelimledi",
-    "anlam": "oka tüy yapıştırmak.",
-    "ornek_metin": "ol oq yelimledi: O, oka tüy yapıştırdı.",
-    "cekimler": [
-      "yelimler",
-      "yelimlemek"
-    ],
-    "kelime_turu": "fiil",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "681",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "yelimledi",
     "anlam": "yolda bir düşman pususu ya da ileri kolu olup olmadığını görmek ve haber getirmek için askeri birliklerin önünden gitmek.",
     "ornek_metin": "ol yölug yelimledi: O, yolda bir düşman pususu ya da ileri kolu olup olmadığını görmek ve haber getirmek için askeri birliklerin önünden gitti.",
     "cekimler": [
@@ -93894,45 +90480,9 @@
     "kontrol_gerekli": false
   },
   {
-    "kelime": "yelimlendi",
-    "anlam": "oka tutkal yapıştırılmak veya başka bir şeyin oka yapıştırılması için tutkal sürülmek.",
-    "ornek_metin": "oq yelimlendi: Oka tutkal yapıştırıldı.",
-    "cekimler": [
-      "yelimlenûr",
-      "yelimlenmek"
-    ],
-    "kelime_turu": "fiil",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "681",
-    "notlar": "Ya da başka bir şeyin oka yapıştırılması için tutkal sürüldü.",
-    "kontrol_gerekli": false
-  },
-  {
     "kelime": "yelin",
     "anlam": "kısrağın ya da herhangi bir toynaklı hayvanın dişisinin memesi.",
     "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "681",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "yelin",
-    "anlam": "kısrağın ya da herhangi bir toynaklı hayvanın dişisinin memesi.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "681",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "yelirig",
-    "anlam": "rüzgârın çok fazla estiği yer.",
-    "ornek_metin": "bu yelirig kün: Bu, rüzgârlı bir gün.",
     "cekimler": [],
     "kelime_turu": "isim",
     "dil_veya_lehce": "",
@@ -94469,39 +91019,6 @@
     "kontrol_gerekli": false
   },
   {
-    "kelime": "yepün",
-    "anlam": "koyu kırmızı, kırmızı dağ lalesinin renginde olan herhangi bir şey.",
-    "ornek_metin": "qılnu bilse qm l keder, yarânu bilse yaşıl keder: Eğer (bir kadın) nasıl cilveli ve fingirdek olunacağını biliyorsa kızıl ipek giyer, nasıl alımlı ve cana yakın olunacağını biliyorsa yeşil ipek giyer.",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "685",
-    "notlar": "Burada kocanın, karısına bu ipekleri armağan etmesi gerektiği vurgulanıyor.",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "yer",
-    "anlam": "dünya, yer, toprak.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "685",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "yer",
-    "anlam": "işlemeli ipek kumaşın ya da çin işi kumaşın iki yüzünden biri, arışları diğer renklerden baskın ve ağırlıklı olan renk.",
-    "ornek_metin": "yaşıl yerlig barçın: Yeşil rengin hâkim olduğu ipekli kumaş — bu renk, kumaşın köküdür [zemin rengidir] ve diğer renkler dallarıdır [ikincil renkler].",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "685",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
     "kelime": "yer",
     "anlam": "dünya, yer, toprak.",
     "ornek_metin": "",
@@ -94576,17 +91093,6 @@
   {
     "kelime": "yerigge",
     "anlam": "yenge, büyük erkek kardeşin karısı.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "685",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "yerçi",
-    "anlam": "deneyimli rehber.",
     "ornek_metin": "",
     "cekimler": [],
     "kelime_turu": "isim",
@@ -95287,17 +91793,6 @@
     "dil_veya_lehce": "",
     "kaynak_sayfa": "689",
     "notlar": "Elifle (a), yıgâç biçiminde kullanmak daha iyidir.",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "yıgaç",
-    "anlam": "odun, ağaç parçası.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "689",
-    "notlar": "",
     "kontrol_gerekli": false
   },
   {
@@ -96011,20 +92506,6 @@
     "kontrol_gerekli": false
   },
   {
-    "kelime": "yıqışdı",
-    "anlam": "yıkma işinde yardım etmek.",
-    "ornek_metin": "ol angar tâm ytqışdı: O, duvarı yıkma işinde ona yardım etti.",
-    "cekimler": [
-      "yıqışûr",
-      "yıqışmâq"
-    ],
-    "kelime_turu": "fiil",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "693",
-    "notlar": "Duvar dışında başka bir şey için de olabilir.",
-    "kontrol_gerekli": false
-  },
-  {
     "kelime": "yır",
     "anlam": "aşk şiiri, şarkı, gazel, gınâ, türkü.",
     "ornek_metin": "",
@@ -96083,50 +92564,11 @@
     "kontrol_gerekli": false
   },
   {
-    "kelime": "yıraqlandı",
-    "anlam": "bir yerin çok uzakta olduğunu düşünmek.",
-    "ornek_metin": "er yerig yıraqlandı: Adam bir yerin çok uzakta olduğunu düşündü.",
-    "cekimler": [
-      "yıraqlanûr",
-      "yıraqlanmâq"
-    ],
-    "kelime_turu": "fiil",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "693",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
     "kelime": "yıraqlıq",
     "anlam": "uzaklık.",
     "ornek_metin": "",
     "cekimler": [],
     "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "693",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "yıraqlıq",
-    "anlam": "uzaklık.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "693",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "yırâdı",
-    "anlam": "uzaklaşmak.",
-    "ornek_metin": "yırâdı neng: Bir şey uzaklaştı.",
-    "cekimler": [
-      "yırâr",
-      "yırâmâq"
-    ],
-    "kelime_turu": "fiil",
     "dil_veya_lehce": "",
     "kaynak_sayfa": "693",
     "notlar": "",
@@ -96155,28 +92597,6 @@
     "dil_veya_lehce": "",
     "kaynak_sayfa": "693",
     "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "yırâgu",
-    "anlam": "çalgıcı, mutrib, şarkıcı, muganni.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "693",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "yırâq",
-    "anlam": "uzak, uzak yer.",
-    "ornek_metin": "yırâq yer: Uzak bir yer.",
-    "cekimler": [],
-    "kelime_turu": "sıfat",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "693",
-    "notlar": "Uzakta olan hısımları ya da başkalarını anlatmak için de bu sözcüğe başvurulur.",
     "kontrol_gerekli": false
   },
   {
@@ -97280,20 +93700,6 @@
     "ornek_metin": "",
     "cekimler": [],
     "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "701",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "yongattı",
-    "anlam": "gammazlanmasını sağlamak.",
-    "ornek_metin": "ol anı begke yongattı: O, onun beye gammazlanmasını sağladı.",
-    "cekimler": [
-      "yongâtür",
-      "yoıigâtmâq"
-    ],
-    "kelime_turu": "fiil",
     "dil_veya_lehce": "",
     "kaynak_sayfa": "701",
     "notlar": "",
@@ -99380,20 +95786,6 @@
     "kontrol_gerekli": false
   },
   {
-    "kelime": "yutıqtı",
-    "anlam": "soğuktan donarak ölmek.",
-    "ornek_metin": "yılqı yutıqtı: Yağan karla birlikte hayvanları soğuk ısırdı. Bu, hayvanların soğuktan donarak öldüğü anlamına gelir.",
-    "cekimler": [
-      "yutıqâr",
-      "yutıqmâq"
-    ],
-    "kelime_turu": "fiil",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "713",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
     "kelime": "yuvga",
     "anlam": "katmerli yufka.",
     "ornek_metin": "",
@@ -101396,28 +97788,6 @@
     "kontrol_gerekli": false
   },
   {
-    "kelime": "yubqa",
-    "anlam": "Yufka kelimesinin w- yuwqa biçimindeki değişik sesletimi.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "706",
-    "notlar": "Tıpkı Arapçadaki usrub-usruf veya mastaba-mastafa sözcüklerinde olduğu gibi be/e'ye (f-w) dönüşmüştür.",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "yudruq",
-    "anlam": "Yumruk.",
-    "ornek_metin": "yâtnıgyâ$ıg tiküsinden öznig qanlıgyudruq yeg: Yabancının yağlı lokmasından hışmının kanlı yumruğu yeğdir.",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "706",
-    "notlar": "Bu atasözü, tartışan hısımları barıştırmak için kullanılır.",
-    "kontrol_gerekli": false
-  },
-  {
     "kelime": "yudruqlandı",
     "anlam": "Adam elini yumruk yaptı.",
     "ornek_metin": "er yudruqlandı: Adam elini yumruk yaptı.",
@@ -101443,17 +97813,6 @@
     "kontrol_gerekli": false
   },
   {
-    "kelime": "yugruş",
-    "anlam": "Türklerde halkın arasından gelip de vezirlik makamına yükselen adam.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "706",
-    "notlar": "Bu makam Hakandan bir seviye aşağıdadır. Yağmurda, karda ve sıcakta başı üzre kurulan kara ipekten bir çadır kendisine verilir.",
-    "kontrol_gerekli": false
-  },
-  {
     "kelime": "yöwtürdi",
     "anlam": "O, onun hısımlarıyla ve kardeşleriyle paylaşmasını sağladı.",
     "ornek_metin": "oî qadâşmga nerig ymvtürdi: O, onun hısımlarıyla ve kardeşleriyle paylaşması sağladı.",
@@ -101468,17 +97827,6 @@
     "kontrol_gerekli": true
   },
   {
-    "kelime": "yöwüş",
-    "anlam": "Akrabalarına giysi ya da mal vererek yardım etmek.",
-    "ornek_metin": "yöwüşlüg kelin küdegû yawaş bulur: Akrabalan armağanlar yağdıran bir gelin nazik ve iyi kalpli bir güvey bulur",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "706",
-    "notlar": "Bu sözcük çoğunlukla kocasına sunulan bir geline ilişkin olarak kullanılır. Çünkü gelinin çeyizi için akrabaları geline çeşitli armağanlar verirler.",
-    "kontrol_gerekli": false
-  },
-  {
     "kelime": "yüdı",
     "anlam": "Adam giysiyi yıkadı.",
     "ornek_metin": "er tön yüdı: Adam giysiyi [başka bir şeyi de olabilir] yıkadı.",
@@ -101490,39 +97838,6 @@
     "dil_veya_lehce": "",
     "kaynak_sayfa": "706",
     "notlar": "Şu atasözünde de geçer: qânıg qân bile yümâs: Kan kanla yıkanmaz - halk arasındaki kargaşa başka bir kargaşayla çözülmez, yalnızca barışla çözülür.",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "yul",
-    "anlam": "Pınar, su kaynağı.",
-    "ornek_metin": "çoqrama yul: Fışkıran kaynak.",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "706-707",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "yula",
-    "anlam": "Kandil.",
-    "ornek_metin": "tegme ewek ışqa körüp turgıl ele çağmaq çaqıp ewse qalı udnür yula: Bir işe aceleyle girişme, dur ve onun doğasını anlamak için bak. Kibriti çakan kişi bunu telaşla yaparsa, kandil söner",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "707",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "yulaq",
-    "anlam": "Çok küçük pınar.",
-    "ornek_metin": "aqturur közüm yıdâq tüşqılur ördek yugâq: Sözüm yaşı pınar gibi akar, ördekler ve diğer sukuşları buraya konar",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "707",
-    "notlar": "Yul'e -ağ eklenmiştir.",
     "kontrol_gerekli": false
   },
   {
@@ -101540,28 +97855,6 @@
     "kontrol_gerekli": false
   },
   {
-    "kelime": "yular",
-    "anlam": "Atın yuları.",
-    "ornek_metin": "yond bâşm yulârlap kenki ye\natın başını pişirip yemek istediğinde önce yulan sıkıca tak ki kaçmasın; sonra yersin.",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "707",
-    "notlar": "Bu atasözü, birine atını denetim altında tutmasını ve başıboş bırakmamasını öğütlemek için kullanılır.",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "yular",
-    "anlam": "At yuları.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "707",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
     "kelime": "yularlandı",
     "anlam": "Ata yular takıldı.",
     "ornek_metin": "at yularlardı: Ata yular takıldı.",
@@ -101570,17 +97863,6 @@
       "yularlanmâq"
     ],
     "kelime_turu": "fiil",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "707",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "yularlıg",
-    "anlam": "Yularlı at.",
-    "ornek_metin": "yularlıg at: Yularlı at.",
-    "cekimler": [],
-    "kelime_turu": "sıfat",
     "dil_veya_lehce": "",
     "kaynak_sayfa": "707",
     "notlar": "",
@@ -101657,17 +97939,6 @@
     "kontrol_gerekli": false
   },
   {
-    "kelime": "yül",
-    "anlam": "Pınar, su kaynağı.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "707",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
     "kelime": "yuldruga",
     "anlam": "Devedikeni - Kılıç gibi uzayan bir bitki.",
     "ornek_metin": "",
@@ -101676,28 +97947,6 @@
     "dil_veya_lehce": "",
     "kaynak_sayfa": "708",
     "notlar": "Bu sözcükte dal (d) da ünlü alabilir ve yuldurga biçiminde söylenir.",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "yulduz",
-    "anlam": "Yıldızları anlatmak için kullanılan genel bir ad.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "708",
-    "notlar": "Yıldızlar kendi aralarında ayrılır: eren tüz: Jüpiter yıldızı; qara quş: Terazi Takımyıldızı; ülker: Ülker takımyıldızı; yetigen: Yedikardeş yıldızı; temür qazug: Kutupyıldızı; baqır suqım: Mars.",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "yulduz köl",
-    "anlam": "Kuça, Kirfgüt ve Uygur arasındaki sınırda bulunan bir göl.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "708",
-    "notlar": "",
     "kontrol_gerekli": false
   },
   {
@@ -101765,17 +98014,6 @@
       "yulqtşmâq"
     ],
     "kelime_turu": "fiil",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "708",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "yulîmân",
-    "anlam": "Yıkıcı ve tamamen harap edici akın ve yağma.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
     "dil_veya_lehce": "",
     "kaynak_sayfa": "708",
     "notlar": "",
@@ -101866,39 +98104,6 @@
     "kontrol_gerekli": false
   },
   {
-    "kelime": "yulug",
-    "anlam": "Fidye.",
-    "ornek_metin": "ming kişi yulugı bolup özinge bergeler özün anıg közinge: Binlerce kişi onun ruhu için fidyedir, onun gözlerinin bir bakışı için ruhlanndan vazgeçerler",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "709",
-    "notlar": "Öz sözcüğü bu ikilikte \"ruh\" anlamında kullanılır.",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "yuluglug",
-    "anlam": "Fidyesi ödenmiş kişi.",
-    "ornek_metin": "yuluglug kişi: Fidyesi ödenmiş kişi",
-    "cekimler": [],
-    "kelime_turu": "sıfat",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "709",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "yulun",
-    "anlam": "Omurilik.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "709",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
     "kelime": "yulundı",
     "anlam": "Tüy yolundu.",
     "ornek_metin": "saç yulundı: Tüy yolundu.",
@@ -101983,28 +98188,6 @@
     "kontrol_gerekli": false
   },
   {
-    "kelime": "yumgâq",
-    "anlam": "Yuvarlak ya da kıvrımlı herhangi bir şey.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "709",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "yumgâq tana",
-    "anlam": "Kişniş tohumu.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "Uç lehçesi",
-    "kaynak_sayfa": "709",
-    "notlar": "Tana sözcüğünün de Farsçadaki dâne tohum, tane sözcüğünden Türkçeleştirildiğini düşünüyorum.",
-    "kontrol_gerekli": false
-  },
-  {
     "kelime": "yumluşdı",
     "anlam": "Gözler kapandı.",
     "ornek_metin": "közler yumluşdı: Sözler kapandı [yumuldu]",
@@ -102062,17 +98245,6 @@
   },
   {
     "kelime": "yumşâq",
-    "anlam": "Herhangi bir şeyin yumuşak olanı.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "sıfat",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "709",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "yumşâq",
     "anlam": "r'ulturdı.",
     "ornek_metin": "ol bulunugyulturdr. O, birine, tutsağın serbest bırakılması için fidye verdirdi, ol taqâgünı yulturdı: O, tavuğu [başka bir şeyi de olabiliri yoldurdu. Tüyleri olup da yolunan herhangi bir şeyi anlatmak için bu sözcük kullanılır. ol qulın yulturdı: O, kölesinin, para vererek kendisini ondan satın almasına izin verdi.",
     "cekimler": [
@@ -102084,17 +98256,6 @@
     "kaynak_sayfa": "709",
     "notlar": "",
     "kontrol_gerekli": true
-  },
-  {
-    "kelime": "yumşâq",
-    "anlam": "Herhangi bir şeyin yumuşak olanı.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "sıfat",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "709-710",
-    "notlar": "",
-    "kontrol_gerekli": false
   },
   {
     "kelime": "yumundı",
@@ -102151,17 +98312,6 @@
     "ornek_metin": "",
     "cekimler": [],
     "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "710",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "yumuşga",
-    "anlam": "bkz. yawışgu.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "belirsiz",
     "dil_veya_lehce": "",
     "kaynak_sayfa": "710",
     "notlar": "",
@@ -102230,17 +98380,6 @@
   },
   {
     "kelime": "yundı",
-    "anlam": "Yemek yedikten sonra kâsenin yıkandığı su.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "711",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "yundı",
     "anlam": "Adam suda yıkandı veya aptes aldı.",
     "ornek_metin": "er suıvdû yundr. Adam suda yıkandı. er yundı: Adam aptes aldı (Oğuz lehçesi)",
     "cekimler": [
@@ -102252,17 +98391,6 @@
     "kaynak_sayfa": "711",
     "notlar": "",
     "kontrol_gerekli": true
-  },
-  {
-    "kelime": "yung",
-    "anlam": "Deve ya da koyun yünü.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "711",
-    "notlar": "",
-    "kontrol_gerekli": false
   },
   {
     "kelime": "yunguq",
@@ -102312,28 +98440,6 @@
     "dil_veya_lehce": "",
     "kaynak_sayfa": "711",
     "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "yurig",
-    "anlam": "Pamuk.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "Argu lehçesi (Yağma ve Qarluk lehçelerinde de bu şekilde adlandırılır)",
-    "kaynak_sayfa": "711",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "yüng",
-    "anlam": "Ciğere yapışık, yumru bir et parçası.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "711",
-    "notlar": "Bunu yalnızca kadınlar yer, erkekler asla yemez.",
     "kontrol_gerekli": false
   },
   {
@@ -102432,28 +98538,6 @@
     "kontrol_gerekli": true
   },
   {
-    "kelime": "yurigu",
-    "anlam": "Bârmân kentinde akan bir nehir.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "712",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "yurç",
-    "anlam": "Bir kadının kendinden küçük erkek kardeşi.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "712",
-    "notlar": "Bir erkeğin erkek kardeşi ile bir kadının erkek kardeşi birbirinden ayrılır...",
-    "kontrol_gerekli": false
-  },
-  {
     "kelime": "yüq",
     "anlam": "Kâsedeki yemek artığı; bulaşık.",
     "ornek_metin": "yâq yüq: Kâsedeki yemek artığı; bulaşık. Buradan hareketle “uzak bir akraba”ya yâq yüq qadaş ; bu ifade “o, bize, yemek artığının kâseye yapışık olduğu gibi [gevşek bir biçimde] yapışıktır” anlamına gelir.",
@@ -102478,39 +98562,6 @@
     "dil_veya_lehce": "",
     "kaynak_sayfa": "713",
     "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "urun",
-    "anlam": "Bir kesimlik ipek kumaş parçası, yurun yuqa da denir.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "713",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "yurt",
-    "anlam": "Harabe halindeki eski yerleşimler.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "713",
-    "notlar": "",
-    "kontrol_gerekli": true
-  },
-  {
-    "kelime": "yurun",
-    "anlam": "Bir kesimlik ipek kumaş parçası.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "713",
-    "notlar": "Yurun yuqa da denir.",
     "kontrol_gerekli": false
   },
   {
@@ -102583,17 +98634,6 @@
       "yutıqmâq"
     ],
     "kelime_turu": "fiil",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "713",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "yuvga",
-    "anlam": "Katmerli yufka.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
     "dil_veya_lehce": "",
     "kaynak_sayfa": "713",
     "notlar": "",
@@ -102696,44 +98736,6 @@
     "kontrol_gerekli": false
   },
   {
-    "kelime": "yuşulgân",
-    "anlam": "Sürekli kanın aktığı yara.",
-    "ornek_metin": "bu bâş ol qâıu yuşulgân: Bu, sürekli kanın aktığı bir yaradır.",
-    "cekimler": [],
-    "kelime_turu": "sıfat",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "713",
-    "notlar": "",
-    "kontrol_gerekli": true
-  },
-  {
-    "kelime": "yuşıldı",
-    "anlam": "Sirke ya da bira gibi şeylerin testiden akıtılması.",
-    "ornek_metin": "",
-    "cekimler": [
-      "yuşılûr",
-      "yuşılmâq",
-      "yüşilür",
-      "yüşilmek"
-    ],
-    "kelime_turu": "fiil",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "713",
-    "notlar": "",
-    "kontrol_gerekli": true
-  },
-  {
-    "kelime": "yüt",
-    "anlam": "Kışın gelen soğukla birlikte vahşi hayvanları ve çiftlik hayvanlarını öldüren felaket.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "713",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
     "kelime": "yuwdı",
     "anlam": "Adam topu yuvarladı.",
     "ornek_metin": "er topıqyuwdı: Adam topu yuvarladı,",
@@ -102745,17 +98747,6 @@
     "dil_veya_lehce": "",
     "kaynak_sayfa": "713-714",
     "notlar": "Şu dizelerde de kullanılır: tawar yığıp suw aqın endi saqm qorum kepi idisin qödı yuwâr (Malını yığıp zenginliğini arttıranın dağın zirvesinden bir selin geldiğini düşünmesini sağla İri kayaları yuvarladığı gibi onun malını da sürükler götürür)",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "yuvvga",
-    "anlam": "Piç.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "714",
-    "notlar": "",
     "kontrol_gerekli": false
   },
   {
@@ -102843,17 +98834,6 @@
     "kontrol_gerekli": false
   },
   {
-    "kelime": "yuwqa",
-    "anlam": "Herhangi bir şeyin ince olanı.",
-    "ornek_metin": "anâsı tewlügyuwqa yapar, oglı tetig qoşa qapâr: Anası kurnaz somunu ince yapar, oğlu zeki (onları) ikişer ikişer çalar. Bu atasözü, bir araya gelen iki becerikli insanı anlatmak için kullanılır.",
-    "cekimler": [],
-    "kelime_turu": "sıfat",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "714",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
     "kelime": "yuwqalandi",
     "anlam": "O, bana yaltaklandı ve uysal davrandı.",
     "ornek_metin": "ol manga yuwqalandı: O, bana yaltaklandı ve uysal davrandı.",
@@ -102865,17 +98845,6 @@
     "dil_veya_lehce": "",
     "kaynak_sayfa": "714",
     "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "yuvvug",
-    "anlam": "Sel suyunun tepelerden yuvarladığı kaya parçası.",
-    "ornek_metin": "yuvfga suvvm suwulma / Bilinmeyen bir kaynaktan gelen suyu arama / qaptı menig qâyımı / Benim Qâyimı (bu kavimden getirilmiş kölemi) aldı götürdü",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "714-715",
-    "notlar": "Tepede yürüyen bir insan ya da hayvanın vadinin tabanına yuvarladığı kaya parçalarını anlatmak için de aynı sözcük kullanılır.",
     "kontrol_gerekli": false
   },
   {
@@ -102960,17 +98929,6 @@
     "kontrol_gerekli": false
   },
   {
-    "kelime": "yüg",
-    "anlam": "Kuş tüyü.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "715",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
     "kelime": "yügletti",
     "anlam": "O, oka tüy taktı.",
     "ornek_metin": "ol oq yügletti: O, oka tüy taktı.",
@@ -102985,17 +98943,6 @@
     "kontrol_gerekli": false
   },
   {
-    "kelime": "yügrüm",
-    "anlam": "Bir koşuda koşulacak büyüklükte alan.",
-    "ornek_metin": "bir yügrüm yer: Bir koşuda koşulacak büyüklükte alan,",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "716",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
     "kelime": "yügrüşdi",
     "anlam": "Oğlan çocukları koşuştu.",
     "ornek_metin": "Oglân yügrüşdi: Oğlan çocukları [başka birileri de olabilir] koşuştu.",
@@ -103007,17 +98954,6 @@
     "dil_veya_lehce": "",
     "kaynak_sayfa": "716",
     "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "yügür",
-    "anlam": "Darı.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "716",
-    "notlar": "“Darı” anlamına gelen ügür sözcüğünün değişik sesletimi.",
     "kontrol_gerekli": false
   },
   {
@@ -103060,17 +98996,6 @@
     "kontrol_gerekli": false
   },
   {
-    "kelime": "yügürgün",
-    "anlam": "Darı gibi kırmızı taneleri bulunan bir bitki.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "716",
-    "notlar": "Türkmenler bu taneleri yer.",
-    "kontrol_gerekli": false
-  },
-  {
     "kelime": "yügürtti",
     "anlam": "O, onu koşturdu.",
     "ornek_metin": "ol anı yügürtti: O, onu koşturdu.",
@@ -103079,17 +99004,6 @@
       "yügürtmek"
     ],
     "kelime_turu": "fiil",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "716",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "yük",
-    "anlam": "Yük.",
-    "ornek_metin": "bir yük buğday : Bir yük buğday - Ağır bir yük.",
-    "cekimler": [],
-    "kelime_turu": "isim",
     "dil_veya_lehce": "",
     "kaynak_sayfa": "716",
     "notlar": "",
@@ -103146,17 +99060,6 @@
     "dil_veya_lehce": "",
     "kaynak_sayfa": "717",
     "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "yüksek",
-    "anlam": "Yüce dağ.",
-    "ornek_metin": "yüksek tâg: Yüce dağ.",
-    "cekimler": [],
-    "kelime_turu": "sıfat",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "717",
-    "notlar": "“Yüksek, yüce, ulu” olan herhangi bir şeyi anlatmak için yüksek sözcüğü kullanılır. Bu sözcük yüg: kuş tüyü sözcüğünden türetilmiştir; çünkü kuş tüyünün doğasında yükselmek ve yukarılara çıkmak vardır.",
     "kontrol_gerekli": false
   },
   {
@@ -103631,349 +99534,8 @@
     "kontrol_gerekli": false
   },
   {
-    "kelime": "adıl",
-    "anlam": "Dilsel bağlamda daha önce anılan bir öğeyi, bildirişime katılan bir kimseyi, sözcenin oluşturulduğu sırada gözlem alanına giren bir varlık ya da nesneyi gösteren biçimbirim ve bu niteliği taşıyan biçimbirimlerin oluşturduğu dilbilgisi ulamı.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "721",
-    "notlar": "Adıllar, ad soylu biçimbirimlerin önemli bir bölümünü oluşturur, genellikle adların yerini tutar, kişi, soru, iyelik ilgi, gösterme ya da belgisizlik kavramını içerir.",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "akıcı ünsüz",
-    "anlam": "Ağız yolunun kapanması ya da açılmasıyla oluşan ünsüz.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "721",
-    "notlar": "selâset",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "akışma",
-    "anlam": "Kulağa hoş gelen seslerin birbirini izlemesi.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "721",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "artdamaksallaştırma",
-    "anlam": "Yumuşak damak bölgesinde, sert damağın art uç noktasıyla küçük dil arasında oluşturulan ses.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "721",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "belirteç",
-    "anlam": "Bir eylemin, bir sıfatın, bir ilgecin, bir bağlacın ya da kendi türünden bir başka birimin anlamını etkileyen, onu kesinleştirerek ya da kısıtlayarak belirleyen birim.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "721",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "benzeşim",
-    "anlam": "Bir sesin söz zincirinde kendisinden önce ya da sonra gelen bir başka sesle birlikte bulunmasından doğan ve birinden öbürüne özellik aktarımı yoluyla gerçekleşen değişim.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "721",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "buyrum",
-    "anlam": "Eylemin yapılması gerektiğini buyurarak anlatan isteme kipi.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "721",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "ce'm beyne's-sâkineyn",
-    "anlam": "Ünsüz sakin kümesi.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "721",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "damaksıllaştırma",
-    "anlam": "Bir sesin eklemlenme bölgesini artdamaktan öndamaga kaydırma.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "721",
-    "notlar": "imâle [iki ses arasından, asıl seslere dahil edilemeyecek bir ses çıkartma]",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "eden",
-    "anlam": "Etken biçimde oluşa katılan öğe.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "721",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "edilgen eylem",
-    "anlam": "Öznenin, yapılan işin etkisi altında kaldığını belirten çatıyla kurulan eylem.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "721",
-    "notlar": "mechûl",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "çeker harfleri",
-    "anlam": "elif, vav, ye.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "721",
-    "notlar": "matres lectionis",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "eğretileme",
-    "anlam": "Düzdeğişmeceye karşıt olarak, dizisel bağıntılar düzleminde ortak anlambirimcikler kapsadıklarından aralarında eşdeğerlik ilişkisi kurulan anlamlı öğelerden birini öbürü yerine ve karşılaştırma yapılmasının sağlayan sözcükleri kaldırarak kullanma sonucu oluşan değişmece.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "721-722",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "ekeylem",
-    "anlam": "Ad soylu dil birimlerinin yüklem işlevi üstlenmesini sağlayan eylem.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "722",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "eklemleme noktası",
-    "anlam": "Sesler oluşturulurken eklemleyicilerin birbirine yaklaşması ya da değmesi sonucu ses yolunun daraldığı ya da tıkandığı yer.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "722",
-    "notlar": "çıkak",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "eksikli",
-    "anlam": "Ad ya da eylem çekimine girmekle birlikte ilişkin olduğu veznin tüm biçimlerini içermeyen sözcükler.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "722",
-    "notlar": "nâkıs [menkûs]",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "eylem",
-    "anlam": "Fiil.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "722",
-    "notlar": "fi'l",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "eylemlik",
-    "anlam": "Başlıca işlevi, eylemin belirttiği oluşu göstermek olan ad özellikli eylemsi.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "722",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "fasih",
-    "anlam": "Bozulmamış, öz dile ait sözcük.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "sıfat",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "722",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "fetha",
-    "anlam": "a ya da e okutan üstün imi.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "722",
-    "notlar": "[düz ve geniş ünlü]",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "genizsil",
-    "anlam": "Geniz yoluyla çıkarılan ses.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "722",
-    "notlar": "gunne, nazal",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "geçişli",
-    "anlam": "Nesneyle kullanılan eylem.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "722",
-    "notlar": "müteaddî",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "geçişsiz",
-    "anlam": "Nesnesiz kullanılan eylem.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "722",
-    "notlar": "lâzım",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "göçüşme",
-    "anlam": "Bir sözcük içinde birbirini izleyen iki sesbiriminin yer değiştirmesi.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "722",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "hafifletme",
-    "anlam": "Kolaylık sağlama amacıyla sözcükten bazı yazaçların düşürülmesi.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "722",
-    "notlar": "sadeleştirme; tahfif",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "hafz",
-    "anlam": "Kesre imi.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "722",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "hareke",
-    "anlam": "Sesçil im.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "722",
-    "notlar": "bkz. sesçil im",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "hecâ'",
-    "anlam": "Seslem.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "722",
-    "notlar": "bkz. seslem",
-    "kontrol_gerekli": false
-  },
-  {
     "kelime": "hemze",
     "anlam": "Arapçada elif, vav, ye, he üzerine konan işaret, gırtlak vuruşu; elifin adı.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "722",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "i'rab",
-    "anlam": "Sözcüğün sonundaki yazacın ya da imin değişmesi.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "722",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "ilgeç",
-    "anlam": "Ününde yer aldığı ya da ardından geldiği birimle başka bir birim ya da tümcenin geri kalan bölümü arasında ilgi kurmaya yarayan birim.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "722",
-    "notlar": "edât",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "illet",
-    "anlam": "elif, vav, ye yazaçlarından biri.",
     "ornek_metin": "",
     "cekimler": [],
     "kelime_turu": "isim",
@@ -103994,28 +99556,6 @@
     "kontrol_gerekli": false
   },
   {
-    "kelime": "ince ünlü",
-    "anlam": "Ağız boşluğunun ön bölümünde oluşan ünlüler.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "722",
-    "notlar": "(e, i, d, ü); rakîk. bkz. rikkat.",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "işba'",
-    "anlam": "Vezin gerektirdiği için sözcüğe bir yazaç ekleyerek ya da yazacı eğerek uzatmak.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "722-723",
-    "notlar": "kalın ünlüye eğme",
-    "kontrol_gerekli": false
-  },
-  {
     "kelime": "işmâm",
     "anlam": "Bir yazacın asıl sesçil imini vurgulama.",
     "ornek_metin": "",
@@ -104024,83 +99564,6 @@
     "dil_veya_lehce": "",
     "kaynak_sayfa": "723",
     "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "kalın ünlü",
-    "anlam": "Ağız boşluğunun art bölümünde oluşan ünlüler.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "723",
-    "notlar": "(a, ı, o, u); işba'.",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "kaplam",
-    "anlam": "Bir kavramın kapsamına giren, o kavramın tanımladığı öğelerin tümü.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "723",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "katmerlenme",
-    "anlam": "Bir sözcükte ortadaki yazaç ile son yazacın aynı yazacın tekrarlanmasından ibaret olması.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "723",
-    "notlar": "teşdîd de söz konusudur",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "kesre",
-    "anlam": "ı ya da i okutan esre imi.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "723",
-    "notlar": "[düz and dar ünlü]",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "kişisiz",
-    "anlam": "Kişi belirtisi olmayan eylem kipleri ile üçüncü tekil kişi çekimlerinde öznesi belli olmayan eylem biçimleri için kullanılan bir ifade.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "sıfat",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "723",
-    "notlar": "meçhul",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "koşaç",
-    "anlam": "Yüklemi özneye bağlayan öğe.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "723",
-    "notlar": "Türkçede ekeylemin üçüncü kişi eki, -dir, bildirme koşacı olarak kullanılır; sıla.",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "kök-yazaç",
-    "anlam": "Bir sözcüğün kökünde bulunan esas yazaç.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "723",
-    "notlar": "harf-i aslî",
     "kontrol_gerekli": false
   },
   {
@@ -104137,28 +99600,6 @@
     "kontrol_gerekli": false
   },
   {
-    "kelime": "medde",
-    "anlam": "medd imi.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "723",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "menkûs",
-    "anlam": "Eksikli.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "723",
-    "notlar": "bkz. eksikli",
-    "kontrol_gerekli": false
-  },
-  {
     "kelime": "misâl",
     "anlam": "İlk yazacı illet yazaçlarından biri olan sözcük.",
     "ornek_metin": "",
@@ -104167,50 +99608,6 @@
     "dil_veya_lehce": "",
     "kaynak_sayfa": "723",
     "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "muzâaf",
-    "anlam": "Katmerlenme.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "723",
-    "notlar": "bkz. katmerlenme",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "nasb",
-    "anlam": "Yazacın fetha’lıymış gibi a ya da e’yle okunması.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "723",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "nâkıs",
-    "anlam": "Eksikli.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "723",
-    "notlar": "bkz. eksikli",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "ortaç",
-    "anlam": "Eylemden türemiş, çoğunlukla sıfat, bazen de ad olarak kullanılan eylemsi.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "723",
-    "notlar": "fer'î fi'l",
     "kontrol_gerekli": false
   },
   {
@@ -104255,61 +99652,6 @@
     "dil_veya_lehce": "",
     "kaynak_sayfa": "723",
     "notlar": "bkz. Zevâtü'l-erba'a Kitabı; [sonu illetli]",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "sâkin",
-    "anlam": "Harekesiz yazaçlar.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "723",
-    "notlar": "bkz. ünsüz",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "ötre",
-    "anlam": "Zamme.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "723",
-    "notlar": "bkz. zamme",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "salâbet",
-    "anlam": "Sertlik.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "724",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "seslem",
-    "anlam": "Bir tek sesleme eylemiyle çıkarılan ses ya da sesler öbeği.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "724",
-    "notlar": "hecâ'",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "sesçil im",
-    "anlam": "Arapçada bir yazacın nasıl okunacağını gösteren imlerden herbiri.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "724",
-    "notlar": "fetha [üstün], kesre [esre], zamme [ötre]; hareke",
     "kontrol_gerekli": false
   },
   {
@@ -104368,17 +99710,6 @@
     "kontrol_gerekli": false
   },
   {
-    "kelime": "sıla",
-    "anlam": "Koşaç.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "724",
-    "notlar": "bkz. koşaç",
-    "kontrol_gerekli": false
-  },
-  {
     "kelime": "tahfif",
     "anlam": "Hafifletme.",
     "ornek_metin": "",
@@ -104387,28 +99718,6 @@
     "dil_veya_lehce": "",
     "kaynak_sayfa": "724",
     "notlar": "bkz. hafifletme",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "tenvîn",
-    "anlam": "Sözcüğün sonunu nun gibi okutmak üzere konan iki üstün (-en), iki esre (-in), iki ötre (-ün).",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "724",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "teşdîd",
-    "anlam": "Bir yazacı çift okutan ve şedde denilen im.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "724",
-    "notlar": "",
     "kontrol_gerekli": false
   },
   {
@@ -104434,83 +99743,6 @@
     "kontrol_gerekli": false
   },
   {
-    "kelime": "topluluk adı",
-    "anlam": "Birçok öğeden oluşmakla birlikte bütünlük gösteren, birlik sunan bir topluluğa verilen tekil ad.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "724",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "ulam",
-    "anlam": "Dilbilgisel ya da anlamsal sınıflandırma birimi.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "724",
-    "notlar": "çeşitli ortak dilbilgisel ve anlamsal ölçütlere göre dil öğelerinin yerleştirildiği ya da oluşturduğu sınıf.",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "ünlü-alan",
-    "anlam": "Sesçil imlerden birini alan yazaç.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "724",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "ünlü-almayan",
-    "anlam": "Sesçil im almamış yazaç.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "724",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "ünlülenme",
-    "anlam": "Vezinde söz konusu olan ünsüzler ve ünlüler dışında olan, okunuşta veznin içine katılan ve anlamı değiştiren bir dizi ünlünün eklenmesi.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "724",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "ünsüz",
-    "anlam": "Harekeyle okunmayan yazaç.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "724",
-    "notlar": "harf; sakin",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "şedde",
-    "anlam": "Teşdîd.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "724",
-    "notlar": "bkz. teşdîd",
-    "kontrol_gerekli": false
-  },
-  {
     "kelime": "vav-ı âtıfa",
     "anlam": "Atıf vavı; bağlaç.",
     "ornek_metin": "",
@@ -104519,50 +99751,6 @@
     "dil_veya_lehce": "",
     "kaynak_sayfa": "724-725",
     "notlar": "Arapça veya Farsça iki sözcüğü birbirine bağlarken, ilk sözcük ünsüzle bitmişse bu yazacı ü gibi okutur [ilim ve irfan~ilm ü irfan], ünlüyle bitmişse iki sözcüğü bağlayan vav, vü biçiminde okunur [kaza ve kader~kaza vü kader].",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "yalın",
-    "anlam": "Türemiş ya da bileşik sözcüğe karşıt olarak, kök nitelikli bir anlambirim özelliği taşıyan sözcük.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "sıfat",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "725",
-    "notlar": "mücerred",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "yansıma",
-    "anlam": "Dış gerçeklik düzleminde var olan ses ya da gürültüleri, işitimsel izlenimi yansıtacak biçimde aktaran, adlandırılan gerçeği ses öykünmesi yoluyla belirten dilsel öğe.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "725",
-    "notlar": "",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "yazaç",
-    "anlam": "Bir alfabeyi oluşturan ve tek başına ya da kendisiyle aynı türden öğelerle birlikte bir sesi ya da ses öbeğini göstermek için kullanılan yazı öğelerinin, çizimsel belirtkelerin her biri.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "725",
-    "notlar": "harf, ünsüz",
-    "kontrol_gerekli": false
-  },
-  {
-    "kelime": "zamme",
-    "anlam": "o, ö, u, ü okutan ötre imi.",
-    "ornek_metin": "",
-    "cekimler": [],
-    "kelime_turu": "isim",
-    "dil_veya_lehce": "",
-    "kaynak_sayfa": "725",
-    "notlar": "[yuvarlak ünlü]",
     "kontrol_gerekli": false
   }
 ]

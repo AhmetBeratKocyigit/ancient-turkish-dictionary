@@ -11,14 +11,14 @@
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-  <div class="grain" aria-hidden="true"></div>
   <header class="site-header">
     <div class="header-inner">
       <a class="brand" href="#top" aria-label="Ana sayfa">
-        <span class="brand-mark">د</span>
+        <span class="brand-mark" aria-hidden="true">بِلْكَا</span>
         <span><strong>Divânu</strong><em>Lügati't-Türk</em></span>
       </a>
       <div class="header-actions">
+        <span class="header-note">DİJİTAL KATALOG / 01</span>
         <button class="icon-button" id="favoritesToggle" type="button" aria-label="Favorileri göster" title="Favoriler">
           <span aria-hidden="true">☆</span><b id="favoriteCount">0</b>
         </button>
@@ -31,8 +31,8 @@
     <section class="hero">
       <div class="hero-copy">
         <p class="eyebrow"><span></span> 11. yüzyılın söz varlığı, yeniden okunuyor</p>
-        <h1>Türkçenin ilk büyük<br><i>hazine sandığı.</i></h1>
-        <p class="hero-lede">Kaşgarlı Mahmud'un izinde, binlerce madde başını anlamı, örneği ve kaynak sayfasıyla keşfedin.</p>
+        <h1>Bir sözlüğün<br><i>izinde.</i></h1>
+        <p class="hero-lede">Kaşgarlı Mahmud'un izinde, binlerce madde başını anlamı, örneği ve lehçe bilgisiyle keşfedin.</p>
       </div>
       <div class="hero-note" aria-label="Koleksiyon özeti">
         <span class="note-label">KOLEKSİYON</span>
@@ -61,11 +61,6 @@
           <label for="dialectFilter">Dil / lehçe</label>
           <select id="dialectFilter"><option value="">Tümü</option></select>
         </div>
-        <div class="filter-field">
-          <label for="pageFilter">Kaynak sayfası</label>
-          <input id="pageFilter" type="number" min="1" placeholder="Örn. 129">
-        </div>
-        <label class="check-field"><input id="reviewFilter" type="checkbox"><span>Kontrol gerekenleri göster</span></label>
         <button class="clear-button" id="clearFilters" type="button">Filtreleri temizle</button>
       </div>
       <div class="search-meta"><span id="resultSummary">Veriler yükleniyor...</span><button id="sortButton" type="button" class="sort-button">A–Z <span>↕</span></button></div>
@@ -106,8 +101,23 @@
       <button class="modal-close" id="aboutClose" type="button" aria-label="Kapat">×</button>
       <p class="eyebrow"><span></span> Dijital arşiv</p>
       <h2 id="aboutTitle">Sözlüğün izinde</h2>
-      <p>Bu arayüz, Divânu Lügati't-Türk maddelerini kaynak sayfaları, örnekleri ve lehçe bilgileriyle birlikte keşfetmek için hazırlandı.</p>
-      <div class="about-stats"><span><strong id="aboutTotal">—</strong> kayıt</span><span><strong id="aboutPages">—</strong> sayfa</span></div>
+      <p class="about-lede">Divânu Lügati't-Türk'ün söz varlığını daha kolay okunur ve aranabilir bir biçimde keşfetmek için hazırlanmış açık bir dijital katalog.</p>
+      <div class="about-copy">
+        <div>
+          <span class="detail-label">Bu proje</span>
+          <p>Kaşgarlı Mahmud'un eserindeki kelimeleri; anlamları, örnek kullanımları, çekimleri ve lehçe bilgileriyle birlikte bir araya getirir. Amaç, tarihî söz varlığıyla bugünün okuru arasında sade bir keşif alanı kurmaktır.</p>
+        </div>
+        <div>
+          <span class="detail-label">Nasıl kullanılır?</span>
+          <p>Arama alanına bir kelime ya da anlam yazın. Alfabetik dizinden bir harf seçin, filtrelerle sonuçları daraltın veya herhangi bir karta tıklayarak maddenin ayrıntılarını açın.</p>
+        </div>
+      </div>
+      <div class="about-stats">
+        <span><strong id="aboutTotal">—</strong> kayıt</span>
+        <span><strong id="aboutTypes">—</strong> kelime türü</span>
+        <span><strong id="aboutDialects">—</strong> lehçe bilgisi</span>
+      </div>
+      <p class="about-note">Bu çalışma yaşayan bir katalogdur; veri ve açıklamalar geliştikçe arayüz de güncellenir.</p>
     </article>
   </div>
 
